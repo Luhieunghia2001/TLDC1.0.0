@@ -58,6 +58,31 @@ public class PetManager : MonoBehaviour
 {
     public static PetManager Instance { get; private set; }
 
+    // --- GLOBAL STATE & EVENTS (Observer Pattern) ---
+    public PetModel CurrentPet { get; private set; }
+    
+    // Sự kiện bắn ra khi người dùng chọn một con Pet MỚI
+    public event System.Action<PetModel> OnPetSelected; 
+    
+    // Sự kiện bắn ra khi Pet ĐANG CHỌN được cập nhật chỉ số (lên cấp, cộng exp...)
+    public event System.Action<PetModel> OnPetStatsUpdated;
+
+    public void SelectPet(PetModel pet)
+    {
+        CurrentPet = pet;
+        OnPetSelected?.Invoke(pet);
+    }
+
+    public void NotifyPetStatsUpdated(PetModel updatedPet)
+    {
+        if (CurrentPet != null && CurrentPet.id == updatedPet.id)
+        {
+            CurrentPet = updatedPet;
+            OnPetStatsUpdated?.Invoke(updatedPet);
+        }
+    }
+    // ------------------------------------------------
+
     [Header("Pet Database")]
     [SerializeField] private List<PetBaseSO> allPetBases; 
 
@@ -84,8 +109,20 @@ public class PetManager : MonoBehaviour
             var response = await SupabaseManager.Instance.Client
                 .From<PetModel>()
                 .Get();
-            
-            return response.Models;
+            var list = response.Models;
+
+            // Sắp xếp theo Level (giảm dần), sau đó theo Tier (giảm dần từ SSS -> D)
+            list.Sort((a, b) =>
+            {
+                if (a.level != b.level)
+                    return b.level.CompareTo(a.level); // Level cao hơn đứng trước
+                
+                int tierA = GetTierValue(a.tier);
+                int tierB = GetTierValue(b.tier);
+                return tierB.CompareTo(tierA); // Tier cao hơn đứng trước
+            });
+
+            return list;
         }
         catch (System.Exception e)
         {
@@ -117,5 +154,22 @@ public class PetManager : MonoBehaviour
 
         await SupabaseManager.Instance.Client.From<PetModel>().Insert(newPet);
         Debug.Log($"<color=green>Đã lưu Pet vào DB:</color> {baseData.speciesName} (ID: {baseData.petBaseID})");
+    }
+
+    // Hàm phụ trợ để so sánh Tier
+    private int GetTierValue(string tier)
+    {
+        if (string.IsNullOrEmpty(tier)) return 0;
+        switch (tier.ToUpper())
+        {
+            case "SSS": return 6;
+            case "SS": return 5;
+            case "S": return 4;
+            case "A": return 3;
+            case "B": return 2;
+            case "C": return 1;
+            case "D": return 0;
+            default: return 0;
+        }
     }
 }

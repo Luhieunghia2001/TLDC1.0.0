@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PetBaseSO
   petBaseID: 2
   speciesName: name pet 2
-  element: 0
-  attackType: 0
-  defaultTier: 0
+  element: 2
+  attackType: 1
+  defaultTier: 4
   baseHP: 12
   baseAtkPhy: 12
   baseAtkMag: 12
   baseDefPhy: 12
   baseDefMag: 12
   baseSpeed: 12
-  icon: {fileID: -6340952189099933019, guid: 8943f3ab3d972754a88460c86414ecac, type: 3}
-  petPrefab: {fileID: 3098258138955482143, guid: 20fba004be3c0604eb54052bf2a74029, type: 3}
+  icon: {fileID: -6876029713378704129, guid: a3c771b1879f5c7449d794b55ccbbbde, type: 3}
+  petPrefab: {fileID: 3098258138955482143, guid: 8d343307278bd5a4eb51c02fb34ac4ff, type: 3}

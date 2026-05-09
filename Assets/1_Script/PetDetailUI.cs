@@ -38,10 +38,7 @@ public class PetDetailUI : MonoBehaviour
 
     [Header("Buttons")]
     [SerializeField] private Button closeBtn;
-    [SerializeField] private Button openStatsBtn; // Nút chuyển tab hoặc mở từ Home
     [SerializeField] private Button openCanvasBtn; // Nút mở toàn bộ Canvas từ Home
-
-    private PetModel currentPet;
 
     private void Awake()
     {
@@ -49,17 +46,76 @@ public class PetDetailUI : MonoBehaviour
         canvas.SetActive(false);
         closeBtn.onClick.AddListener(ClosePanel);
 
-        if (openStatsBtn != null)
-            openStatsBtn.onClick.AddListener(OpenWithFirstPet);
-
         if (openCanvasBtn != null)
             openCanvasBtn.onClick.AddListener(OpenWithFirstPet);
+
+        if (statpanel != null)
+        {
+            var tracker = statpanel.AddComponent<EnableTracker>();
+            tracker.onEnableEvent += OnStatPanelOpened;
+        }
     }
 
-    private void OnEnable()
+    private void Start()
     {
-        // Khi quay lại bảng Stats, tự làm mới chỉ số
-        if (currentPet != null) Open(currentPet);
+        // Đăng ký lắng nghe sự kiện từ Global State
+        PetManager.Instance.OnPetSelected += HandlePetSelected;
+        PetManager.Instance.OnPetStatsUpdated += RefreshStatsUI;
+    }
+
+    private void OnDestroy()
+    {
+        if (PetManager.Instance != null)
+        {
+            PetManager.Instance.OnPetSelected -= HandlePetSelected;
+            PetManager.Instance.OnPetStatsUpdated -= RefreshStatsUI;
+        }
+    }
+
+    private class EnableTracker : MonoBehaviour
+    {
+        public System.Action onEnableEvent;
+        private void OnEnable() { if (onEnableEvent != null) onEnableEvent.Invoke(); }
+    }
+
+    private int statRefreshId = 0;
+
+    private async void OnStatPanelOpened()
+    {
+        var pet = PetManager.Instance.CurrentPet;
+        if (pet == null) return;
+        
+        int currentRefresh = ++statRefreshId;
+
+        RefreshStatsUI(pet); // Cập nhật ngay bằng Local State
+
+        // Cập nhật ngầm từ Server
+        var myPets = await PetManager.Instance.GetMyPets();
+        if (currentRefresh != statRefreshId) return;
+
+        var latestPet = myPets.Find(x => x.id == pet.id);
+        if (latestPet != null)
+        {
+            PetManager.Instance.NotifyPetStatsUpdated(latestPet); // Bắn Event cho toàn cục
+        }
+    }
+
+    private void RefreshStatsUI(PetModel pet)
+    {
+        petNameTxt.text = pet.petName;
+        levelTxt.text = "Level: " + pet.level;
+        
+        int maxExp = pet.level * 100;
+        expTxt.text = $"EXP: {pet.currentExp}/{maxExp}";
+
+        atkTypeTxt.text = (pet.petType.ToLower() == "physical") ? "Hệ: Vật Lý" : "Hệ: Ma Pháp";
+
+        hpTxt.text = "HP: " + pet.hp;
+        atkPhyTxt.text = "ATK Vật Lý: " + pet.atkPhy;
+        atkMagTxt.text = "ATK Ma Pháp: " + pet.atkMag;
+        defPhyTxt.text = "THỦ Vật Lý: " + pet.defPhy;
+        defMagTxt.text = "THỦ Ma Pháp: " + pet.defMag;
+        speedTxt.text = "Tốc Độ: " + pet.speed;
     }
 
     private void ClosePanel()
@@ -91,15 +147,13 @@ public class PetDetailUI : MonoBehaviour
 
     public void Open(PetModel pet)
     {
-        currentPet = pet;
         canvas.SetActive(true);
-        ClearSpawnedPet(); // Xóa con cũ
+        PetManager.Instance.SelectPet(pet); // Cập nhật Global State, tự động trigger HandlePetSelected
+    }
 
-        petNameTxt.text = pet.petName;
-        levelTxt.text = "Level: " + pet.level;
-        
-        int maxExp = pet.level * 100;
-        expTxt.text = $"EXP: {pet.currentExp}/{maxExp}";
+    private void HandlePetSelected(PetModel pet)
+    {
+        RefreshStatsUI(pet);
 
         // 1. Hiển thị Icon và Model
         var baseInfo = PetManager.Instance.GetPetBaseByID(pet.petBaseId);
@@ -108,22 +162,13 @@ public class PetDetailUI : MonoBehaviour
             SetElementIcon(pet.element);
             SetTierIcon(pet.tier);
             
+            ClearSpawnedPet();
             // Spawn con Pet mới
             if (baseInfo.petPrefab != null && spawnPoint != null)
             {
                 currentSpawnedPet = Instantiate(baseInfo.petPrefab, spawnPoint.position, spawnPoint.rotation, spawnPoint);
-                // Nếu là UI 3D, bạn có thể cần chỉnh Layer hoặc Scale ở đây
             }
         }
-
-        atkTypeTxt.text = (pet.petType.ToLower() == "physical") ? "Hệ: Vật Lý" : "Hệ: Ma Pháp";
-
-        hpTxt.text = "HP: " + pet.hp;
-        atkPhyTxt.text = "ATK Vật Lý: " + pet.atkPhy;
-        atkMagTxt.text = "ATK Ma Pháp: " + pet.atkMag;
-        defPhyTxt.text = "THỦ Vật Lý: " + pet.defPhy;
-        defMagTxt.text = "THỦ Ma Pháp: " + pet.defMag;
-        speedTxt.text = "Tốc Độ: " + pet.speed;
     }
 
     private void SetElementIcon(string element)

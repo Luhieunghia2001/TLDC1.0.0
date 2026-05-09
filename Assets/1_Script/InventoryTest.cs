@@ -8,6 +8,7 @@ public class InventoryTest : MonoBehaviour
     [SerializeField] private TMP_InputField idInput;      // Ô nhập ID vật phẩm
     [SerializeField] private TMP_InputField qtyInput;     // Ô nhập số lượng
     [SerializeField] private Button addBtn;               // Nút bấm nhận đồ
+    [SerializeField] private Button addPetBtn;            // Nút bấm nhận Pet
 
     private void Start()
     {
@@ -15,6 +16,10 @@ public class InventoryTest : MonoBehaviour
         if (addBtn != null)
         {
             addBtn.onClick.AddListener(OnAddBtnClick);
+        }
+        if (addPetBtn != null)
+        {
+            addPetBtn.onClick.AddListener(OnAddPetBtnClick);
         }
     }
 
@@ -48,6 +53,46 @@ public class InventoryTest : MonoBehaviour
         }
 
         addBtn.interactable = true; // Mở lại nút
+    }
+
+    private async void OnAddPetBtnClick()
+    {
+        string petID = idInput.text;
+
+        if (string.IsNullOrEmpty(petID))
+        {
+            Debug.LogError("Vui lòng nhập Pet ID!");
+            return;
+        }
+
+        addPetBtn.interactable = false; // Khóa nút khi đang xử lý
+        Debug.Log($"<color=cyan>[UI Test]</color> Đang thêm 1 Pet '{petID}'...");
+
+        if (PetManager.Instance != null)
+        {
+            var petBase = PetManager.Instance.GetPetBaseByID(petID);
+            if (petBase != null)
+            {
+                await PetManager.Instance.CreateNewPet(petBase);
+                Debug.Log("<color=green>[UI Test]</color> Thêm Pet thành công!");
+                
+                // Refresh list Pet
+                if (PetListController.Instance != null)
+                {
+                    PetListController.Instance.RefreshPetList();
+                }
+            }
+            else
+            {
+                Debug.LogError($"Không tìm thấy dữ liệu mẫu cho Pet ID: {petID}");
+            }
+        }
+        else
+        {
+            Debug.LogError("PetManager Instance not found!");
+        }
+
+        addPetBtn.interactable = true; // Mở lại nút
     }
 
     // Vẫn giữ lại ContextMenu để bạn có thể dùng cả 2 cách
