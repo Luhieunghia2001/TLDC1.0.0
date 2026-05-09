@@ -60,7 +60,8 @@ public class PetUpgradeUI : MonoBehaviour
     {
         if (panel != null && panel.activeInHierarchy)
         {
-            _ = RefreshUI();
+            // Chỉ cập nhật lại UI text nội bộ, KHÔNG gọi lại RefreshUI (tránh loop vô hạn tải từ Server)
+            UpdateTexts(pet);
         }
     }
 
