@@ -87,6 +87,12 @@ public class CharacterSelectorController : MonoBehaviour
             
             Debug.Log("<color=green>Tạo nhân vật thành công!</color>");
 
+            // Nạp dữ liệu vào ResourceManager ngay lập tức để MainGame có dữ liệu hiện UI
+            if (ResourceManager.Instance != null)
+            {
+                ResourceManager.Instance.Initialize(newCharacter);
+            }
+
             // Tặng Pet tân thủ dựa theo giới tính
             if (PetManager.Instance != null)
             {
