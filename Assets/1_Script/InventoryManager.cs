@@ -90,7 +90,7 @@ public class InventoryManager : MonoBehaviour
         }
         catch (System.Exception e)
         {
-            Debug.LogError("Lỗi khi dùng bình EXP: " + e.Message);
+            Debug.LogError("Lỗi khi dùng bình EXP (Chi tiết): \n" + e.ToString());
         }
         if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
     }
@@ -119,6 +119,88 @@ public class InventoryManager : MonoBehaviour
         catch (System.Exception e)
         {
             Debug.LogError("Lỗi khi bán đồ: " + e.Message);
+        }
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+    }
+
+    public async Task PetStarUp(string petID, ProgressionNode costNode)
+    {
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        try
+        {
+            List<string> itemIds = new List<string>();
+            List<int> itemQtys = new List<int>();
+
+            foreach (var req in costNode.requiredItems)
+            {
+                itemIds.Add(req.item.itemID);
+                itemQtys.Add(req.quantity);
+            }
+
+            var parameters = new Dictionary<string, object>
+            {
+                { "p_pet_id", petID },
+                { "p_item_ids", itemIds },
+                { "p_item_qtys", itemQtys }
+            };
+
+            await SupabaseManager.Instance.Client.Rpc("pet_star_up", parameters);
+            Debug.Log("Thăng Sao Thành Công!");
+            
+            // Cập nhật lại UI
+            if (PetListController.Instance != null) PetListController.Instance.RefreshPetList();
+            if (InventoryUIController.Instance != null) InventoryUIController.Instance.RefreshInventory();
+            if (PetUpgradeUI.Instance != null) await PetUpgradeUI.Instance.RefreshUI();
+            
+            // Force fetch myPets to update global state
+            var myPets = await PetManager.Instance.GetMyPets();
+            var latestPet = myPets.Find(x => x.id == petID);
+            if (latestPet != null) PetManager.Instance.NotifyPetStatsUpdated(latestPet);
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Lỗi khi Thăng Sao: \n" + e.ToString());
+        }
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+    }
+
+    public async Task PetRealmUp(string petID, ProgressionNode costNode)
+    {
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        try
+        {
+            List<string> itemIds = new List<string>();
+            List<int> itemQtys = new List<int>();
+
+            foreach (var req in costNode.requiredItems)
+            {
+                itemIds.Add(req.item.itemID);
+                itemQtys.Add(req.quantity);
+            }
+
+            var parameters = new Dictionary<string, object>
+            {
+                { "p_pet_id", petID },
+                { "p_item_ids", itemIds },
+                { "p_item_qtys", itemQtys }
+            };
+
+            await SupabaseManager.Instance.Client.Rpc("pet_realm_up", parameters);
+            Debug.Log("Thăng Tầng Thành Công!");
+            
+            // Cập nhật lại UI
+            if (PetListController.Instance != null) PetListController.Instance.RefreshPetList();
+            if (InventoryUIController.Instance != null) InventoryUIController.Instance.RefreshInventory();
+            if (PetUpgradeUI.Instance != null) await PetUpgradeUI.Instance.RefreshUI();
+            
+            // Force fetch myPets to update global state
+            var myPets = await PetManager.Instance.GetMyPets();
+            var latestPet = myPets.Find(x => x.id == petID);
+            if (latestPet != null) PetManager.Instance.NotifyPetStatsUpdated(latestPet);
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Lỗi khi Thăng Tầng: \n" + e.ToString());
         }
         if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
     }

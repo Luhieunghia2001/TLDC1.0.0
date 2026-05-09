@@ -25,4 +25,8 @@ public class PetBaseSO : ScriptableObject
     [Header("Visuals")]
     public Sprite icon;
     public GameObject petPrefab;
+
+    [Header("Progression Rules")]
+    [Tooltip("Bảng quy tắc chi phí để Thăng sao/Thăng tầng cho Pet này")]
+    public PetProgressionTableSO progressionTable;
 }

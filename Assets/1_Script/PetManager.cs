@@ -29,29 +29,17 @@ public class PetModel : BaseModel
     [Column("pet_base_id")]
     public string petBaseId { get; set; }
 
-    [Column("hp")]
-    public int hp { get; set; }
-
-    [Column("atk_phy")]
-    public int atkPhy { get; set; }
-
-    [Column("atk_mag")]
-    public int atkMag { get; set; }
-
-    [Column("def_phy")]
-    public int defPhy { get; set; }
-
-    [Column("def_mag")]
-    public int defMag { get; set; }
-
-    [Column("speed")]
-    public int speed { get; set; }
-
     [Column("level")]
     public int level { get; set; }
 
     [Column("current_exp")]
     public int currentExp { get; set; }
+
+    [Column("star")]
+    public int star { get; set; } // Số sao hiện tại
+
+    [Column("realm")]
+    public int realm { get; set; } // Tầng hiện tại
 }
 
 public class PetManager : MonoBehaviour
@@ -142,14 +130,10 @@ public class PetManager : MonoBehaviour
             element = baseData.element.ToString().ToLower(),
             petType = baseData.attackType.ToString().ToLower(),
             tier = baseData.defaultTier.ToString(),
-            hp = baseData.baseHP,
-            atkPhy = baseData.baseAtkPhy,
-            atkMag = baseData.baseAtkMag,
-            defPhy = baseData.baseDefPhy,
-            defMag = baseData.baseDefMag,
-            speed = baseData.baseSpeed,
             level = 1,
-            currentExp = 0
+            currentExp = 0,
+            star = 1,
+            realm = 1
         };
 
         await SupabaseManager.Instance.Client.From<PetModel>().Insert(newPet);

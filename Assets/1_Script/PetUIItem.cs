@@ -8,10 +8,12 @@ public class PetUIItem : MonoBehaviour
     [SerializeField] private Image tierImg;  // Ảnh hiển thị Tier (D, C, B, A, S...)
     [SerializeField] private Image iconImg;  // Ảnh đại diện của Pet
     [SerializeField] private TextMeshProUGUI levelTxt;
+    [SerializeField] private Image realmImg; // Ảnh hiển thị Realm (Tầng 0-25)
     [SerializeField] private Button clickBtn; // Nút để bấm vào xem stats
 
     [Header("Tier Sprites")]
     [SerializeField] private Sprite[] tierSprites; // Kéo các ảnh Tier theo thứ tự D, C, B, A, S, SS, SSS
+    [SerializeField] private Sprite[] realmSprites; // Kéo 26 ảnh Realm vào đây (Tầng 0 -> 25)
 
     private PetModel petData;
 
@@ -32,7 +34,10 @@ public class PetUIItem : MonoBehaviour
         // 3. Hiển thị Ảnh Tier
         SetTierImage(pet.tier);
 
-        // 4. Sự kiện bấm
+        // 4. Hiển thị Ảnh Realm
+        SetRealmImage(pet.realm);
+
+        // 5. Sự kiện bấm
         clickBtn.onClick.RemoveAllListeners();
         clickBtn.onClick.AddListener(OnShowDetail);
     }
@@ -55,6 +60,19 @@ public class PetUIItem : MonoBehaviour
         if (index < tierSprites.Length)
         {
             tierImg.sprite = tierSprites[index];
+        }
+    }
+
+    private void SetRealmImage(int realm)
+    {
+        if (realmSprites == null || realmSprites.Length == 0) return;
+
+        // Ép kiểu/Clamp để tránh lỗi mảng nếu realm vượt quá số lượng sprite
+        int index = Mathf.Clamp(realm, 0, realmSprites.Length - 1);
+        
+        if (realmImg != null)
+        {
+            realmImg.sprite = realmSprites[index];
         }
     }
 
