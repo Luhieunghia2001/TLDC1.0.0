@@ -1,0 +1,2769 @@
+fileFormatVersion: 2
+guid: 822c2bb3f96ea1c468f1ed09c6189b06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4682257180805533461
+    second: mojiezuo_0
+  - first:
+      213: 3767928978404803584
+    second: mojiezuo_1
+  - first:
+      213: -13836396783538615
+    second: mojiezuo_2
+  - first:
+      213: -1569354491207736387
+    second: mojiezuo_3
+  - first:
+      213: 9084367715105672098
+    second: mojiezuo_4
+  - first:
+      213: -1137434095380321039
+    second: mojiezuo_5
+  - first:
+      213: 2744908989597447890
+    second: mojiezuo_6
+  - first:
+      213: 5547587841764203533
+    second: mojiezuo_7
+  - first:
+      213: 6850031826015347541
+    second: mojiezuo_8
+  - first:
+      213: -3248819913852122595
+    second: mojiezuo_9
+  - first:
+      213: -8186455187150250276
+    second: mojiezuo_10
+  - first:
+      213: 4347726820495339221
+    second: mojiezuo_11
+  - first:
+      213: -5877485602855715281
+    second: mojiezuo_12
+  - first:
+      213: 7289010261482223015
+    second: mojiezuo_13
+  - first:
+      213: -4207250374779295108
+    second: mojiezuo_14
+  - first:
+      213: 5041054385861671316
+    second: mojiezuo_15
+  - first:
+      213: -4045199205836049083
+    second: mojiezuo_16
+  - first:
+      213: -3474677800878747872
+    second: mojiezuo_17
+  - first:
+      213: -9096281915217984966
+    second: mojiezuo_18
+  - first:
+      213: -4871425367605149526
+    second: mojiezuo_19
+  - first:
+      213: 1847058919204821775
+    second: mojiezuo_20
+  - first:
+      213: 2889933118653164218
+    second: mojiezuo_21
+  - first:
+      213: -4176658002570164524
+    second: mojiezuo_22
+  - first:
+      213: 4074451455362616129
+    second: mojiezuo_23
+  - first:
+      213: 8714463741013558291
+    second: mojiezuo_24
+  - first:
+      213: 1104689329347046624
+    second: mojiezuo_25
+  - first:
+      213: -987532998249938185
+    second: mojiezuo_26
+  - first:
+      213: 6900249213470083686
+    second: mojiezuo_27
+  - first:
+      213: -6546917225907163668
+    second: mojiezuo_28
+  - first:
+      213: 2583669201120082152
+    second: mojiezuo_29
+  - first:
+      213: 8061118499339609584
+    second: mojiezuo_30
+  - first:
+      213: 3136393333755500837
+    second: mojiezuo_31
+  - first:
+      213: 2088263072802845872
+    second: mojiezuo_32
+  - first:
+      213: -5950094775284465174
+    second: mojiezuo_33
+  - first:
+      213: 8835764162477249134
+    second: mojiezuo_34
+  - first:
+      213: 7596551739839087256
+    second: mojiezuo_35
+  - first:
+      213: -6682605534542130768
+    second: mojiezuo_36
+  - first:
+      213: -790361462419013161
+    second: mojiezuo_37
+  - first:
+      213: 5422988401241097505
+    second: mojiezuo_38
+  - first:
+      213: 8621551954061063712
+    second: mojiezuo_39
+  - first:
+      213: -7196354040417035070
+    second: mojiezuo_40
+  - first:
+      213: 7142690107452193136
+    second: mojiezuo_41
+  - first:
+      213: -5819936630133728395
+    second: mojiezuo_42
+  - first:
+      213: -5125831063868063650
+    second: mojiezuo_43
+  - first:
+      213: 2968695831970785586
+    second: mojiezuo_44
+  - first:
+      213: 2797510392387355172
+    second: mojiezuo_45
+  - first:
+      213: -2865684014272559790
+    second: mojiezuo_46
+  - first:
+      213: 2559984332460823245
+    second: mojiezuo_47
+  - first:
+      213: 4511082752166071797
+    second: mojiezuo_48
+  - first:
+      213: 1967557377821891665
+    second: mojiezuo_49
+  - first:
+      213: -7227273897570272560
+    second: mojiezuo_50
+  - first:
+      213: 3654615517537675212
+    second: mojiezuo_51
+  - first:
+      213: 3217270731684681619
+    second: mojiezuo_52
+  - first:
+      213: -1744256232690204511
+    second: mojiezuo_53
+  - first:
+      213: -375280177881573850
+    second: mojiezuo_54
+  - first:
+      213: -8672344100940921426
+    second: mojiezuo_55
+  - first:
+      213: 3045904882860495383
+    second: mojiezuo_56
+  - first:
+      213: 9163963793768797956
+    second: mojiezuo_57
+  - first:
+      213: -7762424110533709916
+    second: mojiezuo_58
+  - first:
+      213: -7884109206629725609
+    second: mojiezuo_59
+  - first:
+      213: 3894198308475269403
+    second: mojiezuo_60
+  - first:
+      213: -4834294957483727567
+    second: mojiezuo_61
+  - first:
+      213: 9090201531228534629
+    second: mojiezuo_62
+  - first:
+      213: -564408860789330358
+    second: mojiezuo_63
+  - first:
+      213: 7763411747993146192
+    second: mojiezuo_64
+  - first:
+      213: 6501918663965935414
+    second: mojiezuo_65
+  - first:
+      213: -4308626937685788220
+    second: mojiezuo_66
+  - first:
+      213: -1945418682242758060
+    second: mojiezuo_67
+  - first:
+      213: 2394187659879241674
+    second: mojiezuo_68
+  - first:
+      213: -6519940235672579515
+    second: mojiezuo_69
+  - first:
+      213: 8360844286180171137
+    second: mojiezuo_70
+  - first:
+      213: -2792784327037724093
+    second: mojiezuo_71
+  - first:
+      213: -5988490757135191499
+    second: mojiezuo_72
+  - first:
+      213: -8096527061333057344
+    second: mojiezuo_73
+  - first:
+      213: 7132412527639862831
+    second: mojiezuo_74
+  - first:
+      213: 2178046689173492735
+    second: mojiezuo_75
+  - first:
+      213: -8559975043499701738
+    second: mojiezuo_76
+  - first:
+      213: -604407387715337164
+    second: mojiezuo_77
+  - first:
+      213: 586587790600981806
+    second: mojiezuo_78
+  - first:
+      213: 5414055877278430656
+    second: mojiezuo_79
+  - first:
+      213: 296289117896078378
+    second: mojiezuo_80
+  - first:
+      213: 4361587281376387080
+    second: mojiezuo_81
+  - first:
+      213: 3859517581025444964
+    second: mojiezuo_82
+  - first:
+      213: 1375081988099475049
+    second: mojiezuo_83
+  - first:
+      213: -903550610137108359
+    second: mojiezuo_84
+  - first:
+      213: 1769211378961090729
+    second: mojiezuo_85
+  - first:
+      213: 2174993381596940724
+    second: mojiezuo_86
+  - first:
+      213: -142429601390565733
+    second: mojiezuo_87
+  - first:
+      213: -8071276236632253268
+    second: mojiezuo_88
+  - first:
+      213: -5348625376409076910
+    second: mojiezuo_89
+  - first:
+      213: 4789591757965471933
+    second: mojiezuo_90
+  - first:
+      213: -5949573338265469030
+    second: mojiezuo_91
+  - first:
+      213: -4032268643119871244
+    second: mojiezuo_92
+  - first:
+      213: -5499662957777755703
+    second: mojiezuo_93
+  - first:
+      213: 2394718621515036671
+    second: mojiezuo_94
+  - first:
+      213: -3757096124432777266
+    second: mojiezuo_95
+  - first:
+      213: -7150597089628935711
+    second: mojiezuo_96
+  - first:
+      213: -6127599866435148160
+    second: mojiezuo_97
+  - first:
+      213: 9048762966636417858
+    second: mojiezuo_98
+  - first:
+      213: -3052737192944095377
+    second: mojiezuo_99
+  - first:
+      213: -1579105805683000921
+    second: mojiezuo_100
+  - first:
+      213: 4650888025523180252
+    second: mojiezuo_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mojiezuo_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1678
+        width: 233
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f8fe82918baf040800000000000000
+      internalID: 4682257180805533461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1926
+        width: 455
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00408b8417f5a4430800000000000000
+      internalID: 3767928978404803584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_2
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1709
+        width: 231
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eeeb4ded7decff0800000000000000
+      internalID: -13836396783538615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1813
+        width: 327
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db326e0b768883ae0800000000000000
+      internalID: -1569354491207736387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_4
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1942
+        width: 444
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab86eb4e48221e70800000000000000
+      internalID: 9084367715105672098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_5
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1760
+        width: 219
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc207577b50730f0800000000000000
+      internalID: -1137434095380321039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_6
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1802
+        width: 90
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d67bb1de20e71620800000000000000
+      internalID: 2744908989597447890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1700
+        width: 278
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c91acefbdfcfc40800000000000000
+      internalID: 5547587841764203533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1687
+        width: 144
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553e3c917a3301f50800000000000000
+      internalID: 6850031826015347541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_9
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1855
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a01a7508fd9e2d0800000000000000
+      internalID: -3248819913852122595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1789
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde5148816ed36e80800000000000000
+      internalID: -8186455187150250276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_11
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1751
+        width: 330
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de201c028a365c30800000000000000
+      internalID: 4347726820495339221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_12
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1777
+        width: 113
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2eff450cf9fe6ea0800000000000000
+      internalID: -5877485602855715281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_13
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1733
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a533d7c634c72560800000000000000
+      internalID: 7289010261482223015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_14
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1686
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aa62a3318dc95c0800000000000000
+      internalID: -4207250374779295108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_15
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1495
+        width: 192
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499b5ba514c65f540800000000000000
+      internalID: 5041054385861671316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_16
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1585
+        width: 126
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545337231c09cd7c0800000000000000
+      internalID: -4045199205836049083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_17
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1522
+        width: 262
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fcfa123f677cfc0800000000000000
+      internalID: -3474677800878747872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_18
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1633
+        width: 67
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a324f92dac383c180800000000000000
+      internalID: -9096281915217984966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_19
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1664
+        width: 93
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa081162078356cb0800000000000000
+      internalID: -4871425367605149526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_20
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1507
+        width: 210
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b9b660d4212a910800000000000000
+      internalID: 1847058919204821775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_21
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1701
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba65f12cda1b1820800000000000000
+      internalID: 2889933118653164218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_22
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1695
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d64380fca78906c0800000000000000
+      internalID: -4176658002570164524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1495
+        width: 254
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b4673e20c5b8830800000000000000
+      internalID: 4074451455362616129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_24
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1642
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314822be99effe870800000000000000
+      internalID: 8714463741013558291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1469
+        width: 211
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec25e69715a45f00800000000000000
+      internalID: 1104689329347046624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_26
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1684
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2065368f39b42f0800000000000000
+      internalID: -987532998249938185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_27
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1662
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a8d8eb91c92cf50800000000000000
+      internalID: 6900249213470083686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_28
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1673
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedeae7587da425a0800000000000000
+      internalID: -6546917225907163668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_29
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1638
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e831e513790bd320800000000000000
+      internalID: 2583669201120082152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1471
+        width: 229
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5a775c098dedf60800000000000000
+      internalID: 8061118499339609584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_31
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1529
+        width: 165
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5295666ae15b68b20800000000000000
+      internalID: 3136393333755500837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_32
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1606
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4bafb53300bfc10800000000000000
+      internalID: 2088263072802845872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_33
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1608
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1034ba3540d6da0800000000000000
+      internalID: -5950094775284465174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_34
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1644
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62559f11b0fe9a70800000000000000
+      internalID: 8835764162477249134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_35
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1637
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8920cf22f8f5c6960800000000000000
+      internalID: 7596551739839087256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_36
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1600
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b19e8b1cad9243a0800000000000000
+      internalID: -6682605534542130768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_37
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1526
+        width: 54
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d14b5cff621805f0800000000000000
+      internalID: -790361462419013161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_38
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1518
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1250a0df733524b40800000000000000
+      internalID: 5422988401241097505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_39
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1612
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0267262c2d7e5a770800000000000000
+      internalID: 8621551954061063712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1556
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccdefec02a612c90800000000000000
+      internalID: -7196354040417035070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_41
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1589
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07972632fceef1360800000000000000
+      internalID: 7142690107452193136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_42
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1600
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b5891687e6b3fa0800000000000000
+      internalID: -5819936630133728395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_43
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1512
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e504b732ec36dd8b0800000000000000
+      internalID: -5125831063868063650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_44
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1519
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392dce512de23920800000000000000
+      internalID: 2968695831970785586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_45
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1504
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42246b941e0c2d620800000000000000
+      internalID: 2797510392387355172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_46
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1485
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255c4c2729b0b38d0800000000000000
+      internalID: -2865684014272559790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_47
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1546
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc294eedf24e68320800000000000000
+      internalID: 2559984332460823245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_48
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1548
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd0043ccd59a9e30800000000000000
+      internalID: 4511082752166071797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_49
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1540
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cd544b20b2e4b10800000000000000
+      internalID: 1967557377821891665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_50
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1527
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dafed09ea093bb90800000000000000
+      internalID: -7227273897570272560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1322
+        width: 240
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7a671437dc7b230800000000000000
+      internalID: 3654615517537675212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_52
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1375
+        width: 142
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39793544faa06ac20800000000000000
+      internalID: 3217270731684681619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1435
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a04d35a2382bc7e0800000000000000
+      internalID: -1744256232690204511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_54
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1301
+        width: 211
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6269f12aaacbacaf0800000000000000
+      internalID: -375280177881573850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_55
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1429
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5467dfcf4a5a780800000000000000
+      internalID: -8672344100940921426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_56
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1467
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71217826a5a354a20800000000000000
+      internalID: 3045904882860495383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_57
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1405
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40751268480fc2f70800000000000000
+      internalID: 9163963793768797956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_58
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1354
+        width: 261
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afe5b70664564490800000000000000
+      internalID: -7762424110533709916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_59
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1426
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ac278c274069290800000000000000
+      internalID: -7884109206629725609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_60
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1442
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11789daab8fa0630800000000000000
+      internalID: 3894198308475269403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_61
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1427
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13568bf695229ecb0800000000000000
+      internalID: -4834294957483727567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_62
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1314
+        width: 197
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b6957122e62e70800000000000000
+      internalID: 9090201531228534629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_63
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1445
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ea198a121da28f0800000000000000
+      internalID: -564408860789330358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_64
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1422
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053d93c3add2dbb60800000000000000
+      internalID: 7763411747993146192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_65
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1473
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6370c2483947b3a50800000000000000
+      internalID: 6501918663965935414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_66
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1452
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c93f85d0aea434c0800000000000000
+      internalID: -4308626937685788220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1268
+        width: 178
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a0389040c7005e0800000000000000
+      internalID: -1945418682242758060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_68
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1415
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d9b0edfcd93120800000000000000
+      internalID: 2394187659879241674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_69
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1386
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54295f756e48485a0800000000000000
+      internalID: -6519940235672579515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_70
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1375
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d9f14a49fa70470800000000000000
+      internalID: 8360844286180171137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_71
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1286
+        width: 193
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a53ac83790e39d0800000000000000
+      internalID: -2792784327037724093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_72
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1400
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5323f30826b94eca0800000000000000
+      internalID: -5988490757135191499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_73
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1379
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0e7e2f88b53af80800000000000000
+      internalID: -8096527061333057344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_74
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1395
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e158d976b6bf260800000000000000
+      internalID: 7132412527639862831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_75
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1392
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3d66c8ce9f93e10800000000000000
+      internalID: 2178046689173492735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_76
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1389
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61acdf5fc0cd43980800000000000000
+      internalID: -8559975043499701738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_77
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1382
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4340b93eea6bc97f0800000000000000
+      internalID: -604407387715337164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_78
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1377
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d4a58dc7af32800800000000000000
+      internalID: 586587790600981806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_79
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1373
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5fb4fa227922b40800000000000000
+      internalID: 5414055877278430656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_80
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1373
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2472070261ac1400800000000000000
+      internalID: 296289117896078378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_81
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1295
+        width: 140
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8002d431688778c30800000000000000
+      internalID: 4361587281376387080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_82
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1189
+        width: 274
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46485659ac2cf8530800000000000000
+      internalID: 3859517581025444964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_83
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1229
+        width: 216
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96605bd58c5451310800000000000000
+      internalID: 1375081988099475049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_84
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1217
+        width: 191
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970b03ed181f573f0800000000000000
+      internalID: -903550610137108359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_85
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1131
+        width: 187
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a80e8f10608d8810800000000000000
+      internalID: 1769211378961090729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_86
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1283
+        width: 462
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b949eaf4f02f2e10800000000000000
+      internalID: 2174993381596940724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_87
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1147
+        width: 246
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b966d9b380df50ef0800000000000000
+      internalID: -142429601390565733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_88
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1176
+        width: 206
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac9b77b6011dff80800000000000000
+      internalID: -8071276236632253268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1199
+        width: 176
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b3f72fe8dd5c5b0800000000000000
+      internalID: -5348625376409076910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_90
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1158
+        width: 185
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0bba8d35c087240800000000000000
+      internalID: 4789591757965471933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_91
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1133
+        width: 300
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f3d8f229ede6da0800000000000000
+      internalID: -5949573338265469030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_92
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1212
+        width: 191
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fac4ef68018a08c0800000000000000
+      internalID: -4032268643119871244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1103
+        width: 341
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c16849ada54da3b0800000000000000
+      internalID: -5499662957777755703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_94
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1046
+        width: 281
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7ba6406efbb3120800000000000000
+      internalID: 2394718621515036671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_95
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1084
+        width: 242
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfff241bfc1cdbc0800000000000000
+      internalID: -3757096124432777266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_96
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1044
+        width: 287
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9a9bc15d9f3cc90800000000000000
+      internalID: -7150597089628935711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_97
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1013
+        width: 261
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086e66b036466faa0800000000000000
+      internalID: -6127599866435148160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_98
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1040
+        width: 285
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243d21bc9f9a39d70800000000000000
+      internalID: 9048762966636417858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 991
+        width: 261
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fa1f572bf72a5d0800000000000000
+      internalID: -3052737192944095377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_100
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 971
+        width: 292
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9f18dd2a3e51ae0800000000000000
+      internalID: -1579105805683000921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mojiezuo_101
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 979
+        width: 259
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd25d6b84064b8040800000000000000
+      internalID: 4650888025523180252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mojiezuo_0: 4682257180805533461
+      mojiezuo_1: 3767928978404803584
+      mojiezuo_10: -8186455187150250276
+      mojiezuo_100: -1579105805683000921
+      mojiezuo_101: 4650888025523180252
+      mojiezuo_11: 4347726820495339221
+      mojiezuo_12: -5877485602855715281
+      mojiezuo_13: 7289010261482223015
+      mojiezuo_14: -4207250374779295108
+      mojiezuo_15: 5041054385861671316
+      mojiezuo_16: -4045199205836049083
+      mojiezuo_17: -3474677800878747872
+      mojiezuo_18: -9096281915217984966
+      mojiezuo_19: -4871425367605149526
+      mojiezuo_2: -13836396783538615
+      mojiezuo_20: 1847058919204821775
+      mojiezuo_21: 2889933118653164218
+      mojiezuo_22: -4176658002570164524
+      mojiezuo_23: 4074451455362616129
+      mojiezuo_24: 8714463741013558291
+      mojiezuo_25: 1104689329347046624
+      mojiezuo_26: -987532998249938185
+      mojiezuo_27: 6900249213470083686
+      mojiezuo_28: -6546917225907163668
+      mojiezuo_29: 2583669201120082152
+      mojiezuo_3: -1569354491207736387
+      mojiezuo_30: 8061118499339609584
+      mojiezuo_31: 3136393333755500837
+      mojiezuo_32: 2088263072802845872
+      mojiezuo_33: -5950094775284465174
+      mojiezuo_34: 8835764162477249134
+      mojiezuo_35: 7596551739839087256
+      mojiezuo_36: -6682605534542130768
+      mojiezuo_37: -790361462419013161
+      mojiezuo_38: 5422988401241097505
+      mojiezuo_39: 8621551954061063712
+      mojiezuo_4: 9084367715105672098
+      mojiezuo_40: -7196354040417035070
+      mojiezuo_41: 7142690107452193136
+      mojiezuo_42: -5819936630133728395
+      mojiezuo_43: -5125831063868063650
+      mojiezuo_44: 2968695831970785586
+      mojiezuo_45: 2797510392387355172
+      mojiezuo_46: -2865684014272559790
+      mojiezuo_47: 2559984332460823245
+      mojiezuo_48: 4511082752166071797
+      mojiezuo_49: 1967557377821891665
+      mojiezuo_5: -1137434095380321039
+      mojiezuo_50: -7227273897570272560
+      mojiezuo_51: 3654615517537675212
+      mojiezuo_52: 3217270731684681619
+      mojiezuo_53: -1744256232690204511
+      mojiezuo_54: -375280177881573850
+      mojiezuo_55: -8672344100940921426
+      mojiezuo_56: 3045904882860495383
+      mojiezuo_57: 9163963793768797956
+      mojiezuo_58: -7762424110533709916
+      mojiezuo_59: -7884109206629725609
+      mojiezuo_6: 2744908989597447890
+      mojiezuo_60: 3894198308475269403
+      mojiezuo_61: -4834294957483727567
+      mojiezuo_62: 9090201531228534629
+      mojiezuo_63: -564408860789330358
+      mojiezuo_64: 7763411747993146192
+      mojiezuo_65: 6501918663965935414
+      mojiezuo_66: -4308626937685788220
+      mojiezuo_67: -1945418682242758060
+      mojiezuo_68: 2394187659879241674
+      mojiezuo_69: -6519940235672579515
+      mojiezuo_7: 5547587841764203533
+      mojiezuo_70: 8360844286180171137
+      mojiezuo_71: -2792784327037724093
+      mojiezuo_72: -5988490757135191499
+      mojiezuo_73: -8096527061333057344
+      mojiezuo_74: 7132412527639862831
+      mojiezuo_75: 2178046689173492735
+      mojiezuo_76: -8559975043499701738
+      mojiezuo_77: -604407387715337164
+      mojiezuo_78: 586587790600981806
+      mojiezuo_79: 5414055877278430656
+      mojiezuo_8: 6850031826015347541
+      mojiezuo_80: 296289117896078378
+      mojiezuo_81: 4361587281376387080
+      mojiezuo_82: 3859517581025444964
+      mojiezuo_83: 1375081988099475049
+      mojiezuo_84: -903550610137108359
+      mojiezuo_85: 1769211378961090729
+      mojiezuo_86: 2174993381596940724
+      mojiezuo_87: -142429601390565733
+      mojiezuo_88: -8071276236632253268
+      mojiezuo_89: -5348625376409076910
+      mojiezuo_9: -3248819913852122595
+      mojiezuo_90: 4789591757965471933
+      mojiezuo_91: -5949573338265469030
+      mojiezuo_92: -4032268643119871244
+      mojiezuo_93: -5499662957777755703
+      mojiezuo_94: 2394718621515036671
+      mojiezuo_95: -3757096124432777266
+      mojiezuo_96: -7150597089628935711
+      mojiezuo_97: -6127599866435148160
+      mojiezuo_98: 9048762966636417858
+      mojiezuo_99: -3052737192944095377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

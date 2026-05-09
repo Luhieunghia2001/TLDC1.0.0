@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: cb0b6234d8842e14981cb32cc7b63fce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9000837867941316755
+    second: shawa_0
+  - first:
+      213: 7218315938619600277
+    second: shawa_1
+  - first:
+      213: 9053857066013498014
+    second: shawa_2
+  - first:
+      213: 6888428751816633634
+    second: shawa_3
+  - first:
+      213: 6542734621904860037
+    second: shawa_4
+  - first:
+      213: 4323496741938593757
+    second: shawa_5
+  - first:
+      213: 8053213943902157318
+    second: shawa_6
+  - first:
+      213: -4390970856580780715
+    second: shawa_7
+  - first:
+      213: -8013771139740405477
+    second: shawa_8
+  - first:
+      213: 8236650935395050693
+    second: shawa_9
+  - first:
+      213: -942700293234111014
+    second: shawa_10
+  - first:
+      213: 8620266855684359991
+    second: shawa_11
+  - first:
+      213: -9003191545569590417
+    second: shawa_12
+  - first:
+      213: 9026918660634862174
+    second: shawa_13
+  - first:
+      213: 4918109386530226467
+    second: shawa_14
+  - first:
+      213: 1995306490993868303
+    second: shawa_15
+  - first:
+      213: 85057414632302555
+    second: shawa_16
+  - first:
+      213: 5632751732135503509
+    second: shawa_17
+  - first:
+      213: -1070155274270825913
+    second: shawa_18
+  - first:
+      213: 6923302364532673594
+    second: shawa_19
+  - first:
+      213: -4714380294172488723
+    second: shawa_20
+  - first:
+      213: 5007247508331390677
+    second: shawa_21
+  - first:
+      213: 4437639373891347186
+    second: shawa_22
+  - first:
+      213: 2263102815494636099
+    second: shawa_23
+  - first:
+      213: -5321415961856025955
+    second: shawa_24
+  - first:
+      213: 4056702094829000204
+    second: shawa_25
+  - first:
+      213: -2987092810509057324
+    second: shawa_26
+  - first:
+      213: 3462632512110886990
+    second: shawa_27
+  - first:
+      213: 7142758658570943799
+    second: shawa_28
+  - first:
+      213: 8747336598486417096
+    second: shawa_29
+  - first:
+      213: -4911742689389889361
+    second: shawa_30
+  - first:
+      213: 4457189464919725243
+    second: shawa_31
+  - first:
+      213: 3890810766932647093
+    second: shawa_32
+  - first:
+      213: 7678944747847962381
+    second: shawa_33
+  - first:
+      213: 1091622394659015557
+    second: shawa_34
+  - first:
+      213: 570133793870361794
+    second: shawa_35
+  - first:
+      213: -6919060492596537936
+    second: shawa_36
+  - first:
+      213: 2687701677428042833
+    second: shawa_37
+  - first:
+      213: 1661836265022432996
+    second: shawa_38
+  - first:
+      213: 8638327581751807765
+    second: shawa_39
+  - first:
+      213: -683649813929206220
+    second: shawa_40
+  - first:
+      213: -6031801054779315468
+    second: shawa_41
+  - first:
+      213: -9191367798295633507
+    second: shawa_42
+  - first:
+      213: 3797576552470643582
+    second: shawa_43
+  - first:
+      213: -1964207204641005834
+    second: shawa_44
+  - first:
+      213: -8635386887474223249
+    second: shawa_45
+  - first:
+      213: 5477010257576145707
+    second: shawa_46
+  - first:
+      213: 4173870294077906273
+    second: shawa_47
+  - first:
+      213: -1602551149196236256
+    second: shawa_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shawa_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 543
+        width: 389
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398c6873a5669ec70800000000000000
+      internalID: 9000837867941316755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_1
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 764
+        width: 150
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d26f51a1c9c2460800000000000000
+      internalID: 7218315938619600277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_2
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 987
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a15ea3803c5ad70800000000000000
+      internalID: 9053857066013498014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_3
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 942
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d2e9c047d989f50800000000000000
+      internalID: 6888428751816633634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 666
+        width: 318
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583f94649767cca50800000000000000
+      internalID: 6542734621904860037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_5
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 886
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddffec24165200c30800000000000000
+      internalID: 4323496741938593757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_6
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 897
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ab28a0a63c2cf60800000000000000
+      internalID: 8053213943902157318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_7
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 853
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55de86235432013c0800000000000000
+      internalID: -4390970856580780715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_8
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 853
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11fe707b9d59c090800000000000000
+      internalID: -8013771139740405477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_9
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 826
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c46c17d2667e4270800000000000000
+      internalID: 8236650935395050693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_10
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 818
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addcf14f31bdae2f0800000000000000
+      internalID: -942700293234111014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_11
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 799
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737c32a780751a770800000000000000
+      internalID: 8620266855684359991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 772
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6346818dfc3e0380800000000000000
+      internalID: -9003191545569590417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_13
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 780
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e526c77f1be064d70800000000000000
+      internalID: 9026918660634862174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_14
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 638
+        width: 134
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32106a60e62a04440800000000000000
+      internalID: 4918109386530226467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_15
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 750
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e78b59ea0c0bb10800000000000000
+      internalID: 1995306490993868303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_16
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 744
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7eba8944f2e2100800000000000000
+      internalID: 85057414632302555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_17
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 757
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59627e55bdd8b2e40800000000000000
+      internalID: 5632751732135503509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 753
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742a39ea27b0621f0800000000000000
+      internalID: -1070155274270825913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_19
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 722
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c879eb1d2841060800000000000000
+      internalID: 6923302364532673594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_20
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 721
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb4fbda918239eb0800000000000000
+      internalID: -4714380294172488723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_21
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 741
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d66d8c44115d7540800000000000000
+      internalID: 5007247508331390677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_22
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 705
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2a41abf79a59d30800000000000000
+      internalID: 4437639373891347186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_23
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 687
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3428ebf2508286f10800000000000000
+      internalID: 2263102815494636099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_24
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 699
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a5a7370688626b0800000000000000
+      internalID: -5321415961856025955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_25
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 680
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c069dd9df0d4c4830800000000000000
+      internalID: 4056702094829000204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_26
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 688
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d20c764ae6bb86d0800000000000000
+      internalID: -2987092810509057324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_27
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 671
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4086188cedbd0030800000000000000
+      internalID: 3462632512110886990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_28
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 553
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d7770f72d202360800000000000000
+      internalID: 7142758658570943799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 585
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce7e8b7a48c46970800000000000000
+      internalID: 8747336598486417096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_30
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 530
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa83bca2c0cf5dbb0800000000000000
+      internalID: -4911742689389889361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_31
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 609
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb45721043e1bdd30800000000000000
+      internalID: 4457189464919725243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_32
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 542
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc194337cfeef530800000000000000
+      internalID: 3890810766932647093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_33
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 572
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f44593097119a60800000000000000
+      internalID: 7678944747847962381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_34
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 574
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b0386c8c8362f00800000000000000
+      internalID: 1091622394659015557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_35
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 575
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4b6123aa589e700800000000000000
+      internalID: 570133793870361794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_36
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 575
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b51857042f8aff90800000000000000
+      internalID: -6919060492596537936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_37
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 556
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ce1518f62ac4520800000000000000
+      internalID: 2687701677428042833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_38
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 579
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6268b3747001710800000000000000
+      internalID: 1661836265022432996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_39
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 570
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f86c3fa2181e770800000000000000
+      internalID: 8638327581751807765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_40
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 586
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43edcf9cd103386f0800000000000000
+      internalID: -683649813929206220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 570
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa6d0606ecba4ca0800000000000000
+      internalID: -6031801054779315468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_42
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 570
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91ef967fa3b17080800000000000000
+      internalID: -9191367798295633507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_43
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 571
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e738d5901c3b3b430800000000000000
+      internalID: 3797576552470643582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_44
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 558
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe1c1644fbbdb4e0800000000000000
+      internalID: -1964207204641005834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_45
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 509
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67680ac061f82880800000000000000
+      internalID: -8635386887474223249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_46
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 560
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b233ff19fcf320c40800000000000000
+      internalID: 5477010257576145707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_47
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 560
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d91191be09ce930800000000000000
+      internalID: 4173870294077906273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shawa_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 198
+        width: 390
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aa3c1783892c9e0800000000000000
+      internalID: -1602551149196236256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shawa_0: 9000837867941316755
+      shawa_1: 7218315938619600277
+      shawa_10: -942700293234111014
+      shawa_11: 8620266855684359991
+      shawa_12: -9003191545569590417
+      shawa_13: 9026918660634862174
+      shawa_14: 4918109386530226467
+      shawa_15: 1995306490993868303
+      shawa_16: 85057414632302555
+      shawa_17: 5632751732135503509
+      shawa_18: -1070155274270825913
+      shawa_19: 6923302364532673594
+      shawa_2: 9053857066013498014
+      shawa_20: -4714380294172488723
+      shawa_21: 5007247508331390677
+      shawa_22: 4437639373891347186
+      shawa_23: 2263102815494636099
+      shawa_24: -5321415961856025955
+      shawa_25: 4056702094829000204
+      shawa_26: -2987092810509057324
+      shawa_27: 3462632512110886990
+      shawa_28: 7142758658570943799
+      shawa_29: 8747336598486417096
+      shawa_3: 6888428751816633634
+      shawa_30: -4911742689389889361
+      shawa_31: 4457189464919725243
+      shawa_32: 3890810766932647093
+      shawa_33: 7678944747847962381
+      shawa_34: 1091622394659015557
+      shawa_35: 570133793870361794
+      shawa_36: -6919060492596537936
+      shawa_37: 2687701677428042833
+      shawa_38: 1661836265022432996
+      shawa_39: 8638327581751807765
+      shawa_4: 6542734621904860037
+      shawa_40: -683649813929206220
+      shawa_41: -6031801054779315468
+      shawa_42: -9191367798295633507
+      shawa_43: 3797576552470643582
+      shawa_44: -1964207204641005834
+      shawa_45: -8635386887474223249
+      shawa_46: 5477010257576145707
+      shawa_47: 4173870294077906273
+      shawa_48: -1602551149196236256
+      shawa_5: 4323496741938593757
+      shawa_6: 8053213943902157318
+      shawa_7: -4390970856580780715
+      shawa_8: -8013771139740405477
+      shawa_9: 8236650935395050693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

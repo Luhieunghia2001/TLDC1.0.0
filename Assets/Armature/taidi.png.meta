@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 19495b6dc9b627d40a5a59236a3346df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2183038768847798031
+    second: taidi_0
+  - first:
+      213: 5071394868108279255
+    second: taidi_1
+  - first:
+      213: -6776002265960292694
+    second: taidi_2
+  - first:
+      213: 5923781006530033463
+    second: taidi_3
+  - first:
+      213: 6238481289588456040
+    second: taidi_4
+  - first:
+      213: 2365812819631821936
+    second: taidi_5
+  - first:
+      213: -6255955213760240750
+    second: taidi_6
+  - first:
+      213: -5421516311662832547
+    second: taidi_7
+  - first:
+      213: -6202872376586051235
+    second: taidi_8
+  - first:
+      213: -866832031798946845
+    second: taidi_9
+  - first:
+      213: -5311873387276628894
+    second: taidi_10
+  - first:
+      213: 8449475409868716402
+    second: taidi_11
+  - first:
+      213: 2736770554763405697
+    second: taidi_12
+  - first:
+      213: -5616349221823366645
+    second: taidi_13
+  - first:
+      213: -4045064998118335142
+    second: taidi_14
+  - first:
+      213: 3409724073938394487
+    second: taidi_15
+  - first:
+      213: -6427943659823501789
+    second: taidi_16
+  - first:
+      213: 899611931823747439
+    second: taidi_17
+  - first:
+      213: -4132802921885540958
+    second: taidi_18
+  - first:
+      213: -2729194078309549334
+    second: taidi_19
+  - first:
+      213: 3886790289235177463
+    second: taidi_20
+  - first:
+      213: 2310959422497144830
+    second: taidi_21
+  - first:
+      213: -1072089955238078547
+    second: taidi_22
+  - first:
+      213: 6126658748544107216
+    second: taidi_23
+  - first:
+      213: 4018429094799666989
+    second: taidi_24
+  - first:
+      213: 8689097399658379042
+    second: taidi_25
+  - first:
+      213: -8988793361454453632
+    second: taidi_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: taidi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 194
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f341ca136bb4e10800000000000000
+      internalID: 2183038768847798031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 324
+        width: 140
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd355d53c6316640800000000000000
+      internalID: 5071394868108279255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 380
+        width: 88
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed13407ddc6f1a0800000000000000
+      internalID: -6776002265960292694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 419
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737bd6d907f753250800000000000000
+      internalID: 5923781006530033463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 375
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a37d31ea9839650800000000000000
+      internalID: 6238481289588456040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 378
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074583f893e05d020800000000000000
+      internalID: 2365812819631821936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2936119e0e16e29a0800000000000000
+      internalID: -6255955213760240750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 286
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54d95393a7e2c4b0800000000000000
+      internalID: -5421516311662832547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 307
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51618e0078fae9a0800000000000000
+      internalID: -6202872376586051235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 333
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e391b81cd468f3f0800000000000000
+      internalID: -866832031798946845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 333
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c868b3c4f6846b0800000000000000
+      internalID: -5311873387276628894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 330
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2797f973e11924570800000000000000
+      internalID: 8449475409868716402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 311
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189eb6cc156faf520800000000000000
+      internalID: 2736770554763405697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_13
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a3da2b328be02b0800000000000000
+      internalID: -5616349221823366645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 304
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d5acdd0da0dd7c0800000000000000
+      internalID: -4045064998118335142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 305
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d1231daf5c15f20800000000000000
+      internalID: 3409724073938394487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 289
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eeeff4c4b5bc6a0800000000000000
+      internalID: -6427943659823501789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 291
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61be0029401c7c00800000000000000
+      internalID: 899611931823747439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 311
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2add05a93a555a6c0800000000000000
+      internalID: -4132802921885540958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 298
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea72471274ff1ad0800000000000000
+      internalID: -2729194078309549334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 249
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffec4acc27a0f530800000000000000
+      internalID: 3886790289235177463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 267
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effb84cc95d221020800000000000000
+      internalID: 2310959422497144830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 265
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da715caaddb2f11f0800000000000000
+      internalID: -1072089955238078547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 244
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c20fdba3460550800000000000000
+      internalID: 6126658748544107216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 249
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fe0ae98f354c730800000000000000
+      internalID: 4018429094799666989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 227
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22778655c00e59870800000000000000
+      internalID: 8689097399658379042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taidi_26
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 206
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c2e1bff04614380800000000000000
+      internalID: -8988793361454453632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      taidi_0: 2183038768847798031
+      taidi_1: 5071394868108279255
+      taidi_10: -5311873387276628894
+      taidi_11: 8449475409868716402
+      taidi_12: 2736770554763405697
+      taidi_13: -5616349221823366645
+      taidi_14: -4045064998118335142
+      taidi_15: 3409724073938394487
+      taidi_16: -6427943659823501789
+      taidi_17: 899611931823747439
+      taidi_18: -4132802921885540958
+      taidi_19: -2729194078309549334
+      taidi_2: -6776002265960292694
+      taidi_20: 3886790289235177463
+      taidi_21: 2310959422497144830
+      taidi_22: -1072089955238078547
+      taidi_23: 6126658748544107216
+      taidi_24: 4018429094799666989
+      taidi_25: 8689097399658379042
+      taidi_26: -8988793361454453632
+      taidi_3: 5923781006530033463
+      taidi_4: 6238481289588456040
+      taidi_5: 2365812819631821936
+      taidi_6: -6255955213760240750
+      taidi_7: -5421516311662832547
+      taidi_8: -6202872376586051235
+      taidi_9: -866832031798946845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

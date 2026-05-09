@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 1d4145e53bfecc24eb1432bc2fbceae3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5689470361156328356
+    second: suona_0
+  - first:
+      213: -2729990785025712594
+    second: suona_1
+  - first:
+      213: 998386406058550585
+    second: suona_2
+  - first:
+      213: -3999619064930116332
+    second: suona_3
+  - first:
+      213: 9171916327272013440
+    second: suona_4
+  - first:
+      213: -6731975143002313154
+    second: suona_5
+  - first:
+      213: -6603322248143591567
+    second: suona_6
+  - first:
+      213: -7233005488116850753
+    second: suona_7
+  - first:
+      213: 4094354777092940492
+    second: suona_8
+  - first:
+      213: 4261312680116034822
+    second: suona_9
+  - first:
+      213: -7306741995715137853
+    second: suona_10
+  - first:
+      213: 198174027475506098
+    second: suona_11
+  - first:
+      213: -2815926611449408964
+    second: suona_12
+  - first:
+      213: -9068205372422937360
+    second: suona_13
+  - first:
+      213: 4183996336421695760
+    second: suona_14
+  - first:
+      213: 1770161584242827582
+    second: suona_15
+  - first:
+      213: -1679648505179208359
+    second: suona_16
+  - first:
+      213: -2515396049173939711
+    second: suona_17
+  - first:
+      213: -6114524336836093610
+    second: suona_18
+  - first:
+      213: -1514399646026575893
+    second: suona_19
+  - first:
+      213: -343471438608261316
+    second: suona_20
+  - first:
+      213: -6429758272235425418
+    second: suona_21
+  - first:
+      213: 385816102067725709
+    second: suona_22
+  - first:
+      213: 4673731424889830428
+    second: suona_23
+  - first:
+      213: -5306308100641101533
+    second: suona_24
+  - first:
+      213: -7940071281859556615
+    second: suona_25
+  - first:
+      213: -6711279531049434449
+    second: suona_26
+  - first:
+      213: 5404561424789887110
+    second: suona_27
+  - first:
+      213: 7757079989222441145
+    second: suona_28
+  - first:
+      213: -6317553066496881711
+    second: suona_29
+  - first:
+      213: 7575482612770445142
+    second: suona_30
+  - first:
+      213: 2808969161369326544
+    second: suona_31
+  - first:
+      213: 5438433894103046457
+    second: suona_32
+  - first:
+      213: -8322212875953322020
+    second: suona_33
+  - first:
+      213: 6835322634907863540
+    second: suona_34
+  - first:
+      213: -6155301540822671983
+    second: suona_35
+  - first:
+      213: -8197404478343518121
+    second: suona_36
+  - first:
+      213: 1536339275158509958
+    second: suona_37
+  - first:
+      213: 3569846058431933912
+    second: suona_38
+  - first:
+      213: -6334957683786757023
+    second: suona_39
+  - first:
+      213: 5605931266704526606
+    second: suona_40
+  - first:
+      213: 4011603750188992773
+    second: suona_41
+  - first:
+      213: 3957049268004957030
+    second: suona_42
+  - first:
+      213: -8259297935003440338
+    second: suona_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: suona_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 317
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54e923c9d0fa01b0800000000000000
+      internalID: -5689470361156328356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 548
+        width: 318
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ed37a58df1d1ad0800000000000000
+      internalID: -2729990785025712594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 649
+        width: 227
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935e2b9852bfadd00800000000000000
+      internalID: 998386406058550585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_3
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 903
+        width: 161
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dd5fdb6af7e78c0800000000000000
+      internalID: -3999619064930116332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_4
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 768
+        width: 130
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e57a40e41394f70800000000000000
+      internalID: 9171916327272013440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_5
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 704
+        width: 29
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e669466483392a0800000000000000
+      internalID: -6731975143002313154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 642
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177a7f5b6694c54a0800000000000000
+      internalID: -6603322248143591567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 660
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf1856a4d33f9b90800000000000000
+      internalID: -7233005488116850753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_8
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 613
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc26c091af112d830800000000000000
+      internalID: 4094354777092940492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_9
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 404
+        width: 224
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d1f2f1e49332b30800000000000000
+      internalID: 4261312680116034822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_10
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 513
+        width: 95
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce68ff1edc399a90800000000000000
+      internalID: -7306741995715137853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_11
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 603
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3d26f5a3e00c200800000000000000
+      internalID: 198174027475506098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_12
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 571
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c321df29aa1dbe8d0800000000000000
+      internalID: -2815926611449408964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_13
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 566
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4217a5243472280800000000000000
+      internalID: -9068205372422937360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 178
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01173fd008a801a30800000000000000
+      internalID: 4183996336421695760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 407
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3126d70590e09810800000000000000
+      internalID: 1770161584242827582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 509
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955074d6590b0b8e0800000000000000
+      internalID: -1679648505179208359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 399
+        width: 167
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10af093de94871dd0800000000000000
+      internalID: -2515396049173939711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 425
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65957640388d42ba0800000000000000
+      internalID: -6114524336836093610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 479
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befcb9aab85cbfae0800000000000000
+      internalID: -1514399646026575893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_20
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 547
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f134fdb8ebb3bf0800000000000000
+      internalID: -343471438608261316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_21
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 524
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67137cfeae8e4c6a0800000000000000
+      internalID: -6429758272235425418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 472
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d856f5063b1ba5500800000000000000
+      internalID: 385816102067725709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_23
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 483
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c732ce7fd6cd040800000000000000
+      internalID: 4673731424889830428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_24
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 462
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329628085e43c56b0800000000000000
+      internalID: -5306308100641101533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_25
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa0b79cc333fc190800000000000000
+      internalID: -7940071281859556615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_26
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 496
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2c27b03debcd2a0800000000000000
+      internalID: -6711279531049434449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_27
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 473
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68851633bfbd00b40800000000000000
+      internalID: 5404561424789887110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 428
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b005e3c62fa6ab60800000000000000
+      internalID: 7757079989222441145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_29
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 397
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db06c535fa8358a0800000000000000
+      internalID: -6317553066496881711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_30
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 442
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6579458bc45812960800000000000000
+      internalID: 7575482612770445142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_31
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 440
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d31278d1967bf620800000000000000
+      internalID: 2808969161369326544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_32
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 402
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939d47800d2397b40800000000000000
+      internalID: 5438433894103046457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_33
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 451
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7ce977b7f818c80800000000000000
+      internalID: -8322212875953322020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 380
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9cedaa8b1fbde50800000000000000
+      internalID: 6835322634907863540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 368
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d99dd5cd9f39aa0800000000000000
+      internalID: -6155301540822671983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_36
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 387
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75863240f08fc3e80800000000000000
+      internalID: -8197404478343518121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_37
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 420
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689dd4e4e6c225510800000000000000
+      internalID: 1536339275158509958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_38
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 365
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dde9a78314aa8130800000000000000
+      internalID: 3569846058431933912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_39
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 371
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c42c6fc85b518a0800000000000000
+      internalID: -6334957683786757023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_40
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 364
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dcd2b19c44ccd40800000000000000
+      internalID: 5605931266704526606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_41
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 364
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509c3ad3b541ca730800000000000000
+      internalID: 4011603750188992773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_42
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 365
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ba72a08534ae630800000000000000
+      internalID: 3957049268004957030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suona_43
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 371
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ba00aa944116d80800000000000000
+      internalID: -8259297935003440338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      suona_0: -5689470361156328356
+      suona_1: -2729990785025712594
+      suona_10: -7306741995715137853
+      suona_11: 198174027475506098
+      suona_12: -2815926611449408964
+      suona_13: -9068205372422937360
+      suona_14: 4183996336421695760
+      suona_15: 1770161584242827582
+      suona_16: -1679648505179208359
+      suona_17: -2515396049173939711
+      suona_18: -6114524336836093610
+      suona_19: -1514399646026575893
+      suona_2: 998386406058550585
+      suona_20: -343471438608261316
+      suona_21: -6429758272235425418
+      suona_22: 385816102067725709
+      suona_23: 4673731424889830428
+      suona_24: -5306308100641101533
+      suona_25: -7940071281859556615
+      suona_26: -6711279531049434449
+      suona_27: 5404561424789887110
+      suona_28: 7757079989222441145
+      suona_29: -6317553066496881711
+      suona_3: -3999619064930116332
+      suona_30: 7575482612770445142
+      suona_31: 2808969161369326544
+      suona_32: 5438433894103046457
+      suona_33: -8322212875953322020
+      suona_34: 6835322634907863540
+      suona_35: -6155301540822671983
+      suona_36: -8197404478343518121
+      suona_37: 1536339275158509958
+      suona_38: 3569846058431933912
+      suona_39: -6334957683786757023
+      suona_4: 9171916327272013440
+      suona_40: 5605931266704526606
+      suona_41: 4011603750188992773
+      suona_42: 3957049268004957030
+      suona_43: -8259297935003440338
+      suona_5: -6731975143002313154
+      suona_6: -6603322248143591567
+      suona_7: -7233005488116850753
+      suona_8: 4094354777092940492
+      suona_9: 4261312680116034822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

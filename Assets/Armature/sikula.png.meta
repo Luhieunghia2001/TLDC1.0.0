@@ -1,0 +1,3133 @@
+fileFormatVersion: 2
+guid: c99e5dee0a919bc4fa7217bd8aaf6d06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 692760387056214506
+    second: sikula_0
+  - first:
+      213: -2690359158609312907
+    second: sikula_1
+  - first:
+      213: 2022893916740415109
+    second: sikula_2
+  - first:
+      213: 6707647004323980780
+    second: sikula_3
+  - first:
+      213: 4583636820417672177
+    second: sikula_4
+  - first:
+      213: -8192283893039986888
+    second: sikula_5
+  - first:
+      213: 3573588242458067637
+    second: sikula_6
+  - first:
+      213: 5716131343234995184
+    second: sikula_7
+  - first:
+      213: 7837426903411623116
+    second: sikula_8
+  - first:
+      213: -1739387416495029759
+    second: sikula_9
+  - first:
+      213: 5880454073106691064
+    second: sikula_10
+  - first:
+      213: -4323558390829532726
+    second: sikula_11
+  - first:
+      213: 334692172763337065
+    second: sikula_12
+  - first:
+      213: -4028080017282697245
+    second: sikula_13
+  - first:
+      213: 3471834988717072329
+    second: sikula_14
+  - first:
+      213: 4851617303243540940
+    second: sikula_15
+  - first:
+      213: 1058944636635204198
+    second: sikula_16
+  - first:
+      213: 8964989038546097671
+    second: sikula_17
+  - first:
+      213: -5349346399962227772
+    second: sikula_18
+  - first:
+      213: 416937690988945142
+    second: sikula_19
+  - first:
+      213: 1759187060374013309
+    second: sikula_20
+  - first:
+      213: -41420056424082572
+    second: sikula_21
+  - first:
+      213: 4743599569719540869
+    second: sikula_22
+  - first:
+      213: -8316007729762946382
+    second: sikula_23
+  - first:
+      213: -3782212393955419522
+    second: sikula_24
+  - first:
+      213: -1528249450210604744
+    second: sikula_25
+  - first:
+      213: 4275261296184040850
+    second: sikula_26
+  - first:
+      213: -111665499029143206
+    second: sikula_27
+  - first:
+      213: -629547172905986816
+    second: sikula_28
+  - first:
+      213: 5054743201943337552
+    second: sikula_29
+  - first:
+      213: -8280811769590423397
+    second: sikula_30
+  - first:
+      213: 7402785966615223309
+    second: sikula_31
+  - first:
+      213: 3691589699515030599
+    second: sikula_32
+  - first:
+      213: 8263849407144444769
+    second: sikula_33
+  - first:
+      213: -3206225232427209414
+    second: sikula_34
+  - first:
+      213: 4637756510543840620
+    second: sikula_35
+  - first:
+      213: -2762296700943891681
+    second: sikula_36
+  - first:
+      213: 6885689971740847405
+    second: sikula_37
+  - first:
+      213: -7435624622369578676
+    second: sikula_38
+  - first:
+      213: 1917058397568549708
+    second: sikula_39
+  - first:
+      213: 5648154250627186430
+    second: sikula_40
+  - first:
+      213: 8205702717191323353
+    second: sikula_41
+  - first:
+      213: 5079658032257089333
+    second: sikula_42
+  - first:
+      213: -1888252774952736728
+    second: sikula_43
+  - first:
+      213: -2583396159085981372
+    second: sikula_44
+  - first:
+      213: 8991891668909163455
+    second: sikula_45
+  - first:
+      213: -6035149762751930358
+    second: sikula_46
+  - first:
+      213: 8286283497924408556
+    second: sikula_47
+  - first:
+      213: 6723604854128992523
+    second: sikula_48
+  - first:
+      213: 7142298864080876769
+    second: sikula_49
+  - first:
+      213: 3998206464359483702
+    second: sikula_50
+  - first:
+      213: 1584825800170505706
+    second: sikula_51
+  - first:
+      213: 6678852512376855155
+    second: sikula_52
+  - first:
+      213: -705034294034707656
+    second: sikula_53
+  - first:
+      213: -8558059991341002110
+    second: sikula_54
+  - first:
+      213: -3468141823367981966
+    second: sikula_55
+  - first:
+      213: -3818173180123841246
+    second: sikula_56
+  - first:
+      213: 1369445953495328831
+    second: sikula_57
+  - first:
+      213: 2061247162282384601
+    second: sikula_58
+  - first:
+      213: -1264610282063926299
+    second: sikula_59
+  - first:
+      213: 5582629608931653235
+    second: sikula_60
+  - first:
+      213: -5171771117261795417
+    second: sikula_61
+  - first:
+      213: 8961544003819429364
+    second: sikula_62
+  - first:
+      213: 1271429776136164701
+    second: sikula_63
+  - first:
+      213: 6582518859986063710
+    second: sikula_64
+  - first:
+      213: 2362074547660310600
+    second: sikula_65
+  - first:
+      213: 8641705277913643554
+    second: sikula_66
+  - first:
+      213: 2200365626449356287
+    second: sikula_67
+  - first:
+      213: 2438600077924879950
+    second: sikula_68
+  - first:
+      213: -3006096990167196060
+    second: sikula_69
+  - first:
+      213: 8612394011431025194
+    second: sikula_70
+  - first:
+      213: 5966841598495867330
+    second: sikula_71
+  - first:
+      213: -2488564357214698632
+    second: sikula_72
+  - first:
+      213: -7732991018506911719
+    second: sikula_73
+  - first:
+      213: 4506204109498938164
+    second: sikula_74
+  - first:
+      213: 2554723367422435467
+    second: sikula_75
+  - first:
+      213: -3052633667116295775
+    second: sikula_76
+  - first:
+      213: 1481897712322533168
+    second: sikula_77
+  - first:
+      213: -8962310878083588654
+    second: sikula_78
+  - first:
+      213: 844008502086540815
+    second: sikula_79
+  - first:
+      213: -8917860279501981258
+    second: sikula_80
+  - first:
+      213: -3760744350905298016
+    second: sikula_81
+  - first:
+      213: -8473516001682099429
+    second: sikula_82
+  - first:
+      213: -2916437793916856044
+    second: sikula_83
+  - first:
+      213: 1560171419088127264
+    second: sikula_84
+  - first:
+      213: 6416422761633880998
+    second: sikula_85
+  - first:
+      213: 6532713110408060084
+    second: sikula_86
+  - first:
+      213: -8354771415656465931
+    second: sikula_87
+  - first:
+      213: 1452762456089960302
+    second: sikula_88
+  - first:
+      213: -3931269784987254109
+    second: sikula_89
+  - first:
+      213: -8045402604736561776
+    second: sikula_90
+  - first:
+      213: 7383393940454099936
+    second: sikula_91
+  - first:
+      213: 2066006860476828793
+    second: sikula_92
+  - first:
+      213: -1421992700157167795
+    second: sikula_93
+  - first:
+      213: -4281922075863424805
+    second: sikula_94
+  - first:
+      213: 6330931399790978348
+    second: sikula_95
+  - first:
+      213: 6250884283573381700
+    second: sikula_96
+  - first:
+      213: 108464077889023807
+    second: sikula_97
+  - first:
+      213: -3698766375252506352
+    second: sikula_98
+  - first:
+      213: -3458135391556418500
+    second: sikula_99
+  - first:
+      213: -3692028332314250495
+    second: sikula_100
+  - first:
+      213: 1576621839937430415
+    second: sikula_101
+  - first:
+      213: -4772650785892678830
+    second: sikula_102
+  - first:
+      213: 475316960668851711
+    second: sikula_103
+  - first:
+      213: -4095286595102073305
+    second: sikula_104
+  - first:
+      213: 9026798049394710447
+    second: sikula_105
+  - first:
+      213: -1242400568596765038
+    second: sikula_106
+  - first:
+      213: -1519418316967365634
+    second: sikula_107
+  - first:
+      213: -6359980242917141721
+    second: sikula_108
+  - first:
+      213: -1959063793419076171
+    second: sikula_109
+  - first:
+      213: 6155302032552622207
+    second: sikula_110
+  - first:
+      213: -3666516860910135613
+    second: sikula_111
+  - first:
+      213: 8489706654564726166
+    second: sikula_112
+  - first:
+      213: -2157731981679567825
+    second: sikula_113
+  - first:
+      213: -4785579248248428244
+    second: sikula_114
+  - first:
+      213: -4204206770143434701
+    second: sikula_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sikula_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 282
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1a2f0d6ed2d9900800000000000000
+      internalID: 692760387056214506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 824
+        width: 233
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5738fd0799ce9aad0800000000000000
+      internalID: -2690359158609312907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 799
+        width: 191
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e6c9dac43c21c10800000000000000
+      internalID: 2022893916740415109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_3
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 848
+        width: 202
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5a17b6969561d50800000000000000
+      internalID: 6707647004323980780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 865
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3756c27695c9f30800000000000000
+      internalID: 4583636820417672177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_5
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 907
+        width: 50
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837823034392f4e80800000000000000
+      internalID: -8192283893039986888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 799
+        width: 52
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2c935a29fe79130800000000000000
+      internalID: 3573588242458067637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 719
+        width: 164
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f39ffadb27c35f40800000000000000
+      internalID: 5716131343234995184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 706
+        width: 64
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc480f28e3224cc60800000000000000
+      internalID: 7837426903411623116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 682
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10287014c547cd7e0800000000000000
+      internalID: -1739387416495029759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_10
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 701
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3f581d2d19b9150800000000000000
+      internalID: 5880454073106691064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 730
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac932fcfc82aff3c0800000000000000
+      internalID: -4323558390829532726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_12
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 789
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96199a202c015a400800000000000000
+      internalID: 334692172763337065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_13
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 736
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7f303e0926918c0800000000000000
+      internalID: -4028080017282697245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_14
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 720
+        width: 90
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd045178f6e2030800000000000000
+      internalID: 3471834988717072329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_15
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 691
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc948f97b38645340800000000000000
+      internalID: 4851617303243540940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_16
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 771
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4277598022be00800000000000000
+      internalID: 1058944636635204198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 149
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7069fc1380a0a6c70800000000000000
+      internalID: 8964989038546097671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 646
+        width: 114
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb9cb19acd43c5b0800000000000000
+      internalID: -5349346399962227772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_19
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 689
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe1ed4fe9249c500800000000000000
+      internalID: 416937690988945142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_20
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 733
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d758e039f43e96810800000000000000
+      internalID: 1759187060374013309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_21
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 706
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473144a9da8dc6ff0800000000000000
+      internalID: -41420056424082572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 148
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c34dd0da6a4d140800000000000000
+      internalID: 4743599569719540869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 633
+        width: 148
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2b316a70b979c80800000000000000
+      internalID: -8316007729762946382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 674
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a1531edd1e28bc0800000000000000
+      internalID: -3782212393955419522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 642
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839c208d8319acae0800000000000000
+      internalID: -1528249450210604744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_26
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 637
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d96016f77c45b30800000000000000
+      internalID: 4275261296184040850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 566
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5183bcf1d8437ef0800000000000000
+      internalID: -111665499029143206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_28
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 620
+        width: 38
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00556958e266347f0800000000000000
+      internalID: -629547172905986816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 634
+        width: 135
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a37a6392e062640800000000000000
+      internalID: 5054743201943337552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_30
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 633
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9060b5b195a41d80800000000000000
+      internalID: -8280811769590423397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_31
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 577
+        width: 76
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cd8507d9afbb660800000000000000
+      internalID: 7402785966615223309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_32
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 574
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c9518d5492b3330800000000000000
+      internalID: 3691589699515030599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163ca2680471fa270800000000000000
+      internalID: 8263849407144444769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 566
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d284f63233183d0800000000000000
+      internalID: -3206225232427209414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 516
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6588b579fe9c5040800000000000000
+      internalID: 4637756510543840620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_36
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 520
+        width: 107
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13810829c95aa9d0800000000000000
+      internalID: -2762296700943891681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 542
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d251f1c82ee8f50800000000000000
+      internalID: 6885689971740847405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_38
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 576
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4163843dca5fc890800000000000000
+      internalID: -7435624622369578676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_39
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 535
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43c0c0a472ca9a10800000000000000
+      internalID: 1917058397568549708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_40
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 567
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efefe31ad56426e40800000000000000
+      internalID: 5648154250627186430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_41
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 534
+        width: 126
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de75a6452380e170800000000000000
+      internalID: 8205702717191323353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_42
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 574
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fb42131129e7640800000000000000
+      internalID: 5079658032257089333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_43
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 468
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828ebc60b149bc5e0800000000000000
+      internalID: -1888252774952736728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_44
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 534
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441529771eee52cd0800000000000000
+      internalID: -2583396159085981372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_45
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 467
+        width: 110
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb30020f4dd99cc70800000000000000
+      internalID: 8991891668909163455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_46
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 541
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0063e03447de3ca0800000000000000
+      internalID: -6035149762751930358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_47
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 545
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce437f150facef270800000000000000
+      internalID: 8286283497924408556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_48
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 554
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01637cddfa0f4d50800000000000000
+      internalID: 6723604854128992523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_49
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 543
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e47731b9fa8e1360800000000000000
+      internalID: 7142298864080876769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_50
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 467
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63941de889b7c7730800000000000000
+      internalID: 3998206464359483702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 502
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae589022bae6ef510800000000000000
+      internalID: 1584825800170505706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 529
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a927359fc00bc50800000000000000
+      internalID: 6678852512376855155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_53
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 515
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bc7958b073736f0800000000000000
+      internalID: -705034294034707656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_54
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 441
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28213a9c7c9ab3980800000000000000
+      internalID: -8558059991341002110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_55
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 514
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274d97bf26faedfc0800000000000000
+      internalID: -3468141823367981966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_56
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 444
+        width: 125
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d7bc3e8bf130bc0800000000000000
+      internalID: -3818173180123841246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_57
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 529
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f386f2dc6df310310800000000000000
+      internalID: 1369445953495328831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_58
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 515
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc9f168f550b9c10800000000000000
+      internalID: 2061247162282384601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 107
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebe54e06a3337ee0800000000000000
+      internalID: -1264610282063926299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 470
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376f2f02d0c797d40800000000000000
+      internalID: 5582629608931653235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_61
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 447
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af4cffe19d2a38b0800000000000000
+      internalID: -5171771117261795417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_62
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 467
+        width: 101
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd50ba8acccd5c70800000000000000
+      internalID: 8961544003819429364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_63
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 487
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55537325a605a110800000000000000
+      internalID: 1271429776136164701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_64
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 491
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5157c8070ec95b50800000000000000
+      internalID: 6582518859986063710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_65
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 468
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848c84a4946c7c020800000000000000
+      internalID: 2362074547660310600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_66
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 491
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a39af1a218de770800000000000000
+      internalID: 8641705277913643554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_67
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 446
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff56e7411e4498e10800000000000000
+      internalID: 2200365626449356287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_68
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 375
+        width: 122
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ec3f1c9d5a7d120800000000000000
+      internalID: 2438600077924879950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_69
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 465
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e96b4e6b23846d0800000000000000
+      internalID: -3006096990167196060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_70
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 377
+        width: 111
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a3c0519be558770800000000000000
+      internalID: 8612394011431025194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_71
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 445
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1ce55f1da7ec250800000000000000
+      internalID: 5966841598495867330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_72
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 467
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873058fe6e7d67dd0800000000000000
+      internalID: -2488564357214698632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_73
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 443
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9100c9ac3a5eea490800000000000000
+      internalID: -7732991018506911719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_74
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 398
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433f61043c0498e30800000000000000
+      internalID: 4506204109498938164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_75
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 392
+        width: 116
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80aa9efd53347320800000000000000
+      internalID: 2554723367422435467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_76
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 413
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a992227addd2a5d0800000000000000
+      internalID: -3052633667116295775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_77
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 446
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037d2703e12c09410800000000000000
+      internalID: 1481897712322533168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_78
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 442
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd5531adb97f9380800000000000000
+      internalID: -8962310878083588654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 102
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e174ac24586bb00800000000000000
+      internalID: 844008502086540815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_80
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 422
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9f7bb13556d3480800000000000000
+      internalID: -8917860279501981258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_81
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 412
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a39b3920f62fcbc0800000000000000
+      internalID: -3760744350905298016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_82
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 377
+        width: 150
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1376215716086a80800000000000000
+      internalID: -8473516001682099429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_83
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 421
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419df04474bb687d0800000000000000
+      internalID: -2916437793916856044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_84
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 351
+        width: 120
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0250777b3a7d6a510800000000000000
+      internalID: 1560171419088127264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_85
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 420
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab1beb8186bb0950800000000000000
+      internalID: 6416422761633880998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_86
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 402
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcd86d46fbd8aa50800000000000000
+      internalID: 6532713110408060084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 395
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f97536b9a3ed0c80800000000000000
+      internalID: -8354771415656465931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_88
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 403
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f144ab1cf392410800000000000000
+      internalID: 1452762456089960302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 97
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2cb9595f25179c0800000000000000
+      internalID: -3931269784987254109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dbca515fcf85090800000000000000
+      internalID: -8045402604736561776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 302
+        width: 117
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebc9818ba5177660800000000000000
+      internalID: 7383393940454099936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_92
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 321
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ccd3e1b4eebac10800000000000000
+      internalID: 2066006860476828793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_93
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 310
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47fee95c21144ce0800000000000000
+      internalID: -1421992700157167795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_94
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 319
+        width: 173
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0e1400f8e8394c0800000000000000
+      internalID: -4281922075863424805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_95
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 297
+        width: 97
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2568edb09cfbd750800000000000000
+      internalID: 6330931399790978348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 307
+        width: 119
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aa676232a9fb650800000000000000
+      internalID: 6250884283573381700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_97
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 305
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f27711187518100800000000000000
+      internalID: 108464077889023807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_98
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 271
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0194aef14975bacc0800000000000000
+      internalID: -3698766375252506352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_99
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 273
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34c211fe2c3200d0800000000000000
+      internalID: -3458135391556418500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_100
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 269
+        width: 90
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1033bbffac743ccc0800000000000000
+      internalID: -3692028332314250495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_101
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 267
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83e79ac53941e510800000000000000
+      internalID: 1576621839937430415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_102
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 263
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253c0e5956324cdb0800000000000000
+      internalID: -4772650785892678830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_103
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 291
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd9264e14aa89600800000000000000
+      internalID: 475316960668851711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_104
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 294
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e958d1a8e9a27c0800000000000000
+      internalID: -4095286595102073305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_105
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 268
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa75c59fff0a54d70800000000000000
+      internalID: 9026798049394710447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_106
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 276
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296eb00f34b12cee0800000000000000
+      internalID: -1242400568596765038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_107
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 267
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef330f74711f9eae0800000000000000
+      internalID: -1519418316967365634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_108
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 268
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723db6a6aafccb7a0800000000000000
+      internalID: -6359980242917141721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_109
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 253
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd3de40cd100d4e0800000000000000
+      internalID: -1959063793419076171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_110
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 267
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78f98f16960c6550800000000000000
+      internalID: 6155302032552622207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_111
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 257
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6987e475aed1dc0800000000000000
+      internalID: -3666516860910135613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_112
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 258
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695b990d83f71d570800000000000000
+      internalID: 8489706654564726166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_113
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 266
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c5d7fd1323e02e0800000000000000
+      internalID: -2157731981679567825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_114
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 262
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29ebaf5705369db0800000000000000
+      internalID: -4785579248248428244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikula_115
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 253
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338ee47a738a7a5c0800000000000000
+      internalID: -4204206770143434701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sikula_0: 692760387056214506
+      sikula_1: -2690359158609312907
+      sikula_10: 5880454073106691064
+      sikula_100: -3692028332314250495
+      sikula_101: 1576621839937430415
+      sikula_102: -4772650785892678830
+      sikula_103: 475316960668851711
+      sikula_104: -4095286595102073305
+      sikula_105: 9026798049394710447
+      sikula_106: -1242400568596765038
+      sikula_107: -1519418316967365634
+      sikula_108: -6359980242917141721
+      sikula_109: -1959063793419076171
+      sikula_11: -4323558390829532726
+      sikula_110: 6155302032552622207
+      sikula_111: -3666516860910135613
+      sikula_112: 8489706654564726166
+      sikula_113: -2157731981679567825
+      sikula_114: -4785579248248428244
+      sikula_115: -4204206770143434701
+      sikula_12: 334692172763337065
+      sikula_13: -4028080017282697245
+      sikula_14: 3471834988717072329
+      sikula_15: 4851617303243540940
+      sikula_16: 1058944636635204198
+      sikula_17: 8964989038546097671
+      sikula_18: -5349346399962227772
+      sikula_19: 416937690988945142
+      sikula_2: 2022893916740415109
+      sikula_20: 1759187060374013309
+      sikula_21: -41420056424082572
+      sikula_22: 4743599569719540869
+      sikula_23: -8316007729762946382
+      sikula_24: -3782212393955419522
+      sikula_25: -1528249450210604744
+      sikula_26: 4275261296184040850
+      sikula_27: -111665499029143206
+      sikula_28: -629547172905986816
+      sikula_29: 5054743201943337552
+      sikula_3: 6707647004323980780
+      sikula_30: -8280811769590423397
+      sikula_31: 7402785966615223309
+      sikula_32: 3691589699515030599
+      sikula_33: 8263849407144444769
+      sikula_34: -3206225232427209414
+      sikula_35: 4637756510543840620
+      sikula_36: -2762296700943891681
+      sikula_37: 6885689971740847405
+      sikula_38: -7435624622369578676
+      sikula_39: 1917058397568549708
+      sikula_4: 4583636820417672177
+      sikula_40: 5648154250627186430
+      sikula_41: 8205702717191323353
+      sikula_42: 5079658032257089333
+      sikula_43: -1888252774952736728
+      sikula_44: -2583396159085981372
+      sikula_45: 8991891668909163455
+      sikula_46: -6035149762751930358
+      sikula_47: 8286283497924408556
+      sikula_48: 6723604854128992523
+      sikula_49: 7142298864080876769
+      sikula_5: -8192283893039986888
+      sikula_50: 3998206464359483702
+      sikula_51: 1584825800170505706
+      sikula_52: 6678852512376855155
+      sikula_53: -705034294034707656
+      sikula_54: -8558059991341002110
+      sikula_55: -3468141823367981966
+      sikula_56: -3818173180123841246
+      sikula_57: 1369445953495328831
+      sikula_58: 2061247162282384601
+      sikula_59: -1264610282063926299
+      sikula_6: 3573588242458067637
+      sikula_60: 5582629608931653235
+      sikula_61: -5171771117261795417
+      sikula_62: 8961544003819429364
+      sikula_63: 1271429776136164701
+      sikula_64: 6582518859986063710
+      sikula_65: 2362074547660310600
+      sikula_66: 8641705277913643554
+      sikula_67: 2200365626449356287
+      sikula_68: 2438600077924879950
+      sikula_69: -3006096990167196060
+      sikula_7: 5716131343234995184
+      sikula_70: 8612394011431025194
+      sikula_71: 5966841598495867330
+      sikula_72: -2488564357214698632
+      sikula_73: -7732991018506911719
+      sikula_74: 4506204109498938164
+      sikula_75: 2554723367422435467
+      sikula_76: -3052633667116295775
+      sikula_77: 1481897712322533168
+      sikula_78: -8962310878083588654
+      sikula_79: 844008502086540815
+      sikula_8: 7837426903411623116
+      sikula_80: -8917860279501981258
+      sikula_81: -3760744350905298016
+      sikula_82: -8473516001682099429
+      sikula_83: -2916437793916856044
+      sikula_84: 1560171419088127264
+      sikula_85: 6416422761633880998
+      sikula_86: 6532713110408060084
+      sikula_87: -8354771415656465931
+      sikula_88: 1452762456089960302
+      sikula_89: -3931269784987254109
+      sikula_9: -1739387416495029759
+      sikula_90: -8045402604736561776
+      sikula_91: 7383393940454099936
+      sikula_92: 2066006860476828793
+      sikula_93: -1421992700157167795
+      sikula_94: -4281922075863424805
+      sikula_95: 6330931399790978348
+      sikula_96: 6250884283573381700
+      sikula_97: 108464077889023807
+      sikula_98: -3698766375252506352
+      sikula_99: -3458135391556418500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

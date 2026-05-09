@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: f530dafbc61b71a43875b4b5ca127cea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5013704907448210845
+    second: tiwu_0
+  - first:
+      213: 2673827176751032232
+    second: tiwu_1
+  - first:
+      213: -2811958093082771834
+    second: tiwu_2
+  - first:
+      213: -863238288652161840
+    second: tiwu_3
+  - first:
+      213: 956694841907118322
+    second: tiwu_4
+  - first:
+      213: -1898265295588276123
+    second: tiwu_5
+  - first:
+      213: -8580728439524365507
+    second: tiwu_6
+  - first:
+      213: 8198666195221088788
+    second: tiwu_7
+  - first:
+      213: -6290227782771370678
+    second: tiwu_8
+  - first:
+      213: 7211902773557889403
+    second: tiwu_9
+  - first:
+      213: -4989850635224989289
+    second: tiwu_10
+  - first:
+      213: 3862754186747175587
+    second: tiwu_11
+  - first:
+      213: 8759323917826856769
+    second: tiwu_12
+  - first:
+      213: 6858999008383365193
+    second: tiwu_13
+  - first:
+      213: -3429871124521885347
+    second: tiwu_14
+  - first:
+      213: 8195061330730487235
+    second: tiwu_15
+  - first:
+      213: 892270599584128195
+    second: tiwu_16
+  - first:
+      213: -3160661512904549217
+    second: tiwu_17
+  - first:
+      213: 7546923193721824211
+    second: tiwu_18
+  - first:
+      213: -5045678891584127202
+    second: tiwu_19
+  - first:
+      213: -2681683587887849288
+    second: tiwu_20
+  - first:
+      213: 8545604009937156142
+    second: tiwu_21
+  - first:
+      213: 5390170573524492097
+    second: tiwu_22
+  - first:
+      213: -7393064254927581503
+    second: tiwu_23
+  - first:
+      213: 6239469325557197380
+    second: tiwu_24
+  - first:
+      213: 1670335468719839014
+    second: tiwu_25
+  - first:
+      213: 7808674641409883929
+    second: tiwu_26
+  - first:
+      213: -5348455091938195777
+    second: tiwu_27
+  - first:
+      213: 4330845326098532989
+    second: tiwu_28
+  - first:
+      213: -9178615515080284074
+    second: tiwu_29
+  - first:
+      213: 7328866233023846302
+    second: tiwu_30
+  - first:
+      213: 8294547362421369411
+    second: tiwu_31
+  - first:
+      213: 13924711437319370
+    second: tiwu_32
+  - first:
+      213: -3780507291475969110
+    second: tiwu_33
+  - first:
+      213: 5785505296087908500
+    second: tiwu_34
+  - first:
+      213: -6545275750319406953
+    second: tiwu_35
+  - first:
+      213: 3111630089364362636
+    second: tiwu_36
+  - first:
+      213: 6742665553927871649
+    second: tiwu_37
+  - first:
+      213: -2206322750755786750
+    second: tiwu_38
+  - first:
+      213: 1319284408349121242
+    second: tiwu_39
+  - first:
+      213: 809934281825991153
+    second: tiwu_40
+  - first:
+      213: 5632257553642780490
+    second: tiwu_41
+  - first:
+      213: 8418134380344390790
+    second: tiwu_42
+  - first:
+      213: 3117571310684811741
+    second: tiwu_43
+  - first:
+      213: -2229082323704231543
+    second: tiwu_44
+  - first:
+      213: 2223482094708210385
+    second: tiwu_45
+  - first:
+      213: -656290140145109738
+    second: tiwu_46
+  - first:
+      213: -9173242848819186977
+    second: tiwu_47
+  - first:
+      213: 6038011267903439763
+    second: tiwu_48
+  - first:
+      213: -5857219934528236007
+    second: tiwu_49
+  - first:
+      213: 7364303881929444299
+    second: tiwu_50
+  - first:
+      213: 3701370296531464433
+    second: tiwu_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiwu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 218
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d955511bc02449540800000000000000
+      internalID: 5013704907448210845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 835
+        width: 242
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7e70596a75b1520800000000000000
+      internalID: 2673827176751032232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 972
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e3482430be9f8d0800000000000000
+      internalID: -2811958093082771834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 931
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc2f50a9592504f0800000000000000
+      internalID: -863238288652161840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 888
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f08252d3ecd64d00800000000000000
+      internalID: 956694841907118322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 845
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568420765c108a5e0800000000000000
+      internalID: -1898265295588276123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 822
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bee0862f02be880800000000000000
+      internalID: -8580728439524365507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 817
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a0826577387c170800000000000000
+      internalID: 8198666195221088788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 680
+        width: 85
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a459e9b982f94b8a0800000000000000
+      internalID: -6290227782771370678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 797
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79829cbc53d51460800000000000000
+      internalID: 7211902773557889403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 102
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791482dd84d70cab0800000000000000
+      internalID: -4989850635224989289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 692
+        width: 97
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2e7b397724b9530800000000000000
+      internalID: 3862754186747175587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 678
+        width: 151
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14717a2c1be5f8970800000000000000
+      internalID: 8759323917826856769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 750
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9407271f14f003f50800000000000000
+      internalID: 6858999008383365193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 763
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51e08d6266a660d0800000000000000
+      internalID: -3429871124521885347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 731
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd0bba6cd4bab170800000000000000
+      internalID: 8195061330730487235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 715
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc9cb3026bf16c00800000000000000
+      internalID: 892270599584128195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_17
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 686
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c531499131324d0800000000000000
+      internalID: -3160661512904549217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_18
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 698
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d322fcc8ae0cb860800000000000000
+      internalID: 7546923193721824211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 588
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ff07008c52af9b0800000000000000
+      internalID: -5045678891584127202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 669
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b023f72cfeb8cad0800000000000000
+      internalID: -2681683587887849288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 599
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28357b0295189670800000000000000
+      internalID: 8545604009937156142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 657
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fd0b9049bbdca40800000000000000
+      internalID: 5390170573524492097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 676
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce4763fa3f866990800000000000000
+      internalID: -7393064254927581503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_24
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 651
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a68c02b4c079650800000000000000
+      internalID: 6239469325557197380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 647
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62718cc42493e2710800000000000000
+      internalID: 1670335468719839014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 556
+        width: 130
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f36d7d63cfd5c60800000000000000
+      internalID: 7808674641409883929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 649
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb605e36e6876c5b0800000000000000
+      internalID: -5348455091938195777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 582
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a8347d0e04a1c30800000000000000
+      internalID: 4330845326098532989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65820c5c1d10f9080800000000000000
+      internalID: -9178615515080284074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 568
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97ddb9420d55b560800000000000000
+      internalID: 7328866233023846302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 531
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a67c531e62c1370800000000000000
+      internalID: 8294547362421369411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 578
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc32d68378713000800000000000000
+      internalID: 13924711437319370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_33
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 536
+        width: 105
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabfcccf5a0f88bc0800000000000000
+      internalID: -3780507291475969110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 510
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4900673f96e3a4050800000000000000
+      internalID: 5785505296087908500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790cb3922628a25a0800000000000000
+      internalID: -6545275750319406953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 540
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85daf4841bbe2b20800000000000000
+      internalID: 3111630089364362636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 511
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac122dd892c29d50800000000000000
+      internalID: 6742665553927871649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 544
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b655d5219161e0800000000000000
+      internalID: -2206322750755786750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 537
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada5c55fd2a0f4210800000000000000
+      internalID: 1319284408349121242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 474
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f936a720f67d3b00800000000000000
+      internalID: 809934281825991153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 495
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a477360776cc92e40800000000000000
+      internalID: 5632257553642780490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 531
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6843ee32e9833d470800000000000000
+      internalID: 8418134380344390790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 523
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd13157e696d34b20800000000000000
+      internalID: 3117571310684811741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_44
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 489
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989c180df65b011e0800000000000000
+      internalID: -2229082323704231543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 502
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da36834f256bde10800000000000000
+      internalID: 2223482094708210385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 491
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6153f0f389364e6f0800000000000000
+      internalID: -656290140145109738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_47
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 502
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd27dbd1b3812b080800000000000000
+      internalID: -9173242848819186977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 490
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c035e1435bc350800000000000000
+      internalID: 6038011267903439763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_49
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 481
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9169b1f9089f6bea0800000000000000
+      internalID: -5857219934528236007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_50
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 474
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb4f64ec53433660800000000000000
+      internalID: 7364303881929444299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiwu_51
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 481
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0b0fa8ca8ed5330800000000000000
+      internalID: 3701370296531464433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiwu_0: 5013704907448210845
+      tiwu_1: 2673827176751032232
+      tiwu_10: -4989850635224989289
+      tiwu_11: 3862754186747175587
+      tiwu_12: 8759323917826856769
+      tiwu_13: 6858999008383365193
+      tiwu_14: -3429871124521885347
+      tiwu_15: 8195061330730487235
+      tiwu_16: 892270599584128195
+      tiwu_17: -3160661512904549217
+      tiwu_18: 7546923193721824211
+      tiwu_19: -5045678891584127202
+      tiwu_2: -2811958093082771834
+      tiwu_20: -2681683587887849288
+      tiwu_21: 8545604009937156142
+      tiwu_22: 5390170573524492097
+      tiwu_23: -7393064254927581503
+      tiwu_24: 6239469325557197380
+      tiwu_25: 1670335468719839014
+      tiwu_26: 7808674641409883929
+      tiwu_27: -5348455091938195777
+      tiwu_28: 4330845326098532989
+      tiwu_29: -9178615515080284074
+      tiwu_3: -863238288652161840
+      tiwu_30: 7328866233023846302
+      tiwu_31: 8294547362421369411
+      tiwu_32: 13924711437319370
+      tiwu_33: -3780507291475969110
+      tiwu_34: 5785505296087908500
+      tiwu_35: -6545275750319406953
+      tiwu_36: 3111630089364362636
+      tiwu_37: 6742665553927871649
+      tiwu_38: -2206322750755786750
+      tiwu_39: 1319284408349121242
+      tiwu_4: 956694841907118322
+      tiwu_40: 809934281825991153
+      tiwu_41: 5632257553642780490
+      tiwu_42: 8418134380344390790
+      tiwu_43: 3117571310684811741
+      tiwu_44: -2229082323704231543
+      tiwu_45: 2223482094708210385
+      tiwu_46: -656290140145109738
+      tiwu_47: -9173242848819186977
+      tiwu_48: 6038011267903439763
+      tiwu_49: -5857219934528236007
+      tiwu_5: -1898265295588276123
+      tiwu_50: 7364303881929444299
+      tiwu_51: 3701370296531464433
+      tiwu_6: -8580728439524365507
+      tiwu_7: 8198666195221088788
+      tiwu_8: -6290227782771370678
+      tiwu_9: 7211902773557889403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

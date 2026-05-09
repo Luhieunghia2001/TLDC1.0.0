@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 511e6d2d53e62b4499b1318884786de0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6952516314618365885
+    second: shenshengtianshishou_0
+  - first:
+      213: -216898974319028357
+    second: shenshengtianshishou_1
+  - first:
+      213: -9062009565662287890
+    second: shenshengtianshishou_2
+  - first:
+      213: 6842795931607031970
+    second: shenshengtianshishou_3
+  - first:
+      213: -1646088317576851748
+    second: shenshengtianshishou_4
+  - first:
+      213: 7706589220220832721
+    second: shenshengtianshishou_5
+  - first:
+      213: 1418462224355437526
+    second: shenshengtianshishou_6
+  - first:
+      213: 2237340965279723886
+    second: shenshengtianshishou_7
+  - first:
+      213: 7011155654703368907
+    second: shenshengtianshishou_8
+  - first:
+      213: 407694769742422680
+    second: shenshengtianshishou_9
+  - first:
+      213: -8901804783099102349
+    second: shenshengtianshishou_10
+  - first:
+      213: -3354432331014368370
+    second: shenshengtianshishou_11
+  - first:
+      213: 7105126624726724330
+    second: shenshengtianshishou_12
+  - first:
+      213: -7888664604429560357
+    second: shenshengtianshishou_13
+  - first:
+      213: 7177185945321457270
+    second: shenshengtianshishou_14
+  - first:
+      213: -6027499656005441823
+    second: shenshengtianshishou_15
+  - first:
+      213: 2671823000109776090
+    second: shenshengtianshishou_16
+  - first:
+      213: 922690030161800674
+    second: shenshengtianshishou_17
+  - first:
+      213: 7556776581212088376
+    second: shenshengtianshishou_18
+  - first:
+      213: -6741072509045869154
+    second: shenshengtianshishou_19
+  - first:
+      213: 7132625469422581194
+    second: shenshengtianshishou_20
+  - first:
+      213: -3719698255342420403
+    second: shenshengtianshishou_21
+  - first:
+      213: -5668416790807932519
+    second: shenshengtianshishou_22
+  - first:
+      213: -6881376021102952210
+    second: shenshengtianshishou_23
+  - first:
+      213: 6637278365111537185
+    second: shenshengtianshishou_24
+  - first:
+      213: 2305097682791172848
+    second: shenshengtianshishou_25
+  - first:
+      213: -8967618087220799163
+    second: shenshengtianshishou_26
+  - first:
+      213: -6559240670605453949
+    second: shenshengtianshishou_27
+  - first:
+      213: 3684658130379970309
+    second: shenshengtianshishou_28
+  - first:
+      213: -4469148749598277665
+    second: shenshengtianshishou_29
+  - first:
+      213: -1210835292928876192
+    second: shenshengtianshishou_30
+  - first:
+      213: 1355934026891900120
+    second: shenshengtianshishou_31
+  - first:
+      213: -1089209981609096616
+    second: shenshengtianshishou_32
+  - first:
+      213: 6843953295288810449
+    second: shenshengtianshishou_33
+  - first:
+      213: 2128489551073301473
+    second: shenshengtianshishou_34
+  - first:
+      213: -7473040379206029130
+    second: shenshengtianshishou_35
+  - first:
+      213: -6433666762600989966
+    second: shenshengtianshishou_36
+  - first:
+      213: 2224319942167088758
+    second: shenshengtianshishou_37
+  - first:
+      213: 3753874284039099306
+    second: shenshengtianshishou_38
+  - first:
+      213: 6787091244443584590
+    second: shenshengtianshishou_39
+  - first:
+      213: 6130439028722350312
+    second: shenshengtianshishou_40
+  - first:
+      213: -8063976873977959403
+    second: shenshengtianshishou_41
+  - first:
+      213: -5387042517548405161
+    second: shenshengtianshishou_42
+  - first:
+      213: -7734877183414922391
+    second: shenshengtianshishou_43
+  - first:
+      213: 7400439743542759799
+    second: shenshengtianshishou_44
+  - first:
+      213: -3159262972438608314
+    second: shenshengtianshishou_45
+  - first:
+      213: 2918098209613323389
+    second: shenshengtianshishou_46
+  - first:
+      213: 9028408171542336822
+    second: shenshengtianshishou_47
+  - first:
+      213: 4856949300950704794
+    second: shenshengtianshishou_48
+  - first:
+      213: -7442872616086399493
+    second: shenshengtianshishou_49
+  - first:
+      213: 2591101761353948249
+    second: shenshengtianshishou_50
+  - first:
+      213: 4440457678920278265
+    second: shenshengtianshishou_51
+  - first:
+      213: 4265499351062447396
+    second: shenshengtianshishou_52
+  - first:
+      213: -3630551510191936869
+    second: shenshengtianshishou_53
+  - first:
+      213: -5255326539464646484
+    second: shenshengtianshishou_54
+  - first:
+      213: -4494393381317095464
+    second: shenshengtianshishou_55
+  - first:
+      213: 4324391020093144669
+    second: shenshengtianshishou_56
+  - first:
+      213: -1062806718867216587
+    second: shenshengtianshishou_57
+  - first:
+      213: 6985985910522070599
+    second: shenshengtianshishou_58
+  - first:
+      213: -7117799437894175339
+    second: shenshengtianshishou_59
+  - first:
+      213: 4650193201353867541
+    second: shenshengtianshishou_60
+  - first:
+      213: -8520659132740681701
+    second: shenshengtianshishou_61
+  - first:
+      213: 8864728295378731401
+    second: shenshengtianshishou_62
+  - first:
+      213: -7508192488621807091
+    second: shenshengtianshishou_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shenshengtianshishou_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 838
+        width: 115
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db78feb80cc4c7060800000000000000
+      internalID: 6952516314618365885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 914
+        width: 159
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b775193388b6dfcf0800000000000000
+      internalID: -216898974319028357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 844
+        width: 129
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7e18700564d3280800000000000000
+      internalID: -9062009565662287890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 819
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0ece525ae76fe50800000000000000
+      internalID: 6842795931607031970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 913
+        width: 145
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde49e1856be729e0800000000000000
+      internalID: -1646088317576851748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 903
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db0e15801e43fa60800000000000000
+      internalID: 7706589220220832721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db2402b0e36fa310800000000000000
+      internalID: 1418462224355437526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 782
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e617de401c1ac0f10800000000000000
+      internalID: 2237340965279723886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 752
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcac097dbe0ac4160800000000000000
+      internalID: 7011155654703368907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 732
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8922847ab3c68a500800000000000000
+      internalID: 407694769742422680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 762
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b318ba6bf667480800000000000000
+      internalID: -8901804783099102349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 738
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e839dc64199a271d0800000000000000
+      internalID: -3354432331014368370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 815
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeea107450b7a9260800000000000000
+      internalID: 7105126624726724330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_13
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 784
+        width: 38
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd557c49655d58290800000000000000
+      internalID: -7888664604429560357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 811
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676cfc5479c7a9360800000000000000
+      internalID: 7177185945321457270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6a1087ff40a5ca0800000000000000
+      internalID: -6027499656005441823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 725
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcf248dcd8341520800000000000000
+      internalID: 2671823000109776090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 663
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eda69d91bd0ecc00800000000000000
+      internalID: 922690030161800674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 720
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838232a53401fd860800000000000000
+      internalID: 7556776581212088376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 630
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e957b2dc446e272a0800000000000000
+      internalID: -6741072509045869154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 706
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac536dcf21d2cf260800000000000000
+      internalID: 7132625469422581194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 676
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ebca2052af06cc0800000000000000
+      internalID: -3719698255342420403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 680
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991980916fcb551b0800000000000000
+      internalID: -5668416790807932519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 649
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee08448c7f07080a0800000000000000
+      internalID: -6881376021102952210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_24
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 726
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ecbdbd1895c1c50800000000000000
+      internalID: 6637278365111537185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_25
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 712
+        width: 31
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa085b212a5dff10800000000000000
+      internalID: 2305097682791172848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 692
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54916d5bcde9c8380800000000000000
+      internalID: -8967618087220799163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 663
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3855448cc55e8f4a0800000000000000
+      internalID: -6559240670605453949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 692
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5079d042c09822330800000000000000
+      internalID: 3684658130379970309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 674
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf30db04e46af1c0800000000000000
+      internalID: -4469148749598277665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 673
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061e77367bf323fe0800000000000000
+      internalID: -1210835292928876192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 612
+        width: 35
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b1cb30de31d210800000000000000
+      internalID: 1355934026891900120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a4168ea4952e0f0800000000000000
+      internalID: -1089209981609096616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_33
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 662
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbbd01e24b9afe50800000000000000
+      internalID: 6843953295288810449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 664
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3dadf28f9e98d10800000000000000
+      internalID: 2128489551073301473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 626
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b036457e5d6a4890800000000000000
+      internalID: -7473040379206029130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_36
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 596
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa3eeb9a2607b6a0800000000000000
+      internalID: -6433666762600989966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 644
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ecfa3d33f5ede10800000000000000
+      internalID: 2224319942167088758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 601
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3df9fb5c0781430800000000000000
+      internalID: 3753874284039099306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 619
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48493bf687903e50800000000000000
+      internalID: 6787091244443584590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_40
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 595
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8bf20f0d1b31550800000000000000
+      internalID: 6130439028722350312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 591
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c249502cff61090800000000000000
+      internalID: -8063976873977959403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 571
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ee99f3f516d35b0800000000000000
+      internalID: -5387042517548405161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 557
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963974dce2238a490800000000000000
+      internalID: -7734877183414922391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 584
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7719c8fccb4a3b660800000000000000
+      internalID: 7400439743542759799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 564
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64680c7a01b0824d0800000000000000
+      internalID: -3159262972438608314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_46
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 580
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c94b36cda2f7820800000000000000
+      internalID: 2918098209613323389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_47
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 543
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d300c5695b4d70800000000000000
+      internalID: 9028408171542336822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_48
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 562
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92af3fe7a9576340800000000000000
+      internalID: 4856949300950704794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_49
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 552
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf510b92aca95b890800000000000000
+      internalID: -7442872616086399493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 571
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c146ed25175f320800000000000000
+      internalID: 2591101761353948249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0e2308bbcaf9d30800000000000000
+      internalID: 4440457678920278265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 540
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4258cb96f09123b30800000000000000
+      internalID: 4265499351062447396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 528
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a604013a0bd9dc0800000000000000
+      internalID: -3630551510191936869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_54
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 536
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0e6843b545117b0800000000000000
+      internalID: -5255326539464646484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 517
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df4ab13805b0a1c0800000000000000
+      internalID: -4494393381317095464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 520
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e7a8e98b2530c30800000000000000
+      internalID: 4324391020093144669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_57
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 522
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53765019be62041f0800000000000000
+      internalID: -1062806718867216587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 510
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7464d8a1c2533f060800000000000000
+      internalID: 6985985910522070599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_59
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 521
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595b7d97f1f783d90800000000000000
+      internalID: -7117799437894175339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 519
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51142af241ec88040800000000000000
+      internalID: 4650193201353867541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 540
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10cdc4c9a980c980800000000000000
+      internalID: -8520659132740681701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_62
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 515
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9814764da67d50b70800000000000000
+      internalID: 8864728295378731401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shenshengtianshishou_63
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 519
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ae07236ba8dc790800000000000000
+      internalID: -7508192488621807091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shenshengtianshishou_0: 6952516314618365885
+      shenshengtianshishou_1: -216898974319028357
+      shenshengtianshishou_10: -8901804783099102349
+      shenshengtianshishou_11: -3354432331014368370
+      shenshengtianshishou_12: 7105126624726724330
+      shenshengtianshishou_13: -7888664604429560357
+      shenshengtianshishou_14: 7177185945321457270
+      shenshengtianshishou_15: -6027499656005441823
+      shenshengtianshishou_16: 2671823000109776090
+      shenshengtianshishou_17: 922690030161800674
+      shenshengtianshishou_18: 7556776581212088376
+      shenshengtianshishou_19: -6741072509045869154
+      shenshengtianshishou_2: -9062009565662287890
+      shenshengtianshishou_20: 7132625469422581194
+      shenshengtianshishou_21: -3719698255342420403
+      shenshengtianshishou_22: -5668416790807932519
+      shenshengtianshishou_23: -6881376021102952210
+      shenshengtianshishou_24: 6637278365111537185
+      shenshengtianshishou_25: 2305097682791172848
+      shenshengtianshishou_26: -8967618087220799163
+      shenshengtianshishou_27: -6559240670605453949
+      shenshengtianshishou_28: 3684658130379970309
+      shenshengtianshishou_29: -4469148749598277665
+      shenshengtianshishou_3: 6842795931607031970
+      shenshengtianshishou_30: -1210835292928876192
+      shenshengtianshishou_31: 1355934026891900120
+      shenshengtianshishou_32: -1089209981609096616
+      shenshengtianshishou_33: 6843953295288810449
+      shenshengtianshishou_34: 2128489551073301473
+      shenshengtianshishou_35: -7473040379206029130
+      shenshengtianshishou_36: -6433666762600989966
+      shenshengtianshishou_37: 2224319942167088758
+      shenshengtianshishou_38: 3753874284039099306
+      shenshengtianshishou_39: 6787091244443584590
+      shenshengtianshishou_4: -1646088317576851748
+      shenshengtianshishou_40: 6130439028722350312
+      shenshengtianshishou_41: -8063976873977959403
+      shenshengtianshishou_42: -5387042517548405161
+      shenshengtianshishou_43: -7734877183414922391
+      shenshengtianshishou_44: 7400439743542759799
+      shenshengtianshishou_45: -3159262972438608314
+      shenshengtianshishou_46: 2918098209613323389
+      shenshengtianshishou_47: 9028408171542336822
+      shenshengtianshishou_48: 4856949300950704794
+      shenshengtianshishou_49: -7442872616086399493
+      shenshengtianshishou_5: 7706589220220832721
+      shenshengtianshishou_50: 2591101761353948249
+      shenshengtianshishou_51: 4440457678920278265
+      shenshengtianshishou_52: 4265499351062447396
+      shenshengtianshishou_53: -3630551510191936869
+      shenshengtianshishou_54: -5255326539464646484
+      shenshengtianshishou_55: -4494393381317095464
+      shenshengtianshishou_56: 4324391020093144669
+      shenshengtianshishou_57: -1062806718867216587
+      shenshengtianshishou_58: 6985985910522070599
+      shenshengtianshishou_59: -7117799437894175339
+      shenshengtianshishou_6: 1418462224355437526
+      shenshengtianshishou_60: 4650193201353867541
+      shenshengtianshishou_61: -8520659132740681701
+      shenshengtianshishou_62: 8864728295378731401
+      shenshengtianshishou_63: -7508192488621807091
+      shenshengtianshishou_7: 2237340965279723886
+      shenshengtianshishou_8: 7011155654703368907
+      shenshengtianshishou_9: 407694769742422680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

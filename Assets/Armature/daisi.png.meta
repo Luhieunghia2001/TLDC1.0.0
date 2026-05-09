@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: c8f3409b69df92247a3d2445e7d4ade6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5794429474904556073
+    second: daisi_0
+  - first:
+      213: 795697522449483754
+    second: daisi_1
+  - first:
+      213: -7541935913941416931
+    second: daisi_2
+  - first:
+      213: -303298018525488639
+    second: daisi_3
+  - first:
+      213: -6335482108217134152
+    second: daisi_4
+  - first:
+      213: 9208539294845598342
+    second: daisi_5
+  - first:
+      213: -5752383523262104602
+    second: daisi_6
+  - first:
+      213: 7758603471564602378
+    second: daisi_7
+  - first:
+      213: 7135900936453884369
+    second: daisi_8
+  - first:
+      213: -3385763605633416166
+    second: daisi_9
+  - first:
+      213: 1230495783662051496
+    second: daisi_10
+  - first:
+      213: 1057665373998951383
+    second: daisi_11
+  - first:
+      213: 6047471774109503316
+    second: daisi_12
+  - first:
+      213: 1477082226698793149
+    second: daisi_13
+  - first:
+      213: -2706560292739057324
+    second: daisi_14
+  - first:
+      213: 2790722890121568364
+    second: daisi_15
+  - first:
+      213: 8517328146106831504
+    second: daisi_16
+  - first:
+      213: -2483758635968804146
+    second: daisi_17
+  - first:
+      213: -1055209750726352740
+    second: daisi_18
+  - first:
+      213: -2897593824886539876
+    second: daisi_19
+  - first:
+      213: -396739878877712006
+    second: daisi_20
+  - first:
+      213: -6478657382748707374
+    second: daisi_21
+  - first:
+      213: 2750593955676740681
+    second: daisi_22
+  - first:
+      213: -2885947323039360956
+    second: daisi_23
+  - first:
+      213: -5340992082697056453
+    second: daisi_24
+  - first:
+      213: -3955709557835746619
+    second: daisi_25
+  - first:
+      213: -9194133228642984989
+    second: daisi_26
+  - first:
+      213: -9155463601083801344
+    second: daisi_27
+  - first:
+      213: -5144188694518584129
+    second: daisi_28
+  - first:
+      213: -6974333696409555692
+    second: daisi_29
+  - first:
+      213: 5486405503591154665
+    second: daisi_30
+  - first:
+      213: 3964421109117584070
+    second: daisi_31
+  - first:
+      213: -1997811136013516701
+    second: daisi_32
+  - first:
+      213: -8534054271297646553
+    second: daisi_33
+  - first:
+      213: 1831420501348875800
+    second: daisi_34
+  - first:
+      213: 999183638997105874
+    second: daisi_35
+  - first:
+      213: 3498074281242539177
+    second: daisi_36
+  - first:
+      213: -2944729599452254868
+    second: daisi_37
+  - first:
+      213: -5591143364432200051
+    second: daisi_38
+  - first:
+      213: -813514701444180408
+    second: daisi_39
+  - first:
+      213: -3504015567495994727
+    second: daisi_40
+  - first:
+      213: -7932679015755097216
+    second: daisi_41
+  - first:
+      213: -8352666203868051265
+    second: daisi_42
+  - first:
+      213: 3468468625237875958
+    second: daisi_43
+  - first:
+      213: 6024095599595035171
+    second: daisi_44
+  - first:
+      213: 216813762024349873
+    second: daisi_45
+  - first:
+      213: -5325867067104805603
+    second: daisi_46
+  - first:
+      213: -8715482066145577248
+    second: daisi_47
+  - first:
+      213: 6607995592554195145
+    second: daisi_48
+  - first:
+      213: -156654321615280400
+    second: daisi_49
+  - first:
+      213: -1861771577622524386
+    second: daisi_50
+  - first:
+      213: 6255661018061110924
+    second: daisi_51
+  - first:
+      213: -6067390276902081569
+    second: daisi_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: daisi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 401
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9224dbf38e2f96050800000000000000
+      internalID: 5794429474904556073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 251
+        width: 412
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7824e4ea2ea0b00800000000000000
+      internalID: 795697522449483754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_2
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 336
+        width: 162
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14c2c2ce39a55790800000000000000
+      internalID: -7541935913941416931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_3
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 409
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a55b02f087acbf0800000000000000
+      internalID: -303298018525488639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_4
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 235
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3ffd2e698d318a0800000000000000
+      internalID: -6335482108217134152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_5
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 272
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a7f7123bd4bcf70800000000000000
+      internalID: 9208539294845598342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_6
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 227
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebf62cb9ad6b20b0800000000000000
+      internalID: -5752383523262104602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_7
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 330
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c78b320c81cab60800000000000000
+      internalID: 7758603471564602378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 196
+        width: 212
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d906b51810d70360800000000000000
+      internalID: 7135900936453884369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 161
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1446c070f95301d0800000000000000
+      internalID: -3385763605633416166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 176
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0eac25569931110800000000000000
+      internalID: 1230495783662051496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_11
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 205
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db207ccd059dae00800000000000000
+      internalID: 1057665373998951383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_12
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 159
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f8ff4a98fece350800000000000000
+      internalID: 6047471774109503316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_13
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 165
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0bc629576af7410800000000000000
+      internalID: 1477082226698793149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_14
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 228
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4597c14f0cd507ad0800000000000000
+      internalID: -2706560292739057324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_15
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 180
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c606f34cea3aab620800000000000000
+      internalID: 2790722890121568364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 164
+        width: 137
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092522872d0a33670800000000000000
+      internalID: 8517328146106831504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_17
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 182
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca454b1eaae78dd0800000000000000
+      internalID: -2483758635968804146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 175
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c906d6c82542b51f0800000000000000
+      internalID: -1055209750726352740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_19
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 162
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99b544b4cda9c7d0800000000000000
+      internalID: -2897593824886539876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_20
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 154
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a713343ae2f7e7af0800000000000000
+      internalID: -396739878877712006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_21
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 165
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d52dcf8f6f2716a0800000000000000
+      internalID: -6478657382748707374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_22
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 117
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cd27121a21c2620800000000000000
+      internalID: 2750593955676740681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_23
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 149
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448dfb9333e03f7d0800000000000000
+      internalID: -2885947323039360956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_24
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 93
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f0ba2affbf0e5b0800000000000000
+      internalID: -5340992082697056453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_25
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 142
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2359a8d1f7a19c0800000000000000
+      internalID: -3955709557835746619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_26
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 106
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb9e198a80e76080800000000000000
+      internalID: -9194133228642984989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 101
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001a16fcc5241f080800000000000000
+      internalID: -9155463601083801344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_28
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 144
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca3ad23ab2c98b0800000000000000
+      internalID: -5144188694518584129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_29
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 147
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41da8786470363f90800000000000000
+      internalID: -6974333696409555692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_30
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 149
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e38c4fbcb0a32c40800000000000000
+      internalID: 5486405503591154665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_31
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 122
+        width: 81
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2830d8ef3740730800000000000000
+      internalID: 3964421109117584070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_32
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 144
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360489d4b595644e0800000000000000
+      internalID: -1997811136013516701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_33
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 150
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72016690bd2f09980800000000000000
+      internalID: -8534054271297646553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_34
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 143
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e74412e338a6910800000000000000
+      internalID: 1831420501348875800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_35
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 98
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcfdcbc930dddd00800000000000000
+      internalID: 999183638997105874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_36
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 139
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a434637608ab8030800000000000000
+      internalID: 3498074281242539177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_37
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 102
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6de119f7083227d0800000000000000
+      internalID: -2944729599452254868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_38
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 137
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e7cb2bbb44862b0800000000000000
+      internalID: -5591143364432200051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 85
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8469cd070b0d5b4f0800000000000000
+      internalID: -813514701444180408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 129
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99266fb086c3f5fc0800000000000000
+      internalID: -3504015567495994727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 111
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bd8bcd67679e190800000000000000
+      internalID: -7932679015755097216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 108
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8c807875e551c80800000000000000
+      internalID: -8352666203868051265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 141
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc14e186d9722030800000000000000
+      internalID: 3468468625237875958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_44
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 140
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a1bd2e703e99350800000000000000
+      internalID: 6024095599595035171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_45
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 135
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0a0e3c7f6420300800000000000000
+      internalID: 216813762024349873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_46
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 140
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d3440ce18b616b0800000000000000
+      internalID: -5325867067104805603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6fa19cc336c0780800000000000000
+      internalID: -8715482066145577248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 116
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c82a831bf054bb50800000000000000
+      internalID: 6607995592554195145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 109
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6679779b373ddf0800000000000000
+      internalID: -156654321615280400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 114
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e04ee3d98a926e0800000000000000
+      internalID: -1861771577622524386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 107
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e7ac05d8290d650800000000000000
+      internalID: 6255661018061110924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: daisi_52
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 109
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdba79780bc4ccba0800000000000000
+      internalID: -6067390276902081569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      daisi_0: 5794429474904556073
+      daisi_1: 795697522449483754
+      daisi_10: 1230495783662051496
+      daisi_11: 1057665373998951383
+      daisi_12: 6047471774109503316
+      daisi_13: 1477082226698793149
+      daisi_14: -2706560292739057324
+      daisi_15: 2790722890121568364
+      daisi_16: 8517328146106831504
+      daisi_17: -2483758635968804146
+      daisi_18: -1055209750726352740
+      daisi_19: -2897593824886539876
+      daisi_2: -7541935913941416931
+      daisi_20: -396739878877712006
+      daisi_21: -6478657382748707374
+      daisi_22: 2750593955676740681
+      daisi_23: -2885947323039360956
+      daisi_24: -5340992082697056453
+      daisi_25: -3955709557835746619
+      daisi_26: -9194133228642984989
+      daisi_27: -9155463601083801344
+      daisi_28: -5144188694518584129
+      daisi_29: -6974333696409555692
+      daisi_3: -303298018525488639
+      daisi_30: 5486405503591154665
+      daisi_31: 3964421109117584070
+      daisi_32: -1997811136013516701
+      daisi_33: -8534054271297646553
+      daisi_34: 1831420501348875800
+      daisi_35: 999183638997105874
+      daisi_36: 3498074281242539177
+      daisi_37: -2944729599452254868
+      daisi_38: -5591143364432200051
+      daisi_39: -813514701444180408
+      daisi_4: -6335482108217134152
+      daisi_40: -3504015567495994727
+      daisi_41: -7932679015755097216
+      daisi_42: -8352666203868051265
+      daisi_43: 3468468625237875958
+      daisi_44: 6024095599595035171
+      daisi_45: 216813762024349873
+      daisi_46: -5325867067104805603
+      daisi_47: -8715482066145577248
+      daisi_48: 6607995592554195145
+      daisi_49: -156654321615280400
+      daisi_5: 9208539294845598342
+      daisi_50: -1861771577622524386
+      daisi_51: 6255661018061110924
+      daisi_52: -6067390276902081569
+      daisi_6: -5752383523262104602
+      daisi_7: 7758603471564602378
+      daisi_8: 7135900936453884369
+      daisi_9: -3385763605633416166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

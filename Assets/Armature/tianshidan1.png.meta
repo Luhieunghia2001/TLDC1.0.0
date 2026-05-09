@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 7e19a6c5ea2623843ab97f9f9638c9ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3213312006655935082
+    second: tianshidan1_0
+  - first:
+      213: 6130386447432429481
+    second: tianshidan1_1
+  - first:
+      213: 3193577014412070659
+    second: tianshidan1_2
+  - first:
+      213: -4289552923395266951
+    second: tianshidan1_3
+  - first:
+      213: -6038839265484315860
+    second: tianshidan1_4
+  - first:
+      213: 3318070872746282817
+    second: tianshidan1_5
+  - first:
+      213: 7407521309302587159
+    second: tianshidan1_6
+  - first:
+      213: -1792954763799978604
+    second: tianshidan1_7
+  - first:
+      213: -6993632540749838083
+    second: tianshidan1_8
+  - first:
+      213: 6296619356845163161
+    second: tianshidan1_9
+  - first:
+      213: -1449290394501652228
+    second: tianshidan1_10
+  - first:
+      213: -388914214667018719
+    second: tianshidan1_11
+  - first:
+      213: 4921431789286375669
+    second: tianshidan1_12
+  - first:
+      213: 6024055619610430547
+    second: tianshidan1_13
+  - first:
+      213: -9080269244439065167
+    second: tianshidan1_14
+  - first:
+      213: -3580042506711080688
+    second: tianshidan1_15
+  - first:
+      213: -9141363226173506948
+    second: tianshidan1_16
+  - first:
+      213: -6999962505254579215
+    second: tianshidan1_17
+  - first:
+      213: 116939668622690656
+    second: tianshidan1_18
+  - first:
+      213: 3708299466514768643
+    second: tianshidan1_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tianshidan1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 141
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d76ca31c50863d0800000000000000
+      internalID: -3213312006655935082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 251
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af24176ef1831550800000000000000
+      internalID: 6130386447432429481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 250
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f42e2df5dd15c20800000000000000
+      internalID: 3193577014412070659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 229
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97669cbd7527874c0800000000000000
+      internalID: -4289552923395266951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 227
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c236025eeabb13ca0800000000000000
+      internalID: -6038839265484315860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 207
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fcc9df0e72c0e20800000000000000
+      internalID: 3318070872746282817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 210
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ffd13526dccc660800000000000000
+      internalID: 7407521309302587159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 210
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d9b5d44252e17e0800000000000000
+      internalID: -1792954763799978604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df84efe0240a1fe90800000000000000
+      internalID: -6993632540749838083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 203
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992ca92b1f5126750800000000000000
+      internalID: 6296619356845163161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 164
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0e75b901613ebe0800000000000000
+      internalID: -1449290394501652228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 157
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e1ca2159c4a9af0800000000000000
+      internalID: -388914214667018719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 157
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0cab233207c4440800000000000000
+      internalID: 4921431789286375669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 155
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c43125baeb99350800000000000000
+      internalID: 6024055619610430547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 162
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0e444b376cf180800000000000000
+      internalID: -9080269244439065167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 154
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011efaade42215ec0800000000000000
+      internalID: -3580042506711080688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 150
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7afb1d249a532180800000000000000
+      internalID: -9141363226173506948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 115
+        width: 90
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f35f3950332bde90800000000000000
+      internalID: -6999962505254579215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 72
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069486052047f9100800000000000000
+      internalID: 116939668622690656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianshidan1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3032266a7b6867330800000000000000
+      internalID: 3708299466514768643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tianshidan1_0: -3213312006655935082
+      tianshidan1_1: 6130386447432429481
+      tianshidan1_10: -1449290394501652228
+      tianshidan1_11: -388914214667018719
+      tianshidan1_12: 4921431789286375669
+      tianshidan1_13: 6024055619610430547
+      tianshidan1_14: -9080269244439065167
+      tianshidan1_15: -3580042506711080688
+      tianshidan1_16: -9141363226173506948
+      tianshidan1_17: -6999962505254579215
+      tianshidan1_18: 116939668622690656
+      tianshidan1_19: 3708299466514768643
+      tianshidan1_2: 3193577014412070659
+      tianshidan1_3: -4289552923395266951
+      tianshidan1_4: -6038839265484315860
+      tianshidan1_5: 3318070872746282817
+      tianshidan1_6: 7407521309302587159
+      tianshidan1_7: -1792954763799978604
+      tianshidan1_8: -6993632540749838083
+      tianshidan1_9: 6296619356845163161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

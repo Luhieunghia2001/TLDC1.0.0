@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 1aeac0efbf19f9e45a33d89c32cfe0c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4630229431433469151
+    second: nuoman_0
+  - first:
+      213: 6248465477622607497
+    second: nuoman_1
+  - first:
+      213: -6654640851116129529
+    second: nuoman_2
+  - first:
+      213: 1514671677284805497
+    second: nuoman_3
+  - first:
+      213: -4997460315572458031
+    second: nuoman_4
+  - first:
+      213: 8035995063859901033
+    second: nuoman_5
+  - first:
+      213: -3457023996428644610
+    second: nuoman_6
+  - first:
+      213: -7488132301718392480
+    second: nuoman_7
+  - first:
+      213: 659579162822966834
+    second: nuoman_8
+  - first:
+      213: -926669671071578920
+    second: nuoman_9
+  - first:
+      213: -8668447696520380726
+    second: nuoman_10
+  - first:
+      213: 3790724612219411120
+    second: nuoman_11
+  - first:
+      213: -7113128978660176747
+    second: nuoman_12
+  - first:
+      213: -8241858623896793
+    second: nuoman_13
+  - first:
+      213: 8806717549461859662
+    second: nuoman_14
+  - first:
+      213: 6482886358485113080
+    second: nuoman_15
+  - first:
+      213: 205419099096062479
+    second: nuoman_16
+  - first:
+      213: -7120675626860652018
+    second: nuoman_17
+  - first:
+      213: 6300878980620904195
+    second: nuoman_18
+  - first:
+      213: -5298287561117180695
+    second: nuoman_19
+  - first:
+      213: 52344526800961225
+    second: nuoman_20
+  - first:
+      213: 5812600125019701190
+    second: nuoman_21
+  - first:
+      213: 2976237239537567824
+    second: nuoman_22
+  - first:
+      213: 5022771473037715792
+    second: nuoman_23
+  - first:
+      213: 1873905091669669939
+    second: nuoman_24
+  - first:
+      213: 7236934458810094452
+    second: nuoman_25
+  - first:
+      213: -2214601705618960470
+    second: nuoman_26
+  - first:
+      213: -8984641372224731109
+    second: nuoman_27
+  - first:
+      213: 6933758789171241479
+    second: nuoman_28
+  - first:
+      213: -5057774544670560107
+    second: nuoman_29
+  - first:
+      213: -7523976493136893761
+    second: nuoman_30
+  - first:
+      213: -8825014820286735781
+    second: nuoman_31
+  - first:
+      213: -725781016382161096
+    second: nuoman_32
+  - first:
+      213: -3515867199872338672
+    second: nuoman_33
+  - first:
+      213: -228038294442349274
+    second: nuoman_34
+  - first:
+      213: -3285593463968816188
+    second: nuoman_35
+  - first:
+      213: -7581013299008401679
+    second: nuoman_36
+  - first:
+      213: 3332688049100788984
+    second: nuoman_37
+  - first:
+      213: 1982746876920773864
+    second: nuoman_38
+  - first:
+      213: -8265488871872957054
+    second: nuoman_39
+  - first:
+      213: -7959302861573132145
+    second: nuoman_40
+  - first:
+      213: 2095801505786233939
+    second: nuoman_41
+  - first:
+      213: 4041969955275570975
+    second: nuoman_42
+  - first:
+      213: 3878967395050430926
+    second: nuoman_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuoman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 291
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12369d63dde1ebfb0800000000000000
+      internalID: -4630229431433469151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 422
+        width: 184
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eacf00f3207b650800000000000000
+      internalID: 6248465477622607497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 463
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7038b695767f5a3a0800000000000000
+      internalID: -6654640851116129529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 435
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97be7eb8dd1350510800000000000000
+      internalID: 1514671677284805497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 311
+        width: 152
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd2137125475aab0800000000000000
+      internalID: -4997460315572458031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 348
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962792e1fe6958f60800000000000000
+      internalID: 8035995063859901033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 413
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe8ed8cdfe2600d0800000000000000
+      internalID: -3457023996428644610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 164
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06172fc685fc41890800000000000000
+      internalID: -7488132301718392480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eff4501cb472900800000000000000
+      internalID: 659579162822966834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 286
+        width: 126
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d486a708dec323f0800000000000000
+      internalID: -926669671071578920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 275
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace79d65fbc73b780800000000000000
+      internalID: -8668447696520380726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_11
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 256
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba1ba063fb5b9430800000000000000
+      internalID: 3790724612219411120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 296
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c4c6181e6194d90800000000000000
+      internalID: -7113128978660176747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 250
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7230f60c218b2eff0800000000000000
+      internalID: -8241858623896793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 253
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d6fd483feb73a70800000000000000
+      internalID: 8806717549461859662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 233
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f81bb49bc6d7f950800000000000000
+      internalID: 6482886358485113080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 274
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a93bf059bc9d200800000000000000
+      internalID: 205419099096062479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 273
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a503c8e374e2d90800000000000000
+      internalID: -7120675626860652018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_18
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 241
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30762a4ac08317750800000000000000
+      internalID: 6300878980620904195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 222
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec5db1e883b876b0800000000000000
+      internalID: -5298287561117180695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 191
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce38edd117f9b000800000000000000
+      internalID: 52344526800961225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 250
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfb03964018aa050800000000000000
+      internalID: 5812600125019701190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 233
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0580de52008bd4920800000000000000
+      internalID: 2976237239537567824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 215
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059e06efa0874b540800000000000000
+      internalID: 5022771473037715792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_24
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 251
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33834c3a0c2710a10800000000000000
+      internalID: 1873905091669669939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 205
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473d8202c81ce6460800000000000000
+      internalID: 7236934458810094452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf8b917b772441e0800000000000000
+      internalID: -2214601705618960470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 238
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18444e4644205380800000000000000
+      internalID: -8984641372224731109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 196
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7026bc2d1e8a93060800000000000000
+      internalID: 6933758789171241479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 220
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590f5ee49dc2fc9b0800000000000000
+      internalID: -5057774544670560107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 198
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8af244e37759790800000000000000
+      internalID: -7523976493136893761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 189
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a504327cf378580800000000000000
+      internalID: -8825014820286735781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 182
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fb1ddc2028de5f0800000000000000
+      internalID: -725781016382161096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 186
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015792ad861253fc0800000000000000
+      internalID: -3515867199872338672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62de3902168d5dcf0800000000000000
+      internalID: -228038294442349274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 160
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c32bcff62a3762d0800000000000000
+      internalID: -3285593463968816188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 167
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe871b0294dac690800000000000000
+      internalID: -7581013299008401679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 159
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f497d19f16104e20800000000000000
+      internalID: 3332688049100788984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 164
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecb06e87c1248b10800000000000000
+      internalID: 1982746876920773864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_39
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 170
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2857119d9a51b4d80800000000000000
+      internalID: -8265488871872957054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 177
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80fe24b730ea8190800000000000000
+      internalID: -7959302861573132145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_41
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 162
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3540e109d58c51d10800000000000000
+      internalID: 2095801505786233939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_42
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 156
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f70015246f71830800000000000000
+      internalID: 4041969955275570975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoman_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 165
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1ad4d4b4cd4d530800000000000000
+      internalID: 3878967395050430926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nuoman_0: -4630229431433469151
+      nuoman_1: 6248465477622607497
+      nuoman_10: -8668447696520380726
+      nuoman_11: 3790724612219411120
+      nuoman_12: -7113128978660176747
+      nuoman_13: -8241858623896793
+      nuoman_14: 8806717549461859662
+      nuoman_15: 6482886358485113080
+      nuoman_16: 205419099096062479
+      nuoman_17: -7120675626860652018
+      nuoman_18: 6300878980620904195
+      nuoman_19: -5298287561117180695
+      nuoman_2: -6654640851116129529
+      nuoman_20: 52344526800961225
+      nuoman_21: 5812600125019701190
+      nuoman_22: 2976237239537567824
+      nuoman_23: 5022771473037715792
+      nuoman_24: 1873905091669669939
+      nuoman_25: 7236934458810094452
+      nuoman_26: -2214601705618960470
+      nuoman_27: -8984641372224731109
+      nuoman_28: 6933758789171241479
+      nuoman_29: -5057774544670560107
+      nuoman_3: 1514671677284805497
+      nuoman_30: -7523976493136893761
+      nuoman_31: -8825014820286735781
+      nuoman_32: -725781016382161096
+      nuoman_33: -3515867199872338672
+      nuoman_34: -228038294442349274
+      nuoman_35: -3285593463968816188
+      nuoman_36: -7581013299008401679
+      nuoman_37: 3332688049100788984
+      nuoman_38: 1982746876920773864
+      nuoman_39: -8265488871872957054
+      nuoman_4: -4997460315572458031
+      nuoman_40: -7959302861573132145
+      nuoman_41: 2095801505786233939
+      nuoman_42: 4041969955275570975
+      nuoman_43: 3878967395050430926
+      nuoman_5: 8035995063859901033
+      nuoman_6: -3457023996428644610
+      nuoman_7: -7488132301718392480
+      nuoman_8: 659579162822966834
+      nuoman_9: -926669671071578920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

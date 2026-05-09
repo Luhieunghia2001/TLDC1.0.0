@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 4c17d9c60ce42e54984c9d8c8e120535
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7228760747231553887
+    second: tilaisi_0
+  - first:
+      213: 2467738146451375977
+    second: tilaisi_1
+  - first:
+      213: -8766103057163663183
+    second: tilaisi_2
+  - first:
+      213: -3233842021973941584
+    second: tilaisi_3
+  - first:
+      213: 1021447719539559968
+    second: tilaisi_4
+  - first:
+      213: 3853751617157470819
+    second: tilaisi_5
+  - first:
+      213: -6560423288086907668
+    second: tilaisi_6
+  - first:
+      213: -7308769426999755606
+    second: tilaisi_7
+  - first:
+      213: -939392844555399595
+    second: tilaisi_8
+  - first:
+      213: -3657268463841764471
+    second: tilaisi_9
+  - first:
+      213: 3206341814002331336
+    second: tilaisi_10
+  - first:
+      213: 365646476510104841
+    second: tilaisi_11
+  - first:
+      213: -8542525979411768904
+    second: tilaisi_12
+  - first:
+      213: 8015436863020894991
+    second: tilaisi_13
+  - first:
+      213: 7455218733484711857
+    second: tilaisi_14
+  - first:
+      213: 3476538161729052057
+    second: tilaisi_15
+  - first:
+      213: 7857767731045918328
+    second: tilaisi_16
+  - first:
+      213: -6304587272378428771
+    second: tilaisi_17
+  - first:
+      213: 6159296554319097896
+    second: tilaisi_18
+  - first:
+      213: -620857320949893723
+    second: tilaisi_19
+  - first:
+      213: 16217029410394919
+    second: tilaisi_20
+  - first:
+      213: 1065048905779607771
+    second: tilaisi_21
+  - first:
+      213: -4752848565784014050
+    second: tilaisi_22
+  - first:
+      213: 1522580606353169572
+    second: tilaisi_23
+  - first:
+      213: -7609163344768817398
+    second: tilaisi_24
+  - first:
+      213: -6871707699857657963
+    second: tilaisi_25
+  - first:
+      213: -6033957702130982947
+    second: tilaisi_26
+  - first:
+      213: -477268430919647661
+    second: tilaisi_27
+  - first:
+      213: -4274809786289024979
+    second: tilaisi_28
+  - first:
+      213: -7767060101590663688
+    second: tilaisi_29
+  - first:
+      213: 3611031636789142440
+    second: tilaisi_30
+  - first:
+      213: -2484725167660133534
+    second: tilaisi_31
+  - first:
+      213: 1949445999833859750
+    second: tilaisi_32
+  - first:
+      213: -7331028992917883050
+    second: tilaisi_33
+  - first:
+      213: 8406583917786130395
+    second: tilaisi_34
+  - first:
+      213: 7064566933352032489
+    second: tilaisi_35
+  - first:
+      213: -736936985019099233
+    second: tilaisi_36
+  - first:
+      213: 6901896171526324547
+    second: tilaisi_37
+  - first:
+      213: 4659422450319735699
+    second: tilaisi_38
+  - first:
+      213: -5314248771516888864
+    second: tilaisi_39
+  - first:
+      213: -2674629573887631568
+    second: tilaisi_40
+  - first:
+      213: 5249610507436993717
+    second: tilaisi_41
+  - first:
+      213: 7595071553969185578
+    second: tilaisi_42
+  - first:
+      213: -8934603874797642205
+    second: tilaisi_43
+  - first:
+      213: -340780652384718010
+    second: tilaisi_44
+  - first:
+      213: -467816192143709935
+    second: tilaisi_45
+  - first:
+      213: 8200891394489332876
+    second: tilaisi_46
+  - first:
+      213: -2552433344750925737
+    second: tilaisi_47
+  - first:
+      213: -1919917025407772498
+    second: tilaisi_48
+  - first:
+      213: -325233088632076688
+    second: tilaisi_49
+  - first:
+      213: -6241817823376861284
+    second: tilaisi_50
+  - first:
+      213: -5051960785952429990
+    second: tilaisi_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilaisi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 532
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5926099997b15460800000000000000
+      internalID: 7228760747231553887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_1
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1854
+        width: 345
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9674ae105ca2f3220800000000000000
+      internalID: 2467738146451375977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1739
+        width: 171
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b84b4dd6bb885680800000000000000
+      internalID: -8766103057163663183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_3
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1799
+        width: 105
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2238c80d51f13d0800000000000000
+      internalID: -3233842021973941584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1736
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ec9cff949ec2e00800000000000000
+      internalID: 1021447719539559968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_5
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1761
+        width: 28
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a12418da64b7530800000000000000
+      internalID: 3853751617157470819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_6
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1710
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4316137c1b4f4a0800000000000000
+      internalID: -6560423288086907668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1671
+        width: 107
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacb17efde8029a90800000000000000
+      internalID: -7308769426999755606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_8
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1746
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e4bbb5f2b96f2f0800000000000000
+      internalID: -939392844555399595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1748
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b197c85b5ce3dc0800000000000000
+      internalID: -3657268463841764471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_10
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1644
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce271454e63f7c20800000000000000
+      internalID: 3206341814002331336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1608
+        width: 54
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d02c97889031500800000000000000
+      internalID: 365646476510104841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_12
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1730
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b99d98c1e9d27980800000000000000
+      internalID: -8542525979411768904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_13
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1695
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8eebfb5d8c3f60800000000000000
+      internalID: 8015436863020894991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_14
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1604
+        width: 48
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf913c40f1467760800000000000000
+      internalID: 7455218733484711857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_15
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1616
+        width: 54
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d13f1e9052f3030800000000000000
+      internalID: 3476538161729052057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_16
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1673
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876e4808e166c0d60800000000000000
+      internalID: 7857767731045918328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1615
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d925f66674b9188a0800000000000000
+      internalID: -6304587272378428771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_18
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1661
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8203a7235973a7550800000000000000
+      internalID: 6159296554319097896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_19
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1656
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5b4985e854267f0800000000000000
+      internalID: -620857320949893723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_20
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1590
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72391556d4d993000800000000000000
+      internalID: 16217029410394919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_21
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1622
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd879614650d7ce00800000000000000
+      internalID: 1065048905779607771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_22
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1586
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13183d396d7a0eb0800000000000000
+      internalID: -4752848565784014050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1630
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac54979efa412510800000000000000
+      internalID: 1522580606353169572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1594
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07a125c042d66690800000000000000
+      internalID: -7609163344768817398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_25
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1615
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59feaad314ac2a0a0800000000000000
+      internalID: -6871707699857657963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_26
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1563
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf10ce6073134ca0800000000000000
+      internalID: -6033957702130982947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_27
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1558
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eb68804e66069f0800000000000000
+      internalID: -477268430919647661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_28
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1576
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2011e5f523dca4c0800000000000000
+      internalID: -4274809786289024979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_29
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1608
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd349f3dfbd53490800000000000000
+      internalID: -7767060101590663688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_30
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1560
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3a38f3426fc1230800000000000000
+      internalID: 3611031636789142440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_31
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1540
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2631529ef9b748dd0800000000000000
+      internalID: -2484725167660133534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_32
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1568
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a647e8eec2dd0b10800000000000000
+      internalID: 1949445999833859750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1559
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6573a0fe8f3f24a90800000000000000
+      internalID: -7331028992917883050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_34
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1561
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd76722888f2aa470800000000000000
+      internalID: 8406583917786130395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_35
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1548
+        width: 96
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e82b6a32326a0260800000000000000
+      internalID: 7064566933352032489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_36
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1545
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97d61277bfd5c5f0800000000000000
+      internalID: -736936985019099233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_37
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1551
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341847c000678cf50800000000000000
+      internalID: 6901896171526324547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_38
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1549
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bb9c9280899a040800000000000000
+      internalID: 4659422450319735699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_39
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1558
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e80eadf5eeff36b0800000000000000
+      internalID: -5314248771516888864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_40
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1552
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f5ca6c29ec1ead0800000000000000
+      internalID: -2674629573887631568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_41
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1515
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bca0f061fc5ad840800000000000000
+      internalID: 5249610507436993717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_42
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1524
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e102865d176960800000000000000
+      internalID: 7595071553969185578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_43
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1538
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e9bd90d19e10480800000000000000
+      internalID: -8934603874797642205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_44
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1535
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643784c5dcd454bf0800000000000000
+      internalID: -340780652384718010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_45
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1544
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119291fd6abf189f0800000000000000
+      internalID: -467816192143709935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_46
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1517
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84381ae54b6fc170800000000000000
+      internalID: 8200891394489332876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_47
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1522
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7584245756fe39cd0800000000000000
+      internalID: -2552433344750925737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_48
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1509
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8585633a51b55e0800000000000000
+      internalID: -1919917025407772498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_49
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1512
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076c1e2aa3a8c7bf0800000000000000
+      internalID: -325233088632076688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_50
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1503
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c979bec92cb9069a0800000000000000
+      internalID: -6241817823376861284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilaisi_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 935
+        width: 525
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a582a1e7e64d3e9b0800000000000000
+      internalID: -5051960785952429990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tilaisi_0: 7228760747231553887
+      tilaisi_1: 2467738146451375977
+      tilaisi_10: 3206341814002331336
+      tilaisi_11: 365646476510104841
+      tilaisi_12: -8542525979411768904
+      tilaisi_13: 8015436863020894991
+      tilaisi_14: 7455218733484711857
+      tilaisi_15: 3476538161729052057
+      tilaisi_16: 7857767731045918328
+      tilaisi_17: -6304587272378428771
+      tilaisi_18: 6159296554319097896
+      tilaisi_19: -620857320949893723
+      tilaisi_2: -8766103057163663183
+      tilaisi_20: 16217029410394919
+      tilaisi_21: 1065048905779607771
+      tilaisi_22: -4752848565784014050
+      tilaisi_23: 1522580606353169572
+      tilaisi_24: -7609163344768817398
+      tilaisi_25: -6871707699857657963
+      tilaisi_26: -6033957702130982947
+      tilaisi_27: -477268430919647661
+      tilaisi_28: -4274809786289024979
+      tilaisi_29: -7767060101590663688
+      tilaisi_3: -3233842021973941584
+      tilaisi_30: 3611031636789142440
+      tilaisi_31: -2484725167660133534
+      tilaisi_32: 1949445999833859750
+      tilaisi_33: -7331028992917883050
+      tilaisi_34: 8406583917786130395
+      tilaisi_35: 7064566933352032489
+      tilaisi_36: -736936985019099233
+      tilaisi_37: 6901896171526324547
+      tilaisi_38: 4659422450319735699
+      tilaisi_39: -5314248771516888864
+      tilaisi_4: 1021447719539559968
+      tilaisi_40: -2674629573887631568
+      tilaisi_41: 5249610507436993717
+      tilaisi_42: 7595071553969185578
+      tilaisi_43: -8934603874797642205
+      tilaisi_44: -340780652384718010
+      tilaisi_45: -467816192143709935
+      tilaisi_46: 8200891394489332876
+      tilaisi_47: -2552433344750925737
+      tilaisi_48: -1919917025407772498
+      tilaisi_49: -325233088632076688
+      tilaisi_5: 3853751617157470819
+      tilaisi_50: -6241817823376861284
+      tilaisi_51: -5051960785952429990
+      tilaisi_6: -6560423288086907668
+      tilaisi_7: -7308769426999755606
+      tilaisi_8: -939392844555399595
+      tilaisi_9: -3657268463841764471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

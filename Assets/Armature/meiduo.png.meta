@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 949ecc6d02fd3b247be731328efda1ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6375211615704132002
+    second: meiduo_0
+  - first:
+      213: -5784562566446514127
+    second: meiduo_1
+  - first:
+      213: 7060280281341054668
+    second: meiduo_2
+  - first:
+      213: -458451520182450009
+    second: meiduo_3
+  - first:
+      213: 4716557774028098606
+    second: meiduo_4
+  - first:
+      213: 1723076347117223146
+    second: meiduo_5
+  - first:
+      213: -806378962969741051
+    second: meiduo_6
+  - first:
+      213: -8588063619494590813
+    second: meiduo_7
+  - first:
+      213: -5694785858253907522
+    second: meiduo_8
+  - first:
+      213: -209390681619461208
+    second: meiduo_9
+  - first:
+      213: 8990828332395288973
+    second: meiduo_10
+  - first:
+      213: -6183553146528552391
+    second: meiduo_11
+  - first:
+      213: 4658976316479456294
+    second: meiduo_12
+  - first:
+      213: 4949132532668994952
+    second: meiduo_13
+  - first:
+      213: 2203503109136436905
+    second: meiduo_14
+  - first:
+      213: 1587517547643174016
+    second: meiduo_15
+  - first:
+      213: -4538169663657983464
+    second: meiduo_16
+  - first:
+      213: 1834869717578758108
+    second: meiduo_17
+  - first:
+      213: 4880226082639483820
+    second: meiduo_18
+  - first:
+      213: -195309712683489
+    second: meiduo_19
+  - first:
+      213: -3820272702407372389
+    second: meiduo_20
+  - first:
+      213: -4196342811928586304
+    second: meiduo_21
+  - first:
+      213: -6448987717255272344
+    second: meiduo_22
+  - first:
+      213: 4742458922691707546
+    second: meiduo_23
+  - first:
+      213: 7061388261248367134
+    second: meiduo_24
+  - first:
+      213: -4539459656709385307
+    second: meiduo_25
+  - first:
+      213: 6924709994881419378
+    second: meiduo_26
+  - first:
+      213: 1829441295315759644
+    second: meiduo_27
+  - first:
+      213: -5782704323764392905
+    second: meiduo_28
+  - first:
+      213: -5935257243040647268
+    second: meiduo_29
+  - first:
+      213: -6198434880086700382
+    second: meiduo_30
+  - first:
+      213: -8691195972797592779
+    second: meiduo_31
+  - first:
+      213: 4533167826393857802
+    second: meiduo_32
+  - first:
+      213: -6640742129398053978
+    second: meiduo_33
+  - first:
+      213: 9172711910695102247
+    second: meiduo_34
+  - first:
+      213: 5549424897792212833
+    second: meiduo_35
+  - first:
+      213: -5380999108830066944
+    second: meiduo_36
+  - first:
+      213: -7085915605211418533
+    second: meiduo_37
+  - first:
+      213: 2189104492115784137
+    second: meiduo_38
+  - first:
+      213: 6668971626342738277
+    second: meiduo_39
+  - first:
+      213: -4577469208323012061
+    second: meiduo_40
+  - first:
+      213: 4214374097515666139
+    second: meiduo_41
+  - first:
+      213: -6912193579649136373
+    second: meiduo_42
+  - first:
+      213: -2821266816945946970
+    second: meiduo_43
+  - first:
+      213: -7664535677353498849
+    second: meiduo_44
+  - first:
+      213: -1029469970455498386
+    second: meiduo_45
+  - first:
+      213: 1476596218846584352
+    second: meiduo_46
+  - first:
+      213: 2337538947020121389
+    second: meiduo_47
+  - first:
+      213: 4842247555266116827
+    second: meiduo_48
+  - first:
+      213: 8334829462229297625
+    second: meiduo_49
+  - first:
+      213: 1275929480148784239
+    second: meiduo_50
+  - first:
+      213: 5874935977645588938
+    second: meiduo_51
+  - first:
+      213: 2980198363248076270
+    second: meiduo_52
+  - first:
+      213: -7480961121822774780
+    second: meiduo_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meiduo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a92df9ef2d497850800000000000000
+      internalID: 6375211615704132002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 159
+        width: 148
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1300fe56efa19bfa0800000000000000
+      internalID: -5784562566446514127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 161
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce470842872bf160800000000000000
+      internalID: 7060280281341054668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 160
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a889c875c043a9f0800000000000000
+      internalID: -458451520182450009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_4
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 226
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c4d8b5e44947140800000000000000
+      internalID: 4716557774028098606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 195
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecbcc6fec899e710800000000000000
+      internalID: 1723076347117223146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 166
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50937d50b9a2fc4f0800000000000000
+      internalID: -806378962969741051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_7
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 187
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6c19bb3a111d880800000000000000
+      internalID: -8588063619494590813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 101
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb99bd62f6e08f0b0800000000000000
+      internalID: -5694785858253907522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 145
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab8bc2d848181df0800000000000000
+      internalID: -209390681619461208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 123
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8950fc9bb6d5cc70800000000000000
+      internalID: 8990828332395288973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 148
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aaa63dc2b9f2aa0800000000000000
+      internalID: -6183553146528552391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 142
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62447b8864208a040800000000000000
+      internalID: 4658976316479456294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 71
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885901c11d9dea440800000000000000
+      internalID: 4949132532668994952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_14
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 145
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aecb81376a649e10800000000000000
+      internalID: 2203503109136436905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 146
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c78fd6ccef70610800000000000000
+      internalID: 1587517547643174016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 123
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81246333cbe2501c0800000000000000
+      internalID: -4538169663657983464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 99
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7376d5944c67910800000000000000
+      internalID: 1834869717578758108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 137
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3925ff3cb0ab340800000000000000
+      internalID: 4880226082639483820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 121
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e44f9ed5e4ffff0800000000000000
+      internalID: -195309712683489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 125
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9113e3c73aabfac0800000000000000
+      internalID: -3820272702407372389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 113
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c79b3b127893c5c0800000000000000
+      internalID: -4196342811928586304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 122
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8686420e6d79086a0800000000000000
+      internalID: -6448987717255272344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_23
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 52
+        width: 33
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92cbe8734990d140800000000000000
+      internalID: 4742458922691707546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 110
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a72d4f5371ff160800000000000000
+      internalID: 7061388261248367134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3de994e799001c0800000000000000
+      internalID: -4539459656709385307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 67
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27801893d03891060800000000000000
+      internalID: 6924709994881419378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 116
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12f9b05a2b736910800000000000000
+      internalID: 1829441295315759644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_28
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 110
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c68ec3e05bfbfa0800000000000000
+      internalID: -5782704323764392905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 106
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c977ff9dbfab1ada0800000000000000
+      internalID: -5935257243040647268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 116
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae8a09315cbaf9a0800000000000000
+      internalID: -6198434880086700382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 106
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b08188f4ba26780800000000000000
+      internalID: -8691195972797592779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 85
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f7f6fce1c09ee30800000000000000
+      internalID: 4533167826393857802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 67
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3024ca73857d3a0800000000000000
+      internalID: -6640742129398053978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 85
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727e9f732e40c4f70800000000000000
+      internalID: 9172711910695102247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_35
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 52
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ffc9cda84830d40800000000000000
+      internalID: 5549424897792212833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_36
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 73
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0078d7df1d9d255b0800000000000000
+      internalID: -5380999108830066944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50f9f2cc45c9ad90800000000000000
+      internalID: -7085915605211418533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 59
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1f5ccefe2416e10800000000000000
+      internalID: 2189104492115784137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_39
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 73
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56961554c52fc8c50800000000000000
+      internalID: 6668971626342738277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_40
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 59
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a4e9be1009970c0800000000000000
+      internalID: -4577469208323012061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_41
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 83
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda5709b9e67c7a30800000000000000
+      internalID: 4214374097515666139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09074acf84f210a0800000000000000
+      internalID: -6912193579649136373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 69
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aef65717c8d8d8d0800000000000000
+      internalID: -2821266816945946970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17690fe86912a590800000000000000
+      internalID: -7664535677353498849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_45
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 66
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e617118248696b1f0800000000000000
+      internalID: -1029469970455498386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e190d007ced7410800000000000000
+      internalID: 1476596218846584352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 53
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2566c9994b907020800000000000000
+      internalID: 2337538947020121389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_48
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 49
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcf3260f7e133340800000000000000
+      internalID: 4842247555266116827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 39
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d923af6c334ba370800000000000000
+      internalID: 8334829462229297625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_50
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 29
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6497be1a1305b110800000000000000
+      internalID: 1275929480148784239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_51
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 47
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac14ab91527f78150800000000000000
+      internalID: 5874935977645588938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 36
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee52a912f9acb5920800000000000000
+      internalID: 2980198363248076270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meiduo_53
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 46
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aee3bde794e2890800000000000000
+      internalID: -7480961121822774780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      meiduo_0: 6375211615704132002
+      meiduo_1: -5784562566446514127
+      meiduo_10: 8990828332395288973
+      meiduo_11: -6183553146528552391
+      meiduo_12: 4658976316479456294
+      meiduo_13: 4949132532668994952
+      meiduo_14: 2203503109136436905
+      meiduo_15: 1587517547643174016
+      meiduo_16: -4538169663657983464
+      meiduo_17: 1834869717578758108
+      meiduo_18: 4880226082639483820
+      meiduo_19: -195309712683489
+      meiduo_2: 7060280281341054668
+      meiduo_20: -3820272702407372389
+      meiduo_21: -4196342811928586304
+      meiduo_22: -6448987717255272344
+      meiduo_23: 4742458922691707546
+      meiduo_24: 7061388261248367134
+      meiduo_25: -4539459656709385307
+      meiduo_26: 6924709994881419378
+      meiduo_27: 1829441295315759644
+      meiduo_28: -5782704323764392905
+      meiduo_29: -5935257243040647268
+      meiduo_3: -458451520182450009
+      meiduo_30: -6198434880086700382
+      meiduo_31: -8691195972797592779
+      meiduo_32: 4533167826393857802
+      meiduo_33: -6640742129398053978
+      meiduo_34: 9172711910695102247
+      meiduo_35: 5549424897792212833
+      meiduo_36: -5380999108830066944
+      meiduo_37: -7085915605211418533
+      meiduo_38: 2189104492115784137
+      meiduo_39: 6668971626342738277
+      meiduo_4: 4716557774028098606
+      meiduo_40: -4577469208323012061
+      meiduo_41: 4214374097515666139
+      meiduo_42: -6912193579649136373
+      meiduo_43: -2821266816945946970
+      meiduo_44: -7664535677353498849
+      meiduo_45: -1029469970455498386
+      meiduo_46: 1476596218846584352
+      meiduo_47: 2337538947020121389
+      meiduo_48: 4842247555266116827
+      meiduo_49: 8334829462229297625
+      meiduo_5: 1723076347117223146
+      meiduo_50: 1275929480148784239
+      meiduo_51: 5874935977645588938
+      meiduo_52: 2980198363248076270
+      meiduo_53: -7480961121822774780
+      meiduo_6: -806378962969741051
+      meiduo_7: -8588063619494590813
+      meiduo_8: -5694785858253907522
+      meiduo_9: -209390681619461208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

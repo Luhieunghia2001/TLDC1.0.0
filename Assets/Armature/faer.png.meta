@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: ea60b3ecc6f7d294c8e23d95ceee98da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7776231303935383255
+    second: faer_0
+  - first:
+      213: 6786956717207358580
+    second: faer_1
+  - first:
+      213: 3192691260536946331
+    second: faer_2
+  - first:
+      213: -8853450833029150873
+    second: faer_3
+  - first:
+      213: 7724686654469009869
+    second: faer_4
+  - first:
+      213: 6595974109151794008
+    second: faer_5
+  - first:
+      213: -2770236837507171845
+    second: faer_6
+  - first:
+      213: 8375631735243527336
+    second: faer_7
+  - first:
+      213: 909322799388340241
+    second: faer_8
+  - first:
+      213: 1903399893114354813
+    second: faer_9
+  - first:
+      213: -998994658881496296
+    second: faer_10
+  - first:
+      213: 1711006640849174368
+    second: faer_11
+  - first:
+      213: 608382024313126529
+    second: faer_12
+  - first:
+      213: -2976973637677279003
+    second: faer_13
+  - first:
+      213: -6022391967255224249
+    second: faer_14
+  - first:
+      213: -2355945011783671035
+    second: faer_15
+  - first:
+      213: 917313660228073244
+    second: faer_16
+  - first:
+      213: -6191026224400305121
+    second: faer_17
+  - first:
+      213: 303839801710770895
+    second: faer_18
+  - first:
+      213: -6993996470460545996
+    second: faer_19
+  - first:
+      213: -809068707589423562
+    second: faer_20
+  - first:
+      213: 7231249042450123620
+    second: faer_21
+  - first:
+      213: -6421693955781699147
+    second: faer_22
+  - first:
+      213: -8112093465836459978
+    second: faer_23
+  - first:
+      213: 464429776236072654
+    second: faer_24
+  - first:
+      213: -2218396829286335268
+    second: faer_25
+  - first:
+      213: 1402937380995364672
+    second: faer_26
+  - first:
+      213: 2925030645792853090
+    second: faer_27
+  - first:
+      213: -5664550085868554038
+    second: faer_28
+  - first:
+      213: 8725228137714378049
+    second: faer_29
+  - first:
+      213: -7950441852662641817
+    second: faer_30
+  - first:
+      213: -5170441683447426658
+    second: faer_31
+  - first:
+      213: 3282129299367759715
+    second: faer_32
+  - first:
+      213: -2665804106803550502
+    second: faer_33
+  - first:
+      213: -2876756947144357163
+    second: faer_34
+  - first:
+      213: 974248286418050005
+    second: faer_35
+  - first:
+      213: -6657704904417601549
+    second: faer_36
+  - first:
+      213: 3634235096490357187
+    second: faer_37
+  - first:
+      213: 5733902479843362074
+    second: faer_38
+  - first:
+      213: -7177638105589022492
+    second: faer_39
+  - first:
+      213: -7991774308025594202
+    second: faer_40
+  - first:
+      213: 2494123381598655901
+    second: faer_41
+  - first:
+      213: -3227721662023040885
+    second: faer_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: faer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 123
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d65752bb29baeb60800000000000000
+      internalID: 7776231303935383255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 220
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c881bec2d103e50800000000000000
+      internalID: 6786956717207358580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 225
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e7ccd29c7be4c20800000000000000
+      internalID: 3192691260536946331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 209
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76749ecff59322580800000000000000
+      internalID: -8853450833029150873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 214
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc173d8c599933b60800000000000000
+      internalID: 7724686654469009869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 183
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8539aab518b998b50800000000000000
+      internalID: 6595974109151794008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 188
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9feac06442e89d0800000000000000
+      internalID: -2770236837507171845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 179
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4ddacefa83c3470800000000000000
+      internalID: 8375631735243527336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 156
+        width: 25
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110b4bba4409e9c00800000000000000
+      internalID: 909322799388340241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 180
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cf89e3e1c3a6a10800000000000000
+      internalID: 1903399893114354813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 184
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b1bd096abd222f0800000000000000
+      internalID: -998994658881496296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 182
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f362c7977beb710800000000000000
+      internalID: 1711006640849174368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 174
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ebaee4a38617800800000000000000
+      internalID: 608382024313126529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 180
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e81b8ccf3aafa6d0800000000000000
+      internalID: -2976973637677279003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 108
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740269de96a2c6ca0800000000000000
+      internalID: -6022391967255224249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 164
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503e74e7e700e4fd0800000000000000
+      internalID: -2355945011783671035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 102
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17f181f9e3fabc00800000000000000
+      internalID: 917313660228073244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 156
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14fd7b437e051aa0800000000000000
+      internalID: -6191026224400305121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 163
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca789990b4773400800000000000000
+      internalID: 303839801710770895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 130
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4340dd1144550fe90800000000000000
+      internalID: -6993996470460545996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 111
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e7f3d0c4c95c4f0800000000000000
+      internalID: -809068707589423562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 116
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b8f99f0be8a5460800000000000000
+      internalID: 7231249042450123620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 100
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9db5dee5f81e6a0800000000000000
+      internalID: -6421693955781699147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 109
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638ec08f8fd0c6f80800000000000000
+      internalID: -8112093465836459978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 86
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece4aabbb6cf17600800000000000000
+      internalID: 464429776236072654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_25
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 87
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcf88b56dba631e0800000000000000
+      internalID: -2218396829286335268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_26
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 118
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047785c6d1c387310800000000000000
+      internalID: 1402937380995364672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 76
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c4d97ffdbc79820800000000000000
+      internalID: 2925030645792853090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 80
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8756f75b97361b0800000000000000
+      internalID: -5664550085868554038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 56
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14565b453cc361970800000000000000
+      internalID: 8725228137714378049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 73
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b05ac124b5aa190800000000000000
+      internalID: -7950441852662641817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 62
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e915e3edea6ee38b0800000000000000
+      internalID: -5170441683447426658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 76
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f87b355377c8d20800000000000000
+      internalID: 3282129299367759715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_33
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 74
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad66235f949210bd0800000000000000
+      internalID: -2665804106803550502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 75
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dac25c5cc4b318d0800000000000000
+      internalID: -2876756947144357163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_35
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 60
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db1bfa97a9358d00800000000000000
+      internalID: 974248286418050005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_36
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 55
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f710d8d9a41b93a0800000000000000
+      internalID: -6657704904417601549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 48
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1b094b0956f6230800000000000000
+      internalID: 3634235096490357187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 53
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a158bc70de9e29f40800000000000000
+      internalID: 5733902479843362074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_39
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 56
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e00f06fb28e36c90800000000000000
+      internalID: -7177638105589022492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_40
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 52
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae8a0deb93871190800000000000000
+      internalID: -7991774308025594202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 61
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d951f2a4008ec9220800000000000000
+      internalID: 2494123381598655901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faer_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 56
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b808845ef34d433d0800000000000000
+      internalID: -3227721662023040885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      faer_0: 7776231303935383255
+      faer_1: 6786956717207358580
+      faer_10: -998994658881496296
+      faer_11: 1711006640849174368
+      faer_12: 608382024313126529
+      faer_13: -2976973637677279003
+      faer_14: -6022391967255224249
+      faer_15: -2355945011783671035
+      faer_16: 917313660228073244
+      faer_17: -6191026224400305121
+      faer_18: 303839801710770895
+      faer_19: -6993996470460545996
+      faer_2: 3192691260536946331
+      faer_20: -809068707589423562
+      faer_21: 7231249042450123620
+      faer_22: -6421693955781699147
+      faer_23: -8112093465836459978
+      faer_24: 464429776236072654
+      faer_25: -2218396829286335268
+      faer_26: 1402937380995364672
+      faer_27: 2925030645792853090
+      faer_28: -5664550085868554038
+      faer_29: 8725228137714378049
+      faer_3: -8853450833029150873
+      faer_30: -7950441852662641817
+      faer_31: -5170441683447426658
+      faer_32: 3282129299367759715
+      faer_33: -2665804106803550502
+      faer_34: -2876756947144357163
+      faer_35: 974248286418050005
+      faer_36: -6657704904417601549
+      faer_37: 3634235096490357187
+      faer_38: 5733902479843362074
+      faer_39: -7177638105589022492
+      faer_4: 7724686654469009869
+      faer_40: -7991774308025594202
+      faer_41: 2494123381598655901
+      faer_42: -3227721662023040885
+      faer_5: 6595974109151794008
+      faer_6: -2770236837507171845
+      faer_7: 8375631735243527336
+      faer_8: 909322799388340241
+      faer_9: 1903399893114354813
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

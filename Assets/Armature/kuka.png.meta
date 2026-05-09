@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 76ac5993955438c4fb922f80a3e10211
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8325902583955103705
+    second: kuka_0
+  - first:
+      213: -7521204042784316563
+    second: kuka_1
+  - first:
+      213: -6858468406675674336
+    second: kuka_2
+  - first:
+      213: -8646417429104975051
+    second: kuka_3
+  - first:
+      213: -3217000275997969959
+    second: kuka_4
+  - first:
+      213: -2069647072518939250
+    second: kuka_5
+  - first:
+      213: 971674948715170193
+    second: kuka_6
+  - first:
+      213: 6885213927983712414
+    second: kuka_7
+  - first:
+      213: 11151642115162454
+    second: kuka_8
+  - first:
+      213: 6095816971437222357
+    second: kuka_9
+  - first:
+      213: 105734580502888471
+    second: kuka_10
+  - first:
+      213: 3960259893596296965
+    second: kuka_11
+  - first:
+      213: -397525912852866955
+    second: kuka_12
+  - first:
+      213: 5505007190360254279
+    second: kuka_13
+  - first:
+      213: 7161043402236027007
+    second: kuka_14
+  - first:
+      213: -1813476324143743164
+    second: kuka_15
+  - first:
+      213: -6518174132837482382
+    second: kuka_16
+  - first:
+      213: -6843423180361309481
+    second: kuka_17
+  - first:
+      213: -634611626533690810
+    second: kuka_18
+  - first:
+      213: 9044957419999602024
+    second: kuka_19
+  - first:
+      213: -8336248217953647074
+    second: kuka_20
+  - first:
+      213: -3162456262000718918
+    second: kuka_21
+  - first:
+      213: -2788519579010769745
+    second: kuka_22
+  - first:
+      213: 6838582195064084933
+    second: kuka_23
+  - first:
+      213: -6056593594694929736
+    second: kuka_24
+  - first:
+      213: -7647034570710598049
+    second: kuka_25
+  - first:
+      213: -5281661135966569491
+    second: kuka_26
+  - first:
+      213: -2297135189086022873
+    second: kuka_27
+  - first:
+      213: 4000672165024312254
+    second: kuka_28
+  - first:
+      213: -5036707961721808256
+    second: kuka_29
+  - first:
+      213: -4255934670887974486
+    second: kuka_30
+  - first:
+      213: 1286467879650154040
+    second: kuka_31
+  - first:
+      213: 2898914202654000624
+    second: kuka_32
+  - first:
+      213: 4069214410073602605
+    second: kuka_33
+  - first:
+      213: 3073850234394829709
+    second: kuka_34
+  - first:
+      213: -984348662256218560
+    second: kuka_35
+  - first:
+      213: 8960729828479776498
+    second: kuka_36
+  - first:
+      213: 3630939451796626437
+    second: kuka_37
+  - first:
+      213: 3928727741267359287
+    second: kuka_38
+  - first:
+      213: -5256153826070941484
+    second: kuka_39
+  - first:
+      213: 562094514269618887
+    second: kuka_40
+  - first:
+      213: 920413160395504438
+    second: kuka_41
+  - first:
+      213: -2222256727439446783
+    second: kuka_42
+  - first:
+      213: -3408828369688419374
+    second: kuka_43
+  - first:
+      213: 3168930459659301371
+    second: kuka_44
+  - first:
+      213: -459676092035117909
+    second: kuka_45
+  - first:
+      213: 1981900924887369902
+    second: kuka_46
+  - first:
+      213: 5898513312005644210
+    second: kuka_47
+  - first:
+      213: -8569733360374930768
+    second: kuka_48
+  - first:
+      213: 4711913427006956778
+    second: kuka_49
+  - first:
+      213: 532640394878018740
+    second: kuka_50
+  - first:
+      213: -7782685813190328574
+    second: kuka_51
+  - first:
+      213: 4599095285962241547
+    second: kuka_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kuka_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 163
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72069d066b3747c80800000000000000
+      internalID: -8325902583955103705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 247
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63eb9aa5c05f9790800000000000000
+      internalID: -7521204042784316563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 160
+        width: 188
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b6bd46253d1d0a0800000000000000
+      internalID: -6858468406675674336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 167
+        width: 120
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533a37ea821c10880800000000000000
+      internalID: -8646417429104975051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 202
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1beca1b4bea53d0800000000000000
+      internalID: -3217000275997969959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 122
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dd418f3f22743e0800000000000000
+      internalID: -2069647072518939250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 152
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199405bb7351c7d00800000000000000
+      internalID: 971674948715170193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 98
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e988a0c86913d8f50800000000000000
+      internalID: 6885213927983712414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_8
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 88
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651cfe20c5e972000800000000000000
+      internalID: 11151642115162454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 159
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9205e0d31b89450800000000000000
+      internalID: 6095816971437222357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 136
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710895f6a05a77100800000000000000
+      internalID: 105734580502888471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 131
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5079800146ba5f630800000000000000
+      internalID: 3960259893596296965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 142
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5785467d944bb7af0800000000000000
+      internalID: -397525912852866955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 117
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747e4637fd6b56c40800000000000000
+      internalID: 5505007190360254279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 122
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70ee639803216360800000000000000
+      internalID: 7161043402236027007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 152
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fb4d234ec35d6e0800000000000000
+      internalID: -1813476324143743164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 122
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2700514392bca85a0800000000000000
+      internalID: -6518174132837482382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 119
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2e3ee10e64701a0800000000000000
+      internalID: -6843423180361309481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642602686186137f0800000000000000
+      internalID: -634611626533690810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_19
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 118
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8652c9be9d4268d70800000000000000
+      internalID: 9044957419999602024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 110
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16c361c962bf4c80800000000000000
+      internalID: -8336248217953647074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbccbdf8c2bc14d0800000000000000
+      internalID: -3162456262000718918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 83
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac57d397303d49d0800000000000000
+      internalID: -2788519579010769745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 76
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c91b18264687ee50800000000000000
+      internalID: 6838582195064084933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 94
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b27d4ff638a2fba0800000000000000
+      internalID: -6056593594694929736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 110
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb9abd29640e590800000000000000
+      internalID: -7647034570710598049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 109
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf9b62e25c3b6b0800000000000000
+      internalID: -5281661135966569491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 111
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7235a7d57bfee10e0800000000000000
+      internalID: -2297135189086022873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 108
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb211b332e358730800000000000000
+      internalID: 4000672165024312254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 106
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a90306bc40a1ab0800000000000000
+      internalID: -5036707961721808256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 110
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9047a37f1efe4c0800000000000000
+      internalID: -4255934670887974486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 109
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8365f7578b37ad110800000000000000
+      internalID: 1286467879650154040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_32
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 107
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5c683bb130b3820800000000000000
+      internalID: 2898914202654000624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_33
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 111
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a765342f0c87830800000000000000
+      internalID: 4069214410073602605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 74
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83ead1908288aa20800000000000000
+      internalID: 3073850234394829709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 65
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e46136b14e652f0800000000000000
+      internalID: -984348662256218560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 62
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6b8c29d48ea5c70800000000000000
+      internalID: 8960729828479776498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 78
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c1a41a130b36230800000000000000
+      internalID: 3630939451796626437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 84
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736b67db015a58630800000000000000
+      internalID: 3928727741267359287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 62
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d03b3881f36e07b0800000000000000
+      internalID: -5256153826070941484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 47
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c28c3d8bf5fcc700800000000000000
+      internalID: 562094514269618887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 62
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bf7ff84e6f5cc00800000000000000
+      internalID: 920413160395504438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_42
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 63
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10def39c745f821e0800000000000000
+      internalID: -2222256727439446783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_43
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 82
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3a27498a861b0d0800000000000000
+      internalID: -3408828369688419374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_44
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 68
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf178ed967d4afb20800000000000000
+      internalID: 3168930459659301371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_45
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 87
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacc18e9707ee99f0800000000000000
+      internalID: -459676092035117909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_46
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 49
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea80eeff360218b10800000000000000
+      internalID: 1981900924887369902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 61
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf52090b9abbd150800000000000000
+      internalID: 5898513312005644210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_48
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 40
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2a903c9e0321980800000000000000
+      internalID: -8569733360374930768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 58
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4a42d0c44146140800000000000000
+      internalID: 4711913427006956778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_50
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 43
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b46ab9fd91546700800000000000000
+      internalID: 532640394878018740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 64
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f7152cc785ef390800000000000000
+      internalID: -7782685813190328574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuka_52
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 61
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f3f7abc443df30800000000000000
+      internalID: 4599095285962241547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kuka_0: -8325902583955103705
+      kuka_1: -7521204042784316563
+      kuka_10: 105734580502888471
+      kuka_11: 3960259893596296965
+      kuka_12: -397525912852866955
+      kuka_13: 5505007190360254279
+      kuka_14: 7161043402236027007
+      kuka_15: -1813476324143743164
+      kuka_16: -6518174132837482382
+      kuka_17: -6843423180361309481
+      kuka_18: -634611626533690810
+      kuka_19: 9044957419999602024
+      kuka_2: -6858468406675674336
+      kuka_20: -8336248217953647074
+      kuka_21: -3162456262000718918
+      kuka_22: -2788519579010769745
+      kuka_23: 6838582195064084933
+      kuka_24: -6056593594694929736
+      kuka_25: -7647034570710598049
+      kuka_26: -5281661135966569491
+      kuka_27: -2297135189086022873
+      kuka_28: 4000672165024312254
+      kuka_29: -5036707961721808256
+      kuka_3: -8646417429104975051
+      kuka_30: -4255934670887974486
+      kuka_31: 1286467879650154040
+      kuka_32: 2898914202654000624
+      kuka_33: 4069214410073602605
+      kuka_34: 3073850234394829709
+      kuka_35: -984348662256218560
+      kuka_36: 8960729828479776498
+      kuka_37: 3630939451796626437
+      kuka_38: 3928727741267359287
+      kuka_39: -5256153826070941484
+      kuka_4: -3217000275997969959
+      kuka_40: 562094514269618887
+      kuka_41: 920413160395504438
+      kuka_42: -2222256727439446783
+      kuka_43: -3408828369688419374
+      kuka_44: 3168930459659301371
+      kuka_45: -459676092035117909
+      kuka_46: 1981900924887369902
+      kuka_47: 5898513312005644210
+      kuka_48: -8569733360374930768
+      kuka_49: 4711913427006956778
+      kuka_5: -2069647072518939250
+      kuka_50: 532640394878018740
+      kuka_51: -7782685813190328574
+      kuka_52: 4599095285962241547
+      kuka_6: 971674948715170193
+      kuka_7: 6885213927983712414
+      kuka_8: 11151642115162454
+      kuka_9: 6095816971437222357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

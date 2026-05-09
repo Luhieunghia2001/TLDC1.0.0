@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: ac4328e1b5cdb704092b166864e87dad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6264914662580470414
+    second: habi_0
+  - first:
+      213: 6086728433204820782
+    second: habi_1
+  - first:
+      213: 3731953282361780241
+    second: habi_2
+  - first:
+      213: 8133741499166407406
+    second: habi_3
+  - first:
+      213: 1893852415463951561
+    second: habi_4
+  - first:
+      213: -7725210053596330725
+    second: habi_5
+  - first:
+      213: -6895052938208568756
+    second: habi_6
+  - first:
+      213: -3231927551283506049
+    second: habi_7
+  - first:
+      213: -5657978119412386222
+    second: habi_8
+  - first:
+      213: -8865432763620084173
+    second: habi_9
+  - first:
+      213: 1755762888599937631
+    second: habi_10
+  - first:
+      213: 2434536932158172346
+    second: habi_11
+  - first:
+      213: 5268151436704062700
+    second: habi_12
+  - first:
+      213: 8960929271765924767
+    second: habi_13
+  - first:
+      213: -7392095792233419914
+    second: habi_14
+  - first:
+      213: -7309533619175431335
+    second: habi_15
+  - first:
+      213: 7057243903670020424
+    second: habi_16
+  - first:
+      213: -6135358061199792947
+    second: habi_17
+  - first:
+      213: 3711165414197514018
+    second: habi_18
+  - first:
+      213: -7218660327050993954
+    second: habi_19
+  - first:
+      213: -5595698380891596500
+    second: habi_20
+  - first:
+      213: 5806392303441785047
+    second: habi_21
+  - first:
+      213: 7101844958348260147
+    second: habi_22
+  - first:
+      213: 3273384845679286404
+    second: habi_23
+  - first:
+      213: 7991694036656947173
+    second: habi_24
+  - first:
+      213: -4145079544160585712
+    second: habi_25
+  - first:
+      213: 6438753310953410932
+    second: habi_26
+  - first:
+      213: -3674056480403570381
+    second: habi_27
+  - first:
+      213: 7054525785128801407
+    second: habi_28
+  - first:
+      213: 3292863473394502112
+    second: habi_29
+  - first:
+      213: 5569774123294989604
+    second: habi_30
+  - first:
+      213: 8451704914758555766
+    second: habi_31
+  - first:
+      213: -7388262279718382118
+    second: habi_32
+  - first:
+      213: -6000073883750087268
+    second: habi_33
+  - first:
+      213: -7850340931940680313
+    second: habi_34
+  - first:
+      213: 2367362386701530305
+    second: habi_35
+  - first:
+      213: 8487796250751710453
+    second: habi_36
+  - first:
+      213: -3097441972410601345
+    second: habi_37
+  - first:
+      213: -1383147030206769257
+    second: habi_38
+  - first:
+      213: 7203555975101431731
+    second: habi_39
+  - first:
+      213: -6485436305299694534
+    second: habi_40
+  - first:
+      213: 8279201396107273286
+    second: habi_41
+  - first:
+      213: 89329785147201983
+    second: habi_42
+  - first:
+      213: 6020845077387284143
+    second: habi_43
+  - first:
+      213: 2422046182516511917
+    second: habi_44
+  - first:
+      213: 8488984653639315249
+    second: habi_45
+  - first:
+      213: -8853839292745061543
+    second: habi_46
+  - first:
+      213: -6575169316578224475
+    second: habi_47
+  - first:
+      213: -1219265371298413128
+    second: habi_48
+  - first:
+      213: -6158748919464930307
+    second: habi_49
+  - first:
+      213: -4584732688662122090
+    second: habi_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: habi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 476
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82ce3351b271f650800000000000000
+      internalID: 6264914662580470414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 405
+        width: 338
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7179d247687450800000000000000
+      internalID: 6086728433204820782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 314
+        width: 296
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118e681dcbf8ac330800000000000000
+      internalID: 3731953282361780241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 348
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeabaa09ccad0e070800000000000000
+      internalID: 8133741499166407406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_4
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 333
+        width: 191
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc8eb0ecb0584a10800000000000000
+      internalID: 1893852415463951561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 143
+        width: 85
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b154d1cd26a8ac490800000000000000
+      internalID: -7725210053596330725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 221
+        width: 137
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a909e52e9df40a0800000000000000
+      internalID: -6895052938208568756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_7
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 184
+        width: 73
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74d2fdf303e523d0800000000000000
+      internalID: -3231927551283506049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 272
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256fd7da0e2da71b0800000000000000
+      internalID: -5657978119412386222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 311
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336b0506fd7a7f480800000000000000
+      internalID: -8865432763620084173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 166
+        width: 163
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5220d47b09bd5810800000000000000
+      internalID: 1755762888599937631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_11
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 269
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc6bd9e07639c120800000000000000
+      internalID: 2434536932158172346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 237
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec95bfd1db3c1940800000000000000
+      internalID: 5268151436704062700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_13
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 208
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bf10512bd9b5c70800000000000000
+      internalID: 8960929271765924767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_14
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 216
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b644eba000a6990800000000000000
+      internalID: -7392095792233419914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 152
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953e543a6e15f8a90800000000000000
+      internalID: -7309533619175431335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 118
+        width: 117
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849ea8380fd50f160800000000000000
+      internalID: 7057243903670020424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 181
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc46b509954dadaa0800000000000000
+      internalID: -6135358061199792947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 184
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f45f71845b08330800000000000000
+      internalID: 3711165414197514018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 111
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede9bebbdaa22db90800000000000000
+      internalID: -7218660327050993954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 144
+        width: 117
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c295ab848f51852b0800000000000000
+      internalID: -5595698380891596500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_21
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 100
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0b5315903749050800000000000000
+      internalID: 5806392303441785047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 171
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3333f38cc52de8260800000000000000
+      internalID: 7101844958348260147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_23
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 172
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4885cdb8c266d6d20800000000000000
+      internalID: 3273384845679286404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 133
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef7b80726338ee60800000000000000
+      internalID: 7991694036656947173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 133
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018f19cbd18b976c0800000000000000
+      internalID: -4145079544160585712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_26
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 54
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4719fb7b50c0b5950800000000000000
+      internalID: 6438753310953410932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 100
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331c2d8d811230dc0800000000000000
+      internalID: -3674056480403570381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_28
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f749f6933d5b6e160800000000000000
+      internalID: 7054525785128801407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_29
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9c989f1e992bd20800000000000000
+      internalID: 3292863473394502112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_30
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 99
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d19222e00db4d40800000000000000
+      internalID: 5569774123294989604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_31
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 97
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6785b9647dc7a4570800000000000000
+      internalID: 8451704914758555766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 122
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5d7fde99e977990800000000000000
+      internalID: -7388262279718382118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_33
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 121
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c954afca7947bbca0800000000000000
+      internalID: -6000073883750087268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_34
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 76
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d77f9e38cfd0390800000000000000
+      internalID: -7850340931940680313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_35
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 135
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c437f14c8f8ad020800000000000000
+      internalID: 2367362386701530305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4b2f348b5bac570800000000000000
+      internalID: 8487796250751710453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 70
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70b412efeca305d0800000000000000
+      internalID: -3097441972410601345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 117
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7979360ba131ecce0800000000000000
+      internalID: -1383147030206769257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_39
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 113
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf30974efb28f360800000000000000
+      internalID: 7203555975101431731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_40
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 105
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c9039aa0a1ff5a0800000000000000
+      internalID: -6485436305299694534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 116
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64464eefdc1a5e270800000000000000
+      internalID: 8279201396107273286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_42
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 107
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb99f8f57fc5d3100800000000000000
+      internalID: 89329785147201983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_43
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 106
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae0455b2b65e8350800000000000000
+      internalID: 6020845077387284143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_44
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 89
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4dc72ab26dc9120800000000000000
+      internalID: 2422046182516511917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_45
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fe9efd09eeec570800000000000000
+      internalID: 8488984653639315249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_46
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 96
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95be889a218d02580800000000000000
+      internalID: -8853839292745061543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_47
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 96
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a69e43e75e40c4a0800000000000000
+      internalID: -6575169316578224475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_48
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 88
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c2d0da9c441fe0800000000000000
+      internalID: -1219265371298413128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_49
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 95
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3d87afc7ab78aa0800000000000000
+      internalID: -6158748919464930307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habi_50
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 83
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6913c2e19e1cf50c0800000000000000
+      internalID: -4584732688662122090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      habi_0: 6264914662580470414
+      habi_1: 6086728433204820782
+      habi_10: 1755762888599937631
+      habi_11: 2434536932158172346
+      habi_12: 5268151436704062700
+      habi_13: 8960929271765924767
+      habi_14: -7392095792233419914
+      habi_15: -7309533619175431335
+      habi_16: 7057243903670020424
+      habi_17: -6135358061199792947
+      habi_18: 3711165414197514018
+      habi_19: -7218660327050993954
+      habi_2: 3731953282361780241
+      habi_20: -5595698380891596500
+      habi_21: 5806392303441785047
+      habi_22: 7101844958348260147
+      habi_23: 3273384845679286404
+      habi_24: 7991694036656947173
+      habi_25: -4145079544160585712
+      habi_26: 6438753310953410932
+      habi_27: -3674056480403570381
+      habi_28: 7054525785128801407
+      habi_29: 3292863473394502112
+      habi_3: 8133741499166407406
+      habi_30: 5569774123294989604
+      habi_31: 8451704914758555766
+      habi_32: -7388262279718382118
+      habi_33: -6000073883750087268
+      habi_34: -7850340931940680313
+      habi_35: 2367362386701530305
+      habi_36: 8487796250751710453
+      habi_37: -3097441972410601345
+      habi_38: -1383147030206769257
+      habi_39: 7203555975101431731
+      habi_4: 1893852415463951561
+      habi_40: -6485436305299694534
+      habi_41: 8279201396107273286
+      habi_42: 89329785147201983
+      habi_43: 6020845077387284143
+      habi_44: 2422046182516511917
+      habi_45: 8488984653639315249
+      habi_46: -8853839292745061543
+      habi_47: -6575169316578224475
+      habi_48: -1219265371298413128
+      habi_49: -6158748919464930307
+      habi_5: -7725210053596330725
+      habi_50: -4584732688662122090
+      habi_6: -6895052938208568756
+      habi_7: -3231927551283506049
+      habi_8: -5657978119412386222
+      habi_9: -8865432763620084173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

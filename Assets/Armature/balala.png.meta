@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 2f7c9678343728745b686ceb727d39f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1067009408270144785
+    second: balala_0
+  - first:
+      213: -1396726019640124575
+    second: balala_1
+  - first:
+      213: -691844654103510606
+    second: balala_2
+  - first:
+      213: 4908273310728761116
+    second: balala_3
+  - first:
+      213: 2510270846939633496
+    second: balala_4
+  - first:
+      213: -5208582131408840713
+    second: balala_5
+  - first:
+      213: 7461348064850371743
+    second: balala_6
+  - first:
+      213: 5542136072067957651
+    second: balala_7
+  - first:
+      213: -7122071891092684315
+    second: balala_8
+  - first:
+      213: 2859711811442642069
+    second: balala_9
+  - first:
+      213: 4057164193284195470
+    second: balala_10
+  - first:
+      213: -9060328679844576761
+    second: balala_11
+  - first:
+      213: -4337557997029675016
+    second: balala_12
+  - first:
+      213: 3305581860805875253
+    second: balala_13
+  - first:
+      213: -9186218704581485875
+    second: balala_14
+  - first:
+      213: -5599341558160306638
+    second: balala_15
+  - first:
+      213: 7308464627031041441
+    second: balala_16
+  - first:
+      213: -90675338221665759
+    second: balala_17
+  - first:
+      213: -8857162342191323649
+    second: balala_18
+  - first:
+      213: 1945401183208062229
+    second: balala_19
+  - first:
+      213: -6417545058381844462
+    second: balala_20
+  - first:
+      213: -5742961604276935710
+    second: balala_21
+  - first:
+      213: 8610059365494567313
+    second: balala_22
+  - first:
+      213: 5494261862800348174
+    second: balala_23
+  - first:
+      213: 2961476397237289552
+    second: balala_24
+  - first:
+      213: 3236196644698724484
+    second: balala_25
+  - first:
+      213: 1833166458536152863
+    second: balala_26
+  - first:
+      213: -2646904775895524141
+    second: balala_27
+  - first:
+      213: -8276398470609485229
+    second: balala_28
+  - first:
+      213: 7357796894930514355
+    second: balala_29
+  - first:
+      213: 110219932536783950
+    second: balala_30
+  - first:
+      213: -5138147045649150883
+    second: balala_31
+  - first:
+      213: -96018722460454770
+    second: balala_32
+  - first:
+      213: -6000258083571002109
+    second: balala_33
+  - first:
+      213: 6635161739995192700
+    second: balala_34
+  - first:
+      213: 3780542728214152958
+    second: balala_35
+  - first:
+      213: -5064413784641628290
+    second: balala_36
+  - first:
+      213: 5902644774457050556
+    second: balala_37
+  - first:
+      213: -4644255246637281722
+    second: balala_38
+  - first:
+      213: -7582414042976816288
+    second: balala_39
+  - first:
+      213: 556240835478627765
+    second: balala_40
+  - first:
+      213: 3668504967314714651
+    second: balala_41
+  - first:
+      213: -31709559112582140
+    second: balala_42
+  - first:
+      213: 2493463403317240143
+    second: balala_43
+  - first:
+      213: 706647322705442147
+    second: balala_44
+  - first:
+      213: 6793805367032594744
+    second: balala_45
+  - first:
+      213: 2186565984094499385
+    second: balala_46
+  - first:
+      213: 544401043313322842
+    second: balala_47
+  - first:
+      213: -7999071166010650387
+    second: balala_48
+  - first:
+      213: 3634007031853554240
+    second: balala_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balala_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 340
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaee00b8983131f0800000000000000
+      internalID: -1067009408270144785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 261
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b1ec6d515dd9ce0800000000000000
+      internalID: -1396726019640124575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 365
+        width: 181
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b14860e3f21666f0800000000000000
+      internalID: -691844654103510606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_3
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 390
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fa48a2290bd1440800000000000000
+      internalID: 4908273310728761116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_4
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 492
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8571bd9090646d220800000000000000
+      internalID: 2510270846939633496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_5
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 502
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7dde1d52667b7b0800000000000000
+      internalID: -5208582131408840713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_6
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 468
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9464f678880c8760800000000000000
+      internalID: 7461348064850371743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 459
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3934d70e46f99ec40800000000000000
+      internalID: 5542136072067957651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_8
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 364
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e140a27951592d90800000000000000
+      internalID: -7122071891092684315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_9
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 435
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c0709bdbcbfa720800000000000000
+      internalID: 2859711811442642069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 281
+        width: 137
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8483288651fd4830800000000000000
+      internalID: 4057164193284195470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 285
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7028491c11f334280800000000000000
+      internalID: -9060328679844576761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 325
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff246aabf5edc3c0800000000000000
+      internalID: -4337557997029675016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 287
+        width: 130
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5361f4d4039cfdd20800000000000000
+      internalID: 3305581860805875253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_14
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 269
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca1f5442cef38080800000000000000
+      internalID: -9186218704581485875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_15
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 275
+        width: 36
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ec5c9f4842b42b0800000000000000
+      internalID: -5599341558160306638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_16
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 338
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a561bb3bd1ec6560800000000000000
+      internalID: 7308464627031041441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 266
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122c863a24bddbef0800000000000000
+      internalID: -90675338221665759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_18
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 273
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff528bbe6c9051580800000000000000
+      internalID: -8857162342191323649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_19
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 244
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dbdb6a1147ffa10800000000000000
+      internalID: 1945401183208062229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_20
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 239
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210361165cc40f6a0800000000000000
+      internalID: -6417545058381844462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_21
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 232
+        width: 137
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3ad5239d6ec40b0800000000000000
+      internalID: -5742961604276935710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_22
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 243
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1913457ff531d7770800000000000000
+      internalID: 8610059365494567313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 207
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04d03bed0a8f3c40800000000000000
+      internalID: 5494261862800348174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_24
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 243
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052480cb717491920800000000000000
+      internalID: 2961476397237289552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 244
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4881496c3b749ec20800000000000000
+      internalID: 3236196644698724484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 209
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f45377e27b07910800000000000000
+      internalID: 1833166458536152863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 206
+        width: 115
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc5676512e444bd0800000000000000
+      internalID: -2646904775895524141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 229
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3524cb3f073542d80800000000000000
+      internalID: -8276398470609485229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_29
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 222
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b13ecbea452c1660800000000000000
+      internalID: 7357796894930514355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 224
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44c506d174978100800000000000000
+      internalID: 110219932536783950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_31
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 209
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c0c5c2c72a1b8b0800000000000000
+      internalID: -5138147045649150883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_32
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 230
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8035fb0b7fdaaef0800000000000000
+      internalID: -96018722460454770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_33
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 239
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3059510501dcabca0800000000000000
+      internalID: -6000258083571002109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_34
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 216
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d1daba274d41c50800000000000000
+      internalID: 6635161739995192700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_35
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 209
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef60465c49f277430800000000000000
+      internalID: 3780542728214152958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_36
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 217
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7718dace7697b9b0800000000000000
+      internalID: -5064413784641628290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_37
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 175
+        width: 109
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb504d816286ae150800000000000000
+      internalID: 5902644774457050556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_38
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 209
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ec0f1a57a4c8fb0800000000000000
+      internalID: -4644255246637281722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_39
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 207
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063fe6ce99ad5c690800000000000000
+      internalID: -7582414042976816288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_40
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 226
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b52540c71a28b700800000000000000
+      internalID: 556240835478627765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_41
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10bc89c4d529e230800000000000000
+      internalID: 3668504967314714651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 216
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c3c11f2585f8ff0800000000000000
+      internalID: -31709559112582140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_43
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 208
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41292f11cf8a9220800000000000000
+      internalID: 2493463403317240143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_44
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 198
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365b65bfef38ec900800000000000000
+      internalID: 706647322705442147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_45
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 210
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831ce177cf1784e50800000000000000
+      internalID: 6793805367032594744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_46
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 172
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932b7e77d2e385e10800000000000000
+      internalID: 2186565984094499385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_47
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 186
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bea025dd91e8700800000000000000
+      internalID: 544401043313322842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_48
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 166
+        width: 97
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de09dd8c7279df090800000000000000
+      internalID: -7999071166010650387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balala_49
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 173
+        width: 88
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a17e444269e6230800000000000000
+      internalID: 3634007031853554240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      balala_0: -1067009408270144785
+      balala_1: -1396726019640124575
+      balala_10: 4057164193284195470
+      balala_11: -9060328679844576761
+      balala_12: -4337557997029675016
+      balala_13: 3305581860805875253
+      balala_14: -9186218704581485875
+      balala_15: -5599341558160306638
+      balala_16: 7308464627031041441
+      balala_17: -90675338221665759
+      balala_18: -8857162342191323649
+      balala_19: 1945401183208062229
+      balala_2: -691844654103510606
+      balala_20: -6417545058381844462
+      balala_21: -5742961604276935710
+      balala_22: 8610059365494567313
+      balala_23: 5494261862800348174
+      balala_24: 2961476397237289552
+      balala_25: 3236196644698724484
+      balala_26: 1833166458536152863
+      balala_27: -2646904775895524141
+      balala_28: -8276398470609485229
+      balala_29: 7357796894930514355
+      balala_3: 4908273310728761116
+      balala_30: 110219932536783950
+      balala_31: -5138147045649150883
+      balala_32: -96018722460454770
+      balala_33: -6000258083571002109
+      balala_34: 6635161739995192700
+      balala_35: 3780542728214152958
+      balala_36: -5064413784641628290
+      balala_37: 5902644774457050556
+      balala_38: -4644255246637281722
+      balala_39: -7582414042976816288
+      balala_4: 2510270846939633496
+      balala_40: 556240835478627765
+      balala_41: 3668504967314714651
+      balala_42: -31709559112582140
+      balala_43: 2493463403317240143
+      balala_44: 706647322705442147
+      balala_45: 6793805367032594744
+      balala_46: 2186565984094499385
+      balala_47: 544401043313322842
+      balala_48: -7999071166010650387
+      balala_49: 3634007031853554240
+      balala_5: -5208582131408840713
+      balala_6: 7461348064850371743
+      balala_7: 5542136072067957651
+      balala_8: -7122071891092684315
+      balala_9: 2859711811442642069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: d40af17659b46514faadf82f43609984
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5605815204523652567
+    second: yika_0
+  - first:
+      213: 67561686719863092
+    second: yika_1
+  - first:
+      213: 1370852599290846738
+    second: yika_2
+  - first:
+      213: 3129046867314785509
+    second: yika_3
+  - first:
+      213: -323804570969848473
+    second: yika_4
+  - first:
+      213: -649615197839555871
+    second: yika_5
+  - first:
+      213: -4199544802318932947
+    second: yika_6
+  - first:
+      213: -1993910461303995451
+    second: yika_7
+  - first:
+      213: -8951947004224419874
+    second: yika_8
+  - first:
+      213: 1247502887807937730
+    second: yika_9
+  - first:
+      213: -5506786885051045783
+    second: yika_10
+  - first:
+      213: -6937481883329369747
+    second: yika_11
+  - first:
+      213: -5196870532818926298
+    second: yika_12
+  - first:
+      213: 7527608999022750854
+    second: yika_13
+  - first:
+      213: -4782559476961482778
+    second: yika_14
+  - first:
+      213: 5728995291003072660
+    second: yika_15
+  - first:
+      213: 5069067338810277572
+    second: yika_16
+  - first:
+      213: 1571975363431219174
+    second: yika_17
+  - first:
+      213: -2284456945808067095
+    second: yika_18
+  - first:
+      213: -3603500168898307194
+    second: yika_19
+  - first:
+      213: 3334348081373317684
+    second: yika_20
+  - first:
+      213: 2321942922490201188
+    second: yika_21
+  - first:
+      213: -1229323476190718848
+    second: yika_22
+  - first:
+      213: 3430574633716818063
+    second: yika_23
+  - first:
+      213: 352732381426296944
+    second: yika_24
+  - first:
+      213: -7727164017708047261
+    second: yika_25
+  - first:
+      213: 5353448386784637384
+    second: yika_26
+  - first:
+      213: 686283961723505738
+    second: yika_27
+  - first:
+      213: -3003666216076534051
+    second: yika_28
+  - first:
+      213: -9044178583924769522
+    second: yika_29
+  - first:
+      213: 8830611684106213790
+    second: yika_30
+  - first:
+      213: 638549964804752559
+    second: yika_31
+  - first:
+      213: 8652185561451051940
+    second: yika_32
+  - first:
+      213: -4111433991291843847
+    second: yika_33
+  - first:
+      213: 8604647042922604055
+    second: yika_34
+  - first:
+      213: 3799652250381338770
+    second: yika_35
+  - first:
+      213: 5071793033743643039
+    second: yika_36
+  - first:
+      213: -6241846876723793
+    second: yika_37
+  - first:
+      213: 5757508412292656935
+    second: yika_38
+  - first:
+      213: 5625803206216633598
+    second: yika_39
+  - first:
+      213: 5798453866365998386
+    second: yika_40
+  - first:
+      213: 3101957690389000914
+    second: yika_41
+  - first:
+      213: -6486008066452202579
+    second: yika_42
+  - first:
+      213: -5706224392758233741
+    second: yika_43
+  - first:
+      213: -9176434449110903127
+    second: yika_44
+  - first:
+      213: -6637323642857936989
+    second: yika_45
+  - first:
+      213: 6993644884756614789
+    second: yika_46
+  - first:
+      213: 5468292190441355289
+    second: yika_47
+  - first:
+      213: 4295387750906385816
+    second: yika_48
+  - first:
+      213: -3540025268013884966
+    second: yika_49
+  - first:
+      213: 3101804931963374080
+    second: yika_50
+  - first:
+      213: -5603004214753293056
+    second: yika_51
+  - first:
+      213: 4009359655923061352
+    second: yika_52
+  - first:
+      213: 4931720943994911447
+    second: yika_53
+  - first:
+      213: 216061101503456620
+    second: yika_54
+  - first:
+      213: -2483646633273837316
+    second: yika_55
+  - first:
+      213: 6160578539032501842
+    second: yika_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yika_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 338
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5bd164a3bdbcd40800000000000000
+      internalID: 5605815204523652567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 291
+        width: 339
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391d510ff600f000800000000000000
+      internalID: 67561686719863092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 343
+        width: 221
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ed62c0d2f360310800000000000000
+      internalID: 1370852599290846738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_3
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 407
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecb8d32c8b9c6b20800000000000000
+      internalID: 3129046867314785509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 494
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765c1b2557d918bf0800000000000000
+      internalID: -323804570969848473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_5
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 328
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2041c5b6a1cf6f0800000000000000
+      internalID: -649615197839555871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 380
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24217f904838b5c0800000000000000
+      internalID: -4199544802318932947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_7
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 279
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c34a08eff43454e0800000000000000
+      internalID: -1993910461303995451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_8
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 323
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7c41d01ab44c380800000000000000
+      internalID: -8951947004224419874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_9
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 228
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cce0145445005110800000000000000
+      internalID: 1247502887807937730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_10
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 253
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968a0c61186f393b0800000000000000
+      internalID: -5506786885051045783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_11
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 294
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69e174cbfc19bf90800000000000000
+      internalID: -6937481883329369747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 138
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62502abd8c101e7b0800000000000000
+      internalID: -5196870532818926298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 219
+        width: 139
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ce8ca6080777860800000000000000
+      internalID: 7527608999022750854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_14
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 225
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7688aae7fe0adb0800000000000000
+      internalID: -4782559476961482778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 277
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490bf181dda718f40800000000000000
+      internalID: 5728995291003072660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 284
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce325833e1f85640800000000000000
+      internalID: 5069067338810277572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 215
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efbbfca347c0d510800000000000000
+      internalID: 1571975363431219174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 280
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5bf68e28afb40e0800000000000000
+      internalID: -2284456945808067095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_19
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 281
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b91c440bbcdfdc0800000000000000
+      internalID: -3603500168898307194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_20
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 276
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a03c3f9ebf54e20800000000000000
+      internalID: 3334348081373317684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_21
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 278
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c2cb29c2393020800000000000000
+      internalID: 2321942922490201188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_22
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 229
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0849a97cfc090fee0800000000000000
+      internalID: -1229323476190718848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 246
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8028221479db9f20800000000000000
+      internalID: 3430574633716818063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07821b76b3825e400800000000000000
+      internalID: 352732381426296944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 247
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364e453244993c490800000000000000
+      internalID: -7727164017708047261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 248
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1bfa9a1f44b4a40800000000000000
+      internalID: 5353448386784637384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_27
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 252
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cc39980ab268900800000000000000
+      internalID: 686283961723505738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_28
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 255
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde9ae69d75d056d0800000000000000
+      internalID: -3003666216076534051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_29
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 247
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0df7fbfe7f9c7280800000000000000
+      internalID: -9044178583924769522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_30
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 229
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9990944a82ac8a70800000000000000
+      internalID: 8830611684106213790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_31
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 231
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4868f4fc59cd800800000000000000
+      internalID: 638549964804752559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_32
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 212
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abbd094decb21870800000000000000
+      internalID: 8652185561451051940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_33
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 217
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa4597719041f6c0800000000000000
+      internalID: -4111433991291843847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 238
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716640b65e8d96770800000000000000
+      internalID: 8604647042922604055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 239
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2984efd17931bb430800000000000000
+      internalID: 3799652250381338770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_36
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 241
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91379684e0a26640800000000000000
+      internalID: 5071793033743643039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_37
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 242
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5ab26c213d9eff0800000000000000
+      internalID: -6241846876723793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_38
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 246
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe60a7567c6ef40800000000000000
+      internalID: 5757508412292656935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 232
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efccbc2953ed21e40800000000000000
+      internalID: 5625803206216633598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_40
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 191
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2355c37e11f387050800000000000000
+      internalID: 5798453866365998386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_41
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 190
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d27de3a51e5c0b20800000000000000
+      internalID: 3101957690389000914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 204
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab5cc427021df5a0800000000000000
+      internalID: -6486008066452202579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 229
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375f9fcc52b6fc0b0800000000000000
+      internalID: -5706224392758233741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_44
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 206
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a65614cc71c6a080800000000000000
+      internalID: -9176434449110903127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_45
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 227
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7a628105d73e3a0800000000000000
+      internalID: -6637323642857936989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_46
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 182
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e452108fa6e0160800000000000000
+      internalID: 6993644884756614789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_47
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 204
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918bc4366c643eb40800000000000000
+      internalID: 5468292190441355289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_48
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 202
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895d659c6684c9b30800000000000000
+      internalID: 4295387750906385816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_49
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 202
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9102c46cd4fdec0800000000000000
+      internalID: -3540025268013884966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_50
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 208
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a4b3cc623db0b20800000000000000
+      internalID: 3101804931963374080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_51
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 204
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d0d984a512e32b0800000000000000
+      internalID: -5603004214753293056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_52
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 201
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86293145d5b14a730800000000000000
+      internalID: 4009359655923061352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_53
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 207
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dabb26b11ef07440800000000000000
+      internalID: 4931720943994911447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_54
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 212
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65a4e45d6a9ff200800000000000000
+      internalID: 216061101503456620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_55
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 205
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf83e14cb80588dd0800000000000000
+      internalID: -2483646633273837316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yika_56
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 206
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e5de58a85ce7550800000000000000
+      internalID: 6160578539032501842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yika_0: 5605815204523652567
+      yika_1: 67561686719863092
+      yika_10: -5506786885051045783
+      yika_11: -6937481883329369747
+      yika_12: -5196870532818926298
+      yika_13: 7527608999022750854
+      yika_14: -4782559476961482778
+      yika_15: 5728995291003072660
+      yika_16: 5069067338810277572
+      yika_17: 1571975363431219174
+      yika_18: -2284456945808067095
+      yika_19: -3603500168898307194
+      yika_2: 1370852599290846738
+      yika_20: 3334348081373317684
+      yika_21: 2321942922490201188
+      yika_22: -1229323476190718848
+      yika_23: 3430574633716818063
+      yika_24: 352732381426296944
+      yika_25: -7727164017708047261
+      yika_26: 5353448386784637384
+      yika_27: 686283961723505738
+      yika_28: -3003666216076534051
+      yika_29: -9044178583924769522
+      yika_3: 3129046867314785509
+      yika_30: 8830611684106213790
+      yika_31: 638549964804752559
+      yika_32: 8652185561451051940
+      yika_33: -4111433991291843847
+      yika_34: 8604647042922604055
+      yika_35: 3799652250381338770
+      yika_36: 5071793033743643039
+      yika_37: -6241846876723793
+      yika_38: 5757508412292656935
+      yika_39: 5625803206216633598
+      yika_4: -323804570969848473
+      yika_40: 5798453866365998386
+      yika_41: 3101957690389000914
+      yika_42: -6486008066452202579
+      yika_43: -5706224392758233741
+      yika_44: -9176434449110903127
+      yika_45: -6637323642857936989
+      yika_46: 6993644884756614789
+      yika_47: 5468292190441355289
+      yika_48: 4295387750906385816
+      yika_49: -3540025268013884966
+      yika_5: -649615197839555871
+      yika_50: 3101804931963374080
+      yika_51: -5603004214753293056
+      yika_52: 4009359655923061352
+      yika_53: 4931720943994911447
+      yika_54: 216061101503456620
+      yika_55: -2483646633273837316
+      yika_56: 6160578539032501842
+      yika_6: -4199544802318932947
+      yika_7: -1993910461303995451
+      yika_8: -8951947004224419874
+      yika_9: 1247502887807937730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

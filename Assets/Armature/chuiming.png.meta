@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: 190bdda55c4c6c34d8f78251dba74900
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4288470410529921254
+    second: chuiming_0
+  - first:
+      213: 4747889960688274524
+    second: chuiming_1
+  - first:
+      213: 587598722680149600
+    second: chuiming_2
+  - first:
+      213: -6936231361089818448
+    second: chuiming_3
+  - first:
+      213: -8447100016014702188
+    second: chuiming_4
+  - first:
+      213: 3706964992458296634
+    second: chuiming_5
+  - first:
+      213: 1668104922965846265
+    second: chuiming_6
+  - first:
+      213: -4193854675533171640
+    second: chuiming_7
+  - first:
+      213: -4280815872941494070
+    second: chuiming_8
+  - first:
+      213: 6675104390876074701
+    second: chuiming_9
+  - first:
+      213: 3226215009833680256
+    second: chuiming_10
+  - first:
+      213: 728707233212454405
+    second: chuiming_11
+  - first:
+      213: -8176603164318962226
+    second: chuiming_12
+  - first:
+      213: -4396118716013312213
+    second: chuiming_13
+  - first:
+      213: 3609745608153088761
+    second: chuiming_14
+  - first:
+      213: -155975055307546466
+    second: chuiming_15
+  - first:
+      213: -2908821001606496082
+    second: chuiming_16
+  - first:
+      213: -7743368904843269795
+    second: chuiming_17
+  - first:
+      213: 1012960466419882898
+    second: chuiming_18
+  - first:
+      213: 4058944813688206830
+    second: chuiming_19
+  - first:
+      213: 7623186265724806094
+    second: chuiming_20
+  - first:
+      213: -3749884388090926960
+    second: chuiming_21
+  - first:
+      213: 971212088033870964
+    second: chuiming_22
+  - first:
+      213: 8161694964319078027
+    second: chuiming_23
+  - first:
+      213: 1455109881167401738
+    second: chuiming_24
+  - first:
+      213: -6346550955029909466
+    second: chuiming_25
+  - first:
+      213: 2593591478673535686
+    second: chuiming_26
+  - first:
+      213: 6869886404725936369
+    second: chuiming_27
+  - first:
+      213: -8049017594101862437
+    second: chuiming_28
+  - first:
+      213: 2090355893154626049
+    second: chuiming_29
+  - first:
+      213: -2692520518277924999
+    second: chuiming_30
+  - first:
+      213: -7717806774063426930
+    second: chuiming_31
+  - first:
+      213: 5577034938012771887
+    second: chuiming_32
+  - first:
+      213: -2943573766049360711
+    second: chuiming_33
+  - first:
+      213: -1539374266895666174
+    second: chuiming_34
+  - first:
+      213: -2057342686745861118
+    second: chuiming_35
+  - first:
+      213: -4481409256803228847
+    second: chuiming_36
+  - first:
+      213: 286155888017551736
+    second: chuiming_37
+  - first:
+      213: -8872310481766148941
+    second: chuiming_38
+  - first:
+      213: -491070670137331057
+    second: chuiming_39
+  - first:
+      213: 6558773606139289935
+    second: chuiming_40
+  - first:
+      213: 4587356591778316510
+    second: chuiming_41
+  - first:
+      213: -7441252002818984580
+    second: chuiming_42
+  - first:
+      213: 2995589146540465098
+    second: chuiming_43
+  - first:
+      213: 6514219134827578419
+    second: chuiming_44
+  - first:
+      213: 1358381907079326137
+    second: chuiming_45
+  - first:
+      213: -5411807023598865272
+    second: chuiming_46
+  - first:
+      213: 6669406729518980587
+    second: chuiming_47
+  - first:
+      213: -1650013262472930485
+    second: chuiming_48
+  - first:
+      213: -3748628507811484569
+    second: chuiming_49
+  - first:
+      213: 5651132945032477589
+    second: chuiming_50
+  - first:
+      213: -601231244465253712
+    second: chuiming_51
+  - first:
+      213: -5135030383967930920
+    second: chuiming_52
+  - first:
+      213: 3315157797916293100
+    second: chuiming_53
+  - first:
+      213: -5404221934293963008
+    second: chuiming_54
+  - first:
+      213: -3309884364285014558
+    second: chuiming_55
+  - first:
+      213: 4395520829194983657
+    second: chuiming_56
+  - first:
+      213: 5709124220487028741
+    second: chuiming_57
+  - first:
+      213: -8163219322767943179
+    second: chuiming_58
+  - first:
+      213: -5265575279191370433
+    second: chuiming_59
+  - first:
+      213: -767876996602208237
+    second: chuiming_60
+  - first:
+      213: 9185095479493280608
+    second: chuiming_61
+  - first:
+      213: -6446831084661807404
+    second: chuiming_62
+  - first:
+      213: -6781675146409097331
+    second: chuiming_63
+  - first:
+      213: -5215640599323860424
+    second: chuiming_64
+  - first:
+      213: -2848475944743449631
+    second: chuiming_65
+  - first:
+      213: -8793564816986811284
+    second: chuiming_66
+  - first:
+      213: 5737032681288975218
+    second: chuiming_67
+  - first:
+      213: -2858960107750038465
+    second: chuiming_68
+  - first:
+      213: 229384818490276468
+    second: chuiming_69
+  - first:
+      213: -5086148399055871200
+    second: chuiming_70
+  - first:
+      213: 6809731682737366722
+    second: chuiming_71
+  - first:
+      213: -1315775557273323222
+    second: chuiming_72
+  - first:
+      213: -823398880466359401
+    second: chuiming_73
+  - first:
+      213: -3564460148208652612
+    second: chuiming_74
+  - first:
+      213: -4696819855695507589
+    second: chuiming_75
+  - first:
+      213: -3393563670437314426
+    second: chuiming_76
+  - first:
+      213: 1632244429264978654
+    second: chuiming_77
+  - first:
+      213: 7777489685765494053
+    second: chuiming_78
+  - first:
+      213: -6958909688836401976
+    second: chuiming_79
+  - first:
+      213: 2984775161149298566
+    second: chuiming_80
+  - first:
+      213: -5321216993686373920
+    second: chuiming_81
+  - first:
+      213: -1494116696991730656
+    second: chuiming_82
+  - first:
+      213: 7964561112561596785
+    second: chuiming_83
+  - first:
+      213: 986751888607481177
+    second: chuiming_84
+  - first:
+      213: -921591256600377716
+    second: chuiming_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chuiming_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17279602ea4c74c0800000000000000
+      internalID: -4288470410529921254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 475
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cc77b83c4e3e140800000000000000
+      internalID: 4747889960688274524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 495
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066d2dfcce1972800800000000000000
+      internalID: 587598722680149600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 500
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0315aa35e8dbf90800000000000000
+      internalID: -6936231361089818448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 485
+        width: 78
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4994f334a4fd5ca80800000000000000
+      internalID: -8447100016014702188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 485
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d09423509c17330800000000000000
+      internalID: 3706964992458296634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 500
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8a575e69c462710800000000000000
+      internalID: 1668104922965846265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 498
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844fb31846f6cc5c0800000000000000
+      internalID: -4193854675533171640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 505
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0f770f4ac7794c0800000000000000
+      internalID: -4280815872941494070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 498
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc291d8c31cb2ac50800000000000000
+      internalID: 6675104390876074701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 497
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d7b2e4571d5cc20800000000000000
+      internalID: 3226215009833680256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 495
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506d2e42e53ec1a00800000000000000
+      internalID: 728707233212454405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 497
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdee695ebed68e80800000000000000
+      internalID: -8176603164318962226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 504
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b278495c159ddf2c0800000000000000
+      internalID: -4396118716013312213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 496
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2cd7f5184681230800000000000000
+      internalID: 3609745608153088761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 479
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90629a738dd5ddf0800000000000000
+      internalID: -155975055307546466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 398
+        width: 357
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea08c0ce5bac1a7d0800000000000000
+      internalID: -2908821001606496082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_17
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 381
+        width: 155
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59e206d1070a8490800000000000000
+      internalID: -7743368904843269795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_18
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 422
+        width: 166
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b98746d22ce0e00800000000000000
+      internalID: 1012960466419882898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_19
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 390
+        width: 36
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5bcc68dc4445830800000000000000
+      internalID: 4058944813688206830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_20
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 465
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3e921f48ffac960800000000000000
+      internalID: 7623186265724806094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 278
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098ae0b440cb5fbc0800000000000000
+      internalID: -3749884388090926960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 498
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47403d49f307a7d00800000000000000
+      internalID: 971212088033870964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 494
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b864559d35a244170800000000000000
+      internalID: 8161694964319078027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 494
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03d4283ab6913410800000000000000
+      internalID: 1455109881167401738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 495
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620b68828858ce7a0800000000000000
+      internalID: -6346550955029909466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 493
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2f0da55b94ef320800000000000000
+      internalID: 2593591478673535686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 427
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f099f0794db65f50800000000000000
+      internalID: 6869886404725936369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf60b8c4252c4090800000000000000
+      internalID: -8049017594101862437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 466
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a30a11c9f620d10800000000000000
+      internalID: 2090355893154626049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977f79daade32aad0800000000000000
+      internalID: -2692520518277924999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 9
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8298d231a7d4e490800000000000000
+      internalID: -7717806774063426930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 421
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26a13c4abb956d40800000000000000
+      internalID: 5577034938012771887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_33
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 431
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4187861435627d0800000000000000
+      internalID: -2943573766049360711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_34
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 396
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2047e4d924b03aae0800000000000000
+      internalID: -1539374266895666174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 410
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204e3470ab9d273e0800000000000000
+      internalID: -2057342686745861118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 400
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153a8134606dec1c0800000000000000
+      internalID: -4481409256803228847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_37
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 271
+        width: 100
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8713ca79341a8f300800000000000000
+      internalID: 286155888017551736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_38
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 313
+        width: 35
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49a55df983fd480800000000000000
+      internalID: -8872310481766148941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_39
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 387
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82f9dac3dd5f29f0800000000000000
+      internalID: -491070670137331057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 275
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41e32c48d1750b50800000000000000
+      internalID: 6558773606139289935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 306
+        width: 147
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed04efee38099af30800000000000000
+      internalID: 4587356591778316510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_42
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 258
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c757fc79abc5bb890800000000000000
+      internalID: -7441252002818984580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_43
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 385
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb5f8c1578729920800000000000000
+      internalID: 2995589146540465098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_44
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 374
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33443701ac7276a50800000000000000
+      internalID: 6514219134827578419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_45
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 374
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9e7c0c521f9d210800000000000000
+      internalID: 1358381907079326137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_46
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 326
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884fc6d5f2665e4b0800000000000000
+      internalID: -5411807023598865272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_47
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 366
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed149f951e7e8c50800000000000000
+      internalID: 6669406729518980587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 359
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b1e9f0ea9f919e0800000000000000
+      internalID: -1650013262472930485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_49
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 322
+        width: 143
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c6ef4bb323afbc0800000000000000
+      internalID: -3748628507811484569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_50
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 362
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bfa27f87bdc6e40800000000000000
+      internalID: 5651132945032477589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b258cd5e5ff7a7f0800000000000000
+      internalID: -601231244465253712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5f0c48215bcb8b0800000000000000
+      internalID: -5135030383967930920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 263
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7ba27e37ec10e20800000000000000
+      internalID: 3315157797916293100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fa80798c85005b0800000000000000
+      internalID: -5404221934293963008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 319
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed0c2b05bde012d0800000000000000
+      internalID: -3309884364285014558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_56
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 259
+        width: 134
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e85ffad7e6000d30800000000000000
+      internalID: 4395520829194983657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_57
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 272
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50055b4fa32ea3f40800000000000000
+      internalID: 5709124220487028741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_58
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 310
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9dfcac64b66be80800000000000000
+      internalID: -8163219322767943179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_59
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 310
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3558b98e2bece6b0800000000000000
+      internalID: -5265575279191370433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 296
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310e452a0f3f755f0800000000000000
+      internalID: -767876996602208237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 300
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0634e338ca3087f70800000000000000
+      internalID: 9185095479493280608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 241
+        width: 127
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d669c709414886a0800000000000000
+      internalID: -6446831084661807404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_63
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 247
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87c03c9266a2e1a0800000000000000
+      internalID: -6781675146409097331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832223132825e97b0800000000000000
+      internalID: -5215640599323860424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb425a583e2878d0800000000000000
+      internalID: -2848475944743449631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 277
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64d026a36bf6f580800000000000000
+      internalID: -8793564816986811284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 272
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2734909d3d80e9f40800000000000000
+      internalID: 5737032681288975218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_68
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 247
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34eb8eedeee258d0800000000000000
+      internalID: -2858960107750038465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_69
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 253
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47afafee640fe2300800000000000000
+      internalID: 229384818490276468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_70
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 253
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0236a578afe5a69b0800000000000000
+      internalID: -5086148399055871200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_71
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 247
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6a84dc2e6018e50800000000000000
+      internalID: 6809731682737366722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_72
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 230
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29f4981a1d6dbde0800000000000000
+      internalID: -1315775557273323222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_73
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 167
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b295da413b294f0800000000000000
+      internalID: -823398880466359401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_74
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 204
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeacf9616e788ec0800000000000000
+      internalID: -3564460148208652612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_75
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 225
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f844fd93b81deb0800000000000000
+      internalID: -4696819855695507589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_76
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 214
+        width: 133
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680c9e452d3a7e0d0800000000000000
+      internalID: -3393563670437314426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 91
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed203f019a5e6a610800000000000000
+      internalID: 1632244429264978654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_78
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525115c89a13feb60800000000000000
+      internalID: 7777489685765494053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_79
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 231
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4d1e4028cfc6f90800000000000000
+      internalID: -6958909688836401976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_80
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 231
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68796bee13d0c6920800000000000000
+      internalID: 2984775161149298566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_81
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 233
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e93d86565d3726b0800000000000000
+      internalID: -5321216993686373920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_82
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 235
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024f3deb7c4d34be0800000000000000
+      internalID: -1494116696991730656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_83
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 205
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179bf12422ec78e60800000000000000
+      internalID: 7964561112561596785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_84
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 184
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d05e95d95a1bd00800000000000000
+      internalID: 986751888607481177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuiming_85
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 182
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c868a3a82a9d533f0800000000000000
+      internalID: -921591256600377716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chuiming_0: -4288470410529921254
+      chuiming_1: 4747889960688274524
+      chuiming_10: 3226215009833680256
+      chuiming_11: 728707233212454405
+      chuiming_12: -8176603164318962226
+      chuiming_13: -4396118716013312213
+      chuiming_14: 3609745608153088761
+      chuiming_15: -155975055307546466
+      chuiming_16: -2908821001606496082
+      chuiming_17: -7743368904843269795
+      chuiming_18: 1012960466419882898
+      chuiming_19: 4058944813688206830
+      chuiming_2: 587598722680149600
+      chuiming_20: 7623186265724806094
+      chuiming_21: -3749884388090926960
+      chuiming_22: 971212088033870964
+      chuiming_23: 8161694964319078027
+      chuiming_24: 1455109881167401738
+      chuiming_25: -6346550955029909466
+      chuiming_26: 2593591478673535686
+      chuiming_27: 6869886404725936369
+      chuiming_28: -8049017594101862437
+      chuiming_29: 2090355893154626049
+      chuiming_3: -6936231361089818448
+      chuiming_30: -2692520518277924999
+      chuiming_31: -7717806774063426930
+      chuiming_32: 5577034938012771887
+      chuiming_33: -2943573766049360711
+      chuiming_34: -1539374266895666174
+      chuiming_35: -2057342686745861118
+      chuiming_36: -4481409256803228847
+      chuiming_37: 286155888017551736
+      chuiming_38: -8872310481766148941
+      chuiming_39: -491070670137331057
+      chuiming_4: -8447100016014702188
+      chuiming_40: 6558773606139289935
+      chuiming_41: 4587356591778316510
+      chuiming_42: -7441252002818984580
+      chuiming_43: 2995589146540465098
+      chuiming_44: 6514219134827578419
+      chuiming_45: 1358381907079326137
+      chuiming_46: -5411807023598865272
+      chuiming_47: 6669406729518980587
+      chuiming_48: -1650013262472930485
+      chuiming_49: -3748628507811484569
+      chuiming_5: 3706964992458296634
+      chuiming_50: 5651132945032477589
+      chuiming_51: -601231244465253712
+      chuiming_52: -5135030383967930920
+      chuiming_53: 3315157797916293100
+      chuiming_54: -5404221934293963008
+      chuiming_55: -3309884364285014558
+      chuiming_56: 4395520829194983657
+      chuiming_57: 5709124220487028741
+      chuiming_58: -8163219322767943179
+      chuiming_59: -5265575279191370433
+      chuiming_6: 1668104922965846265
+      chuiming_60: -767876996602208237
+      chuiming_61: 9185095479493280608
+      chuiming_62: -6446831084661807404
+      chuiming_63: -6781675146409097331
+      chuiming_64: -5215640599323860424
+      chuiming_65: -2848475944743449631
+      chuiming_66: -8793564816986811284
+      chuiming_67: 5737032681288975218
+      chuiming_68: -2858960107750038465
+      chuiming_69: 229384818490276468
+      chuiming_7: -4193854675533171640
+      chuiming_70: -5086148399055871200
+      chuiming_71: 6809731682737366722
+      chuiming_72: -1315775557273323222
+      chuiming_73: -823398880466359401
+      chuiming_74: -3564460148208652612
+      chuiming_75: -4696819855695507589
+      chuiming_76: -3393563670437314426
+      chuiming_77: 1632244429264978654
+      chuiming_78: 7777489685765494053
+      chuiming_79: -6958909688836401976
+      chuiming_8: -4280815872941494070
+      chuiming_80: 2984775161149298566
+      chuiming_81: -5321216993686373920
+      chuiming_82: -1494116696991730656
+      chuiming_83: 7964561112561596785
+      chuiming_84: 986751888607481177
+      chuiming_85: -921591256600377716
+      chuiming_9: 6675104390876074701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

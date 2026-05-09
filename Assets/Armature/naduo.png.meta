@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: f30107e98a060f44a923868017d01277
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5189809718368924390
+    second: naduo_0
+  - first:
+      213: 5532034433575301567
+    second: naduo_1
+  - first:
+      213: 4655886390517130224
+    second: naduo_2
+  - first:
+      213: 4547296441410395091
+    second: naduo_3
+  - first:
+      213: -4409439418530831255
+    second: naduo_4
+  - first:
+      213: -2858932114546038782
+    second: naduo_5
+  - first:
+      213: 967573925026924928
+    second: naduo_6
+  - first:
+      213: 4434750149253150243
+    second: naduo_7
+  - first:
+      213: 5778178965898124390
+    second: naduo_8
+  - first:
+      213: -271455098704849991
+    second: naduo_9
+  - first:
+      213: 6523425599618793235
+    second: naduo_10
+  - first:
+      213: -3573439106787656709
+    second: naduo_11
+  - first:
+      213: -4716786593100872457
+    second: naduo_12
+  - first:
+      213: -4197771423648304085
+    second: naduo_13
+  - first:
+      213: 6379023879020169868
+    second: naduo_14
+  - first:
+      213: 7784844612380425817
+    second: naduo_15
+  - first:
+      213: -2198344412248389258
+    second: naduo_16
+  - first:
+      213: -8095000850229521155
+    second: naduo_17
+  - first:
+      213: 184287516909719946
+    second: naduo_18
+  - first:
+      213: -1056921227734202961
+    second: naduo_19
+  - first:
+      213: -5418334490348074327
+    second: naduo_20
+  - first:
+      213: 3769713469961527592
+    second: naduo_21
+  - first:
+      213: 1847453813134072533
+    second: naduo_22
+  - first:
+      213: -8028293086598160327
+    second: naduo_23
+  - first:
+      213: 2126183464910414297
+    second: naduo_24
+  - first:
+      213: 5816536490351207882
+    second: naduo_25
+  - first:
+      213: 3680098695369840939
+    second: naduo_26
+  - first:
+      213: -1044742316261094546
+    second: naduo_27
+  - first:
+      213: -5279787742059567148
+    second: naduo_28
+  - first:
+      213: -6229202647588456277
+    second: naduo_29
+  - first:
+      213: 2407852466104235263
+    second: naduo_30
+  - first:
+      213: -3701401945483331193
+    second: naduo_31
+  - first:
+      213: 6549565206077784681
+    second: naduo_32
+  - first:
+      213: 7741386319415578491
+    second: naduo_33
+  - first:
+      213: 5696188445782866590
+    second: naduo_34
+  - first:
+      213: 1182290102916639561
+    second: naduo_35
+  - first:
+      213: 2669217069704789481
+    second: naduo_36
+  - first:
+      213: -2158351956112701557
+    second: naduo_37
+  - first:
+      213: -7427469743293059987
+    second: naduo_38
+  - first:
+      213: -1391920450217009267
+    second: naduo_39
+  - first:
+      213: 3935605830370386695
+    second: naduo_40
+  - first:
+      213: -5664236072387652592
+    second: naduo_41
+  - first:
+      213: 5856486925950620977
+    second: naduo_42
+  - first:
+      213: -7513005492969246476
+    second: naduo_43
+  - first:
+      213: 5180837362485204436
+    second: naduo_44
+  - first:
+      213: -1311763271205362551
+    second: naduo_45
+  - first:
+      213: -9145524284078517120
+    second: naduo_46
+  - first:
+      213: 309494392202672661
+    second: naduo_47
+  - first:
+      213: 2101868551659604373
+    second: naduo_48
+  - first:
+      213: -6744360161259107443
+    second: naduo_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: naduo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 334
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d00c4de871af7b0800000000000000
+      internalID: -5189809718368924390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 419
+        width: 199
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb13c72e10cb5cc40800000000000000
+      internalID: 5532034433575301567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 308
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3695511080d9040800000000000000
+      internalID: 4655886390517130224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 300
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db1aa6550e3b1f30800000000000000
+      internalID: 4547296441410395091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_4
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 393
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9646dd706368ec2c0800000000000000
+      internalID: -4409439418530831255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_5
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 377
+        width: 150
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208e68b93680358d0800000000000000
+      internalID: -2858932114546038782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_6
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 384
+        width: 144
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089092fbb538d6d00800000000000000
+      internalID: 967573925026924928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 388
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32638d1b3c56b8d30800000000000000
+      internalID: 4434750149253150243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 395
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cddf6c727303050800000000000000
+      internalID: 5778178965898124390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 333
+        width: 121
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b39a35a6099b3cf0800000000000000
+      internalID: -271455098704849991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 276
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fb7ff250dd78a50800000000000000
+      internalID: 6523425599618793235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 282
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbbe65b018986ec0800000000000000
+      internalID: -3573439106787656709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_12
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 288
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4c5ec859b9a8eb0800000000000000
+      internalID: -4716786593100872457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_13
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 266
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24382581258eb5c0800000000000000
+      internalID: -4197771423648304085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_14
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 304
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a4bb2ab68d68850800000000000000
+      internalID: 6379023879020169868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_15
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 264
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e7c88dde2590c60800000000000000
+      internalID: 7784844612380425817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_16
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 298
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67948f58769ed71e0800000000000000
+      internalID: -2198344412248389258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 233
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df49599ad97c8af80800000000000000
+      internalID: -8095000850229521155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 257
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8151fd2588be8200800000000000000
+      internalID: 184287516909719946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 294
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa545514ebf0551f0800000000000000
+      internalID: -1056921227734202961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_20
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 257
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa4e841d753ec4b0800000000000000
+      internalID: -5418334490348074327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_21
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 249
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821ef0a9d66b05430800000000000000
+      internalID: 3769713469961527592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_22
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 272
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da1cce647973a910800000000000000
+      internalID: 1847453813134072533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_23
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 249
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930a79439f5c59090800000000000000
+      internalID: -8028293086598160327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_24
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 248
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d16b49a898b18d10800000000000000
+      internalID: 2126183464910414297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_25
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 263
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac52b72ee1d78b050800000000000000
+      internalID: 5816536490351207882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_26
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 226
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29d5e3f346521330800000000000000
+      internalID: 3680098695369840939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_27
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 227
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b407d06645081f0800000000000000
+      internalID: -1044742316261094546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_28
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 256
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7e319a50d6ab6b0800000000000000
+      internalID: -5279787742059567148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_29
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 238
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8319c123d6d89a0800000000000000
+      internalID: -6229202647588456277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_30
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 260
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4f0b18f096a6120800000000000000
+      internalID: 2407852466104235263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_31
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 241
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789b68c9a8af1acc0800000000000000
+      internalID: -3701401945483331193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_32
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 250
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96246859adab4ea50800000000000000
+      internalID: 6549565206077784681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_33
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 251
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f85d587ddee6b60800000000000000
+      internalID: 7741386319415578491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_34
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 236
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a7294363dec0f40800000000000000
+      internalID: 5696188445782866590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_35
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 228
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b6ec5a596586010800000000000000
+      internalID: 1182290102916639561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_36
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 226
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edb92468c6fa0520800000000000000
+      internalID: 2669217069704789481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_37
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 233
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8702a3d45efb02e0800000000000000
+      internalID: -2158351956112701557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_38
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 235
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c2e03fe935ce890800000000000000
+      internalID: -7427469743293059987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_39
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f9639a9b7eeace0800000000000000
+      internalID: -1391920450217009267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_40
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 237
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703ee27a6a41e9630800000000000000
+      internalID: 3935605830370386695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_41
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 233
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01451657d479461b0800000000000000
+      internalID: -5664236072387652592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_42
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 223
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135910584db664150800000000000000
+      internalID: 5856486925950620977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_43
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 226
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0720c4f417cb790800000000000000
+      internalID: -7513005492969246476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_44
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 231
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d59006c12806e740800000000000000
+      internalID: 5180837362485204436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_45
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 224
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984666e314eabcde0800000000000000
+      internalID: -1311763271205362551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_46
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 217
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0849ac26e12941180800000000000000
+      internalID: -9145524284078517120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 238
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a373b828b8b4400800000000000000
+      internalID: 309494392202672661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_48
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 225
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5994c32cf465b2d10800000000000000
+      internalID: 2101868551659604373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naduo_49
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 219
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bcade9a283762a0800000000000000
+      internalID: -6744360161259107443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      naduo_0: -5189809718368924390
+      naduo_1: 5532034433575301567
+      naduo_10: 6523425599618793235
+      naduo_11: -3573439106787656709
+      naduo_12: -4716786593100872457
+      naduo_13: -4197771423648304085
+      naduo_14: 6379023879020169868
+      naduo_15: 7784844612380425817
+      naduo_16: -2198344412248389258
+      naduo_17: -8095000850229521155
+      naduo_18: 184287516909719946
+      naduo_19: -1056921227734202961
+      naduo_2: 4655886390517130224
+      naduo_20: -5418334490348074327
+      naduo_21: 3769713469961527592
+      naduo_22: 1847453813134072533
+      naduo_23: -8028293086598160327
+      naduo_24: 2126183464910414297
+      naduo_25: 5816536490351207882
+      naduo_26: 3680098695369840939
+      naduo_27: -1044742316261094546
+      naduo_28: -5279787742059567148
+      naduo_29: -6229202647588456277
+      naduo_3: 4547296441410395091
+      naduo_30: 2407852466104235263
+      naduo_31: -3701401945483331193
+      naduo_32: 6549565206077784681
+      naduo_33: 7741386319415578491
+      naduo_34: 5696188445782866590
+      naduo_35: 1182290102916639561
+      naduo_36: 2669217069704789481
+      naduo_37: -2158351956112701557
+      naduo_38: -7427469743293059987
+      naduo_39: -1391920450217009267
+      naduo_4: -4409439418530831255
+      naduo_40: 3935605830370386695
+      naduo_41: -5664236072387652592
+      naduo_42: 5856486925950620977
+      naduo_43: -7513005492969246476
+      naduo_44: 5180837362485204436
+      naduo_45: -1311763271205362551
+      naduo_46: -9145524284078517120
+      naduo_47: 309494392202672661
+      naduo_48: 2101868551659604373
+      naduo_49: -6744360161259107443
+      naduo_5: -2858932114546038782
+      naduo_6: 967573925026924928
+      naduo_7: 4434750149253150243
+      naduo_8: 5778178965898124390
+      naduo_9: -271455098704849991
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

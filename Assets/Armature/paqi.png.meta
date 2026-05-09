@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 4b2a3f9c00019bb4f8e12a2ff3706c1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6669695486524030565
+    second: paqi_0
+  - first:
+      213: 1497847389836569200
+    second: paqi_1
+  - first:
+      213: -533757903593977017
+    second: paqi_2
+  - first:
+      213: 7958248174477531599
+    second: paqi_3
+  - first:
+      213: -3137503863119440912
+    second: paqi_4
+  - first:
+      213: 5226658428499454965
+    second: paqi_5
+  - first:
+      213: -1935474976636717128
+    second: paqi_6
+  - first:
+      213: -324861726705743085
+    second: paqi_7
+  - first:
+      213: 219687610823321159
+    second: paqi_8
+  - first:
+      213: 5287798178354979030
+    second: paqi_9
+  - first:
+      213: 1397696750448565250
+    second: paqi_10
+  - first:
+      213: 3806657287597976207
+    second: paqi_11
+  - first:
+      213: 7322212932146216509
+    second: paqi_12
+  - first:
+      213: 6926259724252113715
+    second: paqi_13
+  - first:
+      213: 330130532579044182
+    second: paqi_14
+  - first:
+      213: 1872893380431591915
+    second: paqi_15
+  - first:
+      213: -5300980643119347099
+    second: paqi_16
+  - first:
+      213: -7950561737549076895
+    second: paqi_17
+  - first:
+      213: -6401310106992089464
+    second: paqi_18
+  - first:
+      213: 4339223683555687986
+    second: paqi_19
+  - first:
+      213: -8843714529934802264
+    second: paqi_20
+  - first:
+      213: 1866416635552887032
+    second: paqi_21
+  - first:
+      213: 7250250639001024466
+    second: paqi_22
+  - first:
+      213: 1876189626966887724
+    second: paqi_23
+  - first:
+      213: 7431432896352620167
+    second: paqi_24
+  - first:
+      213: 9098798273954783411
+    second: paqi_25
+  - first:
+      213: -7105070640555190383
+    second: paqi_26
+  - first:
+      213: 1474297830837927105
+    second: paqi_27
+  - first:
+      213: -5727922344826190598
+    second: paqi_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: paqi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 212
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e7a4a15b48f8c50800000000000000
+      internalID: 6669695486524030565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 376
+        width: 142
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a64fed34c69c410800000000000000
+      internalID: 1497847389836569200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 426
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b4930c306b798f0800000000000000
+      internalID: -533757903593977017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 455
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc95222dc80617e60800000000000000
+      internalID: 7958248174477531599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 429
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f399551cd85574d0800000000000000
+      internalID: -3137503863119440912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 309
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbe2011622d88840800000000000000
+      internalID: 5226658428499454965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 292
+        width: 50
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b739e963cfc325e0800000000000000
+      internalID: -1935474976636717128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b85921bfbdd7bf0800000000000000
+      internalID: -324861726705743085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 410
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746ada4d7bc7c0300800000000000000
+      internalID: 219687610823321159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d06ec06d68026940800000000000000
+      internalID: 5287798178354979030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 294
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c543a0acd956310800000000000000
+      internalID: 1397696750448565250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 318
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aede072a6f3d430800000000000000
+      internalID: 3806657287597976207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 296
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eb856fdd9bd9560800000000000000
+      internalID: 7322212932146216509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 312
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b6426b5840f1060800000000000000
+      internalID: 6926259724252113715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 355
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b62e368fbd49400800000000000000
+      internalID: 330130532579044182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 335
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be93ec24b9addf910800000000000000
+      internalID: 1872893380431591915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 269
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a46add0322f66b0800000000000000
+      internalID: -5300980643119347099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 316
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166239c393ee9a190800000000000000
+      internalID: -7950561737549076895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 303
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8866e9f8f5af927a0800000000000000
+      internalID: -6401310106992089464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 268
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e7c4333f4083c30800000000000000
+      internalID: 4339223683555687986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 263
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a28644bd70d44580800000000000000
+      internalID: -8843714529934802264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 266
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f072059a08d6e910800000000000000
+      internalID: 1866416635552887032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 282
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7743eea801e9460800000000000000
+      internalID: 7250250639001024466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 259
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d42a67680990a10800000000000000
+      internalID: 1876189626966887724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 280
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e004788d0c12760800000000000000
+      internalID: 7431432896352620167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 243
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0230a92dc654e70800000000000000
+      internalID: 9098798273954783411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 265
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19796ad85e7b56d90800000000000000
+      internalID: -7105070640555190383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 247
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc3934e012c57410800000000000000
+      internalID: 1474297830837927105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paqi_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 248
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4cc97a9f45280b0800000000000000
+      internalID: -5727922344826190598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      paqi_0: 6669695486524030565
+      paqi_1: 1497847389836569200
+      paqi_10: 1397696750448565250
+      paqi_11: 3806657287597976207
+      paqi_12: 7322212932146216509
+      paqi_13: 6926259724252113715
+      paqi_14: 330130532579044182
+      paqi_15: 1872893380431591915
+      paqi_16: -5300980643119347099
+      paqi_17: -7950561737549076895
+      paqi_18: -6401310106992089464
+      paqi_19: 4339223683555687986
+      paqi_2: -533757903593977017
+      paqi_20: -8843714529934802264
+      paqi_21: 1866416635552887032
+      paqi_22: 7250250639001024466
+      paqi_23: 1876189626966887724
+      paqi_24: 7431432896352620167
+      paqi_25: 9098798273954783411
+      paqi_26: -7105070640555190383
+      paqi_27: 1474297830837927105
+      paqi_28: -5727922344826190598
+      paqi_3: 7958248174477531599
+      paqi_4: -3137503863119440912
+      paqi_5: 5226658428499454965
+      paqi_6: -1935474976636717128
+      paqi_7: -324861726705743085
+      paqi_8: 219687610823321159
+      paqi_9: 5287798178354979030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

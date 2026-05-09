@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: be242c27537cfe349af2e2e4d45fcd7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 442726963707755030
+    second: shijin_0
+  - first:
+      213: -7392197477363795180
+    second: shijin_1
+  - first:
+      213: 222237079256421096
+    second: shijin_2
+  - first:
+      213: -2198157536789749785
+    second: shijin_3
+  - first:
+      213: -499549443149533827
+    second: shijin_4
+  - first:
+      213: -4935450244413698729
+    second: shijin_5
+  - first:
+      213: 921454821459167599
+    second: shijin_6
+  - first:
+      213: 2215839198578743781
+    second: shijin_7
+  - first:
+      213: 2860666636842138958
+    second: shijin_8
+  - first:
+      213: 4499593834220839431
+    second: shijin_9
+  - first:
+      213: 5784363677962678553
+    second: shijin_10
+  - first:
+      213: -584181125729754150
+    second: shijin_11
+  - first:
+      213: 6545932328953506485
+    second: shijin_12
+  - first:
+      213: 2947143149881904607
+    second: shijin_13
+  - first:
+      213: 1589405050510687479
+    second: shijin_14
+  - first:
+      213: 7278715461209343519
+    second: shijin_15
+  - first:
+      213: -4528932470560801036
+    second: shijin_16
+  - first:
+      213: -5167825570104058579
+    second: shijin_17
+  - first:
+      213: 2773011103687530213
+    second: shijin_18
+  - first:
+      213: -8335951443691387968
+    second: shijin_19
+  - first:
+      213: 5811542590802882490
+    second: shijin_20
+  - first:
+      213: -3298268774021417289
+    second: shijin_21
+  - first:
+      213: -1772100565213722518
+    second: shijin_22
+  - first:
+      213: -2660182284988983617
+    second: shijin_23
+  - first:
+      213: 685503448805897890
+    second: shijin_24
+  - first:
+      213: 7609559306053438917
+    second: shijin_25
+  - first:
+      213: 6902476792237990015
+    second: shijin_26
+  - first:
+      213: 6152875334668391777
+    second: shijin_27
+  - first:
+      213: 8671968074910714882
+    second: shijin_28
+  - first:
+      213: 5503874358175731438
+    second: shijin_29
+  - first:
+      213: 8457027194347040234
+    second: shijin_30
+  - first:
+      213: 8594582880932957492
+    second: shijin_31
+  - first:
+      213: 2391436464433960601
+    second: shijin_32
+  - first:
+      213: 195632719646768649
+    second: shijin_33
+  - first:
+      213: 2932765291032664203
+    second: shijin_34
+  - first:
+      213: -2775719771752644963
+    second: shijin_35
+  - first:
+      213: 5600412029875397983
+    second: shijin_36
+  - first:
+      213: -5850090728256321673
+    second: shijin_37
+  - first:
+      213: 5493874281482580720
+    second: shijin_38
+  - first:
+      213: 6330735532870416302
+    second: shijin_39
+  - first:
+      213: 3498074810358722482
+    second: shijin_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shijin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 102
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ab94ce3d1e42600800000000000000
+      internalID: 442726963707755030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 422
+        width: 164
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b31345f83a96990800000000000000
+      internalID: -7392197477363795180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 357
+        width: 105
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2dff4327b851300800000000000000
+      internalID: 222237079256421096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 347
+        width: 86
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef9c4bdd539e71e0800000000000000
+      internalID: -2198157536789749785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 450
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7de35d9d6e3119f0800000000000000
+      internalID: -499549443149533827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_5
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 479
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d4b1fd622c18bb0800000000000000
+      internalID: -4935450244413698729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 452
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6905ad274aa9cc00800000000000000
+      internalID: 921454821459167599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 387
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e91ca6d20e30ce10800000000000000
+      internalID: 2215839198578743781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 407
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d79c5562123b720800000000000000
+      internalID: 2860666636842138958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 435
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702654a90c4c17e30800000000000000
+      internalID: 4499593834220839431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 341
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91133a44e10364050800000000000000
+      internalID: 5784363677962678553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 335
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3e36c7c5294e7f0800000000000000
+      internalID: -584181125729754150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_12
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 344
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bae40775c2d7da50800000000000000
+      internalID: 6545932328953506485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 345
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddcfe6841b56e820800000000000000
+      internalID: 2947143149881904607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_14
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 381
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcb6efe873be0610800000000000000
+      internalID: 1589405050510687479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 278
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16c68ec521330560800000000000000
+      internalID: 7278715461209343519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 318
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4febd70d9eff521c0800000000000000
+      internalID: -4528932470560801036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 295
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d54c836023848b0800000000000000
+      internalID: -5167825570104058579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 298
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6528128e6bb7620800000000000000
+      internalID: 2773011103687530213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 316
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3ced5e350c05c80800000000000000
+      internalID: -8335951443691387968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 297
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfebd9023fb6a050800000000000000
+      internalID: 5811542590802882490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 281
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6b0b666023a32d0800000000000000
+      internalID: -3298268774021417289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 313
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68ca28cceb3867e0800000000000000
+      internalID: -1772100565213722518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_23
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 285
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6d1795e42251bd0800000000000000
+      internalID: -2660182284988983617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_24
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 306
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6716631c5638900800000000000000
+      internalID: 685503448805897890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 317
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd45962fd59a9960800000000000000
+      internalID: 7609559306053438917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7029b752168acf50800000000000000
+      internalID: 6902476792237990015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 263
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1651c2e7487636550800000000000000
+      internalID: 6152875334668391777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 287
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cc490a405095870800000000000000
+      internalID: 8671968074910714882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 276
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee02776190b16c40800000000000000
+      internalID: 5503874358175731438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 289
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedafde0d656d5570800000000000000
+      internalID: 8457027194347040234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_31
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 283
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d89aa1897164770800000000000000
+      internalID: 8594582880932957492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_32
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 273
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99690854bc6103120800000000000000
+      internalID: 2391436464433960601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_33
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 279
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e3df80ce607b200800000000000000
+      internalID: 195632719646768649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 295
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88d8956e7643b820800000000000000
+      internalID: 2932765291032664203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 275
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eb7a0f299aa79d0800000000000000
+      internalID: -2775719771752644963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 271
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f552c84a119a8bd40800000000000000
+      internalID: 5600412029875397983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 242
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777c97e4a7d40dea0800000000000000
+      internalID: -5850090728256321673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_38
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 245
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f27c6c1d892e3c40800000000000000
+      internalID: 5493874281482580720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 249
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea73fabec6a4bd750800000000000000
+      internalID: 6330735532870416302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shijin_40
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 235
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf6c25a188ab8030800000000000000
+      internalID: 3498074810358722482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shijin_0: 442726963707755030
+      shijin_1: -7392197477363795180
+      shijin_10: 5784363677962678553
+      shijin_11: -584181125729754150
+      shijin_12: 6545932328953506485
+      shijin_13: 2947143149881904607
+      shijin_14: 1589405050510687479
+      shijin_15: 7278715461209343519
+      shijin_16: -4528932470560801036
+      shijin_17: -5167825570104058579
+      shijin_18: 2773011103687530213
+      shijin_19: -8335951443691387968
+      shijin_2: 222237079256421096
+      shijin_20: 5811542590802882490
+      shijin_21: -3298268774021417289
+      shijin_22: -1772100565213722518
+      shijin_23: -2660182284988983617
+      shijin_24: 685503448805897890
+      shijin_25: 7609559306053438917
+      shijin_26: 6902476792237990015
+      shijin_27: 6152875334668391777
+      shijin_28: 8671968074910714882
+      shijin_29: 5503874358175731438
+      shijin_3: -2198157536789749785
+      shijin_30: 8457027194347040234
+      shijin_31: 8594582880932957492
+      shijin_32: 2391436464433960601
+      shijin_33: 195632719646768649
+      shijin_34: 2932765291032664203
+      shijin_35: -2775719771752644963
+      shijin_36: 5600412029875397983
+      shijin_37: -5850090728256321673
+      shijin_38: 5493874281482580720
+      shijin_39: 6330735532870416302
+      shijin_4: -499549443149533827
+      shijin_40: 3498074810358722482
+      shijin_5: -4935450244413698729
+      shijin_6: 921454821459167599
+      shijin_7: 2215839198578743781
+      shijin_8: 2860666636842138958
+      shijin_9: 4499593834220839431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

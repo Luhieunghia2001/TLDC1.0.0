@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: f6313ee03eb193644ad98bf65a264385
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2503394720482665176
+    second: kapa_0
+  - first:
+      213: 5734895371104284547
+    second: kapa_1
+  - first:
+      213: -1305795955159817674
+    second: kapa_2
+  - first:
+      213: 3779560512429326643
+    second: kapa_3
+  - first:
+      213: 4435694369377828709
+    second: kapa_4
+  - first:
+      213: 3744392478349320907
+    second: kapa_5
+  - first:
+      213: -142143296764207106
+    second: kapa_6
+  - first:
+      213: 7310642168789818959
+    second: kapa_7
+  - first:
+      213: -310855899365055277
+    second: kapa_8
+  - first:
+      213: -7229051644612088047
+    second: kapa_9
+  - first:
+      213: -2311463351021079074
+    second: kapa_10
+  - first:
+      213: -8945864124868534974
+    second: kapa_11
+  - first:
+      213: -194360627837556789
+    second: kapa_12
+  - first:
+      213: 5287321813276023188
+    second: kapa_13
+  - first:
+      213: -7185692804600442974
+    second: kapa_14
+  - first:
+      213: -8965576089899612052
+    second: kapa_15
+  - first:
+      213: -7777153011713303431
+    second: kapa_16
+  - first:
+      213: -8521490922530045161
+    second: kapa_17
+  - first:
+      213: -713974086875292681
+    second: kapa_18
+  - first:
+      213: 804361580011198605
+    second: kapa_19
+  - first:
+      213: -9010189325194457565
+    second: kapa_20
+  - first:
+      213: 4184452405500889291
+    second: kapa_21
+  - first:
+      213: -7028258778924513474
+    second: kapa_22
+  - first:
+      213: -8505508780195701629
+    second: kapa_23
+  - first:
+      213: 2266370031429995253
+    second: kapa_24
+  - first:
+      213: 1332859121073395699
+    second: kapa_25
+  - first:
+      213: 8358230138473703279
+    second: kapa_26
+  - first:
+      213: -674363505620358066
+    second: kapa_27
+  - first:
+      213: 6520524405486501926
+    second: kapa_28
+  - first:
+      213: -5839742866928002835
+    second: kapa_29
+  - first:
+      213: -8971765106321604630
+    second: kapa_30
+  - first:
+      213: -8478915658172183312
+    second: kapa_31
+  - first:
+      213: -3532131145442373460
+    second: kapa_32
+  - first:
+      213: 1112904792858591553
+    second: kapa_33
+  - first:
+      213: 6539727262469328028
+    second: kapa_34
+  - first:
+      213: -7644681106478190030
+    second: kapa_35
+  - first:
+      213: 1833162856567717083
+    second: kapa_36
+  - first:
+      213: -801712247500231101
+    second: kapa_37
+  - first:
+      213: -1679744433915620794
+    second: kapa_38
+  - first:
+      213: 825534355543502523
+    second: kapa_39
+  - first:
+      213: 7589955986616011312
+    second: kapa_40
+  - first:
+      213: -8315707002805300122
+    second: kapa_41
+  - first:
+      213: -101727322850193148
+    second: kapa_42
+  - first:
+      213: -7293629775047202335
+    second: kapa_43
+  - first:
+      213: -2219039635272129311
+    second: kapa_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kapa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dda09e3c7224dd0800000000000000
+      internalID: -2503394720482665176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 151
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fe3ba84f0769f40800000000000000
+      internalID: 5734895371104284547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 148
+        width: 52
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632ae874f71e0ede0800000000000000
+      internalID: -1305795955159817674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 174
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3318176d242b37430800000000000000
+      internalID: 3779560512429326643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 204
+        width: 92
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f37f21780ce8d30800000000000000
+      internalID: 4435694369377828709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 240
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2e7a3de11c6f330800000000000000
+      internalID: 3744392478349320907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 247
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff9a29bc61070ef0800000000000000
+      internalID: -142143296764207106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 160
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e55bea15e947560800000000000000
+      internalID: 7310642168789818959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 193
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4e20ed43e9fabf0800000000000000
+      internalID: -310855899365055277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 158
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f61f394df3dab90800000000000000
+      internalID: -7229051644612088047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 196
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5fd0334580cefd0800000000000000
+      internalID: -2311463351021079074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 194
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ddc44c9f7e9d380800000000000000
+      internalID: -8945864124868534974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 194
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7ab6be90e7d4df0800000000000000
+      internalID: -194360627837556789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 147
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499dd7dfc27506940800000000000000
+      internalID: 5287321813276023188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_14
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 126
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afc5b4377a474c90800000000000000
+      internalID: -7185692804600442974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_15
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 187
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c684cc24c00e39380800000000000000
+      internalID: -8965576089899612052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 142
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c18fc7a80021490800000000000000
+      internalID: -7777153011713303431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 159
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71381ed97259db980800000000000000
+      internalID: -8521490922530045161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 151
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbd6fcc9547716f0800000000000000
+      internalID: -713974086875292681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d881a87689aa92b00800000000000000
+      internalID: 804361580011198605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 143
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e84c8fb8065f280800000000000000
+      internalID: -9010189325194457565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 147
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8c869ea49221a30800000000000000
+      internalID: 4184452405500889291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 83
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e370facb0eb967e90800000000000000
+      internalID: -7028258778924513474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c187a14dc56f980800000000000000
+      internalID: -8505508780195701629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 91
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fac9fc2983c37f10800000000000000
+      internalID: 2266370031429995253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 111
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7183f0f444f7210800000000000000
+      internalID: 1332859121073395699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 89
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6760b2f6066ef370800000000000000
+      internalID: 8358230138473703279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 88
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ce20ee6fd24a6f0800000000000000
+      internalID: -674363505620358066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_28
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 126
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620c94a466e8d7a50800000000000000
+      internalID: 6520524405486501926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 119
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de892258dc015fea0800000000000000
+      internalID: -5839742866928002835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_30
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 126
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefb4759b23ed7380800000000000000
+      internalID: -8971765106321604630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 104
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc4622d127d45a80800000000000000
+      internalID: -8478915658172183312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 108
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca050dfef695bfec0800000000000000
+      internalID: -3532131145442373460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_33
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 89
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1418a2f3305d17f00800000000000000
+      internalID: 1112904792858591553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 90
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c0c67db47c1ca50800000000000000
+      internalID: 6539727262469328028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2323a337903a8e590800000000000000
+      internalID: -7644681106478190030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 92
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcb821d7e3b07910800000000000000
+      internalID: 1833162856567717083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 93
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e2ba365febfd4f0800000000000000
+      internalID: -801712247500231101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_38
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 94
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6421507465950b8e0800000000000000
+      internalID: -1679744433915620794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_39
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 95
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe2d0c5f13e47b00800000000000000
+      internalID: 825534355543502523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 84
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ac81ba1c0f45960800000000000000
+      internalID: 7589955986616011312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 82
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664df891a8ca89c80800000000000000
+      internalID: -8315707002805300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_42
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 88
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4011091f987969ef0800000000000000
+      internalID: -101727322850193148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_43
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 85
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e96917ec52d7ca90800000000000000
+      internalID: -7293629775047202335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapa_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 81
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4a71d65336431e0800000000000000
+      internalID: -2219039635272129311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kapa_0: -2503394720482665176
+      kapa_1: 5734895371104284547
+      kapa_10: -2311463351021079074
+      kapa_11: -8945864124868534974
+      kapa_12: -194360627837556789
+      kapa_13: 5287321813276023188
+      kapa_14: -7185692804600442974
+      kapa_15: -8965576089899612052
+      kapa_16: -7777153011713303431
+      kapa_17: -8521490922530045161
+      kapa_18: -713974086875292681
+      kapa_19: 804361580011198605
+      kapa_2: -1305795955159817674
+      kapa_20: -9010189325194457565
+      kapa_21: 4184452405500889291
+      kapa_22: -7028258778924513474
+      kapa_23: -8505508780195701629
+      kapa_24: 2266370031429995253
+      kapa_25: 1332859121073395699
+      kapa_26: 8358230138473703279
+      kapa_27: -674363505620358066
+      kapa_28: 6520524405486501926
+      kapa_29: -5839742866928002835
+      kapa_3: 3779560512429326643
+      kapa_30: -8971765106321604630
+      kapa_31: -8478915658172183312
+      kapa_32: -3532131145442373460
+      kapa_33: 1112904792858591553
+      kapa_34: 6539727262469328028
+      kapa_35: -7644681106478190030
+      kapa_36: 1833162856567717083
+      kapa_37: -801712247500231101
+      kapa_38: -1679744433915620794
+      kapa_39: 825534355543502523
+      kapa_4: 4435694369377828709
+      kapa_40: 7589955986616011312
+      kapa_41: -8315707002805300122
+      kapa_42: -101727322850193148
+      kapa_43: -7293629775047202335
+      kapa_44: -2219039635272129311
+      kapa_5: 3744392478349320907
+      kapa_6: -142143296764207106
+      kapa_7: 7310642168789818959
+      kapa_8: -310855899365055277
+      kapa_9: -7229051644612088047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 287edc5288da95b4ba94a8278b8f14d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2464982303659877621
+    second: nuomu_0
+  - first:
+      213: 6433848316218004229
+    second: nuomu_1
+  - first:
+      213: 2752043629265203378
+    second: nuomu_2
+  - first:
+      213: -1015493605985431847
+    second: nuomu_3
+  - first:
+      213: -8428535866689064644
+    second: nuomu_4
+  - first:
+      213: 8075363690456939565
+    second: nuomu_5
+  - first:
+      213: 5695557098491471165
+    second: nuomu_6
+  - first:
+      213: -6230244809618554277
+    second: nuomu_7
+  - first:
+      213: 1344544718081479880
+    second: nuomu_8
+  - first:
+      213: -9031489669713844089
+    second: nuomu_9
+  - first:
+      213: 2499677536388556371
+    second: nuomu_10
+  - first:
+      213: 5581845693048282299
+    second: nuomu_11
+  - first:
+      213: 5515534892432855867
+    second: nuomu_12
+  - first:
+      213: 4475716358756920580
+    second: nuomu_13
+  - first:
+      213: 5416987844658657343
+    second: nuomu_14
+  - first:
+      213: -6264348559838375706
+    second: nuomu_15
+  - first:
+      213: -4732073692655028279
+    second: nuomu_16
+  - first:
+      213: -3425922063563746078
+    second: nuomu_17
+  - first:
+      213: -524566344206543
+    second: nuomu_18
+  - first:
+      213: -2450115410610462748
+    second: nuomu_19
+  - first:
+      213: 2481716012156860557
+    second: nuomu_20
+  - first:
+      213: 3771387639057064899
+    second: nuomu_21
+  - first:
+      213: -5693222026537970848
+    second: nuomu_22
+  - first:
+      213: -580584861112405948
+    second: nuomu_23
+  - first:
+      213: -3723598807987356215
+    second: nuomu_24
+  - first:
+      213: -2882496565318763766
+    second: nuomu_25
+  - first:
+      213: 1561613046445810306
+    second: nuomu_26
+  - first:
+      213: -6710582966022925877
+    second: nuomu_27
+  - first:
+      213: -4947185690374620351
+    second: nuomu_28
+  - first:
+      213: 858118145788016881
+    second: nuomu_29
+  - first:
+      213: -924326069852475950
+    second: nuomu_30
+  - first:
+      213: 6964875861456489629
+    second: nuomu_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuomu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 199
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4654b5850653220800000000000000
+      internalID: 2464982303659877621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 136
+        width: 184
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5035be2a4fe994950800000000000000
+      internalID: 6433848316218004229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 157
+        width: 114
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0bab09919313620800000000000000
+      internalID: 2752043629265203378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 72
+        width: 119
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dece8712fd38e1f0800000000000000
+      internalID: -1015493605985431847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31fb591943d70b80800000000000000
+      internalID: -8428535866689064644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 111
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cf5c9cd74711070800000000000000
+      internalID: 8075363690456939565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 105
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35e985310faa0f40800000000000000
+      internalID: 5695557098491471165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 109
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5207fada59b989a0800000000000000
+      internalID: -6230244809618554277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 101
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4dfd12c48c8a210800000000000000
+      internalID: 1344544718081479880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 62
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788a81c0ff3b9a280800000000000000
+      internalID: -9031489669713844089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 100
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356a679b973a0b220800000000000000
+      internalID: 2499677536388556371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 117
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcdf2d7513b67d40800000000000000
+      internalID: 5581845693048282299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 106
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b339bb913cd1b8c40800000000000000
+      internalID: 5515534892432855867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 88
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d6c1f9050fc1e30800000000000000
+      internalID: 4475716358756920580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 81
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38fc798eb10d2b40800000000000000
+      internalID: 5416987844658657343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 63
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e09a9dbc209019a0800000000000000
+      internalID: -6264348559838375706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 92
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c773525c0c445eb0800000000000000
+      internalID: -4732073692655028279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 73
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e41c15d80ea470d0800000000000000
+      internalID: -3425922063563746078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 94
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1377461e8e22efff0800000000000000
+      internalID: -524566344206543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 54
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef5adbe3017ffdd0800000000000000
+      internalID: -2450115410610462748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 68
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88320a7093d07220800000000000000
+      internalID: 2481716012156860557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 54
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3ab487319a65430800000000000000
+      internalID: 3771387639057064899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 40
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06356c81bbc9df0b0800000000000000
+      internalID: -5693222026537970848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 39
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440fc67152951f7f0800000000000000
+      internalID: -580584861112405948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_24
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 45
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd78d3dc9e135cc0800000000000000
+      internalID: -3723598807987356215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_25
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 38
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b34ed55a05ff7d0800000000000000
+      internalID: -2882496565318763766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 34
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282a40ebac6fba510800000000000000
+      internalID: 1561613046445810306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 38
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc19a6ab8583fd2a0800000000000000
+      internalID: -6710582966022925877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_28
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 42
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b335f63d0185bb0800000000000000
+      internalID: -4947185690374620351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 42
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8f20738e5a8eb00800000000000000
+      internalID: 858118145788016881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd6fc536522c23f0800000000000000
+      internalID: -924326069852475950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuomu_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 37
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c8ecac1b538a060800000000000000
+      internalID: 6964875861456489629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nuomu_0: 2464982303659877621
+      nuomu_1: 6433848316218004229
+      nuomu_10: 2499677536388556371
+      nuomu_11: 5581845693048282299
+      nuomu_12: 5515534892432855867
+      nuomu_13: 4475716358756920580
+      nuomu_14: 5416987844658657343
+      nuomu_15: -6264348559838375706
+      nuomu_16: -4732073692655028279
+      nuomu_17: -3425922063563746078
+      nuomu_18: -524566344206543
+      nuomu_19: -2450115410610462748
+      nuomu_2: 2752043629265203378
+      nuomu_20: 2481716012156860557
+      nuomu_21: 3771387639057064899
+      nuomu_22: -5693222026537970848
+      nuomu_23: -580584861112405948
+      nuomu_24: -3723598807987356215
+      nuomu_25: -2882496565318763766
+      nuomu_26: 1561613046445810306
+      nuomu_27: -6710582966022925877
+      nuomu_28: -4947185690374620351
+      nuomu_29: 858118145788016881
+      nuomu_3: -1015493605985431847
+      nuomu_30: -924326069852475950
+      nuomu_31: 6964875861456489629
+      nuomu_4: -8428535866689064644
+      nuomu_5: 8075363690456939565
+      nuomu_6: 5695557098491471165
+      nuomu_7: -6230244809618554277
+      nuomu_8: 1344544718081479880
+      nuomu_9: -9031489669713844089
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

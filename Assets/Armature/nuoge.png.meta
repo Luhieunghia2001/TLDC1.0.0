@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: a11b1f34a2b67d0479cfad6f25f77bf7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9086757813562059012
+    second: nuoge_0
+  - first:
+      213: -4811168118753542172
+    second: nuoge_1
+  - first:
+      213: -8717037760357618936
+    second: nuoge_2
+  - first:
+      213: -6752315766439323900
+    second: nuoge_3
+  - first:
+      213: 8099111292431603665
+    second: nuoge_4
+  - first:
+      213: 8183971898977412995
+    second: nuoge_5
+  - first:
+      213: 7508583526141922377
+    second: nuoge_6
+  - first:
+      213: 5794920185186978230
+    second: nuoge_7
+  - first:
+      213: -593099583518418288
+    second: nuoge_8
+  - first:
+      213: 2676768279201703226
+    second: nuoge_9
+  - first:
+      213: -8365020783090109214
+    second: nuoge_10
+  - first:
+      213: 7887092197655882097
+    second: nuoge_11
+  - first:
+      213: -2077021620622284288
+    second: nuoge_12
+  - first:
+      213: 5697868793638283631
+    second: nuoge_13
+  - first:
+      213: -2834820554591943375
+    second: nuoge_14
+  - first:
+      213: 5813390995744561738
+    second: nuoge_15
+  - first:
+      213: -3303745285148132464
+    second: nuoge_16
+  - first:
+      213: 5187115827614553186
+    second: nuoge_17
+  - first:
+      213: -1096756866288032297
+    second: nuoge_18
+  - first:
+      213: -5311638372054939428
+    second: nuoge_19
+  - first:
+      213: -8930807707373868436
+    second: nuoge_20
+  - first:
+      213: -5849750907456799738
+    second: nuoge_21
+  - first:
+      213: 2364156845597368077
+    second: nuoge_22
+  - first:
+      213: -6221597708034999596
+    second: nuoge_23
+  - first:
+      213: 2439072897360276487
+    second: nuoge_24
+  - first:
+      213: -7470666785679739518
+    second: nuoge_25
+  - first:
+      213: 8225828957548578880
+    second: nuoge_26
+  - first:
+      213: 5115059375330876217
+    second: nuoge_27
+  - first:
+      213: 7371575225855504105
+    second: nuoge_28
+  - first:
+      213: 1443256689020478097
+    second: nuoge_29
+  - first:
+      213: -2763873698143226493
+    second: nuoge_30
+  - first:
+      213: 425964351007879331
+    second: nuoge_31
+  - first:
+      213: 1259675043653038345
+    second: nuoge_32
+  - first:
+      213: -3902621930912298001
+    second: nuoge_33
+  - first:
+      213: 4231392607043707879
+    second: nuoge_34
+  - first:
+      213: 8541689844930069236
+    second: nuoge_35
+  - first:
+      213: -6308335221947866209
+    second: nuoge_36
+  - first:
+      213: 1542304516997186711
+    second: nuoge_37
+  - first:
+      213: -891504009093940433
+    second: nuoge_38
+  - first:
+      213: 2348518459859102345
+    second: nuoge_39
+  - first:
+      213: 376057586049839612
+    second: nuoge_40
+  - first:
+      213: -806221928494859348
+    second: nuoge_41
+  - first:
+      213: 729611880024080668
+    second: nuoge_42
+  - first:
+      213: -4537404666942629716
+    second: nuoge_43
+  - first:
+      213: 2703867896211909840
+    second: nuoge_44
+  - first:
+      213: 8577422367640388679
+    second: nuoge_45
+  - first:
+      213: -9096541797721936963
+    second: nuoge_46
+  - first:
+      213: 8465728614438678781
+    second: nuoge_47
+  - first:
+      213: -9182233299616495817
+    second: nuoge_48
+  - first:
+      213: -2298388961609519833
+    second: nuoge_49
+  - first:
+      213: -6766894686605118981
+    second: nuoge_50
+  - first:
+      213: 7502334988402614574
+    second: nuoge_51
+  - first:
+      213: -7600569924353268419
+    second: nuoge_52
+  - first:
+      213: 5301450306873533515
+    second: nuoge_53
+  - first:
+      213: -7373966850588698380
+    second: nuoge_54
+  - first:
+      213: 1671465859198865016
+    second: nuoge_55
+  - first:
+      213: -2861119948670523792
+    second: nuoge_56
+  - first:
+      213: 8901004063160198400
+    second: nuoge_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuoge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1721
+        width: 517
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4092f557616aa1e70800000000000000
+      internalID: 9086757813562059012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_1
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1863
+        width: 146
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efb20f261c4b3db0800000000000000
+      internalID: -4811168118753542172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1885
+        width: 88
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ba730875cd60780800000000000000
+      internalID: -8717037760357618936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_3
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1897
+        width: 96
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4075d12f594fa42a0800000000000000
+      internalID: -6752315766439323900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_4
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1895
+        width: 62
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d79dbd3fc2d56070800000000000000
+      internalID: 8099111292431603665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_5
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1982
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387e352e41f439170800000000000000
+      internalID: 8183971898977412995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_6
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2016
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c0a025fe8d33860800000000000000
+      internalID: 7508583526141922377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_7
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1944
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b98fc3a431bb6050800000000000000
+      internalID: 5794920185186978230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_8
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1918
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ad3f73213e4c7f0800000000000000
+      internalID: -593099583518418288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_9
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1781
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35e9db519ac52520800000000000000
+      internalID: 2676768279201703226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_10
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1767
+        width: 57
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e47725eae979eb80800000000000000
+      internalID: -8365020783090109214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_11
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1763
+        width: 42
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179a800f094947d60800000000000000
+      internalID: 7887092197655882097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_12
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1893
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aa00037dfec23e0800000000000000
+      internalID: -2077021620622284288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_13
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1775
+        width: 141
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69e79daa75e21f40800000000000000
+      internalID: 5697868793638283631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_14
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1836
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1354291a9b1b8a8d0800000000000000
+      internalID: -2834820554591943375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1862
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a1fc95f405da050800000000000000
+      internalID: 5813390995744561738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_16
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1847
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bbf5aca2db622d0800000000000000
+      internalID: -3303745285148132464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_17
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1737
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26495c9dc565cf740800000000000000
+      internalID: 5187115827614553186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_18
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1824
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d56ee3e07987c0f0800000000000000
+      internalID: -1096756866288032297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_19
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1677
+        width: 134
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8c45afa054946b0800000000000000
+      internalID: -5311638372054939428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_20
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1726
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ae8a425b56f0480800000000000000
+      internalID: -8930807707373868436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_21
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1757
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cb4800b8281dea0800000000000000
+      internalID: -5849750907456799738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_22
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1712
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f932f002c2fc020800000000000000
+      internalID: 2364156845597368077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_23
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1705
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da703519d178a9a0800000000000000
+      internalID: -6221597708034999596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1390
+        width: 545
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c217c90e359d120800000000000000
+      internalID: 2439072897360276487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_25
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1680
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285ff34c32cd25890800000000000000
+      internalID: -7470666785679739518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_26
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1700
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0480ec5cad3082270800000000000000
+      internalID: 8225828957548578880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_27
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1683
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bd0afa6675cf640800000000000000
+      internalID: 5115059375330876217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_28
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1672
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeef249c981d4660800000000000000
+      internalID: 7371575225855504105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_29
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1689
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192a5ccdf4a770410800000000000000
+      internalID: 1443256689020478097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_30
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1677
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b022e38fb4a9d0800000000000000
+      internalID: -2763873698143226493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_31
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1664
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0fdc4025459e500800000000000000
+      internalID: 425964351007879331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_32
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1657
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9013d5537c34b7110800000000000000
+      internalID: 1259675043653038345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_33
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1572
+        width: 122
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febc253e70a17d9c0800000000000000
+      internalID: -3902621930912298001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_34
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1618
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3ed00482de8ba30800000000000000
+      internalID: 4231392607043707879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_35
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1661
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f24e9c78ad2a8670800000000000000
+      internalID: 8541689844930069236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_36
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1655
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9366b3e98a4478a0800000000000000
+      internalID: -6308335221947866209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_37
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1610
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794091769cd576510800000000000000
+      internalID: 1542304516997186711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_38
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1574
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b7e1eb3ddb0a3f0800000000000000
+      internalID: -891504009093940433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_39
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1559
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a6954a81d979020800000000000000
+      internalID: 2348518459859102345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_40
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1614
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1779fc166083500800000000000000
+      internalID: 376057586049839612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_41
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1563
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabfee57d69bfc4f0800000000000000
+      internalID: -806221928494859348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_42
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1528
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c118db4a32a102a00800000000000000
+      internalID: 729611880024080668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_43
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1523
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca85fa0ee76e701c0800000000000000
+      internalID: -4537404666942629716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_44
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1530
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc2b41a681168520800000000000000
+      internalID: 2703867896211909840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_45
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1538
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74402bfb230290770800000000000000
+      internalID: 8577422367640388679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_46
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1526
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb6a463e6792c180800000000000000
+      internalID: -9096541797721936963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_47
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1556
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df03a7c425f4c7570800000000000000
+      internalID: 8465728614438678781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_48
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1525
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737889ba677229080800000000000000
+      internalID: -9182233299616495817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_49
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1527
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72de593ba6b7a10e0800000000000000
+      internalID: -2298388961609519833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_50
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1461
+        width: 161
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf17c6492292712a0800000000000000
+      internalID: -6766894686605118981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_51
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1470
+        width: 168
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21e8b14ce5ad1860800000000000000
+      internalID: 7502334988402614574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_52
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1408
+        width: 156
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35e7606ce9558690800000000000000
+      internalID: -7600569924353268419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_53
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1426
+        width: 179
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44259f37f8829940800000000000000
+      internalID: 5301450306873533515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_54
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1360
+        width: 148
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f89725e7386aa990800000000000000
+      internalID: -7373966850588698380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1059
+        width: 524
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ecdb7d75d323710800000000000000
+      internalID: 1671465859198865016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_56
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1372
+        width: 163
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076a5b7c0924b48d0800000000000000
+      internalID: -2861119948670523792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuoge_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 517
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005e8f03908b68b70800000000000000
+      internalID: 8901004063160198400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nuoge_0: 9086757813562059012
+      nuoge_1: -4811168118753542172
+      nuoge_10: -8365020783090109214
+      nuoge_11: 7887092197655882097
+      nuoge_12: -2077021620622284288
+      nuoge_13: 5697868793638283631
+      nuoge_14: -2834820554591943375
+      nuoge_15: 5813390995744561738
+      nuoge_16: -3303745285148132464
+      nuoge_17: 5187115827614553186
+      nuoge_18: -1096756866288032297
+      nuoge_19: -5311638372054939428
+      nuoge_2: -8717037760357618936
+      nuoge_20: -8930807707373868436
+      nuoge_21: -5849750907456799738
+      nuoge_22: 2364156845597368077
+      nuoge_23: -6221597708034999596
+      nuoge_24: 2439072897360276487
+      nuoge_25: -7470666785679739518
+      nuoge_26: 8225828957548578880
+      nuoge_27: 5115059375330876217
+      nuoge_28: 7371575225855504105
+      nuoge_29: 1443256689020478097
+      nuoge_3: -6752315766439323900
+      nuoge_30: -2763873698143226493
+      nuoge_31: 425964351007879331
+      nuoge_32: 1259675043653038345
+      nuoge_33: -3902621930912298001
+      nuoge_34: 4231392607043707879
+      nuoge_35: 8541689844930069236
+      nuoge_36: -6308335221947866209
+      nuoge_37: 1542304516997186711
+      nuoge_38: -891504009093940433
+      nuoge_39: 2348518459859102345
+      nuoge_4: 8099111292431603665
+      nuoge_40: 376057586049839612
+      nuoge_41: -806221928494859348
+      nuoge_42: 729611880024080668
+      nuoge_43: -4537404666942629716
+      nuoge_44: 2703867896211909840
+      nuoge_45: 8577422367640388679
+      nuoge_46: -9096541797721936963
+      nuoge_47: 8465728614438678781
+      nuoge_48: -9182233299616495817
+      nuoge_49: -2298388961609519833
+      nuoge_5: 8183971898977412995
+      nuoge_50: -6766894686605118981
+      nuoge_51: 7502334988402614574
+      nuoge_52: -7600569924353268419
+      nuoge_53: 5301450306873533515
+      nuoge_54: -7373966850588698380
+      nuoge_55: 1671465859198865016
+      nuoge_56: -2861119948670523792
+      nuoge_57: 8901004063160198400
+      nuoge_6: 7508583526141922377
+      nuoge_7: 5794920185186978230
+      nuoge_8: -593099583518418288
+      nuoge_9: 2676768279201703226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

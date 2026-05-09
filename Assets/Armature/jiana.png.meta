@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 137ee59eb45c3f54ba9c873168c3cf04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -175456233133863207
+    second: jiana_0
+  - first:
+      213: -6673081368223824599
+    second: jiana_1
+  - first:
+      213: 3909222796355635713
+    second: jiana_2
+  - first:
+      213: 6867426764577364344
+    second: jiana_3
+  - first:
+      213: -8400846581798446084
+    second: jiana_4
+  - first:
+      213: 6596964181747086970
+    second: jiana_5
+  - first:
+      213: 392118275479048989
+    second: jiana_6
+  - first:
+      213: -898784075623154318
+    second: jiana_7
+  - first:
+      213: -4609282647730961908
+    second: jiana_8
+  - first:
+      213: 6304790628726434576
+    second: jiana_9
+  - first:
+      213: -9150142160079636144
+    second: jiana_10
+  - first:
+      213: -7090599012942350253
+    second: jiana_11
+  - first:
+      213: 3501029433207739003
+    second: jiana_12
+  - first:
+      213: -2126467452259600987
+    second: jiana_13
+  - first:
+      213: -1406367709671311925
+    second: jiana_14
+  - first:
+      213: -3079198333473631128
+    second: jiana_15
+  - first:
+      213: -6058720128710471549
+    second: jiana_16
+  - first:
+      213: -7158436692716595574
+    second: jiana_17
+  - first:
+      213: 5367957129695524909
+    second: jiana_18
+  - first:
+      213: -3210141892028212230
+    second: jiana_19
+  - first:
+      213: -6342689217707383395
+    second: jiana_20
+  - first:
+      213: -4023728974505448826
+    second: jiana_21
+  - first:
+      213: -3124225718826280562
+    second: jiana_22
+  - first:
+      213: 7286803186498490704
+    second: jiana_23
+  - first:
+      213: -4996695596542447669
+    second: jiana_24
+  - first:
+      213: -5879949247708592609
+    second: jiana_25
+  - first:
+      213: -8438255319241386662
+    second: jiana_26
+  - first:
+      213: 5079786048100753995
+    second: jiana_27
+  - first:
+      213: -4892127472488208888
+    second: jiana_28
+  - first:
+      213: -5406510201505363915
+    second: jiana_29
+  - first:
+      213: -5706233052931038462
+    second: jiana_30
+  - first:
+      213: 7325428476639976785
+    second: jiana_31
+  - first:
+      213: -1678457256354120217
+    second: jiana_32
+  - first:
+      213: 6560099275288950883
+    second: jiana_33
+  - first:
+      213: 6496155086798884643
+    second: jiana_34
+  - first:
+      213: -471015125347831737
+    second: jiana_35
+  - first:
+      213: 6830325937555852867
+    second: jiana_36
+  - first:
+      213: 3442838959340109869
+    second: jiana_37
+  - first:
+      213: -4500341353136959003
+    second: jiana_38
+  - first:
+      213: 7902525389768036510
+    second: jiana_39
+  - first:
+      213: -8159461016666048012
+    second: jiana_40
+  - first:
+      213: -2451876139909959592
+    second: jiana_41
+  - first:
+      213: -1593114735336792380
+    second: jiana_42
+  - first:
+      213: -8395497687571179290
+    second: jiana_43
+  - first:
+      213: 411534776365912240
+    second: jiana_44
+  - first:
+      213: 4055874462279844959
+    second: jiana_45
+  - first:
+      213: 3149106332367370906
+    second: jiana_46
+  - first:
+      213: 1783380881312556994
+    second: jiana_47
+  - first:
+      213: 1393621945265470084
+    second: jiana_48
+  - first:
+      213: 1846564482792379633
+    second: jiana_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jiana_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 343
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de8d6e4c77a09df0800000000000000
+      internalID: -175456233133863207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 134
+        width: 327
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925cdb1e9d37463a0800000000000000
+      internalID: -6673081368223824599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_2
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 357
+        width: 130
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a03acdb69504630800000000000000
+      internalID: 3909222796355635713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 341
+        width: 107
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879d4a7d1400e4f50800000000000000
+      internalID: 6867426764577364344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_4
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 385
+        width: 43
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb595f1b823a6b80800000000000000
+      internalID: -8400846581798446084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 402
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76b20998ff1d8b50800000000000000
+      internalID: 6596964181747086970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_6
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 465
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d131ed77e75117500800000000000000
+      internalID: 392118275479048989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_7
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 434
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d34ba25a0e683f0800000000000000
+      internalID: -898784075623154318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_8
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 413
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02cf985ad98800c0800000000000000
+      internalID: -4609282647730961908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_9
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 395
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b63703cad1f7750800000000000000
+      internalID: 6304790628726434576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 264
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059b0285f2a240180800000000000000
+      internalID: -9150142160079636144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 281
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f5dce3c1299d90800000000000000
+      internalID: -7090599012942350253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_12
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 289
+        width: 29
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72d88268b7269030800000000000000
+      internalID: 3501029433207739003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_13
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 306
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5f2a16e154d72e0800000000000000
+      internalID: -2126467452259600987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_14
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 354
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc53671f4049b7ce0800000000000000
+      internalID: -1406367709671311925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_15
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 315
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86454541e6d7445d0800000000000000
+      internalID: -3079198333473631128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_16
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 325
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38014b6b42a1beba0800000000000000
+      internalID: -6058720128710471549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 298
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86518741cf18ac90800000000000000
+      internalID: -7158436692716595574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_18
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 267
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f60d9190de7a40800000000000000
+      internalID: 5367957129695524909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_19
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 307
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbde0f05f84373d0800000000000000
+      internalID: -3210141892028212230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_20
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 286
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95e9d1f2cd3af7a0800000000000000
+      internalID: -6342689217707383395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_21
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 280
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ae72af0d7d828c0800000000000000
+      internalID: -4023728974505448826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e895837f24584a4d0800000000000000
+      internalID: -3124225718826280562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_23
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 240
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0515d6714ecef1560800000000000000
+      internalID: 7286803186498490704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_24
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 233
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf245d14db28aab0800000000000000
+      internalID: -4996695596542447669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_25
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 267
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1601010059366ea0800000000000000
+      internalID: -5879949247708592609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_26
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 255
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a551194be7b45ea80800000000000000
+      internalID: -8438255319241386662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_27
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 267
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42e7043f760f7640800000000000000
+      internalID: 5079786048100753995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_28
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 249
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806296ebbfbab1cb0800000000000000
+      internalID: -4892127472488208888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_29
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 250
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5384fbcdd9738f4b0800000000000000
+      internalID: -5406510201505363915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_30
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 256
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203e37275436fc0b0800000000000000
+      internalID: -5706233052931038462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_31
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 244
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d18a1436629a560800000000000000
+      internalID: 7325428476639976785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_32
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 222
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edf558a40ce4b8e0800000000000000
+      internalID: -1678457256354120217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_33
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 223
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36835e2b8872a0b50800000000000000
+      internalID: 6560099275288950883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_34
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 238
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f8e7222aaf62a50800000000000000
+      internalID: 6496155086798884643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_35
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 237
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7407ec13d3e9679f0800000000000000
+      internalID: -471015125347831737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_36
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 228
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e472860413ace50800000000000000
+      internalID: 6830325937555852867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_37
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 232
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20c756eacb67cf20800000000000000
+      internalID: 3442838959340109869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_38
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 235
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1554612639b81c0800000000000000
+      internalID: -4500341353136959003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_39
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 228
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9011adf8f86bad60800000000000000
+      internalID: 7902525389768036510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_40
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 186
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9f8fe9f65c3ce80800000000000000
+      internalID: -8159461016666048012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_41
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 217
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850396f24af29fdd0800000000000000
+      internalID: -2451876139909959592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_42
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 233
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce5fc1c69e14e9e0800000000000000
+      internalID: -1593114735336792380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_43
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 223
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8d4bb95533d7b80800000000000000
+      internalID: -8395497687571179290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_44
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 192
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0920ed2b016b500800000000000000
+      internalID: 411534776365912240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_45
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 187
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54c4c1a55c594830800000000000000
+      internalID: 4055874462279844959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_46
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 191
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ab0bc468fd3bb20800000000000000
+      internalID: 3149106332367370906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_47
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 51
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7abd97677dfb810800000000000000
+      internalID: 1783380881312556994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_48
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 95
+        width: 131
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48abcb686c3275310800000000000000
+      internalID: 1393621945265470084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiana_49
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 174
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f451b31d9050a910800000000000000
+      internalID: 1846564482792379633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jiana_0: -175456233133863207
+      jiana_1: -6673081368223824599
+      jiana_10: -9150142160079636144
+      jiana_11: -7090599012942350253
+      jiana_12: 3501029433207739003
+      jiana_13: -2126467452259600987
+      jiana_14: -1406367709671311925
+      jiana_15: -3079198333473631128
+      jiana_16: -6058720128710471549
+      jiana_17: -7158436692716595574
+      jiana_18: 5367957129695524909
+      jiana_19: -3210141892028212230
+      jiana_2: 3909222796355635713
+      jiana_20: -6342689217707383395
+      jiana_21: -4023728974505448826
+      jiana_22: -3124225718826280562
+      jiana_23: 7286803186498490704
+      jiana_24: -4996695596542447669
+      jiana_25: -5879949247708592609
+      jiana_26: -8438255319241386662
+      jiana_27: 5079786048100753995
+      jiana_28: -4892127472488208888
+      jiana_29: -5406510201505363915
+      jiana_3: 6867426764577364344
+      jiana_30: -5706233052931038462
+      jiana_31: 7325428476639976785
+      jiana_32: -1678457256354120217
+      jiana_33: 6560099275288950883
+      jiana_34: 6496155086798884643
+      jiana_35: -471015125347831737
+      jiana_36: 6830325937555852867
+      jiana_37: 3442838959340109869
+      jiana_38: -4500341353136959003
+      jiana_39: 7902525389768036510
+      jiana_4: -8400846581798446084
+      jiana_40: -8159461016666048012
+      jiana_41: -2451876139909959592
+      jiana_42: -1593114735336792380
+      jiana_43: -8395497687571179290
+      jiana_44: 411534776365912240
+      jiana_45: 4055874462279844959
+      jiana_46: 3149106332367370906
+      jiana_47: 1783380881312556994
+      jiana_48: 1393621945265470084
+      jiana_49: 1846564482792379633
+      jiana_5: 6596964181747086970
+      jiana_6: 392118275479048989
+      jiana_7: -898784075623154318
+      jiana_8: -4609282647730961908
+      jiana_9: 6304790628726434576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

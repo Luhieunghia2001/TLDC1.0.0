@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: cbc45bea4b6024c48a0b29f7222d1546
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5123392663580078831
+    second: lianyou_0
+  - first:
+      213: -851747672513358731
+    second: lianyou_1
+  - first:
+      213: -314461047420138798
+    second: lianyou_2
+  - first:
+      213: -6972790440671129172
+    second: lianyou_3
+  - first:
+      213: -3035158589710654378
+    second: lianyou_4
+  - first:
+      213: 4138453802023260308
+    second: lianyou_5
+  - first:
+      213: -5715990865962248723
+    second: lianyou_6
+  - first:
+      213: 4314075055432031748
+    second: lianyou_7
+  - first:
+      213: 6713367586444767796
+    second: lianyou_8
+  - first:
+      213: 4283106092238750546
+    second: lianyou_9
+  - first:
+      213: 6158442057611280035
+    second: lianyou_10
+  - first:
+      213: -3590703292214076446
+    second: lianyou_11
+  - first:
+      213: -3809581075918651688
+    second: lianyou_12
+  - first:
+      213: -7252770711819799963
+    second: lianyou_13
+  - first:
+      213: -9184689360883758017
+    second: lianyou_14
+  - first:
+      213: -4985647310059176955
+    second: lianyou_15
+  - first:
+      213: 6379950380482193729
+    second: lianyou_16
+  - first:
+      213: 1663126090889686294
+    second: lianyou_17
+  - first:
+      213: 8106715584735249854
+    second: lianyou_18
+  - first:
+      213: 4434048646630408268
+    second: lianyou_19
+  - first:
+      213: 624846690043571907
+    second: lianyou_20
+  - first:
+      213: -1422599722160140301
+    second: lianyou_21
+  - first:
+      213: -5915152217649860683
+    second: lianyou_22
+  - first:
+      213: 8511131002100783574
+    second: lianyou_23
+  - first:
+      213: 8427543201944061305
+    second: lianyou_24
+  - first:
+      213: 3962753337368014311
+    second: lianyou_25
+  - first:
+      213: -5549419626491436814
+    second: lianyou_26
+  - first:
+      213: -4330748993023177880
+    second: lianyou_27
+  - first:
+      213: 2117360460224850922
+    second: lianyou_28
+  - first:
+      213: -3418591359177249881
+    second: lianyou_29
+  - first:
+      213: 520510971876632986
+    second: lianyou_30
+  - first:
+      213: 9073408549688380617
+    second: lianyou_31
+  - first:
+      213: -3204751421490268365
+    second: lianyou_32
+  - first:
+      213: -2291830264930154266
+    second: lianyou_33
+  - first:
+      213: 2575781595555659128
+    second: lianyou_34
+  - first:
+      213: 870306943697757659
+    second: lianyou_35
+  - first:
+      213: -6088843797809685986
+    second: lianyou_36
+  - first:
+      213: 6555845902106725993
+    second: lianyou_37
+  - first:
+      213: -8206329851912051415
+    second: lianyou_38
+  - first:
+      213: -2359628317263577661
+    second: lianyou_39
+  - first:
+      213: -4215989059373054652
+    second: lianyou_40
+  - first:
+      213: -2841717136762474579
+    second: lianyou_41
+  - first:
+      213: 6647169735116712822
+    second: lianyou_42
+  - first:
+      213: -7045682780932091069
+    second: lianyou_43
+  - first:
+      213: 1928367904103927931
+    second: lianyou_44
+  - first:
+      213: -65240993617693699
+    second: lianyou_45
+  - first:
+      213: 8659865682441106016
+    second: lianyou_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lianyou_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 776
+        width: 416
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2788d8b72f91740800000000000000
+      internalID: 5123392663580078831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 929
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574539d210cfd24f0800000000000000
+      internalID: -851747672513358731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 880
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da43dce75fc2abf0800000000000000
+      internalID: -314461047420138798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 815
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1de82a90cab3f90800000000000000
+      internalID: -6972790440671129172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 832
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6542257f753f0e5d0800000000000000
+      internalID: -3035158589710654378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 795
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49016f47ecdbe6930800000000000000
+      internalID: 4138453802023260308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 780
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de551fe8798bca0b0800000000000000
+      internalID: -5715990865962248723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 753
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e566de76caedb30800000000000000
+      internalID: 4314075055432031748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 767
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43279ac304caa2d50800000000000000
+      internalID: 6713367586444767796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 551
+        width: 225
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253c33b4c46a07b30800000000000000
+      internalID: 4283106092238750546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 674
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aefebd2c6e277550800000000000000
+      internalID: 6158442057611280035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 743
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb11cd41624b2ec0800000000000000
+      internalID: -3590703292214076446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 749
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de71da0236a12bc0800000000000000
+      internalID: -3809581075918651688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 729
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562bf94e67bf85b90800000000000000
+      internalID: -7252770711819799963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 729
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cc63850bd698080800000000000000
+      internalID: -9184689360883758017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 739
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c7a84cf2c6fcab0800000000000000
+      internalID: -4985647310059176955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 724
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149624191132a8850800000000000000
+      internalID: 6379950380482193729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 615
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61de9283e5c941710800000000000000
+      internalID: 1663126090889686294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_18
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 724
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb584438fd6d08070800000000000000
+      internalID: 8106715584735249854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 639
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40053360c7e88d30800000000000000
+      internalID: 4434048646630408268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 660
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce202701c6eba800800000000000000
+      internalID: 624846690043571907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 658
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff43170719e14ce0800000000000000
+      internalID: -1422599722160140301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 635
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfad9ad56829eda0800000000000000
+      internalID: -5915152217649860683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 628
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d918017d8c9d1670800000000000000
+      internalID: 8511131002100783574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 621
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975422124e5a4f470800000000000000
+      internalID: 8427543201944061305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 593
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed605e2a278ef630800000000000000
+      internalID: 3962753337368014311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 627
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0a56570408cf2b0800000000000000
+      internalID: -5549419626491436814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 605
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b09737cb616e3c0800000000000000
+      internalID: -4330748993023177880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 606
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebe82dce10626d10800000000000000
+      internalID: 2117360460224850922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 570
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab25047549be80d0800000000000000
+      internalID: -3418591359177249881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_30
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 605
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99666c98f9393700800000000000000
+      internalID: 520510971876632986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_31
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 554
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc0b22c0093bed70800000000000000
+      internalID: 9073408549688380617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_32
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 586
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f4a8cf8f6683d0800000000000000
+      internalID: -3204751421490268365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 550
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e849554488c130e0800000000000000
+      internalID: -2291830264930154266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 585
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d751ec6b30fb320800000000000000
+      internalID: 2575781595555659128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 566
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd529a0ed83f31c00800000000000000
+      internalID: 870306943697757659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_36
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 579
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a96b273d4108ba0800000000000000
+      internalID: -6088843797809685986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 559
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e85451d1b0bfa50800000000000000
+      internalID: 6555845902106725993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 536
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925291b8a724d1e80800000000000000
+      internalID: -8206329851912051415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 565
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd3d8b1c8ae04fd0800000000000000
+      internalID: -2359628317263577661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445c22ba94ccd75c0800000000000000
+      internalID: -4215989059373054652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 543
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafe127f1513098d0800000000000000
+      internalID: -2841717136762474579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 536
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67beb57e7ad7f3c50800000000000000
+      internalID: 6647169735116712822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_43
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 530
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343d47227d4b83e90800000000000000
+      internalID: -7045682780932091069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 542
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7011605460f2ca10800000000000000
+      internalID: 1928367904103927931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_45
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 543
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3bf9679a7381ff0800000000000000
+      internalID: -65240993617693699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lianyou_46
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 519
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0627f7cc4f50e2870800000000000000
+      internalID: 8659865682441106016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lianyou_0: 5123392663580078831
+      lianyou_1: -851747672513358731
+      lianyou_10: 6158442057611280035
+      lianyou_11: -3590703292214076446
+      lianyou_12: -3809581075918651688
+      lianyou_13: -7252770711819799963
+      lianyou_14: -9184689360883758017
+      lianyou_15: -4985647310059176955
+      lianyou_16: 6379950380482193729
+      lianyou_17: 1663126090889686294
+      lianyou_18: 8106715584735249854
+      lianyou_19: 4434048646630408268
+      lianyou_2: -314461047420138798
+      lianyou_20: 624846690043571907
+      lianyou_21: -1422599722160140301
+      lianyou_22: -5915152217649860683
+      lianyou_23: 8511131002100783574
+      lianyou_24: 8427543201944061305
+      lianyou_25: 3962753337368014311
+      lianyou_26: -5549419626491436814
+      lianyou_27: -4330748993023177880
+      lianyou_28: 2117360460224850922
+      lianyou_29: -3418591359177249881
+      lianyou_3: -6972790440671129172
+      lianyou_30: 520510971876632986
+      lianyou_31: 9073408549688380617
+      lianyou_32: -3204751421490268365
+      lianyou_33: -2291830264930154266
+      lianyou_34: 2575781595555659128
+      lianyou_35: 870306943697757659
+      lianyou_36: -6088843797809685986
+      lianyou_37: 6555845902106725993
+      lianyou_38: -8206329851912051415
+      lianyou_39: -2359628317263577661
+      lianyou_4: -3035158589710654378
+      lianyou_40: -4215989059373054652
+      lianyou_41: -2841717136762474579
+      lianyou_42: 6647169735116712822
+      lianyou_43: -7045682780932091069
+      lianyou_44: 1928367904103927931
+      lianyou_45: -65240993617693699
+      lianyou_46: 8659865682441106016
+      lianyou_5: 4138453802023260308
+      lianyou_6: -5715990865962248723
+      lianyou_7: 4314075055432031748
+      lianyou_8: 6713367586444767796
+      lianyou_9: 4283106092238750546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

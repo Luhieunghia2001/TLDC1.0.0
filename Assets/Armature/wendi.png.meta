@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 65d9fec906822304487765cd3e4ca3e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8631504391782232468
+    second: wendi_0
+  - first:
+      213: 583852276393999022
+    second: wendi_1
+  - first:
+      213: -5479502952028344515
+    second: wendi_2
+  - first:
+      213: -5720911061035237868
+    second: wendi_3
+  - first:
+      213: -5096697836236333075
+    second: wendi_4
+  - first:
+      213: -9003028896979047811
+    second: wendi_5
+  - first:
+      213: -3896684795343647284
+    second: wendi_6
+  - first:
+      213: 5963430485468707235
+    second: wendi_7
+  - first:
+      213: -366241661627138609
+    second: wendi_8
+  - first:
+      213: -3474339127177719976
+    second: wendi_9
+  - first:
+      213: -3924366019543590505
+    second: wendi_10
+  - first:
+      213: 6837653318147298249
+    second: wendi_11
+  - first:
+      213: -2848514581189912638
+    second: wendi_12
+  - first:
+      213: 2767933643878932988
+    second: wendi_13
+  - first:
+      213: -4490388325181448505
+    second: wendi_14
+  - first:
+      213: -5845592065562959834
+    second: wendi_15
+  - first:
+      213: 1043877194710517118
+    second: wendi_16
+  - first:
+      213: 152924052702667819
+    second: wendi_17
+  - first:
+      213: 8178679024329884748
+    second: wendi_18
+  - first:
+      213: 1565917956292569674
+    second: wendi_19
+  - first:
+      213: -5726010093606959190
+    second: wendi_20
+  - first:
+      213: 1902857250028158771
+    second: wendi_21
+  - first:
+      213: -432435980022401592
+    second: wendi_22
+  - first:
+      213: -2764215184547134648
+    second: wendi_23
+  - first:
+      213: -8019186072712802127
+    second: wendi_24
+  - first:
+      213: 2375032597636162389
+    second: wendi_25
+  - first:
+      213: -2746271328584615306
+    second: wendi_26
+  - first:
+      213: -4282690121193385004
+    second: wendi_27
+  - first:
+      213: 3496736646035380627
+    second: wendi_28
+  - first:
+      213: 4838170286126186325
+    second: wendi_29
+  - first:
+      213: -3647876613544389737
+    second: wendi_30
+  - first:
+      213: 188141302637210743
+    second: wendi_31
+  - first:
+      213: 6336540777885451822
+    second: wendi_32
+  - first:
+      213: -4661637624844856521
+    second: wendi_33
+  - first:
+      213: -3630825210050374
+    second: wendi_34
+  - first:
+      213: -3098494114830985256
+    second: wendi_35
+  - first:
+      213: -5655917050481952228
+    second: wendi_36
+  - first:
+      213: 1873756999042079479
+    second: wendi_37
+  - first:
+      213: -189758946185159200
+    second: wendi_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wendi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 171
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491776d338349c770800000000000000
+      internalID: 8631504391782232468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 122
+        width: 151
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa74cf4d824a1800800000000000000
+      internalID: 583852276393999022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 160
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f65a6c815e4f3b0800000000000000
+      internalID: -5479502952028344515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 181
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e346f53bd3b90b0800000000000000
+      internalID: -5720911061035237868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 121
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def91a74254e449b0800000000000000
+      internalID: -5096697836236333075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 148
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aacf41be0de0380800000000000000
+      internalID: -9003028896979047811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 117
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd40ebf2d13ce9c0800000000000000
+      internalID: -3896684795343647284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 108
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9f8115e6c52c250800000000000000
+      internalID: 5963430485468707235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 107
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdf3c03629daeaf0800000000000000
+      internalID: -366241661627138609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fc45fb8faa8cfc0800000000000000
+      internalID: -3474339127177719976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 105
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7999d7cb5e9d989c0800000000000000
+      internalID: -3924366019543590505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 87
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3d075277934ee50800000000000000
+      internalID: 6837653318147298249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 88
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c797aa941b0878d0800000000000000
+      internalID: -2848514581189912638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 111
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1a145ebfca96620800000000000000
+      internalID: 2767933643878932988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 77
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce9ffdfb9feea1c0800000000000000
+      internalID: -4490388325181448505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 114
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6202746dcf840eea0800000000000000
+      internalID: -5845592065562959834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 66
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e750ad327c89c7e00800000000000000
+      internalID: 1043877194710517118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_17
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 67
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24a4fe9d9b4f1200800000000000000
+      internalID: 152924052702667819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c440f197d31808170800000000000000
+      internalID: 8178679024329884748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 85
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a693ca5124bb510800000000000000
+      internalID: 1565917956292569674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 75
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7814658202980b0800000000000000
+      internalID: -5726010093606959190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 78
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f743e469e486a10800000000000000
+      internalID: 1902857250028158771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 62
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5baae64cdaff9f0800000000000000
+      internalID: -432435980022401592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843c3526fe883a9d0800000000000000
+      internalID: -2764215184547134648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 78
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0913c11c026b090800000000000000
+      internalID: -8019186072712802127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553a318609fc5f020800000000000000
+      internalID: 2375032597636162389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67abfdae6c843e9d0800000000000000
+      internalID: -2746271328584615306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 67
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d391338604d094c0800000000000000
+      internalID: -4282690121193385004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399970cf377e68030800000000000000
+      internalID: 3496736646035380627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fb663dd32a42340800000000000000
+      internalID: 4838170286126186325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7935b391c83206dc0800000000000000
+      internalID: -3647876613544389737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 31
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c254794896c9200800000000000000
+      internalID: 188141302637210743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 49
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26c3aad34aefe750800000000000000
+      internalID: 6336540777885451822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_33
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 49
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733d68357498e4fb0800000000000000
+      internalID: -4661637624844856521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 59
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab80d11a8c913fff0800000000000000
+      internalID: -3630825210050374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 24
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d75cd2e400fff4d0800000000000000
+      internalID: -3098494114830985256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ab2fea8652281b0800000000000000
+      internalID: -5655917050481952228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 37
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa1e43201ce00a10800000000000000
+      internalID: 1873756999042079479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wendi_38
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 26
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed5eab6e37dd5df0800000000000000
+      internalID: -189758946185159200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wendi_0: 8631504391782232468
+      wendi_1: 583852276393999022
+      wendi_10: -3924366019543590505
+      wendi_11: 6837653318147298249
+      wendi_12: -2848514581189912638
+      wendi_13: 2767933643878932988
+      wendi_14: -4490388325181448505
+      wendi_15: -5845592065562959834
+      wendi_16: 1043877194710517118
+      wendi_17: 152924052702667819
+      wendi_18: 8178679024329884748
+      wendi_19: 1565917956292569674
+      wendi_2: -5479502952028344515
+      wendi_20: -5726010093606959190
+      wendi_21: 1902857250028158771
+      wendi_22: -432435980022401592
+      wendi_23: -2764215184547134648
+      wendi_24: -8019186072712802127
+      wendi_25: 2375032597636162389
+      wendi_26: -2746271328584615306
+      wendi_27: -4282690121193385004
+      wendi_28: 3496736646035380627
+      wendi_29: 4838170286126186325
+      wendi_3: -5720911061035237868
+      wendi_30: -3647876613544389737
+      wendi_31: 188141302637210743
+      wendi_32: 6336540777885451822
+      wendi_33: -4661637624844856521
+      wendi_34: -3630825210050374
+      wendi_35: -3098494114830985256
+      wendi_36: -5655917050481952228
+      wendi_37: 1873756999042079479
+      wendi_38: -189758946185159200
+      wendi_4: -5096697836236333075
+      wendi_5: -9003028896979047811
+      wendi_6: -3896684795343647284
+      wendi_7: 5963430485468707235
+      wendi_8: -366241661627138609
+      wendi_9: -3474339127177719976
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

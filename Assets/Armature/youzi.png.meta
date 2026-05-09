@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 9f89b7391d666ec41be89c61e08ff01b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4422393252991259448
+    second: youzi_0
+  - first:
+      213: -7405825870829751641
+    second: youzi_1
+  - first:
+      213: 6246230584835166631
+    second: youzi_2
+  - first:
+      213: -1063690869655833234
+    second: youzi_3
+  - first:
+      213: 7245020252509639412
+    second: youzi_4
+  - first:
+      213: 252956015967734926
+    second: youzi_5
+  - first:
+      213: -438233508073009841
+    second: youzi_6
+  - first:
+      213: 1654067240907492426
+    second: youzi_7
+  - first:
+      213: -4157080750816883506
+    second: youzi_8
+  - first:
+      213: -5517234689305478265
+    second: youzi_9
+  - first:
+      213: 6792072919371913377
+    second: youzi_10
+  - first:
+      213: 2353396631327114364
+    second: youzi_11
+  - first:
+      213: 8931190740532171757
+    second: youzi_12
+  - first:
+      213: 3614015795348217843
+    second: youzi_13
+  - first:
+      213: 7425369444976437262
+    second: youzi_14
+  - first:
+      213: -2022896036434499381
+    second: youzi_15
+  - first:
+      213: 4380129195015261702
+    second: youzi_16
+  - first:
+      213: -3010748774463661677
+    second: youzi_17
+  - first:
+      213: 1832041437789452304
+    second: youzi_18
+  - first:
+      213: 8950549214536183084
+    second: youzi_19
+  - first:
+      213: -4941429108247258410
+    second: youzi_20
+  - first:
+      213: -438643414311016377
+    second: youzi_21
+  - first:
+      213: -5384415690560802584
+    second: youzi_22
+  - first:
+      213: -48748065829561041
+    second: youzi_23
+  - first:
+      213: 631155788411138492
+    second: youzi_24
+  - first:
+      213: -1049317652696400094
+    second: youzi_25
+  - first:
+      213: 8555550122215065339
+    second: youzi_26
+  - first:
+      213: -4501629017228766314
+    second: youzi_27
+  - first:
+      213: 7028483287560234023
+    second: youzi_28
+  - first:
+      213: -6509148243572770631
+    second: youzi_29
+  - first:
+      213: -5124246115824615850
+    second: youzi_30
+  - first:
+      213: 1232400629062298159
+    second: youzi_31
+  - first:
+      213: 5748168269924385155
+    second: youzi_32
+  - first:
+      213: 4386634819457211430
+    second: youzi_33
+  - first:
+      213: 6907205742794341139
+    second: youzi_34
+  - first:
+      213: 3148839537875747361
+    second: youzi_35
+  - first:
+      213: -7138871225550274973
+    second: youzi_36
+  - first:
+      213: -5294032643665453762
+    second: youzi_37
+  - first:
+      213: -2794729359480651773
+    second: youzi_38
+  - first:
+      213: 7691603744843525161
+    second: youzi_39
+  - first:
+      213: 4176415593641781182
+    second: youzi_40
+  - first:
+      213: -6744363360926503498
+    second: youzi_41
+  - first:
+      213: 4937271462124615003
+    second: youzi_42
+  - first:
+      213: -5830315052185058280
+    second: youzi_43
+  - first:
+      213: 9138412654290032162
+    second: youzi_44
+  - first:
+      213: -8613628434069872593
+    second: youzi_45
+  - first:
+      213: -6984679947411366462
+    second: youzi_46
+  - first:
+      213: -345420654747592638
+    second: youzi_47
+  - first:
+      213: 3164333890216496141
+    second: youzi_48
+  - first:
+      213: 3189772712488580265
+    second: youzi_49
+  - first:
+      213: -7273589611076925795
+    second: youzi_50
+  - first:
+      213: 2281000605466092510
+    second: youzi_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: youzi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 142
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d0a59b3f7f5d30800000000000000
+      internalID: 4422393252991259448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 396
+        width: 155
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a27bc4bb98393990800000000000000
+      internalID: -7405825870829751641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 421
+        width: 139
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1d74a7f911fa650800000000000000
+      internalID: 6246230584835166631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 283
+        width: 85
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65765b2ac20d31f0800000000000000
+      internalID: -1063690869655833234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 303
+        width: 50
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2195da88b7b8460800000000000000
+      internalID: 7245020252509639412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 410
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c0e83082ea28300800000000000000
+      internalID: 252956015967734926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d82ae32f41be9f0800000000000000
+      internalID: -438233508073009841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 307
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cc6e8546d64f610800000000000000
+      internalID: 1654067240907492426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 291
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc02f015151f46c0800000000000000
+      internalID: -4157080750816883506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 316
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bfb791848de63b0800000000000000
+      internalID: -5517234689305478265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 321
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a896bf855a424e50800000000000000
+      internalID: 6792072919371913377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_11
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 360
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c748ad174c1f8a020800000000000000
+      internalID: 2353396631327114364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_12
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 337
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de39da6b8a6f1fb70800000000000000
+      internalID: 8931190740532171757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 240
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff916ec730972230800000000000000
+      internalID: 3614015795348217843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 238
+        width: 33
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e082cdd3b263c0760800000000000000
+      internalID: 7425369444976437262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 259
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a6cac5ca3de3e0800000000000000
+      internalID: -2022896036434499381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 263
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ec333cb4859cc30800000000000000
+      internalID: 4380129195015261702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 313
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3999626f0fba736d0800000000000000
+      internalID: -3010748774463661677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0187c392bf7bc6910800000000000000
+      internalID: 1832041437789452304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 285
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2da41da61db63c70800000000000000
+      internalID: 8950549214536183084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 286
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da952828648c6bb0800000000000000
+      internalID: -4941429108247258410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 242
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7486de28320a9e9f0800000000000000
+      internalID: -438643414311016377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 280
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e075111576b645b0800000000000000
+      internalID: -5384415690560802584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 281
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dddb474efc25ff0800000000000000
+      internalID: -48748065829561041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 238
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb17d2678d052c800800000000000000
+      internalID: 631155788411138492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_25
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 233
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ffb7687231071f0800000000000000
+      internalID: -1049317652696400094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_26
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 284
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6cda4c18b6bb670800000000000000
+      internalID: 8555550122215065339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 243
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6931d7d62400781c0800000000000000
+      internalID: -4501629017228766314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 243
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7242cc0cf403a8160800000000000000
+      internalID: 7028483287560234023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 270
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8bc7fc82cdaa5a0800000000000000
+      internalID: -6509148243572770631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 272
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e399c9e4503e8b0800000000000000
+      internalID: -5124246115824615850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_31
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 266
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ae934b7dd5a1110800000000000000
+      internalID: 1232400629062298159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 184
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381c30e169895cf40800000000000000
+      internalID: 5748168269924385155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 241
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c5b1d702570ec30800000000000000
+      internalID: 4386634819457211430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_34
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 234
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b7bc1f6035bdf50800000000000000
+      internalID: 6907205742794341139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 204
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1220acd50ece2bb20800000000000000
+      internalID: 3148839537875747361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e71d79172adec90800000000000000
+      internalID: -7138871225550274973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 186
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d9ffc0c51d786b0800000000000000
+      internalID: -5294032643665453762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 227
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3000dc464702739d0800000000000000
+      internalID: -2794729359480651773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 190
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c6674aad01eba60800000000000000
+      internalID: 7691603744843525161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 208
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7ab65dadb95f930800000000000000
+      internalID: 4176415593641781182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_41
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 194
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bde0d3a1453762a0800000000000000
+      internalID: -6744363360926503498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_42
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 225
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b557c9b6c36b48440800000000000000
+      internalID: 4937271462124615003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 197
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81485e1b95f861fa0800000000000000
+      internalID: -5830315052185058280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_44
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 208
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22654e544e922de70800000000000000
+      internalID: 9138412654290032162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 196
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20af00839e367880800000000000000
+      internalID: -8613628434069872593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 178
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd50c0289e611f90800000000000000
+      internalID: -6984679947411366462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_47
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 201
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248dfaf9eb1d43bf0800000000000000
+      internalID: -345420654747592638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_48
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 186
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c851568e8f9eb20800000000000000
+      internalID: 3164333890216496141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_49
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 164
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4bd12c169544c20800000000000000
+      internalID: 3189772712488580265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 177
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96c9cd29c40f0b90800000000000000
+      internalID: -7273589611076925795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youzi_51
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 189
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3e14527fdb7af10800000000000000
+      internalID: 2281000605466092510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      youzi_0: 4422393252991259448
+      youzi_1: -7405825870829751641
+      youzi_10: 6792072919371913377
+      youzi_11: 2353396631327114364
+      youzi_12: 8931190740532171757
+      youzi_13: 3614015795348217843
+      youzi_14: 7425369444976437262
+      youzi_15: -2022896036434499381
+      youzi_16: 4380129195015261702
+      youzi_17: -3010748774463661677
+      youzi_18: 1832041437789452304
+      youzi_19: 8950549214536183084
+      youzi_2: 6246230584835166631
+      youzi_20: -4941429108247258410
+      youzi_21: -438643414311016377
+      youzi_22: -5384415690560802584
+      youzi_23: -48748065829561041
+      youzi_24: 631155788411138492
+      youzi_25: -1049317652696400094
+      youzi_26: 8555550122215065339
+      youzi_27: -4501629017228766314
+      youzi_28: 7028483287560234023
+      youzi_29: -6509148243572770631
+      youzi_3: -1063690869655833234
+      youzi_30: -5124246115824615850
+      youzi_31: 1232400629062298159
+      youzi_32: 5748168269924385155
+      youzi_33: 4386634819457211430
+      youzi_34: 6907205742794341139
+      youzi_35: 3148839537875747361
+      youzi_36: -7138871225550274973
+      youzi_37: -5294032643665453762
+      youzi_38: -2794729359480651773
+      youzi_39: 7691603744843525161
+      youzi_4: 7245020252509639412
+      youzi_40: 4176415593641781182
+      youzi_41: -6744363360926503498
+      youzi_42: 4937271462124615003
+      youzi_43: -5830315052185058280
+      youzi_44: 9138412654290032162
+      youzi_45: -8613628434069872593
+      youzi_46: -6984679947411366462
+      youzi_47: -345420654747592638
+      youzi_48: 3164333890216496141
+      youzi_49: 3189772712488580265
+      youzi_5: 252956015967734926
+      youzi_50: -7273589611076925795
+      youzi_51: 2281000605466092510
+      youzi_6: -438233508073009841
+      youzi_7: 1654067240907492426
+      youzi_8: -4157080750816883506
+      youzi_9: -5517234689305478265
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

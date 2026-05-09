@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: eb882a6525afa4548870a64762c49152
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1710519036793451569
+    second: pani_0
+  - first:
+      213: 9017064896182031943
+    second: pani_1
+  - first:
+      213: 8066943845814520448
+    second: pani_2
+  - first:
+      213: 6242672487222624766
+    second: pani_3
+  - first:
+      213: 199333151621465664
+    second: pani_4
+  - first:
+      213: -2120718071383351822
+    second: pani_5
+  - first:
+      213: 5018290550755894229
+    second: pani_6
+  - first:
+      213: 2531535495087186867
+    second: pani_7
+  - first:
+      213: -8625224420976399769
+    second: pani_8
+  - first:
+      213: 3258478945517303759
+    second: pani_9
+  - first:
+      213: -7751696209586845423
+    second: pani_10
+  - first:
+      213: 5594546965126967431
+    second: pani_11
+  - first:
+      213: 3835675698856257086
+    second: pani_12
+  - first:
+      213: 6462300668636590068
+    second: pani_13
+  - first:
+      213: -4380973269403033804
+    second: pani_14
+  - first:
+      213: 7644309396692993786
+    second: pani_15
+  - first:
+      213: 3660229199974453213
+    second: pani_16
+  - first:
+      213: -8482520579846581078
+    second: pani_17
+  - first:
+      213: -7911854083880079263
+    second: pani_18
+  - first:
+      213: 4007671198938390942
+    second: pani_19
+  - first:
+      213: -6368237665357875758
+    second: pani_20
+  - first:
+      213: 8176452748052355752
+    second: pani_21
+  - first:
+      213: 6871576741948889984
+    second: pani_22
+  - first:
+      213: -3885703049766969379
+    second: pani_23
+  - first:
+      213: -3657122165817064736
+    second: pani_24
+  - first:
+      213: 6949461242564150346
+    second: pani_25
+  - first:
+      213: 5452176791330620777
+    second: pani_26
+  - first:
+      213: -6396397428319368835
+    second: pani_27
+  - first:
+      213: -1994625105910714893
+    second: pani_28
+  - first:
+      213: -5915075592636748212
+    second: pani_29
+  - first:
+      213: -4159814924074281121
+    second: pani_30
+  - first:
+      213: 1620547151837833552
+    second: pani_31
+  - first:
+      213: -7490312820402526785
+    second: pani_32
+  - first:
+      213: 6126893064510014341
+    second: pani_33
+  - first:
+      213: -8885695151935228574
+    second: pani_34
+  - first:
+      213: -8953302798818382032
+    second: pani_35
+  - first:
+      213: -3697650367187234911
+    second: pani_36
+  - first:
+      213: -850913165771248012
+    second: pani_37
+  - first:
+      213: -562417162564647634
+    second: pani_38
+  - first:
+      213: 7651337588557172808
+    second: pani_39
+  - first:
+      213: -9192836350484706684
+    second: pani_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pani_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 189
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134fd91500cfcb710800000000000000
+      internalID: 1710519036793451569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 380
+        width: 160
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7461395afbc032d70800000000000000
+      internalID: 9017064896182031943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 428
+        width: 137
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a4cc0ffaa83ff60800000000000000
+      internalID: 8066943845814520448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 504
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef142025d8d62a650800000000000000
+      internalID: 6242672487222624766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0464b5ef17c24c200800000000000000
+      internalID: 199333151621465664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 287
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd917e6622b192e0800000000000000
+      internalID: -2120718071383351822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 335
+        width: 97
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d32189faac84a540800000000000000
+      internalID: 5018290550755894229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 297
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3e6f0ce12d12320800000000000000
+      internalID: 2531535495087186867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 347
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a6da7661c0d4880800000000000000
+      internalID: -8625224420976399769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_9
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 246
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7f5a73651783d20800000000000000
+      internalID: 3258478945517303759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 354
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11985dc1e517c6490800000000000000
+      internalID: -7751696209586845423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 332
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780f1a7d2d2d3ad40800000000000000
+      internalID: 5594546965126967431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 283
+        width: 90
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36ecefc9be0b3530800000000000000
+      internalID: 3835675698856257086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 323
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff6ad92834bea950800000000000000
+      internalID: 6462300668636590068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 311
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f10cad508a333c0800000000000000
+      internalID: -4380973269403033804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 308
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6011f15ea061a60800000000000000
+      internalID: 7644309396692993786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 302
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf4dfc801fbbc230800000000000000
+      internalID: 3660229199974453213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4dd469978084a80800000000000000
+      internalID: -8482520579846581078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 248
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ba9721a2733290800000000000000
+      internalID: -7911854083880079263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 263
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91694dc8bb1e9730800000000000000
+      internalID: 4007671198938390942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 253
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5b41f65997f97a0800000000000000
+      internalID: -6368237665357875758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 270
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa5d622478987170800000000000000
+      internalID: 8176452748052355752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b13beb3aebc5f50800000000000000
+      internalID: 6871576741948889984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 255
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfdcffd9a5331ac0800000000000000
+      internalID: -3885703049766969379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 246
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2444634ca4f3dc0800000000000000
+      internalID: -3657122165817064736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 244
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4481672e22717060800000000000000
+      internalID: 6949461242564150346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 267
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96504e3a7e50aab40800000000000000
+      internalID: 5452176791330620777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 218
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d794dc2bd6e6b37a0800000000000000
+      internalID: -6396397428319368835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 228
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdad1eb80ba154e0800000000000000
+      internalID: -1994625105910714893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_29
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 246
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ead41861e69eda0800000000000000
+      internalID: -5915075592636748212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f571f2fbd5e5546c0800000000000000
+      internalID: -4159814924074281121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 248
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059a01f6c075d7610800000000000000
+      internalID: 1620547151837833552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 234
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb56a5bdc201d0890800000000000000
+      internalID: -7490312820402526785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 239
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5838ceec7c8170550800000000000000
+      internalID: 6126893064510014341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 232
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2657d76765bafa480800000000000000
+      internalID: -8885695151935228574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 186
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f6be58a8a7fb380800000000000000
+      internalID: -8953302798818382032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_36
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 206
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af4630059e4facc0800000000000000
+      internalID: -3697650367187234911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 210
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e608bebf2f034f0800000000000000
+      internalID: -850913165771248012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 204
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2540c90294e138f0800000000000000
+      internalID: -562417162564647634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_39
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 210
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8405b8e8ff20f2a60800000000000000
+      internalID: 7651337588557172808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pani_40
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 221
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a8f038b0c7c6080800000000000000
+      internalID: -9192836350484706684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pani_0: 1710519036793451569
+      pani_1: 9017064896182031943
+      pani_10: -7751696209586845423
+      pani_11: 5594546965126967431
+      pani_12: 3835675698856257086
+      pani_13: 6462300668636590068
+      pani_14: -4380973269403033804
+      pani_15: 7644309396692993786
+      pani_16: 3660229199974453213
+      pani_17: -8482520579846581078
+      pani_18: -7911854083880079263
+      pani_19: 4007671198938390942
+      pani_2: 8066943845814520448
+      pani_20: -6368237665357875758
+      pani_21: 8176452748052355752
+      pani_22: 6871576741948889984
+      pani_23: -3885703049766969379
+      pani_24: -3657122165817064736
+      pani_25: 6949461242564150346
+      pani_26: 5452176791330620777
+      pani_27: -6396397428319368835
+      pani_28: -1994625105910714893
+      pani_29: -5915075592636748212
+      pani_3: 6242672487222624766
+      pani_30: -4159814924074281121
+      pani_31: 1620547151837833552
+      pani_32: -7490312820402526785
+      pani_33: 6126893064510014341
+      pani_34: -8885695151935228574
+      pani_35: -8953302798818382032
+      pani_36: -3697650367187234911
+      pani_37: -850913165771248012
+      pani_38: -562417162564647634
+      pani_39: 7651337588557172808
+      pani_4: 199333151621465664
+      pani_40: -9192836350484706684
+      pani_5: -2120718071383351822
+      pani_6: 5018290550755894229
+      pani_7: 2531535495087186867
+      pani_8: -8625224420976399769
+      pani_9: 3258478945517303759
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: b64edd2db3500874dbdbed9ff97487f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1847596398091432829
+    second: shikaote_0
+  - first:
+      213: 3868834328504835487
+    second: shikaote_1
+  - first:
+      213: -685320605811898577
+    second: shikaote_2
+  - first:
+      213: -8148802282128534493
+    second: shikaote_3
+  - first:
+      213: -3338500961840779040
+    second: shikaote_4
+  - first:
+      213: -8195742904210645053
+    second: shikaote_5
+  - first:
+      213: -6660593335202917742
+    second: shikaote_6
+  - first:
+      213: 1196607921085195632
+    second: shikaote_7
+  - first:
+      213: 4670969567382231098
+    second: shikaote_8
+  - first:
+      213: -1028355785923531783
+    second: shikaote_9
+  - first:
+      213: 432318045642389150
+    second: shikaote_10
+  - first:
+      213: -7164574329840602509
+    second: shikaote_11
+  - first:
+      213: -312188388557448630
+    second: shikaote_12
+  - first:
+      213: -3562133622172602543
+    second: shikaote_13
+  - first:
+      213: 7205268370276085715
+    second: shikaote_14
+  - first:
+      213: -259274824739773437
+    second: shikaote_15
+  - first:
+      213: 6731579107445514046
+    second: shikaote_16
+  - first:
+      213: -7628510925145896761
+    second: shikaote_17
+  - first:
+      213: 1096911490276440168
+    second: shikaote_18
+  - first:
+      213: -3289892388166414707
+    second: shikaote_19
+  - first:
+      213: 4133220564315277968
+    second: shikaote_20
+  - first:
+      213: 2360628762445998643
+    second: shikaote_21
+  - first:
+      213: -7995073215161589843
+    second: shikaote_22
+  - first:
+      213: 4896499503849821683
+    second: shikaote_23
+  - first:
+      213: 4965586757630343396
+    second: shikaote_24
+  - first:
+      213: 8640345971898818407
+    second: shikaote_25
+  - first:
+      213: 6980417054205339561
+    second: shikaote_26
+  - first:
+      213: 6562451072821482944
+    second: shikaote_27
+  - first:
+      213: -3961659960985311356
+    second: shikaote_28
+  - first:
+      213: 4420796988183160509
+    second: shikaote_29
+  - first:
+      213: -3760516579678122450
+    second: shikaote_30
+  - first:
+      213: -4803698783042090935
+    second: shikaote_31
+  - first:
+      213: -1682582305236319839
+    second: shikaote_32
+  - first:
+      213: 14450986929438951
+    second: shikaote_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shikaote_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c087b6dd40c56e0800000000000000
+      internalID: -1847596398091432829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 208
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d1e55e25cd0b530800000000000000
+      internalID: 3868834328504835487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 228
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27835d3a804d76f0800000000000000
+      internalID: -685320605811898577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 164
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32416d4af73a9ee80800000000000000
+      internalID: -8148802282128534493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 179
+        width: 119
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e03e2730134ba1d0800000000000000
+      internalID: -3338500961840779040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 194
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf9814604fd24e80800000000000000
+      internalID: -8195742904210645053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 175
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29255e5a6a1d093a0800000000000000
+      internalID: -6660593335202917742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 108
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075a3b770943b9010800000000000000
+      internalID: 1196607921085195632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 163
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a385a7cd21e92d040800000000000000
+      internalID: 4670969567382231098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 94
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb6f457cdb8ab1f0800000000000000
+      internalID: -1028355785923531783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 136
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e967184d8f6eff500800000000000000
+      internalID: 432318045642389150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 83
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372f7f64b91529c90800000000000000
+      internalID: -7164574329840602509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 105
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a180d8052eaabf0800000000000000
+      internalID: -312188388557448630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f2de7f752c09ec0800000000000000
+      internalID: -3562133622172602543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 114
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfe9a958614ef360800000000000000
+      internalID: 7205268370276085715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 89
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3042f2cabeed66cf0800000000000000
+      internalID: -259274824739773437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 120
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f1bb4688f5b6d50800000000000000
+      internalID: 6731579107445514046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c80e7d2bb5122690800000000000000
+      internalID: -7628510925145896761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 62
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b8ff4033093f00800000000000000
+      internalID: 1096911490276440168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 77
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e4416bd44f752d0800000000000000
+      internalID: -3289892388166414707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 48
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a0a5a54362c5930800000000000000
+      internalID: 4133220564315277968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 67
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ae9203a53a2c020800000000000000
+      internalID: 2360628762445998643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 65
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf9d01454bcb0190800000000000000
+      internalID: -7995073215161589843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 49
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f558d12b5cd3f340800000000000000
+      internalID: 4896499503849821683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 71
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8b0f5e8de49e440800000000000000
+      internalID: 4965586757630343396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 61
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f918702eca8e770800000000000000
+      internalID: 8640345971898818407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_26
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 49
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7ecf3b35c6fd060800000000000000
+      internalID: 6980417054205339561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 47
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5d76b3b72821b50800000000000000
+      internalID: 6562451072821482944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 48
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4872598514b5509c0800000000000000
+      internalID: -3961659960985311356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 52
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db626c83073d95d30800000000000000
+      internalID: 4420796988183160509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_30
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 59
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e81584816ffcbc0800000000000000
+      internalID: -3760516579678122450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 44
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948cccc6865d55db0800000000000000
+      internalID: -4803698783042090935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 46
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1080fde4446a8e0800000000000000
+      internalID: -1682582305236319839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shikaote_33
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 60
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e045969817533000800000000000000
+      internalID: 14450986929438951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shikaote_0: -1847596398091432829
+      shikaote_1: 3868834328504835487
+      shikaote_10: 432318045642389150
+      shikaote_11: -7164574329840602509
+      shikaote_12: -312188388557448630
+      shikaote_13: -3562133622172602543
+      shikaote_14: 7205268370276085715
+      shikaote_15: -259274824739773437
+      shikaote_16: 6731579107445514046
+      shikaote_17: -7628510925145896761
+      shikaote_18: 1096911490276440168
+      shikaote_19: -3289892388166414707
+      shikaote_2: -685320605811898577
+      shikaote_20: 4133220564315277968
+      shikaote_21: 2360628762445998643
+      shikaote_22: -7995073215161589843
+      shikaote_23: 4896499503849821683
+      shikaote_24: 4965586757630343396
+      shikaote_25: 8640345971898818407
+      shikaote_26: 6980417054205339561
+      shikaote_27: 6562451072821482944
+      shikaote_28: -3961659960985311356
+      shikaote_29: 4420796988183160509
+      shikaote_3: -8148802282128534493
+      shikaote_30: -3760516579678122450
+      shikaote_31: -4803698783042090935
+      shikaote_32: -1682582305236319839
+      shikaote_33: 14450986929438951
+      shikaote_4: -3338500961840779040
+      shikaote_5: -8195742904210645053
+      shikaote_6: -6660593335202917742
+      shikaote_7: 1196607921085195632
+      shikaote_8: 4670969567382231098
+      shikaote_9: -1028355785923531783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

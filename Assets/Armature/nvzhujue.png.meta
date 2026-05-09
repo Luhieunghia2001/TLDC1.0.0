@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 5ef5a2b0ca16b294e8aafaefd4bc26ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1051643788651138233
+    second: nvzhujue_0
+  - first:
+      213: 4769100393866902968
+    second: nvzhujue_1
+  - first:
+      213: -3274429661436710252
+    second: nvzhujue_2
+  - first:
+      213: -5899588546320003734
+    second: nvzhujue_3
+  - first:
+      213: 6694056334150269492
+    second: nvzhujue_4
+  - first:
+      213: 3256405609331498976
+    second: nvzhujue_5
+  - first:
+      213: 5834353691302395275
+    second: nvzhujue_6
+  - first:
+      213: 689387152670313164
+    second: nvzhujue_7
+  - first:
+      213: 2394727870118307067
+    second: nvzhujue_8
+  - first:
+      213: -6387011384407243150
+    second: nvzhujue_9
+  - first:
+      213: 2648210462433361651
+    second: nvzhujue_10
+  - first:
+      213: 7971221697997981906
+    second: nvzhujue_11
+  - first:
+      213: -8452741918574177076
+    second: nvzhujue_12
+  - first:
+      213: -4889781439873023592
+    second: nvzhujue_13
+  - first:
+      213: -1518524341751148746
+    second: nvzhujue_14
+  - first:
+      213: 918728549559810079
+    second: nvzhujue_15
+  - first:
+      213: -7569034840447931478
+    second: nvzhujue_16
+  - first:
+      213: -2883104669678954878
+    second: nvzhujue_17
+  - first:
+      213: 3244466646118229268
+    second: nvzhujue_18
+  - first:
+      213: -2076201312802806611
+    second: nvzhujue_19
+  - first:
+      213: 4050170142543455021
+    second: nvzhujue_20
+  - first:
+      213: 6238596856570668961
+    second: nvzhujue_21
+  - first:
+      213: 3145491744075451197
+    second: nvzhujue_22
+  - first:
+      213: -3663470593696179744
+    second: nvzhujue_23
+  - first:
+      213: 5357426972947941368
+    second: nvzhujue_24
+  - first:
+      213: 6596777375877111098
+    second: nvzhujue_25
+  - first:
+      213: -2009528988842307105
+    second: nvzhujue_26
+  - first:
+      213: -3279508721325344577
+    second: nvzhujue_27
+  - first:
+      213: -2978499490153993239
+    second: nvzhujue_28
+  - first:
+      213: -4126005403786240190
+    second: nvzhujue_29
+  - first:
+      213: -7417917318137034872
+    second: nvzhujue_30
+  - first:
+      213: -4973206642607972157
+    second: nvzhujue_31
+  - first:
+      213: 1208113127171716375
+    second: nvzhujue_32
+  - first:
+      213: 4543188502211450430
+    second: nvzhujue_33
+  - first:
+      213: 5607214736606003701
+    second: nvzhujue_34
+  - first:
+      213: 6890409293207534112
+    second: nvzhujue_35
+  - first:
+      213: 2410922898588192808
+    second: nvzhujue_36
+  - first:
+      213: -1402215731687344569
+    second: nvzhujue_37
+  - first:
+      213: -5569831778917833128
+    second: nvzhujue_38
+  - first:
+      213: -5496100040507003609
+    second: nvzhujue_39
+  - first:
+      213: 6667888804898883938
+    second: nvzhujue_40
+  - first:
+      213: -1571378307730240975
+    second: nvzhujue_41
+  - first:
+      213: 8564446976744905155
+    second: nvzhujue_42
+  - first:
+      213: -4915567466678411543
+    second: nvzhujue_43
+  - first:
+      213: -3297081834445099600
+    second: nvzhujue_44
+  - first:
+      213: 3618713207458674501
+    second: nvzhujue_45
+  - first:
+      213: 762048382707393007
+    second: nvzhujue_46
+  - first:
+      213: 9116983756491087688
+    second: nvzhujue_47
+  - first:
+      213: 1769334724776556150
+    second: nvzhujue_48
+  - first:
+      213: -3007161020394716159
+    second: nvzhujue_49
+  - first:
+      213: -6806382942353152141
+    second: nvzhujue_50
+  - first:
+      213: 2451139339124713622
+    second: nvzhujue_51
+  - first:
+      213: 4476280648479494472
+    second: nvzhujue_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nvzhujue_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 269
+        width: 381
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743f33bcb8fc761f0800000000000000
+      internalID: -1051643788651138233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 351
+        width: 213
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdbc9a5a8f3f2240800000000000000
+      internalID: 4769100393866902968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 293
+        width: 127
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492ff045293ee82d0800000000000000
+      internalID: -3274429661436710252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_3
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 303
+        width: 98
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d02a77973702ea0800000000000000
+      internalID: -5899588546320003734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_4
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 315
+        width: 81
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43afa7fe4c016ec50800000000000000
+      internalID: 6694056334150269492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_5
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 396
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef1bc406a3113d20800000000000000
+      internalID: 3256405609331498976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_6
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 283
+        width: 98
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d711045c9c7f050800000000000000
+      internalID: 5834353691302395275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 356
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccac1ab76f1319900800000000000000
+      internalID: 689387152670313164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 252
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf421206f48cb3120800000000000000
+      internalID: 2394727870118307067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_9
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 273
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276c7085cf6cc57a0800000000000000
+      internalID: -6387011384407243150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 338
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe30df726550c420800000000000000
+      internalID: 2648210462433361651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 318
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d84e07a6e77f9e60800000000000000
+      internalID: 7971221697997981906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc415557204d1ba80800000000000000
+      internalID: -8452741918574177076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 261
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891021700b1042cb0800000000000000
+      internalID: -4889781439873023592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 191
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f832b182e1deae0800000000000000
+      internalID: -1518524341751148746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 208
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18b5898fbaffbc00800000000000000
+      internalID: 918728549559810079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 203
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabab824ae265f690800000000000000
+      internalID: -7569034840447931478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 206
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286148904972df7d0800000000000000
+      internalID: -2883104669678954878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 204
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415ea778939a60d20800000000000000
+      internalID: 3244466646118229268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_19
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 209
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4603cf7e9df23e0800000000000000
+      internalID: -2076201312802806611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_20
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 224
+        width: 95
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2322323948153830800000000000000
+      internalID: 4050170142543455021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 237
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a763cc99c2f39650800000000000000
+      internalID: 6238596856570668961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_22
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 180
+        width: 50
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b8a81631807ab20800000000000000
+      internalID: 3145491744075451197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_23
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 226
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e956a9a7ecb82dc0800000000000000
+      internalID: -3663470593696179744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_24
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 204
+        width: 58
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f788a07277695a40800000000000000
+      internalID: 5357426972947941368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_25
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 205
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d1d7772167c8b50800000000000000
+      internalID: 6596777375877111098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_26
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 214
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd154361808bc14e0800000000000000
+      internalID: -2009528988842307105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 213
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb87b9b8138dc72d0800000000000000
+      internalID: -3279508721325344577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 213
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb60b59e7e3aa6d0800000000000000
+      internalID: -2978499490153993239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 215
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f9afd12fb7db6c0800000000000000
+      internalID: -4126005403786240190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 199
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887493f30834e0990800000000000000
+      internalID: -7417917318137034872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_31
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 183
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c02db068ee9bfab0800000000000000
+      internalID: -4973206642607972157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_32
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 181
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7157e810d7414c010800000000000000
+      internalID: 1208113127171716375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_33
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 157
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36d3f53fd5ac0f30800000000000000
+      internalID: 4543188502211450430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_34
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 179
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f18cba3814d0dd40800000000000000
+      internalID: 5607214736606003701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_35
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 157
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a7fa6ceb6af9f50800000000000000
+      internalID: 6890409293207534112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82054374a91557120800000000000000
+      internalID: 2410922898588192808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 198
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746bf46a8345a8ce0800000000000000
+      internalID: -1402215731687344569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 180
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856abeed18bf3b2b0800000000000000
+      internalID: -5569831778917833128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 173
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72de19bf12ee9b3b0800000000000000
+      internalID: -5496100040507003609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 152
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2694dc14a89198c50800000000000000
+      internalID: 6667888804898883938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_41
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 156
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a0cff21c7513ae0800000000000000
+      internalID: -1571378307730240975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 159
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c95c8226270bd670800000000000000
+      internalID: 8564446976744905155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 166
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee9a2fce6568cbb0800000000000000
+      internalID: -4915567466678411543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_44
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bda18e4a896e32d0800000000000000
+      internalID: -3297081834445099600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_45
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 173
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547b69a4d70483230800000000000000
+      internalID: 3618713207458674501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_46
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 171
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe16fe077f6539a00800000000000000
+      internalID: 762048382707393007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_47
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 172
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f58a43c68068e70800000000000000
+      internalID: 9116983756491087688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_48
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 178
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676f11fce80fd8810800000000000000
+      internalID: 1769334724776556150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_49
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 161
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104c8fc0cfa6446d0800000000000000
+      internalID: -3007161020394716159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_50
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 165
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37723c396ceda81a0800000000000000
+      internalID: -6806382942353152141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_51
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 153
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698a3830e32340220800000000000000
+      internalID: 2451139339124713622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nvzhujue_52
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 168
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841539f8881fe1e30800000000000000
+      internalID: 4476280648479494472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nvzhujue_0: -1051643788651138233
+      nvzhujue_1: 4769100393866902968
+      nvzhujue_10: 2648210462433361651
+      nvzhujue_11: 7971221697997981906
+      nvzhujue_12: -8452741918574177076
+      nvzhujue_13: -4889781439873023592
+      nvzhujue_14: -1518524341751148746
+      nvzhujue_15: 918728549559810079
+      nvzhujue_16: -7569034840447931478
+      nvzhujue_17: -2883104669678954878
+      nvzhujue_18: 3244466646118229268
+      nvzhujue_19: -2076201312802806611
+      nvzhujue_2: -3274429661436710252
+      nvzhujue_20: 4050170142543455021
+      nvzhujue_21: 6238596856570668961
+      nvzhujue_22: 3145491744075451197
+      nvzhujue_23: -3663470593696179744
+      nvzhujue_24: 5357426972947941368
+      nvzhujue_25: 6596777375877111098
+      nvzhujue_26: -2009528988842307105
+      nvzhujue_27: -3279508721325344577
+      nvzhujue_28: -2978499490153993239
+      nvzhujue_29: -4126005403786240190
+      nvzhujue_3: -5899588546320003734
+      nvzhujue_30: -7417917318137034872
+      nvzhujue_31: -4973206642607972157
+      nvzhujue_32: 1208113127171716375
+      nvzhujue_33: 4543188502211450430
+      nvzhujue_34: 5607214736606003701
+      nvzhujue_35: 6890409293207534112
+      nvzhujue_36: 2410922898588192808
+      nvzhujue_37: -1402215731687344569
+      nvzhujue_38: -5569831778917833128
+      nvzhujue_39: -5496100040507003609
+      nvzhujue_4: 6694056334150269492
+      nvzhujue_40: 6667888804898883938
+      nvzhujue_41: -1571378307730240975
+      nvzhujue_42: 8564446976744905155
+      nvzhujue_43: -4915567466678411543
+      nvzhujue_44: -3297081834445099600
+      nvzhujue_45: 3618713207458674501
+      nvzhujue_46: 762048382707393007
+      nvzhujue_47: 9116983756491087688
+      nvzhujue_48: 1769334724776556150
+      nvzhujue_49: -3007161020394716159
+      nvzhujue_5: 3256405609331498976
+      nvzhujue_50: -6806382942353152141
+      nvzhujue_51: 2451139339124713622
+      nvzhujue_52: 4476280648479494472
+      nvzhujue_6: 5834353691302395275
+      nvzhujue_7: 689387152670313164
+      nvzhujue_8: 2394727870118307067
+      nvzhujue_9: -6387011384407243150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

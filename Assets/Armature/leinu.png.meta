@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: e6a422fc6e3a5824b9fc7e52d4c23d6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -367661774294608201
+    second: leinu_0
+  - first:
+      213: 4300923492200579662
+    second: leinu_1
+  - first:
+      213: -4116399258420434303
+    second: leinu_2
+  - first:
+      213: 6613598549988573460
+    second: leinu_3
+  - first:
+      213: -4471967376397028927
+    second: leinu_4
+  - first:
+      213: -4290756199556023560
+    second: leinu_5
+  - first:
+      213: 3838974100483651375
+    second: leinu_6
+  - first:
+      213: -8010788807506372405
+    second: leinu_7
+  - first:
+      213: -639108102024367197
+    second: leinu_8
+  - first:
+      213: -4439233833050784398
+    second: leinu_9
+  - first:
+      213: 2175107626202167080
+    second: leinu_10
+  - first:
+      213: -4973069621178264918
+    second: leinu_11
+  - first:
+      213: 358608930928986344
+    second: leinu_12
+  - first:
+      213: -2463447372900604176
+    second: leinu_13
+  - first:
+      213: -8290369298298168818
+    second: leinu_14
+  - first:
+      213: 8418773878142748987
+    second: leinu_15
+  - first:
+      213: -5409331336471754489
+    second: leinu_16
+  - first:
+      213: -6690148244649305210
+    second: leinu_17
+  - first:
+      213: -1345532590199584591
+    second: leinu_18
+  - first:
+      213: 8932054561627394028
+    second: leinu_19
+  - first:
+      213: 3339262023836558411
+    second: leinu_20
+  - first:
+      213: -2218853492359792963
+    second: leinu_21
+  - first:
+      213: -3405531803186876831
+    second: leinu_22
+  - first:
+      213: -9130683556576626013
+    second: leinu_23
+  - first:
+      213: -7360184193218147012
+    second: leinu_24
+  - first:
+      213: 3197806620521213492
+    second: leinu_25
+  - first:
+      213: 5082287392829825510
+    second: leinu_26
+  - first:
+      213: 3289026382449985936
+    second: leinu_27
+  - first:
+      213: -5373216061642550167
+    second: leinu_28
+  - first:
+      213: 2452873045772616536
+    second: leinu_29
+  - first:
+      213: 2598587353040209314
+    second: leinu_30
+  - first:
+      213: 3016576741208019162
+    second: leinu_31
+  - first:
+      213: -202733504671321809
+    second: leinu_32
+  - first:
+      213: 7348523916817159162
+    second: leinu_33
+  - first:
+      213: -8225284703136172848
+    second: leinu_34
+  - first:
+      213: 1567904431983270760
+    second: leinu_35
+  - first:
+      213: -8401927514959910548
+    second: leinu_36
+  - first:
+      213: -2826158125076021517
+    second: leinu_37
+  - first:
+      213: -6545471281886930815
+    second: leinu_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leinu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 163
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b61ea1709dc5eaf0800000000000000
+      internalID: -367661774294608201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 331
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e428fbef023ffab30800000000000000
+      internalID: 4300923492200579662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 331
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a2b202fac9fd6c0800000000000000
+      internalID: -4116399258420434303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 376
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4118b1347d838cb50800000000000000
+      internalID: 6613598549988573460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 475
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c138ba5d5160f1c0800000000000000
+      internalID: -4471967376397028927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_5
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 458
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa78ab48fb2474c0800000000000000
+      internalID: -4290756199556023560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 62
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27b049ca96c64530800000000000000
+      internalID: 3838974100483651375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 290
+        width: 83
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc858e5c506f3d090800000000000000
+      internalID: -8010788807506372405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 255
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a373cd319e6127f0800000000000000
+      internalID: -639108102024367197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 232
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dbc12595ca462c0800000000000000
+      internalID: -4439233833050784398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 251
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827f500acd88f2e10800000000000000
+      internalID: 2175107626202167080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 241
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2126a278b1cfab0800000000000000
+      internalID: -4973069621178264918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 251
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e80e453ce80af400800000000000000
+      internalID: 358608930928986344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 274
+        width: 83
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6e36f8aa310ddd0800000000000000
+      internalID: -2463447372900604176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 272
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a12262c01b2fc80800000000000000
+      internalID: -8290369298298168818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 249
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b394903dc3e75d470800000000000000
+      internalID: 8418773878142748987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 254
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70946313fc13ee4b0800000000000000
+      internalID: -5409331336471754489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 236
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b99fe0e91d723a0800000000000000
+      internalID: -6690148244649305210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_18
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 252
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b84177fc35b35de0800000000000000
+      internalID: -1345532590199584591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_19
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 229
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef453cbc4805fb70800000000000000
+      internalID: 8932054561627394028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_20
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 262
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44eab65e11775e20800000000000000
+      internalID: 3339262023836558411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 246
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db67243318c0531e0800000000000000
+      internalID: -2218853492359792963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 204
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e20c74ede1db0d0800000000000000
+      internalID: -3405531803186876831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 177
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaffb58eab494180800000000000000
+      internalID: -9130683556576626013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_24
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 250
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d89c1e87f5bd990800000000000000
+      internalID: -7360184193218147012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 230
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e2f8cbd24e06c20800000000000000
+      internalID: 3197806620521213492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 235
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e16118e479e78640800000000000000
+      internalID: 5082287392829825510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 235
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099c1de9118f4ad20800000000000000
+      internalID: 3289026382449985936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 197
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9645f50e5708e65b0800000000000000
+      internalID: -5373216061642550167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_29
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 227
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853486c0a0b5a0220800000000000000
+      internalID: 2452873045772616536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 190
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5c8cffd69001420800000000000000
+      internalID: 2598587353040209314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 193
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0d86940980dd920800000000000000
+      internalID: 3016576741208019162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 182
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21fefd93febf2df0800000000000000
+      internalID: -202733504671321809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 194
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3595571933bf560800000000000000
+      internalID: 7348523916817159162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_34
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 216
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d43d15542be9dd80800000000000000
+      internalID: -8225284703136172848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_35
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 188
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b9f1616c052c510800000000000000
+      internalID: 1567904431983270760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_36
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 192
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69eb32c07b566b80800000000000000
+      internalID: -8401927514959910548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_37
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 220
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe72cba82877c8d0800000000000000
+      internalID: -2826158125076021517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leinu_38
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 196
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188db9b6c80d925a0800000000000000
+      internalID: -6545471281886930815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leinu_0: -367661774294608201
+      leinu_1: 4300923492200579662
+      leinu_10: 2175107626202167080
+      leinu_11: -4973069621178264918
+      leinu_12: 358608930928986344
+      leinu_13: -2463447372900604176
+      leinu_14: -8290369298298168818
+      leinu_15: 8418773878142748987
+      leinu_16: -5409331336471754489
+      leinu_17: -6690148244649305210
+      leinu_18: -1345532590199584591
+      leinu_19: 8932054561627394028
+      leinu_2: -4116399258420434303
+      leinu_20: 3339262023836558411
+      leinu_21: -2218853492359792963
+      leinu_22: -3405531803186876831
+      leinu_23: -9130683556576626013
+      leinu_24: -7360184193218147012
+      leinu_25: 3197806620521213492
+      leinu_26: 5082287392829825510
+      leinu_27: 3289026382449985936
+      leinu_28: -5373216061642550167
+      leinu_29: 2452873045772616536
+      leinu_3: 6613598549988573460
+      leinu_30: 2598587353040209314
+      leinu_31: 3016576741208019162
+      leinu_32: -202733504671321809
+      leinu_33: 7348523916817159162
+      leinu_34: -8225284703136172848
+      leinu_35: 1567904431983270760
+      leinu_36: -8401927514959910548
+      leinu_37: -2826158125076021517
+      leinu_38: -6545471281886930815
+      leinu_4: -4471967376397028927
+      leinu_5: -4290756199556023560
+      leinu_6: 3838974100483651375
+      leinu_7: -8010788807506372405
+      leinu_8: -639108102024367197
+      leinu_9: -4439233833050784398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

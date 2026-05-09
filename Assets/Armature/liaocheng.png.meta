@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 391990c7b9dc41d4fa34d8ae6c0452d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3952281703945295045
+    second: liaocheng_0
+  - first:
+      213: -787165026762961400
+    second: liaocheng_1
+  - first:
+      213: 514607699259678359
+    second: liaocheng_2
+  - first:
+      213: 8646688438246794753
+    second: liaocheng_3
+  - first:
+      213: 8392337175696921309
+    second: liaocheng_4
+  - first:
+      213: -5527354072328004699
+    second: liaocheng_5
+  - first:
+      213: 1408148200440310540
+    second: liaocheng_6
+  - first:
+      213: 3736057670692390894
+    second: liaocheng_7
+  - first:
+      213: -956809275689094897
+    second: liaocheng_8
+  - first:
+      213: -8772676669453640673
+    second: liaocheng_9
+  - first:
+      213: 5916941084806037569
+    second: liaocheng_10
+  - first:
+      213: 2484601522907287808
+    second: liaocheng_11
+  - first:
+      213: 4617993889224806715
+    second: liaocheng_12
+  - first:
+      213: -427359326881251991
+    second: liaocheng_13
+  - first:
+      213: 470293559502349546
+    second: liaocheng_14
+  - first:
+      213: 4798728625711860600
+    second: liaocheng_15
+  - first:
+      213: -4743744986461066730
+    second: liaocheng_16
+  - first:
+      213: -2679304461938635975
+    second: liaocheng_17
+  - first:
+      213: 4974862976320009476
+    second: liaocheng_18
+  - first:
+      213: 3516739541588877895
+    second: liaocheng_19
+  - first:
+      213: -6151744754403794079
+    second: liaocheng_20
+  - first:
+      213: -5852024450499249697
+    second: liaocheng_21
+  - first:
+      213: -1875498847772074404
+    second: liaocheng_22
+  - first:
+      213: -4799746645712620245
+    second: liaocheng_23
+  - first:
+      213: -6286357215334515209
+    second: liaocheng_24
+  - first:
+      213: -8703914196111380475
+    second: liaocheng_25
+  - first:
+      213: 3244445115495570356
+    second: liaocheng_26
+  - first:
+      213: 3802553067068433025
+    second: liaocheng_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: liaocheng_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 227
+        width: 294
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ba018fabca629c0800000000000000
+      internalID: -3952281703945295045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 392
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ece28249d6315f0800000000000000
+      internalID: -787165026762961400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 438
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79edd09d9f0442700800000000000000
+      internalID: 514607699259678359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 377
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1066d2d82553ff770800000000000000
+      internalID: 8646688438246794753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 294
+        width: 113
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd258b06232977470800000000000000
+      internalID: 8392337175696921309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 304
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab9413a1c4ea43b0800000000000000
+      internalID: -5527354072328004699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 233
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ba95ed35fba8310800000000000000
+      internalID: 1408148200440310540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 244
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee74ef138a429d330800000000000000
+      internalID: 3736057670692390894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 228
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01b0cc780bb8b2f0800000000000000
+      internalID: -956809275689094897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 201
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cdbdb7c01314680800000000000000
+      internalID: -8772676669453640673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 233
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14047cc31923d1250800000000000000
+      internalID: 5916941084806037569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 183
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001984dcbe31b7220800000000000000
+      internalID: 2484601522907287808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 186
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b315b2e99f8661040800000000000000
+      internalID: 4617993889224806715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 262
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dfac9d4f6b11af0800000000000000
+      internalID: -427359326881251991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 141
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4aa4a2081d68600800000000000000
+      internalID: 470293559502349546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 112
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bcd05a242889240800000000000000
+      internalID: 4798728625711860600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 146
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aa2f87115da2eb0800000000000000
+      internalID: -4743744986461066730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 127
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b470599c231dad0800000000000000
+      internalID: -2679304461938635975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 138
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405fbcdd4834a0540800000000000000
+      internalID: 4974862976320009476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 48
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742a9f70bf7fdc030800000000000000
+      internalID: 3516739541588877895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_20
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 84
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163a3ec3dbc90aaa0800000000000000
+      internalID: -6151744754403794079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 104
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9771384ce69cea0800000000000000
+      internalID: -5852024450499249697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 86
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e14e91cb3e8f5e0800000000000000
+      internalID: -1875498847772074404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 134
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b253d6a1bdfd36db0800000000000000
+      internalID: -4799746645712620245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 47
+        width: 106
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdb5c05b6f52c8a0800000000000000
+      internalID: -6286357215334515209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 46
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5003d49672c753780800000000000000
+      internalID: -8703914196111380475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 43
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb5d5a84a5960d20800000000000000
+      internalID: 3244445115495570356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liaocheng_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 26
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182af222ed165c430800000000000000
+      internalID: 3802553067068433025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      liaocheng_0: -3952281703945295045
+      liaocheng_1: -787165026762961400
+      liaocheng_10: 5916941084806037569
+      liaocheng_11: 2484601522907287808
+      liaocheng_12: 4617993889224806715
+      liaocheng_13: -427359326881251991
+      liaocheng_14: 470293559502349546
+      liaocheng_15: 4798728625711860600
+      liaocheng_16: -4743744986461066730
+      liaocheng_17: -2679304461938635975
+      liaocheng_18: 4974862976320009476
+      liaocheng_19: 3516739541588877895
+      liaocheng_2: 514607699259678359
+      liaocheng_20: -6151744754403794079
+      liaocheng_21: -5852024450499249697
+      liaocheng_22: -1875498847772074404
+      liaocheng_23: -4799746645712620245
+      liaocheng_24: -6286357215334515209
+      liaocheng_25: -8703914196111380475
+      liaocheng_26: 3244445115495570356
+      liaocheng_27: 3802553067068433025
+      liaocheng_3: 8646688438246794753
+      liaocheng_4: 8392337175696921309
+      liaocheng_5: -5527354072328004699
+      liaocheng_6: 1408148200440310540
+      liaocheng_7: 3736057670692390894
+      liaocheng_8: -956809275689094897
+      liaocheng_9: -8772676669453640673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

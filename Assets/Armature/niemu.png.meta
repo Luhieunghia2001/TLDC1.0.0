@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: d2ad79feb47a6e84b94d1b83a1c53f37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1495028685255116320
+    second: niemu_0
+  - first:
+      213: 5719903870703874464
+    second: niemu_1
+  - first:
+      213: 3914961499629138358
+    second: niemu_2
+  - first:
+      213: -5590326152350795367
+    second: niemu_3
+  - first:
+      213: 7686674381675787592
+    second: niemu_4
+  - first:
+      213: 2685265590585288461
+    second: niemu_5
+  - first:
+      213: -1542085204188567526
+    second: niemu_6
+  - first:
+      213: 7455597053040837517
+    second: niemu_7
+  - first:
+      213: -9108144873129130224
+    second: niemu_8
+  - first:
+      213: 4445766504019270927
+    second: niemu_9
+  - first:
+      213: -3042984256726275024
+    second: niemu_10
+  - first:
+      213: -6719991392714565066
+    second: niemu_11
+  - first:
+      213: 2729259262867207872
+    second: niemu_12
+  - first:
+      213: -655997421872263798
+    second: niemu_13
+  - first:
+      213: 8107155734351622967
+    second: niemu_14
+  - first:
+      213: 3668150279245695808
+    second: niemu_15
+  - first:
+      213: -7797993688209269290
+    second: niemu_16
+  - first:
+      213: 1180021905423595505
+    second: niemu_17
+  - first:
+      213: 6306427123011167282
+    second: niemu_18
+  - first:
+      213: -3082620158874336486
+    second: niemu_19
+  - first:
+      213: -5964412557272504443
+    second: niemu_20
+  - first:
+      213: -6713155821290659138
+    second: niemu_21
+  - first:
+      213: 3718171894703970500
+    second: niemu_22
+  - first:
+      213: 887672858211180117
+    second: niemu_23
+  - first:
+      213: 2307596978405789646
+    second: niemu_24
+  - first:
+      213: 2237216675054057905
+    second: niemu_25
+  - first:
+      213: -4481526646623726769
+    second: niemu_26
+  - first:
+      213: -7288950144385836616
+    second: niemu_27
+  - first:
+      213: -5625900658794258198
+    second: niemu_28
+  - first:
+      213: 9217306520660548324
+    second: niemu_29
+  - first:
+      213: 2128982056715675501
+    second: niemu_30
+  - first:
+      213: 6807975159513010327
+    second: niemu_31
+  - first:
+      213: 512618948900003732
+    second: niemu_32
+  - first:
+      213: 8200485546562840341
+    second: niemu_33
+  - first:
+      213: 2968589632159786403
+    second: niemu_34
+  - first:
+      213: -2123717813298853512
+    second: niemu_35
+  - first:
+      213: -7144423968800299744
+    second: niemu_36
+  - first:
+      213: -881264938150310064
+    second: niemu_37
+  - first:
+      213: 66869247567905717
+    second: niemu_38
+  - first:
+      213: -8290814206828167564
+    second: niemu_39
+  - first:
+      213: -2237015610663630630
+    second: niemu_40
+  - first:
+      213: -8479304995105755052
+    second: niemu_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: niemu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 198
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02686a11ba86fb410800000000000000
+      internalID: 1495028685255116320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 350
+        width: 176
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1bfaad34e216f40800000000000000
+      internalID: 5719903870703874464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 348
+        width: 100
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1b9b6ddbcb45630800000000000000
+      internalID: 3914961499629138358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 480
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999fd86bbfb2b62b0800000000000000
+      internalID: -5590326152350795367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_4
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 455
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84571e7df9d8caa60800000000000000
+      internalID: 7686674381675787592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 433
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d076a66d3daf34520800000000000000
+      internalID: 2685265590585288461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 406
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1864f65da9699ae0800000000000000
+      internalID: -1542085204188567526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 387
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83c2fea40a977760800000000000000
+      internalID: 7455597053040837517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 365
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017c752be7e599180800000000000000
+      internalID: -9108144873129130224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 227
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d166aa41982bd30800000000000000
+      internalID: 4445766504019270927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 221
+        width: 74
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c69b0e0f525c5d0800000000000000
+      internalID: -3042984256726275024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 313
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ad09fae6bcdb2a0800000000000000
+      internalID: -6719991392714565066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 234
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6f42fd6d640e520800000000000000
+      internalID: 2729259262867207872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 325
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d4bb702dd65e6f0800000000000000
+      internalID: -655997421872263798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_14
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 343
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733bcc4df27628070800000000000000
+      internalID: 8107155734351622967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 306
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b80398e33e7e230800000000000000
+      internalID: 3668150279245695808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_16
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 322
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd5c8d5e06f7c390800000000000000
+      internalID: -7797993688209269290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_17
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 299
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7f3f3cba7406010800000000000000
+      internalID: 1180021905423595505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 300
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23428f43e0ee48750800000000000000
+      internalID: 6306427123011167282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1346d44c455835d0800000000000000
+      internalID: -3082620158874336486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 174
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587a4e541662a3da0800000000000000
+      internalID: -5964412557272504443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 222
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2ef1e295416d2a0800000000000000
+      internalID: -6713155821290659138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_22
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 239
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8dba573a9999330800000000000000
+      internalID: 3718171894703970500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 164
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ede6ee2c5a15c00800000000000000
+      internalID: 887672858211180117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 144
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf44a6c93b360020800000000000000
+      internalID: 2307596978405789646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 172
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b97d2276b03c0f10800000000000000
+      internalID: 2237216675054057905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_26
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 200
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f439b80524b6ec1c0800000000000000
+      internalID: -4481526646623726769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 193
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b99952567278da90800000000000000
+      internalID: -7288950144385836616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_28
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 198
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0aeea7829cce1b0800000000000000
+      internalID: -5625900658794258198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 184
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea1dd5f1737aef70800000000000000
+      internalID: 9217306520660548324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_30
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 175
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67e7b796e9ab8d10800000000000000
+      internalID: 2128982056715675501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 156
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790d47e5659ca7e50800000000000000
+      internalID: 6807975159513010327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 156
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f9152d7303d1700800000000000000
+      internalID: 512618948900003732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 149
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5176a94182afdc170800000000000000
+      internalID: 8200485546562840341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 125
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5aaccca8c823920800000000000000
+      internalID: 2968589632159786403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_35
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 154
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879072796e90782e0800000000000000
+      internalID: -2123717813298853512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_36
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 145
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0252fdec048e9dc90800000000000000
+      internalID: -7144423968800299744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 149
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f4b88353e15c3f0800000000000000
+      internalID: -881264938150310064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 130
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3cea3f9319de000800000000000000
+      internalID: 66869247567905717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ebe3fc76c11fc80800000000000000
+      internalID: -8290814206828167564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_40
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 140
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad80461872684f0e0800000000000000
+      internalID: -2237015610663630630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niemu_41
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 133
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450b6804805735a80800000000000000
+      internalID: -8479304995105755052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      niemu_0: 1495028685255116320
+      niemu_1: 5719903870703874464
+      niemu_10: -3042984256726275024
+      niemu_11: -6719991392714565066
+      niemu_12: 2729259262867207872
+      niemu_13: -655997421872263798
+      niemu_14: 8107155734351622967
+      niemu_15: 3668150279245695808
+      niemu_16: -7797993688209269290
+      niemu_17: 1180021905423595505
+      niemu_18: 6306427123011167282
+      niemu_19: -3082620158874336486
+      niemu_2: 3914961499629138358
+      niemu_20: -5964412557272504443
+      niemu_21: -6713155821290659138
+      niemu_22: 3718171894703970500
+      niemu_23: 887672858211180117
+      niemu_24: 2307596978405789646
+      niemu_25: 2237216675054057905
+      niemu_26: -4481526646623726769
+      niemu_27: -7288950144385836616
+      niemu_28: -5625900658794258198
+      niemu_29: 9217306520660548324
+      niemu_3: -5590326152350795367
+      niemu_30: 2128982056715675501
+      niemu_31: 6807975159513010327
+      niemu_32: 512618948900003732
+      niemu_33: 8200485546562840341
+      niemu_34: 2968589632159786403
+      niemu_35: -2123717813298853512
+      niemu_36: -7144423968800299744
+      niemu_37: -881264938150310064
+      niemu_38: 66869247567905717
+      niemu_39: -8290814206828167564
+      niemu_4: 7686674381675787592
+      niemu_40: -2237015610663630630
+      niemu_41: -8479304995105755052
+      niemu_5: 2685265590585288461
+      niemu_6: -1542085204188567526
+      niemu_7: 7455597053040837517
+      niemu_8: -9108144873129130224
+      niemu_9: 4445766504019270927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: af5f88234efb2094f90b82c4669241bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2400311878715963886
+    second: balong_0
+  - first:
+      213: 8413407731041718286
+    second: balong_1
+  - first:
+      213: -9202423293400929588
+    second: balong_2
+  - first:
+      213: -5306887103248860145
+    second: balong_3
+  - first:
+      213: -8004777096912642103
+    second: balong_4
+  - first:
+      213: 4689144667775404564
+    second: balong_5
+  - first:
+      213: 3283069276230638033
+    second: balong_6
+  - first:
+      213: 7504702307803766379
+    second: balong_7
+  - first:
+      213: -83075346590256242
+    second: balong_8
+  - first:
+      213: 2874390722375323227
+    second: balong_9
+  - first:
+      213: 8783819552480971570
+    second: balong_10
+  - first:
+      213: -848410331575536608
+    second: balong_11
+  - first:
+      213: -5472994816037271147
+    second: balong_12
+  - first:
+      213: -2384517876817711679
+    second: balong_13
+  - first:
+      213: 5931571195027744793
+    second: balong_14
+  - first:
+      213: -368414448042375469
+    second: balong_15
+  - first:
+      213: 6151454621183750462
+    second: balong_16
+  - first:
+      213: -6291200570287732894
+    second: balong_17
+  - first:
+      213: -2329118182793962192
+    second: balong_18
+  - first:
+      213: -7719483407048169211
+    second: balong_19
+  - first:
+      213: -1760667858118198387
+    second: balong_20
+  - first:
+      213: 5643442099825667116
+    second: balong_21
+  - first:
+      213: -8974552817608566846
+    second: balong_22
+  - first:
+      213: -6869529430145468889
+    second: balong_23
+  - first:
+      213: -220375229172068577
+    second: balong_24
+  - first:
+      213: 3379919978821973080
+    second: balong_25
+  - first:
+      213: -7529655864114037173
+    second: balong_26
+  - first:
+      213: 2808902174967006231
+    second: balong_27
+  - first:
+      213: 1347587157308532766
+    second: balong_28
+  - first:
+      213: -1196957216655303507
+    second: balong_29
+  - first:
+      213: 7093036886977535176
+    second: balong_30
+  - first:
+      213: -4455730746352661026
+    second: balong_31
+  - first:
+      213: 4514485070349941297
+    second: balong_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balong_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 215
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9f301bfee9f4120800000000000000
+      internalID: 2400311878715963886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 403
+        width: 223
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00544751cd62c470800000000000000
+      internalID: 8413407731041718286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 437
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaae0c65cc6a4080800000000000000
+      internalID: -9202423293400929588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 367
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cffb3fb462a56b0800000000000000
+      internalID: -5306887103248860145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 289
+        width: 197
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd65834a159e090800000000000000
+      internalID: -8004777096912642103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 371
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a8b2f2b30331140800000000000000
+      internalID: 4689144667775404564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 199
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9d9bebc1ecf8d20800000000000000
+      internalID: 3283069276230638033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 191
+        width: 175
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e92b1ccfe062860800000000000000
+      internalID: 7504702307803766379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 250
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8335e4996bd8def0800000000000000
+      internalID: -83075346590256242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 256
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e0cd00223e3e720800000000000000
+      internalID: 2874390722375323227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 281
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b42c4285566e970800000000000000
+      internalID: 8783819552480971570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 189
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0243baa6c47d934f0800000000000000
+      internalID: -848410331575536608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 218
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5994b8446340c04b0800000000000000
+      internalID: -5472994816037271147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 215
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd26bfef9d78eed0800000000000000
+      internalID: -2384517876817711679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 230
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9186197339c215250800000000000000
+      internalID: 5931571195027744793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 133
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6005ee20123eaf0800000000000000
+      internalID: -368414448042375469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 152
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31b79bd26b5e5550800000000000000
+      internalID: 6151454621183750462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 189
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267c34dd96a21b8a0800000000000000
+      internalID: -6291200570287732894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 164
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d99aa5a5f4dafd0800000000000000
+      internalID: -2329118182793962192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 194
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5092f59adb2eed490800000000000000
+      internalID: -7719483407048169211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_20
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 181
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bba6559e9d097e0800000000000000
+      internalID: -1760667858118198387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 137
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ce79680b8815e40800000000000000
+      internalID: 5643442099825667116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 165
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7d578f2cbf37380800000000000000
+      internalID: -8974552817608566846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726761e21678aa0a0800000000000000
+      internalID: -6869529430145468889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 137
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f47eb85e111fcf0800000000000000
+      internalID: -220375229172068577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854fdea2053e7ee20800000000000000
+      internalID: 3379919978821973080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 114
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ebb8aa2e9418790800000000000000
+      internalID: -7529655864114037173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 115
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7140bbb55a93bf620800000000000000
+      internalID: 2808902174967006231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 95
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18e047316793b210800000000000000
+      internalID: 1347587157308532766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_29
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 112
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac9be1d0cd836fe0800000000000000
+      internalID: -1196957216655303507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 135
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccd90bd7778f6260800000000000000
+      internalID: 7093036886977535176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd0dd06e701a22c0800000000000000
+      internalID: -4455730746352661026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balong_32
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 103
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a3302b04ca6ae30800000000000000
+      internalID: 4514485070349941297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      balong_0: 2400311878715963886
+      balong_1: 8413407731041718286
+      balong_10: 8783819552480971570
+      balong_11: -848410331575536608
+      balong_12: -5472994816037271147
+      balong_13: -2384517876817711679
+      balong_14: 5931571195027744793
+      balong_15: -368414448042375469
+      balong_16: 6151454621183750462
+      balong_17: -6291200570287732894
+      balong_18: -2329118182793962192
+      balong_19: -7719483407048169211
+      balong_2: -9202423293400929588
+      balong_20: -1760667858118198387
+      balong_21: 5643442099825667116
+      balong_22: -8974552817608566846
+      balong_23: -6869529430145468889
+      balong_24: -220375229172068577
+      balong_25: 3379919978821973080
+      balong_26: -7529655864114037173
+      balong_27: 2808902174967006231
+      balong_28: 1347587157308532766
+      balong_29: -1196957216655303507
+      balong_3: -5306887103248860145
+      balong_30: 7093036886977535176
+      balong_31: -4455730746352661026
+      balong_32: 4514485070349941297
+      balong_4: -8004777096912642103
+      balong_5: 4689144667775404564
+      balong_6: 3283069276230638033
+      balong_7: 7504702307803766379
+      balong_8: -83075346590256242
+      balong_9: 2874390722375323227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

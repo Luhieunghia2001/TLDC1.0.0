@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 4db3f54e281656d4290432056d616095
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7178646656328994351
+    second: xima_0
+  - first:
+      213: -3099958365043480724
+    second: xima_1
+  - first:
+      213: 6585594599416836637
+    second: xima_2
+  - first:
+      213: 8218484179572230409
+    second: xima_3
+  - first:
+      213: 8211307112149308577
+    second: xima_4
+  - first:
+      213: 6855531179539992517
+    second: xima_5
+  - first:
+      213: -4233450845726477532
+    second: xima_6
+  - first:
+      213: -7766301248111686335
+    second: xima_7
+  - first:
+      213: 4907418799692709303
+    second: xima_8
+  - first:
+      213: 1955982831849041864
+    second: xima_9
+  - first:
+      213: -1613239584702518930
+    second: xima_10
+  - first:
+      213: 5111627500475186835
+    second: xima_11
+  - first:
+      213: 4289801907506595
+    second: xima_12
+  - first:
+      213: -4836061364018636345
+    second: xima_13
+  - first:
+      213: 1586621583072881087
+    second: xima_14
+  - first:
+      213: 7044195612030168531
+    second: xima_15
+  - first:
+      213: 7682427142854591571
+    second: xima_16
+  - first:
+      213: 2708035076506541571
+    second: xima_17
+  - first:
+      213: 3420137617804217099
+    second: xima_18
+  - first:
+      213: -2526712044135024258
+    second: xima_19
+  - first:
+      213: 8959842452421373808
+    second: xima_20
+  - first:
+      213: 5917594211273715296
+    second: xima_21
+  - first:
+      213: -3716823780866206500
+    second: xima_22
+  - first:
+      213: -7903629545680744568
+    second: xima_23
+  - first:
+      213: 7350775902905496056
+    second: xima_24
+  - first:
+      213: 4800971597387699773
+    second: xima_25
+  - first:
+      213: -4624272960683273309
+    second: xima_26
+  - first:
+      213: -4726163282646718076
+    second: xima_27
+  - first:
+      213: 234102324793373172
+    second: xima_28
+  - first:
+      213: 7677385877948272869
+    second: xima_29
+  - first:
+      213: -3217556053237474562
+    second: xima_30
+  - first:
+      213: -1771023652832143695
+    second: xima_31
+  - first:
+      213: 356453190935502097
+    second: xima_32
+  - first:
+      213: -999802543512493994
+    second: xima_33
+  - first:
+      213: 2066651670839989952
+    second: xima_34
+  - first:
+      213: 234219272297786193
+    second: xima_35
+  - first:
+      213: 1846849281277478353
+    second: xima_36
+  - first:
+      213: 912827807884325364
+    second: xima_37
+  - first:
+      213: 3446949395290512630
+    second: xima_38
+  - first:
+      213: 5736482007624722507
+    second: xima_39
+  - first:
+      213: 1408936948459213386
+    second: xima_40
+  - first:
+      213: 9186644028373508566
+    second: xima_41
+  - first:
+      213: 3105035940641592621
+    second: xima_42
+  - first:
+      213: 6736953716598057378
+    second: xima_43
+  - first:
+      213: 8684484664635139575
+    second: xima_44
+  - first:
+      213: 6597151128052523177
+    second: xima_45
+  - first:
+      213: 1826181223852551927
+    second: xima_46
+  - first:
+      213: -1778004021493168199
+    second: xima_47
+  - first:
+      213: 3438890013946875239
+    second: xima_48
+  - first:
+      213: 7532608086764464356
+    second: xima_49
+  - first:
+      213: -8951779706825078530
+    second: xima_50
+  - first:
+      213: 5386319906839253601
+    second: xima_51
+  - first:
+      213: -8134007181674484374
+    second: xima_52
+  - first:
+      213: 7011677147655065572
+    second: xima_53
+  - first:
+      213: -7831108372257291673
+    second: xima_54
+  - first:
+      213: 5638923838140017492
+    second: xima_55
+  - first:
+      213: 1250426120170672616
+    second: xima_56
+  - first:
+      213: -3667274612993255261
+    second: xima_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xima_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 737
+        width: 565
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1f67176e2506c90800000000000000
+      internalID: -7178646656328994351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 847
+        width: 298
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6725119a4cbaf4d0800000000000000
+      internalID: -3099958365043480724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_2
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 863
+        width: 125
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12b8fc656bb46b50800000000000000
+      internalID: 6585594599416836637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_3
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 697
+        width: 98
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909029361dbed0270800000000000000
+      internalID: 8218484179572230409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_4
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 786
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a45c49205c64f170800000000000000
+      internalID: 8211307112149308577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_5
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 688
+        width: 225
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf881f194db32f50800000000000000
+      internalID: 6855531179539992517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 712
+        width: 68
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4237566b2e2cf35c0800000000000000
+      internalID: -4233450845726477532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_7
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 729
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d41a7992e883490800000000000000
+      internalID: -7766301248111686335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_8
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 689
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdf1cfc567aa1440800000000000000
+      internalID: 4907418799692709303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_9
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 714
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfef17b50c052b10800000000000000
+      internalID: 1955982831849041864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 564
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e692530252f9c99e0800000000000000
+      internalID: -1613239584702518930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_11
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 569
+        width: 144
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ef0fd012620f640800000000000000
+      internalID: 5111627500475186835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_12
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 598
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad8ad65d8d3f0000800000000000000
+      internalID: 4289801907506595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_13
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 598
+        width: 68
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c99daddfcbd2ecb0800000000000000
+      internalID: -4836061364018636345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_14
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 622
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9e60c6cefc40610800000000000000
+      internalID: 1586621583072881087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_15
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 638
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd6c6f569202c160800000000000000
+      internalID: 7044195612030168531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_16
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 610
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354caae78c67d9a60800000000000000
+      internalID: 7682427142854591571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_17
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 492
+        width: 106
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e5876ed8fd49520800000000000000
+      internalID: 2708035076506541571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_18
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 542
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bcb20fa05c67f20800000000000000
+      internalID: 3420137617804217099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_19
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 511
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7971af68c05fecd0800000000000000
+      internalID: -2526712044135024258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_20
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 561
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f6a0c3d31c75c70800000000000000
+      internalID: 8959842452421373808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_21
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 555
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ea0e715948f1250800000000000000
+      internalID: 5917594211273715296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_22
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 561
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4deb0c6703b6cc0800000000000000
+      internalID: -3716823780866206500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_23
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 556
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fca6dadcaa05290800000000000000
+      internalID: -7903629545680744568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_24
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 536
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1fe24dcb3330660800000000000000
+      internalID: 7350775902905496056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 524
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36980f2b3a70a240800000000000000
+      internalID: 4800971597387699773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_26
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 549
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a397022e3843dfb0800000000000000
+      internalID: -4624272960683273309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_27
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 517
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4892953e88b496eb0800000000000000
+      internalID: -4726163282646718076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_28
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 510
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1f666f2d2bf3300800000000000000
+      internalID: 234102324793373172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_29
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 517
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e015ba87cd8b8a60800000000000000
+      internalID: 7677385877948272869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_30
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 506
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa5fd121d1f853d0800000000000000
+      internalID: -3217556053237474562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_31
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 511
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6102cfe5f0c67e0800000000000000
+      internalID: -1771023652832143695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_32
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 506
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dd3c0e94062f400800000000000000
+      internalID: 356453190935502097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_33
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 459
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650e76442ecff12f0800000000000000
+      internalID: -999802543512493994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 458
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c692eabeb83eac10800000000000000
+      internalID: 2066651670839989952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_35
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 480
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b2cdcef2d104300800000000000000
+      internalID: 234219272297786193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_36
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 466
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5ca34e2a351a910800000000000000
+      internalID: 1846849281277478353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_37
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 500
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f13b0e0e040bac00800000000000000
+      internalID: 912827807884325364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_38
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 467
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcd909563606df20800000000000000
+      internalID: 3446949395290512630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_39
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 453
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4824e42ef31c9f40800000000000000
+      internalID: 5736482007624722507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_40
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 464
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4295d390bc8d8310800000000000000
+      internalID: 1408936948459213386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_41
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 451
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1aa2522148d7f70800000000000000
+      internalID: 9186644028373508566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_42
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 469
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2553c0acbd471b20800000000000000
+      internalID: 3105035940641592621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_43
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 458
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9231a16b77e7d50800000000000000
+      internalID: 6736953716598057378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_44
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 463
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5a7e44acc758870800000000000000
+      internalID: 8684484664635139575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_45
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 459
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0632d6ff9cd8b50800000000000000
+      internalID: 6597151128052523177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_46
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 440
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe2837c526e75910800000000000000
+      internalID: 1826181223852551927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_47
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 439
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b70fa143c24357e0800000000000000
+      internalID: -1778004021493168199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_48
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 431
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d01f66f3469bf20800000000000000
+      internalID: 3438890013946875239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_49
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 438
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8a4db3523398860800000000000000
+      internalID: 7532608086764464356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_50
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 452
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8042309c3e4c380800000000000000
+      internalID: -8951779706825078530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_51
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 424
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162d4c5da6d00ca40800000000000000
+      internalID: 5386319906839253601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_52
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 442
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6de0d760933e1f80800000000000000
+      internalID: -8134007181674484374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_53
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 443
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef44b1673b7e4160800000000000000
+      internalID: 7011677147655065572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_54
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 444
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762440a2d60525390800000000000000
+      internalID: -7831108372257291673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 347
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b61dfba5b714e40800000000000000
+      internalID: 5638923838140017492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_56
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 342
+        width: 375
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e194a66ee76a5110800000000000000
+      internalID: 1250426120170672616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xima_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 315
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89ab66b293b1dc0800000000000000
+      internalID: -3667274612993255261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      xima_0: -7178646656328994351
+      xima_1: -3099958365043480724
+      xima_10: -1613239584702518930
+      xima_11: 5111627500475186835
+      xima_12: 4289801907506595
+      xima_13: -4836061364018636345
+      xima_14: 1586621583072881087
+      xima_15: 7044195612030168531
+      xima_16: 7682427142854591571
+      xima_17: 2708035076506541571
+      xima_18: 3420137617804217099
+      xima_19: -2526712044135024258
+      xima_2: 6585594599416836637
+      xima_20: 8959842452421373808
+      xima_21: 5917594211273715296
+      xima_22: -3716823780866206500
+      xima_23: -7903629545680744568
+      xima_24: 7350775902905496056
+      xima_25: 4800971597387699773
+      xima_26: -4624272960683273309
+      xima_27: -4726163282646718076
+      xima_28: 234102324793373172
+      xima_29: 7677385877948272869
+      xima_3: 8218484179572230409
+      xima_30: -3217556053237474562
+      xima_31: -1771023652832143695
+      xima_32: 356453190935502097
+      xima_33: -999802543512493994
+      xima_34: 2066651670839989952
+      xima_35: 234219272297786193
+      xima_36: 1846849281277478353
+      xima_37: 912827807884325364
+      xima_38: 3446949395290512630
+      xima_39: 5736482007624722507
+      xima_4: 8211307112149308577
+      xima_40: 1408936948459213386
+      xima_41: 9186644028373508566
+      xima_42: 3105035940641592621
+      xima_43: 6736953716598057378
+      xima_44: 8684484664635139575
+      xima_45: 6597151128052523177
+      xima_46: 1826181223852551927
+      xima_47: -1778004021493168199
+      xima_48: 3438890013946875239
+      xima_49: 7532608086764464356
+      xima_5: 6855531179539992517
+      xima_50: -8951779706825078530
+      xima_51: 5386319906839253601
+      xima_52: -8134007181674484374
+      xima_53: 7011677147655065572
+      xima_54: -7831108372257291673
+      xima_55: 5638923838140017492
+      xima_56: 1250426120170672616
+      xima_57: -3667274612993255261
+      xima_6: -4233450845726477532
+      xima_7: -7766301248111686335
+      xima_8: 4907418799692709303
+      xima_9: 1955982831849041864
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 30fc0d7ec7d9e264a976e0cc2f474bc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6437912440126635399
+    second: wuli_0
+  - first:
+      213: -314050017550709998
+    second: wuli_1
+  - first:
+      213: -4700690734549365632
+    second: wuli_2
+  - first:
+      213: 278784140294723779
+    second: wuli_3
+  - first:
+      213: 9091257236270299302
+    second: wuli_4
+  - first:
+      213: -6804534269957603489
+    second: wuli_5
+  - first:
+      213: -7513570178343852713
+    second: wuli_6
+  - first:
+      213: -231827209508882411
+    second: wuli_7
+  - first:
+      213: -2077329774043005195
+    second: wuli_8
+  - first:
+      213: 1977363192768671385
+    second: wuli_9
+  - first:
+      213: -877590666001752797
+    second: wuli_10
+  - first:
+      213: 4126324233029588162
+    second: wuli_11
+  - first:
+      213: 4226559915878756532
+    second: wuli_12
+  - first:
+      213: -1827546474580227555
+    second: wuli_13
+  - first:
+      213: -7106468712983674099
+    second: wuli_14
+  - first:
+      213: 1184817004771661571
+    second: wuli_15
+  - first:
+      213: 2519803053241766827
+    second: wuli_16
+  - first:
+      213: 1912646766970690104
+    second: wuli_17
+  - first:
+      213: -6623336141129453309
+    second: wuli_18
+  - first:
+      213: 8323662819348818847
+    second: wuli_19
+  - first:
+      213: -5124995971530097074
+    second: wuli_20
+  - first:
+      213: 1831056824331635266
+    second: wuli_21
+  - first:
+      213: 99676370663450627
+    second: wuli_22
+  - first:
+      213: -5556376130314270395
+    second: wuli_23
+  - first:
+      213: 6974854439311426512
+    second: wuli_24
+  - first:
+      213: 3238611212254456718
+    second: wuli_25
+  - first:
+      213: 3103994186652031221
+    second: wuli_26
+  - first:
+      213: 5920821180569832978
+    second: wuli_27
+  - first:
+      213: 543628215779926051
+    second: wuli_28
+  - first:
+      213: 2123280493975916350
+    second: wuli_29
+  - first:
+      213: 6418260154913076936
+    second: wuli_30
+  - first:
+      213: 7639168964014607451
+    second: wuli_31
+  - first:
+      213: -6831816200156961255
+    second: wuli_32
+  - first:
+      213: -498416485395923870
+    second: wuli_33
+  - first:
+      213: 5248346250398699505
+    second: wuli_34
+  - first:
+      213: 4180383219022406759
+    second: wuli_35
+  - first:
+      213: 7286790976513921710
+    second: wuli_36
+  - first:
+      213: -551372881920900808
+    second: wuli_37
+  - first:
+      213: 6846624945597287918
+    second: wuli_38
+  - first:
+      213: -4615004278305660850
+    second: wuli_39
+  - first:
+      213: 3269347655230581899
+    second: wuli_40
+  - first:
+      213: -2825791372647412048
+    second: wuli_41
+  - first:
+      213: -3842629578120345328
+    second: wuli_42
+  - first:
+      213: 282491913036785990
+    second: wuli_43
+  - first:
+      213: -2333116312047499744
+    second: wuli_44
+  - first:
+      213: 8274415734932151465
+    second: wuli_45
+  - first:
+      213: -8771594789894774480
+    second: wuli_46
+  - first:
+      213: -4247944339958332164
+    second: wuli_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wuli_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 178
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9720f27ceb0f7a6a0800000000000000
+      internalID: -6437912440126635399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 399
+        width: 99
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b4f264c2544abf0800000000000000
+      internalID: -314050017550709998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 440
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c0738aeaac3ceb0800000000000000
+      internalID: -4700690734549365632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 406
+        width: 51
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c89743d2b07ed300800000000000000
+      internalID: 278784140294723779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 456
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a83791f942aa2e70800000000000000
+      internalID: 9091257236270299302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 354
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f743922207191a0800000000000000
+      internalID: -6804534269957603489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 370
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755a8dc3bbf6ab790800000000000000
+      internalID: -7513570178343852713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_7
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 344
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f3f7916268ccf0800000000000000
+      internalID: -231827209508882411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 340
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fef2d0a397db23e0800000000000000
+      internalID: -2077329774043005195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 402
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ea8e8e851017b10800000000000000
+      internalID: 1977363192768671385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 379
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d54ce50fb22d3f0800000000000000
+      internalID: -877590666001752797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c490d91706a34930800000000000000
+      internalID: 4126324233029588162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 343
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0bbd7a9d1c7aa30800000000000000
+      internalID: 4226559915878756532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 347
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ac0240a2043a6e0800000000000000
+      internalID: -1827546474580227555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 331
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d034e237b50c06d90800000000000000
+      internalID: -7106468712983674099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 343
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307d145d9c0517010800000000000000
+      internalID: 1184817004771661571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 333
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba39b64c68328f220800000000000000
+      internalID: 2519803053241766827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 316
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a5616d9161b8a10800000000000000
+      internalID: 1912646766970690104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_18
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 358
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301f8ff1fde2514a0800000000000000
+      internalID: -6623336141129453309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_19
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 341
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ba969cb37938370800000000000000
+      internalID: 8323662819348818847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 342
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ef3a9315b50e8b0800000000000000
+      internalID: -5124995971530097074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 308
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a87d9fa78396910800000000000000
+      internalID: 1831056824331635266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 289
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30825e9812f126100800000000000000
+      internalID: 99676370663450627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_23
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 282
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54988223959c3e2b0800000000000000
+      internalID: -5556376130314270395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 326
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3c63f7829abc060800000000000000
+      internalID: 6974854439311426512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 333
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b26081dbbd1fc20800000000000000
+      internalID: 3238611212254456718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 308
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f89540644a931b20800000000000000
+      internalID: 3103994186652031221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 328
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e497e6e7bfa2250800000000000000
+      internalID: 5920821180569832978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 304
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32021736bfa5b8700800000000000000
+      internalID: 543628215779926051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f43f11c58677d10800000000000000
+      internalID: 2123280493975916350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_30
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 301
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c633a10b9d321950800000000000000
+      internalID: 6418260154913076936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 311
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c874fd2b7c30a60800000000000000
+      internalID: 7639168964014607451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916a2eacc538031a0800000000000000
+      internalID: -6831816200156961255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 292
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cf6c5e8d44519f0800000000000000
+      internalID: -498416485395923870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 302
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff84499b1fd5d840800000000000000
+      internalID: 5248346250398699505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 303
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764a5da9364b30a30800000000000000
+      internalID: 4180383219022406759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea252ab39c1ef1560800000000000000
+      internalID: 7286790976513921710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 295
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831425209412958f0800000000000000
+      internalID: -551372881920900808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 290
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed87a0fc19140f50800000000000000
+      internalID: 6846624945597287918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 249
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40eeaa6f0634ffb0800000000000000
+      internalID: -4615004278305660850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 274
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c6645ee5e0f5d20800000000000000
+      internalID: 3269347655230581899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 248
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beccffd7b5c8c8d0800000000000000
+      internalID: -2825791372647412048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 261
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0194ab002cc3caac0800000000000000
+      internalID: -3842629578120345328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 291
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6496a70f5ec9be300800000000000000
+      internalID: 282491913036785990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 286
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0264db8531b1f9fd0800000000000000
+      internalID: -2333116312047499744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 264
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac988c6541a4d270800000000000000
+      internalID: 8274415734932151465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 242
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031a7a23309054680800000000000000
+      internalID: -8771594789894774480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wuli_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4072f11254c05c0800000000000000
+      internalID: -4247944339958332164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wuli_0: -6437912440126635399
+      wuli_1: -314050017550709998
+      wuli_10: -877590666001752797
+      wuli_11: 4126324233029588162
+      wuli_12: 4226559915878756532
+      wuli_13: -1827546474580227555
+      wuli_14: -7106468712983674099
+      wuli_15: 1184817004771661571
+      wuli_16: 2519803053241766827
+      wuli_17: 1912646766970690104
+      wuli_18: -6623336141129453309
+      wuli_19: 8323662819348818847
+      wuli_2: -4700690734549365632
+      wuli_20: -5124995971530097074
+      wuli_21: 1831056824331635266
+      wuli_22: 99676370663450627
+      wuli_23: -5556376130314270395
+      wuli_24: 6974854439311426512
+      wuli_25: 3238611212254456718
+      wuli_26: 3103994186652031221
+      wuli_27: 5920821180569832978
+      wuli_28: 543628215779926051
+      wuli_29: 2123280493975916350
+      wuli_3: 278784140294723779
+      wuli_30: 6418260154913076936
+      wuli_31: 7639168964014607451
+      wuli_32: -6831816200156961255
+      wuli_33: -498416485395923870
+      wuli_34: 5248346250398699505
+      wuli_35: 4180383219022406759
+      wuli_36: 7286790976513921710
+      wuli_37: -551372881920900808
+      wuli_38: 6846624945597287918
+      wuli_39: -4615004278305660850
+      wuli_4: 9091257236270299302
+      wuli_40: 3269347655230581899
+      wuli_41: -2825791372647412048
+      wuli_42: -3842629578120345328
+      wuli_43: 282491913036785990
+      wuli_44: -2333116312047499744
+      wuli_45: 8274415734932151465
+      wuli_46: -8771594789894774480
+      wuli_47: -4247944339958332164
+      wuli_5: -6804534269957603489
+      wuli_6: -7513570178343852713
+      wuli_7: -231827209508882411
+      wuli_8: -2077329774043005195
+      wuli_9: 1977363192768671385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

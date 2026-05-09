@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: c0a92f7d8377e92439975f31ad48c091
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2932172912419886917
+    second: pabi_0
+  - first:
+      213: -1243195227548308513
+    second: pabi_1
+  - first:
+      213: 3596504005436805472
+    second: pabi_2
+  - first:
+      213: 3342102666403496566
+    second: pabi_3
+  - first:
+      213: 2382563601259009673
+    second: pabi_4
+  - first:
+      213: -742922105654082560
+    second: pabi_5
+  - first:
+      213: -7518496547438684341
+    second: pabi_6
+  - first:
+      213: -5015478180973481204
+    second: pabi_7
+  - first:
+      213: -8009195527563408275
+    second: pabi_8
+  - first:
+      213: -6369955649009129367
+    second: pabi_9
+  - first:
+      213: -4610568608182485525
+    second: pabi_10
+  - first:
+      213: 5098990527637783285
+    second: pabi_11
+  - first:
+      213: -1536497132027043949
+    second: pabi_12
+  - first:
+      213: 8740044979688813877
+    second: pabi_13
+  - first:
+      213: 8846687115400017491
+    second: pabi_14
+  - first:
+      213: -3657251891072066390
+    second: pabi_15
+  - first:
+      213: -5523416369494109240
+    second: pabi_16
+  - first:
+      213: -863410099486618903
+    second: pabi_17
+  - first:
+      213: 9077240388403845067
+    second: pabi_18
+  - first:
+      213: -6773553560425348824
+    second: pabi_19
+  - first:
+      213: -5154756571977287916
+    second: pabi_20
+  - first:
+      213: -150298016410753508
+    second: pabi_21
+  - first:
+      213: -5525596990905609468
+    second: pabi_22
+  - first:
+      213: 9021470515486314029
+    second: pabi_23
+  - first:
+      213: 3499169398046619666
+    second: pabi_24
+  - first:
+      213: -3100047977295756194
+    second: pabi_25
+  - first:
+      213: -1471001195346870191
+    second: pabi_26
+  - first:
+      213: 2227893760079406170
+    second: pabi_27
+  - first:
+      213: 6899586962236279698
+    second: pabi_28
+  - first:
+      213: -4010882657200951913
+    second: pabi_29
+  - first:
+      213: 3096188934288051538
+    second: pabi_30
+  - first:
+      213: 7304549588868059030
+    second: pabi_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pabi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 215
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a03f7544de47d0800000000000000
+      internalID: -2932172912419886917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 424
+        width: 285
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdba58bf6884fbee0800000000000000
+      internalID: -1243195227548308513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 335
+        width: 285
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061945d765959e130800000000000000
+      internalID: 3596504005436805472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 132
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672cdd9faa8816e20800000000000000
+      internalID: 3342102666403496566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 205
+        width: 72
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98691d3d8f0901120800000000000000
+      internalID: 2382563601259009673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 129
+        width: 103
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00404b4f74c90b5f0800000000000000
+      internalID: -742922105654082560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 256
+        width: 276
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b479aec893fe8a790800000000000000
+      internalID: -7518496547438684341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 166
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c037a54ea21756ab0800000000000000
+      internalID: -5015478180973481204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 178
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c8fea2a1f99d090800000000000000
+      internalID: -8009195527563408275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 129
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96861d1361f5997a0800000000000000
+      internalID: -6369955649009129367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed37b85748f300c0800000000000000
+      internalID: -4610568608182485525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 106
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f28ee88ed043c640800000000000000
+      internalID: 5098990527637783285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 86
+        width: 49
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f1f17cff34daae0800000000000000
+      internalID: -1536497132027043949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 157
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535b94f2a90ea4970800000000000000
+      internalID: 8740044979688813877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 139
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35671784f0fb5ca70800000000000000
+      internalID: 8846687115400017491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 90
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac168238c4de3dc0800000000000000
+      internalID: -3657251891072066390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 47
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3d9b58312e853b0800000000000000
+      internalID: -5523416369494109240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 99
+        width: 113
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea8d9cc61d8404f0800000000000000
+      internalID: -863410099486618903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 80
+        width: 114
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7d3ab3a06d8fd70800000000000000
+      internalID: 9077240388403845067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 82
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821c3c3bce08ff1a0800000000000000
+      internalID: -6773553560425348824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 68
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417fea77530a678b0800000000000000
+      internalID: -5154756571977287916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16246910c80aedf0800000000000000
+      internalID: -150298016410753508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 52
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4039a1900d22153b0800000000000000
+      internalID: -5525596990905609468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 34
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ec833d2a3b23d70800000000000000
+      internalID: 9021470515486314029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_24
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 65
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2187c73370c8f8030800000000000000
+      internalID: 3499169398046619666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_25
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e544e961aca6af4d0800000000000000
+      internalID: -3100047977295756194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 65
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150cc2fd434f59be0800000000000000
+      internalID: -1471001195346870191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 63
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54a7d622911bee10800000000000000
+      internalID: 2227893760079406170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 62
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b820d59c140cf50800000000000000
+      internalID: 6899586962236279698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 61
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d23cd497b7658c0800000000000000
+      internalID: -4010882657200951913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 37
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d0cb17e6fd7fa20800000000000000
+      internalID: 3096188934288051538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pabi_31
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 54
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fc4b06629fe5560800000000000000
+      internalID: 7304549588868059030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pabi_0: -2932172912419886917
+      pabi_1: -1243195227548308513
+      pabi_10: -4610568608182485525
+      pabi_11: 5098990527637783285
+      pabi_12: -1536497132027043949
+      pabi_13: 8740044979688813877
+      pabi_14: 8846687115400017491
+      pabi_15: -3657251891072066390
+      pabi_16: -5523416369494109240
+      pabi_17: -863410099486618903
+      pabi_18: 9077240388403845067
+      pabi_19: -6773553560425348824
+      pabi_2: 3596504005436805472
+      pabi_20: -5154756571977287916
+      pabi_21: -150298016410753508
+      pabi_22: -5525596990905609468
+      pabi_23: 9021470515486314029
+      pabi_24: 3499169398046619666
+      pabi_25: -3100047977295756194
+      pabi_26: -1471001195346870191
+      pabi_27: 2227893760079406170
+      pabi_28: 6899586962236279698
+      pabi_29: -4010882657200951913
+      pabi_3: 3342102666403496566
+      pabi_30: 3096188934288051538
+      pabi_31: 7304549588868059030
+      pabi_4: 2382563601259009673
+      pabi_5: -742922105654082560
+      pabi_6: -7518496547438684341
+      pabi_7: -5015478180973481204
+      pabi_8: -8009195527563408275
+      pabi_9: -6369955649009129367
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

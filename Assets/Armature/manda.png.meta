@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 8bea5415dd282e04a8560797df44452c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9092562790926365900
+    second: manda_0
+  - first:
+      213: -5246385758456186792
+    second: manda_1
+  - first:
+      213: -5043521481778140357
+    second: manda_2
+  - first:
+      213: 1785078829024739224
+    second: manda_3
+  - first:
+      213: -1510335885955606046
+    second: manda_4
+  - first:
+      213: 5021832102431214
+    second: manda_5
+  - first:
+      213: 8922069676843819898
+    second: manda_6
+  - first:
+      213: -7612134132258552151
+    second: manda_7
+  - first:
+      213: 7899122943469916654
+    second: manda_8
+  - first:
+      213: -8831950769675561915
+    second: manda_9
+  - first:
+      213: 2201700774903382770
+    second: manda_10
+  - first:
+      213: -5002233266723043576
+    second: manda_11
+  - first:
+      213: -7101682462905256100
+    second: manda_12
+  - first:
+      213: -8734889516059185122
+    second: manda_13
+  - first:
+      213: -6749209244104986512
+    second: manda_14
+  - first:
+      213: -3346880381621571557
+    second: manda_15
+  - first:
+      213: -3529316246006112107
+    second: manda_16
+  - first:
+      213: 4151354029249603613
+    second: manda_17
+  - first:
+      213: 2179324972587736945
+    second: manda_18
+  - first:
+      213: 1135040196601857861
+    second: manda_19
+  - first:
+      213: 9074235874221076157
+    second: manda_20
+  - first:
+      213: -7345584977332588446
+    second: manda_21
+  - first:
+      213: 6907345891746822018
+    second: manda_22
+  - first:
+      213: 3545828817596566156
+    second: manda_23
+  - first:
+      213: -6958784029611336280
+    second: manda_24
+  - first:
+      213: 6690755042415321896
+    second: manda_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: manda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b46ece05ab0d180800000000000000
+      internalID: -9092562790926365900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 397
+        width: 165
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858fc8003f71137b0800000000000000
+      internalID: -5246385758456186792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 378
+        width: 95
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bef8d1fefc10ab0800000000000000
+      internalID: -5043521481778140357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 409
+        width: 89
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ff61cbcbfd5c810800000000000000
+      internalID: 1785078829024739224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 323
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9571a83853a0be0800000000000000
+      internalID: -1510335885955606046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee946966457d11000800000000000000
+      internalID: 5021832102431214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 305
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a736f85991f81db70800000000000000
+      internalID: 8922069676843819898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 319
+        width: 113
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a64a1866544c5690800000000000000
+      internalID: -7612134132258552151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 328
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee199aa37725f9d60800000000000000
+      internalID: 7899122943469916654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 292
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54410c3919b9e6580800000000000000
+      internalID: -8831950769675561915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 359
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f281dd80330e8e10800000000000000
+      internalID: 2201700774903382770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 332
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c45dc85f749ab0800000000000000
+      internalID: -5002233266723043576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5739e22d61c17d90800000000000000
+      internalID: -7101682462905256100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 253
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10320bb34077c680800000000000000
+      internalID: -8734889516059185122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 277
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070f65a83fdf552a0800000000000000
+      internalID: -6749209244104986512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 258
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10f8b3860e7d81d0800000000000000
+      internalID: -3346880381621571557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 288
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5906ac8c299550fc0800000000000000
+      internalID: -3529316246006112107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 258
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d182f4aae729c9930800000000000000
+      internalID: 4151354029249603613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 276
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fda3914848e3e10800000000000000
+      internalID: 2179324972587736945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 258
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5474e3c8b0970cf00800000000000000
+      internalID: 1135040196601857861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 252
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbead0343792eed70800000000000000
+      internalID: 9074235874221076157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 251
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26035a6b16d3f0a90800000000000000
+      internalID: -7345584977332588446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_22
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 255
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287b25aed72dbdf50800000000000000
+      internalID: 6907345891746822018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 261
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8acf23e580553130800000000000000
+      internalID: 3545828817596566156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 250
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adda565bce6d6f90800000000000000
+      internalID: -6958784029611336280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manda_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 243
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823a15e03465adc50800000000000000
+      internalID: 6690755042415321896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      manda_0: -9092562790926365900
+      manda_1: -5246385758456186792
+      manda_10: 2201700774903382770
+      manda_11: -5002233266723043576
+      manda_12: -7101682462905256100
+      manda_13: -8734889516059185122
+      manda_14: -6749209244104986512
+      manda_15: -3346880381621571557
+      manda_16: -3529316246006112107
+      manda_17: 4151354029249603613
+      manda_18: 2179324972587736945
+      manda_19: 1135040196601857861
+      manda_2: -5043521481778140357
+      manda_20: 9074235874221076157
+      manda_21: -7345584977332588446
+      manda_22: 6907345891746822018
+      manda_23: 3545828817596566156
+      manda_24: -6958784029611336280
+      manda_25: 6690755042415321896
+      manda_3: 1785078829024739224
+      manda_4: -1510335885955606046
+      manda_5: 5021832102431214
+      manda_6: 8922069676843819898
+      manda_7: -7612134132258552151
+      manda_8: 7899122943469916654
+      manda_9: -8831950769675561915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

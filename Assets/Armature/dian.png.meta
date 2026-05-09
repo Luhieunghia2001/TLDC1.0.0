@@ -1,0 +1,1219 @@
+fileFormatVersion: 2
+guid: 8bac8c05e5789314aae71028a5452aaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4673352245197361813
+    second: dian_0
+  - first:
+      213: -1297417754915591583
+    second: dian_1
+  - first:
+      213: 2613840529850790418
+    second: dian_2
+  - first:
+      213: -5341161388390278628
+    second: dian_3
+  - first:
+      213: 3468119970645632115
+    second: dian_4
+  - first:
+      213: -8136730517654633019
+    second: dian_5
+  - first:
+      213: -4767653957681788431
+    second: dian_6
+  - first:
+      213: 8511773681266209647
+    second: dian_7
+  - first:
+      213: 3190786393882725797
+    second: dian_8
+  - first:
+      213: 4062527255458898430
+    second: dian_9
+  - first:
+      213: -1625870775627168540
+    second: dian_10
+  - first:
+      213: -5288183550542166371
+    second: dian_11
+  - first:
+      213: 8844697589248523583
+    second: dian_12
+  - first:
+      213: -4863727734916444975
+    second: dian_13
+  - first:
+      213: 4676248157419135019
+    second: dian_14
+  - first:
+      213: -4673936629295460249
+    second: dian_15
+  - first:
+      213: 1597037831353731567
+    second: dian_16
+  - first:
+      213: -8869708198709358916
+    second: dian_17
+  - first:
+      213: -4328772747262337950
+    second: dian_18
+  - first:
+      213: 8539154184488419342
+    second: dian_19
+  - first:
+      213: -2952646032696442255
+    second: dian_20
+  - first:
+      213: -3951586887123778040
+    second: dian_21
+  - first:
+      213: -5668803708512025302
+    second: dian_22
+  - first:
+      213: 7361367266709621500
+    second: dian_23
+  - first:
+      213: -4197155356621944987
+    second: dian_24
+  - first:
+      213: -525230783147055939
+    second: dian_25
+  - first:
+      213: -2487590485183979021
+    second: dian_26
+  - first:
+      213: -7182302007691463271
+    second: dian_27
+  - first:
+      213: 1111271731823919933
+    second: dian_28
+  - first:
+      213: 8369391219335304718
+    second: dian_29
+  - first:
+      213: -2157957659842713862
+    second: dian_30
+  - first:
+      213: 3992171422558774562
+    second: dian_31
+  - first:
+      213: 4091946617430168451
+    second: dian_32
+  - first:
+      213: 509627652499956251
+    second: dian_33
+  - first:
+      213: -6992852477139241291
+    second: dian_34
+  - first:
+      213: 4860351164436796102
+    second: dian_35
+  - first:
+      213: -2567729157212135280
+    second: dian_36
+  - first:
+      213: -8527649021028006381
+    second: dian_37
+  - first:
+      213: -7465804011898850306
+    second: dian_38
+  - first:
+      213: -5408035024867190331
+    second: dian_39
+  - first:
+      213: 7807621631228361599
+    second: dian_40
+  - first:
+      213: 3029364457708798636
+    second: dian_41
+  - first:
+      213: -3091251685820646419
+    second: dian_42
+  - first:
+      213: -7693438810039480375
+    second: dian_43
+  - first:
+      213: 2830363103218918990
+    second: dian_44
+  - first:
+      213: 4347697198740886993
+    second: dian_45
+  - first:
+      213: -7581390745018634788
+    second: dian_46
+  - first:
+      213: 5599669271994827197
+    second: dian_47
+  - first:
+      213: 5418945893999874452
+    second: dianziyuan-quantou
+  - first:
+      213: 5786272883123486108
+    second: 'dianziyuan-shoubi '
+  - first:
+      213: 310947605053693401
+    second: dianziyuan-quantou1
+  - first:
+      213: -3975981539652923016
+    second: dianziyuan-shoubi1
+  - first:
+      213: 5879789582635040816
+    second: dianziyuan-toufa
+  - first:
+      213: 2627904666910092447
+    second: dianziyuan-gebo1
+  - first:
+      213: 8018104919992400955
+    second: dianziyuan-toufa5
+  - first:
+      213: 1465888654914939499
+    second: dianziyuan-toufa4
+  - first:
+      213: -46879596336375854
+    second: dianziyuan-toufa3
+  - first:
+      213: 606853122573959486
+    second: dianziyuan-toufa2
+  - first:
+      213: -7715765780142014092
+    second: dianziyuan-shouji
+  - first:
+      213: -1646109205689013094
+    second: dianziyuan-gongji
+  - first:
+      213: 4358395966839907206
+    second: dianziyuan-putong
+  - first:
+      213: -270471126052836422
+    second: dianziyuan-gebo
+  - first:
+      213: 1017904269642930517
+    second: dianziyuan-tou
+  - first:
+      213: 5252624501660039047
+    second: dianziyuan-toufa1
+  - first:
+      213: -7596606960924753024
+    second: dianziyuan-gebo3
+  - first:
+      213: -4186813929492675259
+    second: dianziyuan-yaodai
+  - first:
+      213: -2528752390794295217
+    second: dianziyuan-yaodai1
+  - first:
+      213: -3146272630673452431
+    second: dianziyuan-bozi
+  - first:
+      213: 4190725431355846201
+    second: dianziyuan-shenti
+  - first:
+      213: -4348982637904481525
+    second: dianziyuan-piaodai
+  - first:
+      213: 5074681181203049169
+    second: dianziyuan-piaodai2
+  - first:
+      213: -3961662668352556762
+    second: dianziyuan-xigai
+  - first:
+      213: -580114919942349492
+    second: dianziyuan-xigai1
+  - first:
+      213: 1494075687822222076
+    second: dianziyuan-kuzi
+  - first:
+      213: 2696121083883794844
+    second: dianziyuan-kuzi1
+  - first:
+      213: -6126843666194207052
+    second: dianziyuan-jiao
+  - first:
+      213: -4822145923879839960
+    second: dianziyuan-tui
+  - first:
+      213: 4236481713838420098
+    second: dianziyuan-tui1
+  - first:
+      213: -1723915382168476113
+    second: dianziyuan-jiao1
+  - first:
+      213: -775240573643512590
+    second: dianziyuan-piadao
+  - first:
+      213: 599019441144774765
+    second: dianziyuan-piaodai1
+  - first:
+      213: 3740805634124670823
+    second: dianziyuan-pigu
+  - first:
+      213: -8107726848980854533
+    second: dianziyuan-gebo2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dianziyuan-quantou
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 325
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4919cec6496f33b40800000000000000
+      internalID: 5418945893999874452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'dianziyuan-shoubi '
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 273
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dfc0cb788fc4050800000000000000
+      internalID: 5786272883123486108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-quantou1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 479
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dddbf60335b05400800000000000000
+      internalID: 310947605053693401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-shoubi1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 272
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8711a77fad972d8c0800000000000000
+      internalID: -3975981539652923016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-toufa
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 268
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03001031975399150800000000000000
+      internalID: 5879789582635040816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-gebo1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 256
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c64ce0f51387420800000000000000
+      internalID: 2627904666910092447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-toufa5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c75f761f7064f60800000000000000
+      internalID: 8018104919992400955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-toufa4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 409
+        width: 43
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aea7c07f1e75410800000000000000
+      internalID: 1465888654914939499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-toufa3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 191
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d718296143795ff0800000000000000
+      internalID: -46879596336375854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-toufa2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 235
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e318bd123b9fb6800800000000000000
+      internalID: 606853122573959486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-shouji
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 276
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471458027e71ce490800000000000000
+      internalID: -7715765780142014092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-gongji
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 211
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ce76d1668d729e0800000000000000
+      internalID: -1646109205689013094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-putong
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 208
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ecf14a022c7c30800000000000000
+      internalID: 4358395966839907206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-gebo
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 214
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbee91a1f71f3cf0800000000000000
+      internalID: -270471126052836422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-tou
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 382
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5599b674a82502e00800000000000000
+      internalID: 1017904269642930517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-toufa1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 316
+        width: 40
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787b5f7972215e840800000000000000
+      internalID: 5252624501660039047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-gebo3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 251
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08302d3b73e639690800000000000000
+      internalID: -7596606960924753024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-yaodai
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 292
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5458eefe9e275e5c0800000000000000
+      internalID: -4186813929492675259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-yaodai1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 253
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4849c5391118ecd0800000000000000
+      internalID: -2528752390794295217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-bozi
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 252
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172dc2a46b13654d0800000000000000
+      internalID: -3146272630673452431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-shenti
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 315
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e292f8392782a30800000000000000
+      internalID: 4190725431355846201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-piaodai
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 292
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03bc5d255f45a3c0800000000000000
+      internalID: -4348982637904481525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-piaodai2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 271
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daa7f1c5a3ec6640800000000000000
+      internalID: 5074681181203049169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-xigai
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6217becfac85509c0800000000000000
+      internalID: -3961662668352556762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-xigai1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 220
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d9eebcd8403f7f0800000000000000
+      internalID: -580114919942349492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-kuzi
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 203
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2e0301ce50cb410800000000000000
+      internalID: 1494075687822222076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-kuzi1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 333
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91b55457db8a6520800000000000000
+      internalID: 2696121083883794844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-jiao
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 439
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be6422a52419faa0800000000000000
+      internalID: -6126843666194207052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-tui
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 362
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8275b00c4db441db0800000000000000
+      internalID: -4822145923879839960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-tui1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 302
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280f6c24ca10bca30800000000000000
+      internalID: 4236481713838420098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-jiao1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 404
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f262407f71c6318e0800000000000000
+      internalID: -1723915382168476113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-piadao
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 352
+        width: 124
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f422804ecacd35f0800000000000000
+      internalID: -775240573643512590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-piaodai1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 256
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60ccfa0205205800800000000000000
+      internalID: 599019441144774765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-pigu
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 259
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767e7c397e20ae330800000000000000
+      internalID: 3740805634124670823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dianziyuan-gebo2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 280
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8599e23619b7f80800000000000000
+      internalID: -8107726848980854533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dian_0: 4673352245197361813
+      dian_1: -1297417754915591583
+      dian_10: -1625870775627168540
+      dian_11: -5288183550542166371
+      dian_12: 8844697589248523583
+      dian_13: -4863727734916444975
+      dian_14: 4676248157419135019
+      dian_15: -4673936629295460249
+      dian_16: 1597037831353731567
+      dian_17: -8869708198709358916
+      dian_18: -4328772747262337950
+      dian_19: 8539154184488419342
+      dian_2: 2613840529850790418
+      dian_20: -2952646032696442255
+      dian_21: -3951586887123778040
+      dian_22: -5668803708512025302
+      dian_23: 7361367266709621500
+      dian_24: -4197155356621944987
+      dian_25: -525230783147055939
+      dian_26: -2487590485183979021
+      dian_27: -7182302007691463271
+      dian_28: 1111271731823919933
+      dian_29: 8369391219335304718
+      dian_3: -5341161388390278628
+      dian_30: -2157957659842713862
+      dian_31: 3992171422558774562
+      dian_32: 4091946617430168451
+      dian_33: 509627652499956251
+      dian_34: -6992852477139241291
+      dian_35: 4860351164436796102
+      dian_36: -2567729157212135280
+      dian_37: -8527649021028006381
+      dian_38: -7465804011898850306
+      dian_39: -5408035024867190331
+      dian_4: 3468119970645632115
+      dian_40: 7807621631228361599
+      dian_41: 3029364457708798636
+      dian_42: -3091251685820646419
+      dian_43: -7693438810039480375
+      dian_44: 2830363103218918990
+      dian_45: 4347697198740886993
+      dian_46: -7581390745018634788
+      dian_47: 5599669271994827197
+      dian_5: -8136730517654633019
+      dian_6: -4767653957681788431
+      dian_7: 8511773681266209647
+      dian_8: 3190786393882725797
+      dian_9: 4062527255458898430
+      dianziyuan-bozi: -3146272630673452431
+      dianziyuan-gebo: -270471126052836422
+      dianziyuan-gebo1: 2627904666910092447
+      dianziyuan-gebo2: -8107726848980854533
+      dianziyuan-gebo3: -7596606960924753024
+      dianziyuan-gongji: -1646109205689013094
+      dianziyuan-jiao: -6126843666194207052
+      dianziyuan-jiao1: -1723915382168476113
+      dianziyuan-kuzi: 1494075687822222076
+      dianziyuan-kuzi1: 2696121083883794844
+      dianziyuan-piadao: -775240573643512590
+      dianziyuan-piaodai: -4348982637904481525
+      dianziyuan-piaodai1: 599019441144774765
+      dianziyuan-piaodai2: 5074681181203049169
+      dianziyuan-pigu: 3740805634124670823
+      dianziyuan-putong: 4358395966839907206
+      dianziyuan-quantou: 5418945893999874452
+      dianziyuan-quantou1: 310947605053693401
+      dianziyuan-shenti: 4190725431355846201
+      'dianziyuan-shoubi ': 5786272883123486108
+      dianziyuan-shoubi1: -3975981539652923016
+      dianziyuan-shouji: -7715765780142014092
+      dianziyuan-tou: 1017904269642930517
+      dianziyuan-toufa: 5879789582635040816
+      dianziyuan-toufa1: 5252624501660039047
+      dianziyuan-toufa2: 606853122573959486
+      dianziyuan-toufa3: -46879596336375854
+      dianziyuan-toufa4: 1465888654914939499
+      dianziyuan-toufa5: 8018104919992400955
+      dianziyuan-tui: -4822145923879839960
+      dianziyuan-tui1: 4236481713838420098
+      dianziyuan-xigai: -3961662668352556762
+      dianziyuan-xigai1: -580114919942349492
+      dianziyuan-yaodai: -4186813929492675259
+      dianziyuan-yaodai1: -2528752390794295217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

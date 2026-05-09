@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 6fd9d622358050c40967a283865d2418
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7177764819609265348
+    second: taode_0
+  - first:
+      213: 9093812544127011590
+    second: taode_1
+  - first:
+      213: 4332336247175480828
+    second: taode_2
+  - first:
+      213: -7405706652935770192
+    second: taode_3
+  - first:
+      213: -4974968439849760211
+    second: taode_4
+  - first:
+      213: 5442133895767039604
+    second: taode_5
+  - first:
+      213: -1937257050963831201
+    second: taode_6
+  - first:
+      213: -5867822709723965049
+    second: taode_7
+  - first:
+      213: 1365900709833376709
+    second: taode_8
+  - first:
+      213: -440265978309043926
+    second: taode_9
+  - first:
+      213: 8366933957910228920
+    second: taode_10
+  - first:
+      213: -4723847064830535293
+    second: taode_11
+  - first:
+      213: 4126282821215031133
+    second: taode_12
+  - first:
+      213: -7594722328641921226
+    second: taode_13
+  - first:
+      213: 7705949081571281315
+    second: taode_14
+  - first:
+      213: 7362950355701268806
+    second: taode_15
+  - first:
+      213: 3636923139436979386
+    second: taode_16
+  - first:
+      213: 1660956838682339378
+    second: taode_17
+  - first:
+      213: -1566134544904068202
+    second: taode_18
+  - first:
+      213: -5367370785991350688
+    second: taode_19
+  - first:
+      213: 5628806267172237690
+    second: taode_20
+  - first:
+      213: -1027932138234379092
+    second: taode_21
+  - first:
+      213: -415064547880930728
+    second: taode_22
+  - first:
+      213: -3773444865841859535
+    second: taode_23
+  - first:
+      213: 8270474312804555678
+    second: taode_24
+  - first:
+      213: -2752130519598392522
+    second: taode_25
+  - first:
+      213: -5970919955023625468
+    second: taode_26
+  - first:
+      213: 6248974048259511625
+    second: taode_27
+  - first:
+      213: 2114302911604088472
+    second: taode_28
+  - first:
+      213: -3493177710205265990
+    second: taode_29
+  - first:
+      213: 925379081306134728
+    second: taode_30
+  - first:
+      213: -9005114384831958750
+    second: taode_31
+  - first:
+      213: -2948737181383695457
+    second: taode_32
+  - first:
+      213: -1905807834282610098
+    second: taode_33
+  - first:
+      213: 1376505438801456485
+    second: taode_34
+  - first:
+      213: -231372920149776096
+    second: taode_35
+  - first:
+      213: -2100817507417610121
+    second: taode_36
+  - first:
+      213: 1708200869401580056
+    second: taode_37
+  - first:
+      213: -5571308973341901889
+    second: taode_38
+  - first:
+      213: -8474518656784582773
+    second: taode_39
+  - first:
+      213: 3853005975218317476
+    second: taode_40
+  - first:
+      213: -3885869986934679909
+    second: taode_41
+  - first:
+      213: 2619539481208505032
+    second: taode_42
+  - first:
+      213: -6933512421282017318
+    second: taode_43
+  - first:
+      213: -1069569700204533253
+    second: taode_44
+  - first:
+      213: 7813104160236555145
+    second: taode_45
+  - first:
+      213: 6953883631259666886
+    second: taode_46
+  - first:
+      213: -7027387225874955975
+    second: taode_47
+  - first:
+      213: 7324994312256399948
+    second: taode_48
+  - first:
+      213: -9045526419639557698
+    second: taode_49
+  - first:
+      213: 1584630941046968464
+    second: taode_50
+  - first:
+      213: -2358668746769641939
+    second: taode_51
+  - first:
+      213: 9223159512435284509
+    second: taode_52
+  - first:
+      213: 7070418987751951267
+    second: taode_53
+  - first:
+      213: 4041211224068148399
+    second: taode_54
+  - first:
+      213: 3855171897533429332
+    second: taode_55
+  - first:
+      213: -1241128283761624054
+    second: taode_56
+  - first:
+      213: -5387346374566241454
+    second: taode_57
+  - first:
+      213: 4223137791458892557
+    second: taode_58
+  - first:
+      213: -600302911677832663
+    second: taode_59
+  - first:
+      213: -3020390204057736632
+    second: taode_60
+  - first:
+      213: -9005660398904632169
+    second: taode_61
+  - first:
+      213: 1807880361039632939
+    second: taode_62
+  - first:
+      213: -2313328024704005729
+    second: taode_63
+  - first:
+      213: -3483037280190854720
+    second: taode_64
+  - first:
+      213: 6572941121005852291
+    second: taode_65
+  - first:
+      213: -809740978510622946
+    second: taode_66
+  - first:
+      213: -3831957889753440501
+    second: taode_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: taode_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 141
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bd4ed0de4736c90800000000000000
+      internalID: -7177764819609265348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 374
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b8eaae356b33e70800000000000000
+      internalID: 9093812544127011590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 386
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf58174fcdc8f1c30800000000000000
+      internalID: 4332336247175480828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 402
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf24094905a93990800000000000000
+      internalID: -7405706652935770192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 476
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ac9fdff8c55fab0800000000000000
+      internalID: -4974968439849760211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_5
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 445
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e9e4dc1f7568b40800000000000000
+      internalID: 5442133895767039604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 441
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f561ea6e9fa7d15e0800000000000000
+      internalID: -1937257050963831201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 433
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789dee5a55e419ea0800000000000000
+      internalID: -5867822709723965049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 418
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c382107577a4f210800000000000000
+      internalID: 1365900709833376709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 429
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a291334ec6cd3e9f0800000000000000
+      internalID: -440265978309043926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 366
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf6464da125d1470800000000000000
+      internalID: 8366933957910228920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 396
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389118f5f16817eb0800000000000000
+      internalID: -4723847064830535293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 284
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f81592d50834930800000000000000
+      internalID: 4126282821215031133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 306
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f1299d7402a9690800000000000000
+      internalID: -7594722328641921226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 361
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9cd40acd701fa60800000000000000
+      internalID: 7705949081571281315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 339
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641096286547e2660800000000000000
+      internalID: 7362950355701268806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 306
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab42a897352f87230800000000000000
+      internalID: 3636923139436979386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_17
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 342
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238aae4d177ec0710800000000000000
+      internalID: 1660956838682339378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693668cdde8f34ae0800000000000000
+      internalID: -1566134544904068202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 269
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0662d2b25b44385b0800000000000000
+      internalID: -5367370785991350688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 308
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a713b403a798d1e40800000000000000
+      internalID: 5628806267172237690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_21
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 328
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4055f9a2d0cb1f0800000000000000
+      internalID: -1027932138234379092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 316
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852f2b82ef46d3af0800000000000000
+      internalID: -415064547880930728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 237
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13479f713e702abc0800000000000000
+      internalID: -3773444865841859535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 303
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b55b29190a6c270800000000000000
+      internalID: 8270474312804555678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 292
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b93d3bfd77ec9d0800000000000000
+      internalID: -2752130519598392522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_26
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 294
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403868aafe7032da0800000000000000
+      internalID: -5970919955023625468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 212
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9459425d9c0d8b650800000000000000
+      internalID: 6248974048259511625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 214
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e5cb9cb43875d10800000000000000
+      internalID: 2114302911604088472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_29
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 258
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab717e5516db58fc0800000000000000
+      internalID: -3493177710205265990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 261
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c854df1f5b97dc00800000000000000
+      internalID: 925379081306134728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_31
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 260
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221b45a9d28670380800000000000000
+      internalID: -9005114384831958750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_32
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 263
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9363a7182bf317d0800000000000000
+      internalID: -2948737181383695457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_33
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 260
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42bd634fd53d85e0800000000000000
+      internalID: -1905807834282610098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 237
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d672f47645a1310800000000000000
+      internalID: 1376505438801456485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 238
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029e3d31e8ff9ccf0800000000000000
+      internalID: -231372920149776096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 218
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778a37c8b9568d2e0800000000000000
+      internalID: -2100817507417610121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_37
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 249
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812d1b9e3afb4b710800000000000000
+      internalID: 1708200869401580056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 244
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb720eb10cbea2b0800000000000000
+      internalID: -5571308973341901889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_39
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 250
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b873feb7e26746a80800000000000000
+      internalID: -8474518656784582773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a868563580a87530800000000000000
+      internalID: 3853005975218317476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 213
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b961869c5dd921ac0800000000000000
+      internalID: -3885869986934679909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 226
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c24b8c77497a5420800000000000000
+      internalID: 2619539481208505032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 229
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf0abb203737cf90800000000000000
+      internalID: -6933512421282017318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_44
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 237
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9a9c446002821f0800000000000000
+      internalID: -1069569700204533253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 186
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bc60096d8bd6c60800000000000000
+      internalID: 7813104160236555145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_46
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 198
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9c2a2c158218060800000000000000
+      internalID: 6953883631259666886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_47
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 198
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9310b9efc84b97e90800000000000000
+      internalID: -7027387225874955975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_48
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 215
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aaccb748b97a560800000000000000
+      internalID: 7324994312256399948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_49
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 208
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb129f685a5d77280800000000000000
+      internalID: -9045526419639557698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_50
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 190
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0909235f17dbdf510800000000000000
+      internalID: 1584630941046968464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 201
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ecaf58543544fd0800000000000000
+      internalID: -2358668746769641939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_52
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 199
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a587dc5be3fff70800000000000000
+      internalID: 9223159512435284509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_53
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 202
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abc122db9c2f1260800000000000000
+      internalID: 7070418987751951267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_54
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac47e07234451830800000000000000
+      internalID: 4041211224068148399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_55
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 144
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4567c8c4a62508530800000000000000
+      internalID: 3855171897533429332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cb2b5d660a6cee0800000000000000
+      internalID: -1241128283761624054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_57
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 186
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b9df5040d4c35b0800000000000000
+      internalID: -5387346374566241454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_58
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 183
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b5f6932799b9a30800000000000000
+      internalID: 4223137791458892557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_59
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 187
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9226fcfaeab4ba7f0800000000000000
+      internalID: -600302911677832663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_60
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 145
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aa114bc1b6516d0800000000000000
+      internalID: -3020390204057736632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 149
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c9c7bc497750380800000000000000
+      internalID: -9005660398904632169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_62
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 179
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a1c2c1c91e61910800000000000000
+      internalID: 1807880361039632939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_63
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 178
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99cf860b6865efd0800000000000000
+      internalID: -2313328024704005729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_64
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 142
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c908ce2c04c9afc0800000000000000
+      internalID: -3483037280190854720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 149
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3869c17ef17c73b50800000000000000
+      internalID: 6572941121005852291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_66
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 149
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f0cc7ced833c4f0800000000000000
+      internalID: -809740978510622946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taode_67
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 139
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f9df21a9622dac0800000000000000
+      internalID: -3831957889753440501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      taode_0: -7177764819609265348
+      taode_1: 9093812544127011590
+      taode_10: 8366933957910228920
+      taode_11: -4723847064830535293
+      taode_12: 4126282821215031133
+      taode_13: -7594722328641921226
+      taode_14: 7705949081571281315
+      taode_15: 7362950355701268806
+      taode_16: 3636923139436979386
+      taode_17: 1660956838682339378
+      taode_18: -1566134544904068202
+      taode_19: -5367370785991350688
+      taode_2: 4332336247175480828
+      taode_20: 5628806267172237690
+      taode_21: -1027932138234379092
+      taode_22: -415064547880930728
+      taode_23: -3773444865841859535
+      taode_24: 8270474312804555678
+      taode_25: -2752130519598392522
+      taode_26: -5970919955023625468
+      taode_27: 6248974048259511625
+      taode_28: 2114302911604088472
+      taode_29: -3493177710205265990
+      taode_3: -7405706652935770192
+      taode_30: 925379081306134728
+      taode_31: -9005114384831958750
+      taode_32: -2948737181383695457
+      taode_33: -1905807834282610098
+      taode_34: 1376505438801456485
+      taode_35: -231372920149776096
+      taode_36: -2100817507417610121
+      taode_37: 1708200869401580056
+      taode_38: -5571308973341901889
+      taode_39: -8474518656784582773
+      taode_4: -4974968439849760211
+      taode_40: 3853005975218317476
+      taode_41: -3885869986934679909
+      taode_42: 2619539481208505032
+      taode_43: -6933512421282017318
+      taode_44: -1069569700204533253
+      taode_45: 7813104160236555145
+      taode_46: 6953883631259666886
+      taode_47: -7027387225874955975
+      taode_48: 7324994312256399948
+      taode_49: -9045526419639557698
+      taode_5: 5442133895767039604
+      taode_50: 1584630941046968464
+      taode_51: -2358668746769641939
+      taode_52: 9223159512435284509
+      taode_53: 7070418987751951267
+      taode_54: 4041211224068148399
+      taode_55: 3855171897533429332
+      taode_56: -1241128283761624054
+      taode_57: -5387346374566241454
+      taode_58: 4223137791458892557
+      taode_59: -600302911677832663
+      taode_6: -1937257050963831201
+      taode_60: -3020390204057736632
+      taode_61: -9005660398904632169
+      taode_62: 1807880361039632939
+      taode_63: -2313328024704005729
+      taode_64: -3483037280190854720
+      taode_65: 6572941121005852291
+      taode_66: -809740978510622946
+      taode_67: -3831957889753440501
+      taode_7: -5867822709723965049
+      taode_8: 1365900709833376709
+      taode_9: -440265978309043926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

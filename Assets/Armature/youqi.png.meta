@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 4897f39b5abc0744399827f906ef5060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3134249629815957347
+    second: youqi_0
+  - first:
+      213: -7840071626802385114
+    second: youqi_1
+  - first:
+      213: -5118680413997861063
+    second: youqi_2
+  - first:
+      213: -7183316016540399535
+    second: youqi_3
+  - first:
+      213: -2736583378726123898
+    second: youqi_4
+  - first:
+      213: 1911647370588171799
+    second: youqi_5
+  - first:
+      213: -6682464118873883838
+    second: youqi_6
+  - first:
+      213: 6265476867319186060
+    second: youqi_7
+  - first:
+      213: -4760587285814782438
+    second: youqi_8
+  - first:
+      213: 9140834245868047591
+    second: youqi_9
+  - first:
+      213: 4773971028552176232
+    second: youqi_10
+  - first:
+      213: 2675908081807749906
+    second: youqi_11
+  - first:
+      213: -5837686543418079954
+    second: youqi_12
+  - first:
+      213: 4571050020580693467
+    second: youqi_13
+  - first:
+      213: 6479460227490166795
+    second: youqi_14
+  - first:
+      213: 7527001953363302006
+    second: youqi_15
+  - first:
+      213: -6393749238154427768
+    second: youqi_16
+  - first:
+      213: 3630529601580565646
+    second: youqi_17
+  - first:
+      213: 8309647937370708062
+    second: youqi_18
+  - first:
+      213: -4859594211966707697
+    second: youqi_19
+  - first:
+      213: -1418672705820527032
+    second: youqi_20
+  - first:
+      213: -3032363153345773959
+    second: youqi_21
+  - first:
+      213: 5223259463251718566
+    second: youqi_22
+  - first:
+      213: 5393331460387696057
+    second: youqi_23
+  - first:
+      213: 2198476240702332843
+    second: youqi_24
+  - first:
+      213: 8129166391893354211
+    second: youqi_25
+  - first:
+      213: -8152926265822085824
+    second: youqi_26
+  - first:
+      213: -629066089783526158
+    second: youqi_27
+  - first:
+      213: -1286144382642478620
+    second: youqi_28
+  - first:
+      213: -8680959755609805172
+    second: youqi_29
+  - first:
+      213: -6106331158007468696
+    second: youqi_30
+  - first:
+      213: -3433011723395692544
+    second: youqi_31
+  - first:
+      213: 4885911392397333281
+    second: youqi_32
+  - first:
+      213: -1188499716914938140
+    second: youqi_33
+  - first:
+      213: -590981668961094921
+    second: youqi_34
+  - first:
+      213: 5331262168315718688
+    second: youqi_35
+  - first:
+      213: 6295891152921029428
+    second: youqi_36
+  - first:
+      213: -6991065488816254099
+    second: youqi_37
+  - first:
+      213: 1841146491425286594
+    second: youqi_38
+  - first:
+      213: 7152991498947487774
+    second: youqi_39
+  - first:
+      213: 1993398423477094453
+    second: youqi_40
+  - first:
+      213: 3847802125682143451
+    second: youqi_41
+  - first:
+      213: 2282928606347811818
+    second: youqi_42
+  - first:
+      213: -26086766184869396
+    second: youqi_43
+  - first:
+      213: -1568565634183231307
+    second: youqi_44
+  - first:
+      213: -6734860139975189342
+    second: youqi_45
+  - first:
+      213: 3778674732968985966
+    second: youqi_46
+  - first:
+      213: -4083159422572632978
+    second: youqi_47
+  - first:
+      213: -4715671830745403009
+    second: youqi_48
+  - first:
+      213: -2579750422382926527
+    second: youqi_49
+  - first:
+      213: -5585948629496853473
+    second: youqi_50
+  - first:
+      213: -4216777336767092801
+    second: youqi_51
+  - first:
+      213: -8088259712724941138
+    second: youqi_52
+  - first:
+      213: -4946564123417465933
+    second: youqi_53
+  - first:
+      213: -1936527949383242963
+    second: youqi_54
+  - first:
+      213: 735525472727821823
+    second: youqi_55
+  - first:
+      213: 3108583128393161919
+    second: youqi_56
+  - first:
+      213: -2168209951261064657
+    second: youqi_57
+  - first:
+      213: -6931077178504092615
+    second: youqi_58
+  - first:
+      213: -4184636237155051877
+    second: youqi_59
+  - first:
+      213: -5520877139149905838
+    second: youqi_60
+  - first:
+      213: -1073340893192230928
+    second: youqi_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: youqi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 156
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d989b615198e084d0800000000000000
+      internalID: -3134249629815957347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 437
+        width: 176
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f23d6d468723390800000000000000
+      internalID: -7840071626802385114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 406
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93778ec884bc6f8b0800000000000000
+      internalID: -5118680413997861063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 424
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1584cbc442cbf4c90800000000000000
+      internalID: -7183316016540399535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 478
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6868ac48ae3b50ad0800000000000000
+      internalID: -2736583378726123898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 459
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ea7bbb729878a10800000000000000
+      internalID: 1911647370588171799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 449
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b7a320a4e1343a0800000000000000
+      internalID: -6682464118873883838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 434
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82ccf0d30273f650800000000000000
+      internalID: 6265476867319186060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 383
+        width: 157
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d4c2161ffeedb0800000000000000
+      internalID: -4760587285814782438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 398
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecc0bff054cade70800000000000000
+      internalID: 9140834245868047591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 322
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862dbdc5b5d804240800000000000000
+      internalID: 4773971028552176232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 392
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2137fbb093cb22520800000000000000
+      internalID: 2675908081807749906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_12
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 421
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25cc75a40f5cfea0800000000000000
+      internalID: -5837686543418079954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 410
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5114776c1af6f30800000000000000
+      internalID: 4571050020580693467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08b2db4fbaabe950800000000000000
+      internalID: 6479460227490166795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 341
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67614e59568457860800000000000000
+      internalID: 7527001953363302006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 379
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88281e481f6d447a0800000000000000
+      internalID: -6393749238154427768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 316
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8400c0ff6b326230800000000000000
+      internalID: 3630529601580565646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 375
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58d98bc5ccc15370800000000000000
+      internalID: 8309647937370708062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_19
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 398
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f081e2bbfc04f8cb0800000000000000
+      internalID: -4859594211966707697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_20
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 388
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8467605c0bcdf4ce0800000000000000
+      internalID: -1418672705820527032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 314
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e77d637c1eae5d0800000000000000
+      internalID: -3032363153345773959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 319
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1f0dccecebc7840800000000000000
+      internalID: 5223259463251718566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_23
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 380
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bde85c5366f8da40800000000000000
+      internalID: 5393331460387696057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_24
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 367
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafd23e2e7e828e10800000000000000
+      internalID: 2198476240702332843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 340
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6e8d463c990d070800000000000000
+      internalID: 8129166391893354211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_26
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 357
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04df8bdd1ccfade80800000000000000
+      internalID: -8152926265822085824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_27
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 348
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc753a69bb1547f0800000000000000
+      internalID: -629066089783526158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_28
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 305
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e12bbe8f72b62ee0800000000000000
+      internalID: -1286144382642478620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e6a619819078780800000000000000
+      internalID: -8680959755609805172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 311
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86da01e1a24f14ba0800000000000000
+      internalID: -6106331158007468696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 277
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0088f35c60e7b50d0800000000000000
+      internalID: -3433011723395692544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 321
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12390e3568e3ec340800000000000000
+      internalID: 4885911392397333281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_33
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 263
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eef1adedc9918fe0800000000000000
+      internalID: -1188499716914938140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 271
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f27ec0ad496cc7f0800000000000000
+      internalID: -590981668961094921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_35
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 277
+        width: 100
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cefe222b27cf940800000000000000
+      internalID: 5331262168315718688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 253
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be16285af7f5750800000000000000
+      internalID: 6295891152921029428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 245
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d635d996afebafe90800000000000000
+      internalID: -6991065488816254099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 251
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c96cd8aaf01d8910800000000000000
+      internalID: 1841146491425286594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 276
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e186720ced7844360800000000000000
+      internalID: 7152991498947487774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_40
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 260
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5380d2ffd49f9ab10800000000000000
+      internalID: 1993398423477094453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0f64395a3266530800000000000000
+      internalID: 3847802125682143451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 224
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb50f4d8779eaf10800000000000000
+      internalID: 2282928606347811818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 259
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce15630793253aff0800000000000000
+      internalID: -26086766184869396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 239
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b88f97cdd55b3ae0800000000000000
+      internalID: -1568565634183231307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 259
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac57d0b268f882a0800000000000000
+      internalID: -6734860139975189342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_46
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 261
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e654c5c36ac807430800000000000000
+      internalID: 3778674732968985966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 266
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64e4408324b557c0800000000000000
+      internalID: -4083159422572632978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_48
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 230
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71ba1364719e8eb0800000000000000
+      internalID: -4715671830745403009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 233
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145a3b0b8a2e23cd0800000000000000
+      internalID: -2579750422382926527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 230
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c824d2159ba72b0800000000000000
+      internalID: -5585948629496853473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 244
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb764198a5ffa75c0800000000000000
+      internalID: -4216777336767092801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 237
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea64deb05aab0cf80800000000000000
+      internalID: -8088259712724941138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 235
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bba20543264a5bb0800000000000000
+      internalID: -4946564123417465933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 245
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b656717121025e0800000000000000
+      internalID: -1936527949383242963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 243
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd613d358c153a00800000000000000
+      internalID: 735525472727821823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 237
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc95a2a2e7e32b20800000000000000
+      internalID: 3108583128393161919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_57
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 221
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f220e987988f8e1e0800000000000000
+      internalID: -2168209951261064657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 235
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9346270570edfcf90800000000000000
+      internalID: -6931077178504092615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_59
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 241
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b965522738f2de5c0800000000000000
+      internalID: -4184636237155051877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 226
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25025682e77e163b0800000000000000
+      internalID: -5520877139149905838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youqi_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 235
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7606af42aba11f0800000000000000
+      internalID: -1073340893192230928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      youqi_0: -3134249629815957347
+      youqi_1: -7840071626802385114
+      youqi_10: 4773971028552176232
+      youqi_11: 2675908081807749906
+      youqi_12: -5837686543418079954
+      youqi_13: 4571050020580693467
+      youqi_14: 6479460227490166795
+      youqi_15: 7527001953363302006
+      youqi_16: -6393749238154427768
+      youqi_17: 3630529601580565646
+      youqi_18: 8309647937370708062
+      youqi_19: -4859594211966707697
+      youqi_2: -5118680413997861063
+      youqi_20: -1418672705820527032
+      youqi_21: -3032363153345773959
+      youqi_22: 5223259463251718566
+      youqi_23: 5393331460387696057
+      youqi_24: 2198476240702332843
+      youqi_25: 8129166391893354211
+      youqi_26: -8152926265822085824
+      youqi_27: -629066089783526158
+      youqi_28: -1286144382642478620
+      youqi_29: -8680959755609805172
+      youqi_3: -7183316016540399535
+      youqi_30: -6106331158007468696
+      youqi_31: -3433011723395692544
+      youqi_32: 4885911392397333281
+      youqi_33: -1188499716914938140
+      youqi_34: -590981668961094921
+      youqi_35: 5331262168315718688
+      youqi_36: 6295891152921029428
+      youqi_37: -6991065488816254099
+      youqi_38: 1841146491425286594
+      youqi_39: 7152991498947487774
+      youqi_4: -2736583378726123898
+      youqi_40: 1993398423477094453
+      youqi_41: 3847802125682143451
+      youqi_42: 2282928606347811818
+      youqi_43: -26086766184869396
+      youqi_44: -1568565634183231307
+      youqi_45: -6734860139975189342
+      youqi_46: 3778674732968985966
+      youqi_47: -4083159422572632978
+      youqi_48: -4715671830745403009
+      youqi_49: -2579750422382926527
+      youqi_5: 1911647370588171799
+      youqi_50: -5585948629496853473
+      youqi_51: -4216777336767092801
+      youqi_52: -8088259712724941138
+      youqi_53: -4946564123417465933
+      youqi_54: -1936527949383242963
+      youqi_55: 735525472727821823
+      youqi_56: 3108583128393161919
+      youqi_57: -2168209951261064657
+      youqi_58: -6931077178504092615
+      youqi_59: -4184636237155051877
+      youqi_6: -6682464118873883838
+      youqi_60: -5520877139149905838
+      youqi_61: -1073340893192230928
+      youqi_7: 6265476867319186060
+      youqi_8: -4760587285814782438
+      youqi_9: 9140834245868047591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

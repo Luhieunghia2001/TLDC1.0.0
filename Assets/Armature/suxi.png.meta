@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: b5ec66815e1faff4daf1c5e1208963d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3164160066950533595
+    second: suxi_0
+  - first:
+      213: 4707218830350127080
+    second: suxi_1
+  - first:
+      213: 4794496385772746435
+    second: suxi_2
+  - first:
+      213: 6449574957651328818
+    second: suxi_3
+  - first:
+      213: -6196657679010992732
+    second: suxi_4
+  - first:
+      213: -5258063380955245745
+    second: suxi_5
+  - first:
+      213: -4459706348435688754
+    second: suxi_6
+  - first:
+      213: -843682553923507753
+    second: suxi_7
+  - first:
+      213: -3342010625992318044
+    second: suxi_8
+  - first:
+      213: -5412688665388826747
+    second: suxi_9
+  - first:
+      213: 5068607915964369682
+    second: suxi_10
+  - first:
+      213: 8662494379011657235
+    second: suxi_11
+  - first:
+      213: 5847474313210932446
+    second: suxi_12
+  - first:
+      213: 1878372073192857838
+    second: suxi_13
+  - first:
+      213: 9034342703617659415
+    second: suxi_14
+  - first:
+      213: -846429024196066639
+    second: suxi_15
+  - first:
+      213: 5649990200841976404
+    second: suxi_16
+  - first:
+      213: -156406573504774951
+    second: suxi_17
+  - first:
+      213: 6241536413086285299
+    second: suxi_18
+  - first:
+      213: -3999648160643369297
+    second: suxi_19
+  - first:
+      213: -5296180784727570188
+    second: suxi_20
+  - first:
+      213: 6575962843822879978
+    second: suxi_21
+  - first:
+      213: 7754358301935913073
+    second: suxi_22
+  - first:
+      213: 5896798124867995751
+    second: suxi_23
+  - first:
+      213: 4730059622673802455
+    second: suxi_24
+  - first:
+      213: 6647285007337432477
+    second: suxi_25
+  - first:
+      213: -972175164703810732
+    second: suxi_26
+  - first:
+      213: 6260555612754728968
+    second: suxi_27
+  - first:
+      213: -2508371856592870773
+    second: suxi_28
+  - first:
+      213: -1630900725444161739
+    second: suxi_29
+  - first:
+      213: -1551173874300768264
+    second: suxi_30
+  - first:
+      213: -7026449087440261559
+    second: suxi_31
+  - first:
+      213: 3105429713840106676
+    second: suxi_32
+  - first:
+      213: 5434772478772910082
+    second: suxi_33
+  - first:
+      213: -6147845395027402303
+    second: suxi_34
+  - first:
+      213: -7525403639408996024
+    second: suxi_35
+  - first:
+      213: 2102895248166057805
+    second: suxi_36
+  - first:
+      213: 8095098705245417106
+    second: suxi_37
+  - first:
+      213: 2033635121084281914
+    second: suxi_38
+  - first:
+      213: 536398923196541025
+    second: suxi_39
+  - first:
+      213: 4522438585426304547
+    second: suxi_40
+  - first:
+      213: -448673961044623820
+    second: suxi_41
+  - first:
+      213: 3948347972335313648
+    second: suxi_42
+  - first:
+      213: -7208545374569862203
+    second: suxi_43
+  - first:
+      213: 3029031551612501300
+    second: suxi_44
+  - first:
+      213: 5861303515028305848
+    second: suxi_45
+  - first:
+      213: 1707135408882732724
+    second: suxi_46
+  - first:
+      213: 4237947969559985358
+    second: suxi_47
+  - first:
+      213: -7276418747726859988
+    second: suxi_48
+  - first:
+      213: -4776677449199239273
+    second: suxi_49
+  - first:
+      213: 3796968900701629628
+    second: suxi_50
+  - first:
+      213: -9040340745178290643
+    second: suxi_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: suxi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 98
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eefecfe25a614d0800000000000000
+      internalID: -3164160066950533595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 468
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef8c071696635140800000000000000
+      internalID: 4707218830350127080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 357
+        width: 158
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6f0ee7f09798240800000000000000
+      internalID: 4794496385772746435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 295
+        width: 76
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fff0fa04e718950800000000000000
+      internalID: 6449574957651328818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 382
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad6ad71cac010aa0800000000000000
+      internalID: -6196657679010992732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 453
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f435ca3a63b9707b0800000000000000
+      internalID: -5258063380955245745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 400
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2bfe264b0fb12c0800000000000000
+      internalID: -4459706348435688754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 355
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9e13eef23aa44f0800000000000000
+      internalID: -843682553923507753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 262
+        width: 115
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3a52ada0bce91d0800000000000000
+      internalID: -3342010625992318044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 313
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f37b3265442e4b0800000000000000
+      internalID: -5412688665388826747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 229
+        width: 75
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b0ac08b00575640800000000000000
+      internalID: 5068607915964369682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 331
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ecec9edbc573870800000000000000
+      internalID: 8662494379011657235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 344
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edca82818e6662150800000000000000
+      internalID: 5847474313210932446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 320
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0aca2d271511a10800000000000000
+      internalID: 1878372073192857838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 330
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712d54ca2de606d70800000000000000
+      internalID: 9034342703617659415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 288
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2863d7941e044f0800000000000000
+      internalID: -846429024196066639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 306
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45abf99172cc86e40800000000000000
+      internalID: 5649990200841976404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 294
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc36b1dc0554ddf0800000000000000
+      internalID: -156406573504774951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_18
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 306
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd7ca27c446e9650800000000000000
+      internalID: 6241536413086285299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 281
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6be4e50356e78c0800000000000000
+      internalID: -3999648160643369297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 284
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8401cf2af2086b0800000000000000
+      internalID: -5296180784727570188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 255
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4fa329d53824b50800000000000000
+      internalID: 6575962843822879978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 213
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178cdff8ac30d9b60800000000000000
+      internalID: 7754358301935913073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 265
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76842f8e6a2a5d150800000000000000
+      internalID: 5896798124867995751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 223
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4e3e77a2c84a140800000000000000
+      internalID: 4730059622673802455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95a02fce76ef3c50800000000000000
+      internalID: 6647285007337432477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 220
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b5f58a6d32282f0800000000000000
+      internalID: -972175164703810732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_27
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 256
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d2d2f826f1e650800000000000000
+      internalID: 6260555612754728968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 172
+        width: 119
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82e13b1619703dd0800000000000000
+      internalID: -2508371856592870773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f49fb5e60ed59e0800000000000000
+      internalID: -1630900725444161739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 198
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffaf6d649f197ae0800000000000000
+      internalID: -1551173874300768264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 204
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e61ce58c90d7e90800000000000000
+      internalID: -7026449087440261559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 167
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bce1681fd3b81b20800000000000000
+      internalID: 3105429713840106676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_33
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 156
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208145856c03c6b40800000000000000
+      internalID: 5434772478772910082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 200
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1ee579f277eaaa0800000000000000
+      internalID: -6147845395027402303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_35
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 201
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8415891e245609790800000000000000
+      internalID: -7525403639408996024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_36
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 191
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d477bca261cfe2d10800000000000000
+      internalID: 2102895248166057805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 174
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ea0ebf161975070800000000000000
+      internalID: 8095098705245417106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_38
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 179
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34bcf23e5ce83c10800000000000000
+      internalID: 2033635121084281914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 162
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168280b8afba17700800000000000000
+      internalID: 536398923196541025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_40
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 187
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32edadabeede2ce30800000000000000
+      internalID: 4522438585426304547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_41
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 182
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb7fbd86df5c9f0800000000000000
+      internalID: -448673961044623820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_42
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 184
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f22ea4cf895bc630800000000000000
+      internalID: 3948347972335313648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb6a71ac2a16fb90800000000000000
+      internalID: -7208545374569862203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 138
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d305fc528490a20800000000000000
+      internalID: 3029031551612501300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 133
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7b20e0e78875150800000000000000
+      internalID: 5861303515028305848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_46
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 141
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be42fd0c96f0b710800000000000000
+      internalID: 1707135408882732724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_47
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 146
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccf536893730da30800000000000000
+      internalID: 4237947969559985358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_48
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 145
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c217fb873b7f40b90800000000000000
+      internalID: -7276418747726859988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_49
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 150
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f3cd9fa25d5bdb0800000000000000
+      internalID: -4776677449199239273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 130
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbca685191b81b430800000000000000
+      internalID: 3796968900701629628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suxi_51
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 114
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2668237df14a8280800000000000000
+      internalID: -9040340745178290643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      suxi_0: -3164160066950533595
+      suxi_1: 4707218830350127080
+      suxi_10: 5068607915964369682
+      suxi_11: 8662494379011657235
+      suxi_12: 5847474313210932446
+      suxi_13: 1878372073192857838
+      suxi_14: 9034342703617659415
+      suxi_15: -846429024196066639
+      suxi_16: 5649990200841976404
+      suxi_17: -156406573504774951
+      suxi_18: 6241536413086285299
+      suxi_19: -3999648160643369297
+      suxi_2: 4794496385772746435
+      suxi_20: -5296180784727570188
+      suxi_21: 6575962843822879978
+      suxi_22: 7754358301935913073
+      suxi_23: 5896798124867995751
+      suxi_24: 4730059622673802455
+      suxi_25: 6647285007337432477
+      suxi_26: -972175164703810732
+      suxi_27: 6260555612754728968
+      suxi_28: -2508371856592870773
+      suxi_29: -1630900725444161739
+      suxi_3: 6449574957651328818
+      suxi_30: -1551173874300768264
+      suxi_31: -7026449087440261559
+      suxi_32: 3105429713840106676
+      suxi_33: 5434772478772910082
+      suxi_34: -6147845395027402303
+      suxi_35: -7525403639408996024
+      suxi_36: 2102895248166057805
+      suxi_37: 8095098705245417106
+      suxi_38: 2033635121084281914
+      suxi_39: 536398923196541025
+      suxi_4: -6196657679010992732
+      suxi_40: 4522438585426304547
+      suxi_41: -448673961044623820
+      suxi_42: 3948347972335313648
+      suxi_43: -7208545374569862203
+      suxi_44: 3029031551612501300
+      suxi_45: 5861303515028305848
+      suxi_46: 1707135408882732724
+      suxi_47: 4237947969559985358
+      suxi_48: -7276418747726859988
+      suxi_49: -4776677449199239273
+      suxi_5: -5258063380955245745
+      suxi_50: 3796968900701629628
+      suxi_51: -9040340745178290643
+      suxi_6: -4459706348435688754
+      suxi_7: -843682553923507753
+      suxi_8: -3342010625992318044
+      suxi_9: -5412688665388826747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

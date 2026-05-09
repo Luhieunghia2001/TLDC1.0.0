@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 78a05f5a8f70d904181ef105f333f6c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8452781411010327995
+    second: dimu_0
+  - first:
+      213: 1342550758218570875
+    second: dimu_1
+  - first:
+      213: 6265100402780743498
+    second: dimu_2
+  - first:
+      213: 4471884432838159287
+    second: dimu_3
+  - first:
+      213: 6791089846209822273
+    second: dimu_4
+  - first:
+      213: -7821555679089709954
+    second: dimu_5
+  - first:
+      213: -6613287537832963487
+    second: dimu_6
+  - first:
+      213: 8920178413933573142
+    second: dimu_7
+  - first:
+      213: 3088265736267132637
+    second: dimu_8
+  - first:
+      213: -6409472520048876201
+    second: dimu_9
+  - first:
+      213: 506099717482206802
+    second: dimu_10
+  - first:
+      213: -1120812214344153089
+    second: dimu_11
+  - first:
+      213: -1132308437955505039
+    second: dimu_12
+  - first:
+      213: -7697103146625019674
+    second: dimu_13
+  - first:
+      213: -2154147674282664534
+    second: dimu_14
+  - first:
+      213: 4719228778820547934
+    second: dimu_15
+  - first:
+      213: 6088040985471720414
+    second: dimu_16
+  - first:
+      213: 6693638120012014476
+    second: dimu_17
+  - first:
+      213: 4658660549445139999
+    second: dimu_18
+  - first:
+      213: -74213810802201565
+    second: dimu_19
+  - first:
+      213: -4880766463620149759
+    second: dimu_20
+  - first:
+      213: -3606245272461265364
+    second: dimu_21
+  - first:
+      213: 8641843758731314847
+    second: dimu_22
+  - first:
+      213: -6196134807837829796
+    second: dimu_23
+  - first:
+      213: -6849966017645547554
+    second: dimu_24
+  - first:
+      213: -7902142861469638254
+    second: dimu_25
+  - first:
+      213: 8540029245911310585
+    second: dimu_26
+  - first:
+      213: -4008537929854553174
+    second: dimu_27
+  - first:
+      213: 7528167305149241904
+    second: dimu_28
+  - first:
+      213: -4280916054384228277
+    second: dimu_29
+  - first:
+      213: -6184546494155873737
+    second: dimu_30
+  - first:
+      213: -5700630693627211681
+    second: dimu_31
+  - first:
+      213: 3549157207582946381
+    second: dimu_32
+  - first:
+      213: 4037200545934383676
+    second: dimu_33
+  - first:
+      213: -8136316315194380074
+    second: dimu_34
+  - first:
+      213: 1015220294415736440
+    second: dimu_35
+  - first:
+      213: -2136066164511962874
+    second: dimu_36
+  - first:
+      213: 231521145303177723
+    second: dimu_37
+  - first:
+      213: -6002284198897411866
+    second: dimu_38
+  - first:
+      213: 1943861720135117657
+    second: dimu_39
+  - first:
+      213: 6262978746130297846
+    second: dimu_40
+  - first:
+      213: 2879442164349506777
+    second: dimu_41
+  - first:
+      213: 6567394615731529448
+    second: dimu_42
+  - first:
+      213: 7649745877382163202
+    second: dimu_43
+  - first:
+      213: 6470294749692223874
+    second: dimu_44
+  - first:
+      213: -2548092587449087424
+    second: dimu_45
+  - first:
+      213: -8709056387600265954
+    second: dimu_46
+  - first:
+      213: 3127015965148689298
+    second: dimu_47
+  - first:
+      213: -2680819590490286569
+    second: dimu_48
+  - first:
+      213: 8123830511720850252
+    second: dimu_49
+  - first:
+      213: -8936120783809304728
+    second: dimu_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dimu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 324
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5bb4798ef4e4570800000000000000
+      internalID: 8452781411010327995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 399
+        width: 295
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c9c8c2dc2b1a210800000000000000
+      internalID: 1342550758218570875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_2
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 463
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4727e55f9b12f650800000000000000
+      internalID: 6265100402780743498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 338
+        width: 197
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbeae7d2335f0e30800000000000000
+      internalID: 4471884432838159287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_4
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 273
+        width: 111
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e39110c3cce3e50800000000000000
+      internalID: 6791089846209822273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_5
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 281
+        width: 85
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c2becdc80447390800000000000000
+      internalID: -7821555679089709954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 101
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162d2f5e502e834a0800000000000000
+      internalID: -6613287537832963487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 303
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6143e9f9107dacb70800000000000000
+      internalID: 8920178413933573142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 306
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde66362359bbda20800000000000000
+      internalID: 3088265736267132637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 311
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755ebdca3bafc07a0800000000000000
+      internalID: -6409472520048876201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 311
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256d379f207060700800000000000000
+      internalID: 506099717482206802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 211
+        width: 120
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff70918ba331270f0800000000000000
+      internalID: -1120812214344153089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 187
+        width: 96
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1741c73997b3940f0800000000000000
+      internalID: -1132308437955505039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 244
+        width: 77
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0dfd918756e2590800000000000000
+      internalID: -7697103146625019674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_14
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 190
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadd5a87a1eea12e0800000000000000
+      internalID: -2154147674282664534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_15
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 241
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55366f12911e7140800000000000000
+      internalID: 4719228778820547934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 264
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb9f0d35011d7450800000000000000
+      internalID: 6088040985471720414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 264
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83645ed76494ec50800000000000000
+      internalID: 6693638120012014476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 249
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ebdca4613e6a040800000000000000
+      internalID: 4658660549445139999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 260
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ce4b9aee658fef0800000000000000
+      internalID: -74213810802201565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 258
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e0840c2c8044cb0800000000000000
+      internalID: -4880766463620149759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_21
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 227
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26b30a080b04fdc0800000000000000
+      internalID: -3606245272461265364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_22
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 224
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f964b93bc1ffde770800000000000000
+      internalID: 8641843758731314847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_23
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 188
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5594668838e20aa0800000000000000
+      internalID: -6196134807837829796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 250
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf6dba133800f0a0800000000000000
+      internalID: -6849966017645547554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 235
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291a6b15fe2f55290800000000000000
+      internalID: -7902142861469638254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 246
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0adf52a57448670800000000000000
+      internalID: 8540029245911310585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 245
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3f65eadffce58c0800000000000000
+      internalID: -4008537929854553174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 137
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a5121374c697860800000000000000
+      internalID: 7528167305149241904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b484921a7812794c0800000000000000
+      internalID: -4280916054384228277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 151
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732a3fe0bb31c2aa0800000000000000
+      internalID: -6184546494155873737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 233
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5059ae569a43e0b0800000000000000
+      internalID: -5700630693627211681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_32
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 157
+        width: 29
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44bff11da3214130800000000000000
+      internalID: 3549157207582946381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 146
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a9e6ba184070830800000000000000
+      internalID: 4037200545934383676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_34
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 137
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0bf9c5b6ff51f80800000000000000
+      internalID: -8136316315194380074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_35
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 213
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eda699a79c61e00800000000000000
+      internalID: 1015220294415736440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_36
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6098887042b2b52e0800000000000000
+      internalID: -2136066164511962874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_37
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 212
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf999c74147863300800000000000000
+      internalID: 231521145303177723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_38
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 178
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e897c3925a93bca0800000000000000
+      internalID: -6002284198897411866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_39
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 180
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b22297febf9fa10800000000000000
+      internalID: 1943861720135117657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_40
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 169
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3fae6acf19ae650800000000000000
+      internalID: 6262978746130297846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 166
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4955d7465d5f720800000000000000
+      internalID: 2879442164349506777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_42
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 172
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6ad728b92142b50800000000000000
+      internalID: 6567394615731529448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_43
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 169
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b6f5b685b592a60800000000000000
+      internalID: 7649745877382163202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_44
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 166
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281ea733bca1bc950800000000000000
+      internalID: 6470294749692223874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_45
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 173
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a8a46ca4b53acd0800000000000000
+      internalID: -2548092587449087424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_46
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 167
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d4d38ab57332780800000000000000
+      internalID: -8709056387600265954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_47
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 171
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b9a1e374656b20800000000000000
+      internalID: 3127015965148689298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_48
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 161
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7161be939c0dbcad0800000000000000
+      internalID: -2680819590490286569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_49
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 173
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43e99afec4adb070800000000000000
+      internalID: 8123830511720850252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dimu_50
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 171
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867af032e758cf380800000000000000
+      internalID: -8936120783809304728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dimu_0: 8452781411010327995
+      dimu_1: 1342550758218570875
+      dimu_10: 506099717482206802
+      dimu_11: -1120812214344153089
+      dimu_12: -1132308437955505039
+      dimu_13: -7697103146625019674
+      dimu_14: -2154147674282664534
+      dimu_15: 4719228778820547934
+      dimu_16: 6088040985471720414
+      dimu_17: 6693638120012014476
+      dimu_18: 4658660549445139999
+      dimu_19: -74213810802201565
+      dimu_2: 6265100402780743498
+      dimu_20: -4880766463620149759
+      dimu_21: -3606245272461265364
+      dimu_22: 8641843758731314847
+      dimu_23: -6196134807837829796
+      dimu_24: -6849966017645547554
+      dimu_25: -7902142861469638254
+      dimu_26: 8540029245911310585
+      dimu_27: -4008537929854553174
+      dimu_28: 7528167305149241904
+      dimu_29: -4280916054384228277
+      dimu_3: 4471884432838159287
+      dimu_30: -6184546494155873737
+      dimu_31: -5700630693627211681
+      dimu_32: 3549157207582946381
+      dimu_33: 4037200545934383676
+      dimu_34: -8136316315194380074
+      dimu_35: 1015220294415736440
+      dimu_36: -2136066164511962874
+      dimu_37: 231521145303177723
+      dimu_38: -6002284198897411866
+      dimu_39: 1943861720135117657
+      dimu_4: 6791089846209822273
+      dimu_40: 6262978746130297846
+      dimu_41: 2879442164349506777
+      dimu_42: 6567394615731529448
+      dimu_43: 7649745877382163202
+      dimu_44: 6470294749692223874
+      dimu_45: -2548092587449087424
+      dimu_46: -8709056387600265954
+      dimu_47: 3127015965148689298
+      dimu_48: -2680819590490286569
+      dimu_49: 8123830511720850252
+      dimu_5: -7821555679089709954
+      dimu_50: -8936120783809304728
+      dimu_6: -6613287537832963487
+      dimu_7: 8920178413933573142
+      dimu_8: 3088265736267132637
+      dimu_9: -6409472520048876201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

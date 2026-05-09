@@ -1,0 +1,2587 @@
+fileFormatVersion: 2
+guid: 3bfe47bfdb5dec94eac1f7d446d839dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4660236050269662801
+    second: shuangzizuo_0
+  - first:
+      213: 6024713036883054807
+    second: shuangzizuo_1
+  - first:
+      213: 3756778679346092575
+    second: shuangzizuo_2
+  - first:
+      213: -2620199318924346910
+    second: shuangzizuo_3
+  - first:
+      213: 3572098029466508084
+    second: shuangzizuo_4
+  - first:
+      213: 3586581286215772906
+    second: shuangzizuo_5
+  - first:
+      213: 4590687685210496031
+    second: shuangzizuo_6
+  - first:
+      213: 8955054863149807971
+    second: shuangzizuo_7
+  - first:
+      213: 1442048139727134035
+    second: shuangzizuo_8
+  - first:
+      213: -4740590004863388803
+    second: shuangzizuo_9
+  - first:
+      213: 3158448148834099217
+    second: shuangzizuo_10
+  - first:
+      213: 4674423430275638279
+    second: shuangzizuo_11
+  - first:
+      213: 2929223791463167278
+    second: shuangzizuo_12
+  - first:
+      213: 8685102279706558196
+    second: shuangzizuo_13
+  - first:
+      213: -6644317068603682194
+    second: shuangzizuo_14
+  - first:
+      213: 5635507375080887146
+    second: shuangzizuo_15
+  - first:
+      213: 6169662806323748094
+    second: shuangzizuo_16
+  - first:
+      213: 2781954763295349595
+    second: shuangzizuo_17
+  - first:
+      213: 4659496485441539504
+    second: shuangzizuo_18
+  - first:
+      213: -8659921532298776264
+    second: shuangzizuo_19
+  - first:
+      213: -7339403443220907616
+    second: shuangzizuo_20
+  - first:
+      213: 8822367053635663180
+    second: shuangzizuo_21
+  - first:
+      213: 2604160451672845217
+    second: shuangzizuo_22
+  - first:
+      213: 5062290786045513104
+    second: shuangzizuo_23
+  - first:
+      213: -2005058562688810168
+    second: shuangzizuo_24
+  - first:
+      213: 2955047837351235840
+    second: shuangzizuo_25
+  - first:
+      213: -4686387891948184729
+    second: shuangzizuo_26
+  - first:
+      213: 3044053642700989884
+    second: shuangzizuo_27
+  - first:
+      213: 8666103854062500234
+    second: shuangzizuo_28
+  - first:
+      213: -2549549613831009957
+    second: shuangzizuo_29
+  - first:
+      213: 3725301359765718509
+    second: shuangzizuo_30
+  - first:
+      213: 3491616721414631026
+    second: shuangzizuo_31
+  - first:
+      213: -8588419165096251501
+    second: shuangzizuo_32
+  - first:
+      213: 1321380464885797675
+    second: shuangzizuo_33
+  - first:
+      213: 3218529896085303294
+    second: shuangzizuo_34
+  - first:
+      213: -3644832002087752847
+    second: shuangzizuo_35
+  - first:
+      213: 2913828351450364524
+    second: shuangzizuo_36
+  - first:
+      213: -4410958112398064094
+    second: shuangzizuo_37
+  - first:
+      213: 5157504000835108490
+    second: shuangzizuo_38
+  - first:
+      213: -4493390573899963332
+    second: shuangzizuo_39
+  - first:
+      213: -8085401952504512894
+    second: shuangzizuo_40
+  - first:
+      213: 8403345146142999081
+    second: shuangzizuo_41
+  - first:
+      213: 5047226909429007114
+    second: shuangzizuo_42
+  - first:
+      213: -476925164098306336
+    second: shuangzizuo_43
+  - first:
+      213: 1935711724945020700
+    second: shuangzizuo_44
+  - first:
+      213: 4607338782429246619
+    second: shuangzizuo_45
+  - first:
+      213: 8139382650531989828
+    second: shuangzizuo_46
+  - first:
+      213: 9129675533289699659
+    second: shuangzizuo_47
+  - first:
+      213: -334451971855983566
+    second: shuangzizuo_48
+  - first:
+      213: -612934712866142933
+    second: shuangzizuo_49
+  - first:
+      213: 537602298520348014
+    second: shuangzizuo_50
+  - first:
+      213: -4478335494383001372
+    second: shuangzizuo_51
+  - first:
+      213: 7572250027402490331
+    second: shuangzizuo_52
+  - first:
+      213: 8764030412448131854
+    second: shuangzizuo_53
+  - first:
+      213: -356382326990825962
+    second: shuangzizuo_54
+  - first:
+      213: 1821981818062554425
+    second: shuangzizuo_55
+  - first:
+      213: 1656646400611512955
+    second: shuangzizuo_56
+  - first:
+      213: 8071506910623442310
+    second: shuangzizuo_57
+  - first:
+      213: -7754417115166475087
+    second: shuangzizuo_58
+  - first:
+      213: 8898999629275678096
+    second: shuangzizuo_59
+  - first:
+      213: -911334397630050144
+    second: shuangzizuo_60
+  - first:
+      213: -7572907409631966743
+    second: shuangzizuo_61
+  - first:
+      213: -2986355526397574356
+    second: shuangzizuo_62
+  - first:
+      213: 9065894162193403911
+    second: shuangzizuo_63
+  - first:
+      213: -5572520280805249694
+    second: shuangzizuo_64
+  - first:
+      213: -6323204651383306090
+    second: shuangzizuo_65
+  - first:
+      213: 5359148630007054014
+    second: shuangzizuo_66
+  - first:
+      213: -920026974775174254
+    second: shuangzizuo_67
+  - first:
+      213: -7060834982976511636
+    second: shuangzizuo_68
+  - first:
+      213: -2818014255976616085
+    second: shuangzizuo_69
+  - first:
+      213: -1246238537018209423
+    second: shuangzizuo_70
+  - first:
+      213: -976019081082388169
+    second: shuangzizuo_71
+  - first:
+      213: 8268137031512314522
+    second: shuangzizuo_72
+  - first:
+      213: -1076087095348986877
+    second: shuangzizuo_73
+  - first:
+      213: -1424097686857306690
+    second: shuangzizuo_74
+  - first:
+      213: -7946329552808105569
+    second: shuangzizuo_75
+  - first:
+      213: -6133405798967885401
+    second: shuangzizuo_76
+  - first:
+      213: 6720043698707209008
+    second: shuangzizuo_77
+  - first:
+      213: -2014785154423155899
+    second: shuangzizuo_78
+  - first:
+      213: -3400324590017930921
+    second: shuangzizuo_79
+  - first:
+      213: 8232976403573748675
+    second: shuangzizuo_80
+  - first:
+      213: -7536302213210462304
+    second: shuangzizuo_81
+  - first:
+      213: -4291550484841786125
+    second: shuangzizuo_82
+  - first:
+      213: 2103589253488544626
+    second: shuangzizuo_83
+  - first:
+      213: 7100265904038889158
+    second: shuangzizuo_84
+  - first:
+      213: 6992916086538190206
+    second: shuangzizuo_85
+  - first:
+      213: -4233717031454075764
+    second: shuangzizuo_86
+  - first:
+      213: 1120308259265426099
+    second: shuangzizuo_87
+  - first:
+      213: 592078192238071124
+    second: shuangzizuo_88
+  - first:
+      213: -7051703259265667231
+    second: shuangzizuo_89
+  - first:
+      213: -2292384546650988460
+    second: shuangzizuo_90
+  - first:
+      213: -5488094748627912260
+    second: shuangzizuo_91
+  - first:
+      213: 7929770558837546100
+    second: shuangzizuo_92
+  - first:
+      213: -4715568171119007489
+    second: shuangzizuo_93
+  - first:
+      213: -8052949767739042199
+    second: shuangzizuo_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shuangzizuo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 363
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa11536d004835fb0800000000000000
+      internalID: -4660236050269662801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 342
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0541536941c9350800000000000000
+      internalID: 6024713036883054807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 366
+        width: 199
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5f2afd42c22430800000000000000
+      internalID: 3756778679346092575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 380
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e93bc21a9e23abd0800000000000000
+      internalID: -2620199318924346910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 389
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b59356b34a29130800000000000000
+      internalID: 3572098029466508084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_5
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 263
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea64f26da816c130800000000000000
+      internalID: 3586581286215772906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 328
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c5bbf802665bf30800000000000000
+      internalID: 4590687685210496031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_7
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 243
+        width: 68
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369bd2eb3feb64c70800000000000000
+      internalID: 8955054863149807971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 354
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dd27d842f230410800000000000000
+      internalID: 1442048139727134035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_9
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 308
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73b95ed18a063eb0800000000000000
+      internalID: -4740590004863388803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 353
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1102fb07bdf05db20800000000000000
+      internalID: 3158448148834099217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 314
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704a75bf753eed040800000000000000
+      internalID: 4674423430275638279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 308
+        width: 130
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25f8c5c481b6a820800000000000000
+      internalID: 2929223791463167278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 285
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe38dbf18ea78870800000000000000
+      internalID: 8685102279706558196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 289
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6210d644d4aac3a0800000000000000
+      internalID: -6644317068603682194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 264
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a635ac47918553e40800000000000000
+      internalID: 5635507375080887146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 306
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcddd252ab0f9550800000000000000
+      internalID: 6169662806323748094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_17
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 287
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bdc672e1d7b9620800000000000000
+      internalID: 2781954763295349595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_18
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 273
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd8ceecd5bd9a040800000000000000
+      internalID: 4659496485441539504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 293
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8313394af37c1d780800000000000000
+      internalID: -8659921532298776264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_20
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 247
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9f9874473352a90800000000000000
+      internalID: -7339403443220907616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_21
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 218
+        width: 30
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c453016a7185f6a70800000000000000
+      internalID: 8822367053635663180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_22
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 282
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aba4142226d32420800000000000000
+      internalID: 2604160451672845217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dc9f316aed04640800000000000000
+      internalID: 5062290786045513104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 195
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84304194cd99c24e0800000000000000
+      internalID: -2005058562688810168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 200
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0015b9ff950720920800000000000000
+      internalID: 2955047837351235840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 192
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b9cb4ba0b96feb0800000000000000
+      internalID: -4686387891948184729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 231
+        width: 93
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb52d62f8a6ae3a20800000000000000
+      internalID: 3044053642700989884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 234
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89f9005a8f244870800000000000000
+      internalID: 8666103854062500234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_29
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 216
+        width: 87
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b594e52622e2e9cd0800000000000000
+      internalID: -2549549613831009957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_30
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 267
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de58d1669dde2b330800000000000000
+      internalID: 3725301359765718509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_31
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 240
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27eabb3a8e6b47030800000000000000
+      internalID: 3491616721414631026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_32
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 207
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fe742d54ecfc880800000000000000
+      internalID: -8588419165096251501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_33
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 242
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2398a6288c765210800000000000000
+      internalID: 1321380464885797675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_34
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 240
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa32353e38aac20800000000000000
+      internalID: 3218529896085303294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_35
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 243
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b6591fa94fa6dc0800000000000000
+      internalID: -3644832002087752847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_36
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 243
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a39a0927fff6820800000000000000
+      internalID: 2913828351450364524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_37
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 211
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226c26f87f029c2c0800000000000000
+      internalID: -4410958112398064094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_38
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 217
+        width: 89
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ebe692092239740800000000000000
+      internalID: 5157504000835108490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_39
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 174
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34aa9d741544a1c0800000000000000
+      internalID: -4493390573899963332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_40
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 208
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ef7b233c1eacf80800000000000000
+      internalID: -8085401952504512894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_41
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 213
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9224bd833edae9470800000000000000
+      internalID: 8403345146142999081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_42
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 231
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a030f4df12a5b0640800000000000000
+      internalID: 5047226909429007114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_43
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 216
+        width: 87
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeb971171f9169f0800000000000000
+      internalID: -476925164098306336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_44
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 236
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1718e8de870dda10800000000000000
+      internalID: 1935711724945020700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_45
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 223
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94739e363e80ff30800000000000000
+      internalID: 4607338782429246619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_46
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 218
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449cfe77565e4f070800000000000000
+      internalID: 8139382650531989828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_47
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 92
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49be44c68f13be70800000000000000
+      internalID: 9129675533289699659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 209
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c581f14b9cb5bf0800000000000000
+      internalID: -334451971855983566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_49
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 139
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b258b19402b6e77f0800000000000000
+      internalID: -612934712866142933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 177
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e652db13172f57700800000000000000
+      internalID: 537602298520348014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_51
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 187
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e027485891c9d1c0800000000000000
+      internalID: -4478335494383001372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_52
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 176
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd174c9c749061960800000000000000
+      internalID: 7572250027402490331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_53
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 194
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0be0bee93710a970800000000000000
+      internalID: 8764030412448131854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_54
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 183
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6161c7b6920ed0bf0800000000000000
+      internalID: -356382326990825962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_55
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 190
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935c6dc6fcaf84910800000000000000
+      internalID: 1821981818062554425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_56
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 164
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72f0e2cf179df610800000000000000
+      internalID: 1656646400611512955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_57
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 184
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68522d145c0c30070800000000000000
+      internalID: 8071506910623442310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_58
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 174
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcfa4ae7b6c26490800000000000000
+      internalID: -7754417115166475087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_59
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 180
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0954f4f83099f7b70800000000000000
+      internalID: 8898999629275678096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_60
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 210
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a09aad913a4a53f0800000000000000
+      internalID: -911334397630050144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_61
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 195
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e986fb75d0a7e690800000000000000
+      internalID: -7572907409631966743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 153
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c234c0c98755e86d0800000000000000
+      internalID: -2986355526397574356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_63
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 152
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70053d415b680dd70800000000000000
+      internalID: 9065894162193403911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_64
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 193
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d61fe345e6aa2b0800000000000000
+      internalID: -5572520280805249694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_65
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 165
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69843301fd67f38a0800000000000000
+      internalID: -6323204651383306090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_66
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 159
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe7716f8458f5a40800000000000000
+      internalID: 5359148630007054014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_67
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 139
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b9fb847586b33f0800000000000000
+      internalID: -920026974775174254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_68
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 167
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61a80e2effd20e90800000000000000
+      internalID: -7060834982976511636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fe684f6f664e8d0800000000000000
+      internalID: -2818014255976616085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_70
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 127
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b80a747a874bee0800000000000000
+      internalID: -1246238537018209423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_71
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 124
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731c41221db7472f0800000000000000
+      internalID: -976019081082388169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_72
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 143
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a925b8dd2d25eb270800000000000000
+      internalID: 8268137031512314522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_73
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 126
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c7756fc78f011f0800000000000000
+      internalID: -1076087095348986877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_74
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 162
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd2a61f2b69c3ce0800000000000000
+      internalID: -1424097686857306690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_75
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 139
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f992fa88f57f8b190800000000000000
+      internalID: -7946329552808105569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_76
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 125
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c2390ce3c1eaa0800000000000000
+      internalID: -6133405798967885401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_77
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 127
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b9b80c324624d50800000000000000
+      internalID: 6720043698707209008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_78
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 173
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54390eba39b0a04e0800000000000000
+      internalID: -2014785154423155899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_79
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 122
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75994f21dce9fc0d0800000000000000
+      internalID: -3400324590017930921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_80
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 130
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3bf2b3b68614270800000000000000
+      internalID: 8232976403573748675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_81
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 134
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7a99de01da96790800000000000000
+      internalID: -7536302213210462304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_82
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 114
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4995752995174c0800000000000000
+      internalID: -4291550484841786125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_83
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 128
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b838fd743713d10800000000000000
+      internalID: 2103589253488544626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_84
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 160
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c64e0d8836398260800000000000000
+      internalID: 7100265904038889158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_85
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 124
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d39327124db0160800000000000000
+      internalID: 6992916086538190206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_86
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 105
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8498a48ac0de35c0800000000000000
+      internalID: -4233717031454075764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_87
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 124
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2b3781d622c8f00800000000000000
+      internalID: 1120308259265426099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_88
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 103
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d0b979afb773800800000000000000
+      internalID: 592078192238071124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_89
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 102
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f610a4f31532e90800000000000000
+      internalID: -7051703259265667231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_90
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 108
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450e5408660df20e0800000000000000
+      internalID: -2292384546650988460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_91
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 100
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9b85e37ee56d3b0800000000000000
+      internalID: -5488094748627912260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_92
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 102
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cdcdd3f443c0e60800000000000000
+      internalID: 7929770558837546100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_93
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 132
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff820568bbfee8eb0800000000000000
+      internalID: -4715568171119007489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shuangzizuo_94
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 113
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96699d34adc2e3090800000000000000
+      internalID: -8052949767739042199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shuangzizuo_0: -4660236050269662801
+      shuangzizuo_1: 6024713036883054807
+      shuangzizuo_10: 3158448148834099217
+      shuangzizuo_11: 4674423430275638279
+      shuangzizuo_12: 2929223791463167278
+      shuangzizuo_13: 8685102279706558196
+      shuangzizuo_14: -6644317068603682194
+      shuangzizuo_15: 5635507375080887146
+      shuangzizuo_16: 6169662806323748094
+      shuangzizuo_17: 2781954763295349595
+      shuangzizuo_18: 4659496485441539504
+      shuangzizuo_19: -8659921532298776264
+      shuangzizuo_2: 3756778679346092575
+      shuangzizuo_20: -7339403443220907616
+      shuangzizuo_21: 8822367053635663180
+      shuangzizuo_22: 2604160451672845217
+      shuangzizuo_23: 5062290786045513104
+      shuangzizuo_24: -2005058562688810168
+      shuangzizuo_25: 2955047837351235840
+      shuangzizuo_26: -4686387891948184729
+      shuangzizuo_27: 3044053642700989884
+      shuangzizuo_28: 8666103854062500234
+      shuangzizuo_29: -2549549613831009957
+      shuangzizuo_3: -2620199318924346910
+      shuangzizuo_30: 3725301359765718509
+      shuangzizuo_31: 3491616721414631026
+      shuangzizuo_32: -8588419165096251501
+      shuangzizuo_33: 1321380464885797675
+      shuangzizuo_34: 3218529896085303294
+      shuangzizuo_35: -3644832002087752847
+      shuangzizuo_36: 2913828351450364524
+      shuangzizuo_37: -4410958112398064094
+      shuangzizuo_38: 5157504000835108490
+      shuangzizuo_39: -4493390573899963332
+      shuangzizuo_4: 3572098029466508084
+      shuangzizuo_40: -8085401952504512894
+      shuangzizuo_41: 8403345146142999081
+      shuangzizuo_42: 5047226909429007114
+      shuangzizuo_43: -476925164098306336
+      shuangzizuo_44: 1935711724945020700
+      shuangzizuo_45: 4607338782429246619
+      shuangzizuo_46: 8139382650531989828
+      shuangzizuo_47: 9129675533289699659
+      shuangzizuo_48: -334451971855983566
+      shuangzizuo_49: -612934712866142933
+      shuangzizuo_5: 3586581286215772906
+      shuangzizuo_50: 537602298520348014
+      shuangzizuo_51: -4478335494383001372
+      shuangzizuo_52: 7572250027402490331
+      shuangzizuo_53: 8764030412448131854
+      shuangzizuo_54: -356382326990825962
+      shuangzizuo_55: 1821981818062554425
+      shuangzizuo_56: 1656646400611512955
+      shuangzizuo_57: 8071506910623442310
+      shuangzizuo_58: -7754417115166475087
+      shuangzizuo_59: 8898999629275678096
+      shuangzizuo_6: 4590687685210496031
+      shuangzizuo_60: -911334397630050144
+      shuangzizuo_61: -7572907409631966743
+      shuangzizuo_62: -2986355526397574356
+      shuangzizuo_63: 9065894162193403911
+      shuangzizuo_64: -5572520280805249694
+      shuangzizuo_65: -6323204651383306090
+      shuangzizuo_66: 5359148630007054014
+      shuangzizuo_67: -920026974775174254
+      shuangzizuo_68: -7060834982976511636
+      shuangzizuo_69: -2818014255976616085
+      shuangzizuo_7: 8955054863149807971
+      shuangzizuo_70: -1246238537018209423
+      shuangzizuo_71: -976019081082388169
+      shuangzizuo_72: 8268137031512314522
+      shuangzizuo_73: -1076087095348986877
+      shuangzizuo_74: -1424097686857306690
+      shuangzizuo_75: -7946329552808105569
+      shuangzizuo_76: -6133405798967885401
+      shuangzizuo_77: 6720043698707209008
+      shuangzizuo_78: -2014785154423155899
+      shuangzizuo_79: -3400324590017930921
+      shuangzizuo_8: 1442048139727134035
+      shuangzizuo_80: 8232976403573748675
+      shuangzizuo_81: -7536302213210462304
+      shuangzizuo_82: -4291550484841786125
+      shuangzizuo_83: 2103589253488544626
+      shuangzizuo_84: 7100265904038889158
+      shuangzizuo_85: 6992916086538190206
+      shuangzizuo_86: -4233717031454075764
+      shuangzizuo_87: 1120308259265426099
+      shuangzizuo_88: 592078192238071124
+      shuangzizuo_89: -7051703259265667231
+      shuangzizuo_9: -4740590004863388803
+      shuangzizuo_90: -2292384546650988460
+      shuangzizuo_91: -5488094748627912260
+      shuangzizuo_92: 7929770558837546100
+      shuangzizuo_93: -4715568171119007489
+      shuangzizuo_94: -8052949767739042199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

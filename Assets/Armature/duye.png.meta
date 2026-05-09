@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 96899c81788cd1d44a2444db2f6bb916
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3089293182596896234
+    second: duye_0
+  - first:
+      213: -8507053880421345165
+    second: duye_1
+  - first:
+      213: -1401858130773145066
+    second: duye_2
+  - first:
+      213: 7022485082206669388
+    second: duye_3
+  - first:
+      213: 2645613495998970366
+    second: duye_4
+  - first:
+      213: 8533632962588669767
+    second: duye_5
+  - first:
+      213: 2655708032092792526
+    second: duye_6
+  - first:
+      213: 7771546545732915445
+    second: duye_7
+  - first:
+      213: -4380641393537712312
+    second: duye_8
+  - first:
+      213: -3375974770002821703
+    second: duye_9
+  - first:
+      213: -3928309124037722520
+    second: duye_10
+  - first:
+      213: -4650605234391326706
+    second: duye_11
+  - first:
+      213: -7589573328839061277
+    second: duye_12
+  - first:
+      213: -6952514865191002877
+    second: duye_13
+  - first:
+      213: 1083841071069107128
+    second: duye_14
+  - first:
+      213: -688459272051305779
+    second: duye_15
+  - first:
+      213: -5168791529548404867
+    second: duye_16
+  - first:
+      213: -8997691439723705535
+    second: duye_17
+  - first:
+      213: 5369608435560241092
+    second: duye_18
+  - first:
+      213: -1294079557041804339
+    second: duye_19
+  - first:
+      213: -2359189012242984929
+    second: duye_20
+  - first:
+      213: -4974070727330438756
+    second: duye_21
+  - first:
+      213: -2115180597480063385
+    second: duye_22
+  - first:
+      213: -3889598722305338230
+    second: duye_23
+  - first:
+      213: 3323885569228268762
+    second: duye_24
+  - first:
+      213: -4235674852871154835
+    second: duye_25
+  - first:
+      213: 7251944337686199575
+    second: duye_26
+  - first:
+      213: -2697421988940510770
+    second: duye_27
+  - first:
+      213: -8921373489660964136
+    second: duye_28
+  - first:
+      213: 2247550147429890328
+    second: duye_29
+  - first:
+      213: 3384794506785925848
+    second: duye_30
+  - first:
+      213: 64498418417812494
+    second: duye_31
+  - first:
+      213: 3462507550545887637
+    second: duye_32
+  - first:
+      213: -5572230107612559214
+    second: duye_33
+  - first:
+      213: 2587897945657227121
+    second: duye_34
+  - first:
+      213: 4512616479554867645
+    second: duye_35
+  - first:
+      213: 5021819515527520973
+    second: duye_36
+  - first:
+      213: 643305298891729152
+    second: duye_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duye_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 777
+        width: 80
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae559b328cf5fda20800000000000000
+      internalID: 3089293182596896234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 944
+        width: 246
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378906c619fd0f980800000000000000
+      internalID: -8507053880421345165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 875
+        width: 167
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a06c915799b8ce0800000000000000
+      internalID: -1401858130773145066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_3
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 948
+        width: 18
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a886db9f0e47160800000000000000
+      internalID: 7022485082206669388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 889
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef97ff1257b17b420800000000000000
+      internalID: 2645613495998970366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 821
+        width: 178
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74779a267fd8d6670800000000000000
+      internalID: 8533632962588669767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 817
+        width: 46
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6ea087268fad420800000000000000
+      internalID: 2655708032092792526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 896
+        width: 11
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f013dd68641adb60800000000000000
+      internalID: 7771546545732915445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 929
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fffc9bcd5d433c0800000000000000
+      internalID: -4380641393537712312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 780
+        width: 163
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdfc4755d02621d0800000000000000
+      internalID: -3375974770002821703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 849
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e3ecd2aa7db79c0800000000000000
+      internalID: -3928309124037722520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 688
+        width: 125
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e006885ed2bb57fb0800000000000000
+      internalID: -4650605234391326706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 778
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0d4c9c44b6ca690800000000000000
+      internalID: -7589573328839061277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 745
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ddaace094b38f90800000000000000
+      internalID: -6952514865191002877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 688
+        width: 163
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b39d0236b39a0f00800000000000000
+      internalID: 1083841071069107128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2de0f80f91276f0800000000000000
+      internalID: -688459272051305779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7728334d73c448b0800000000000000
+      internalID: -5168791529548404867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 624
+        width: 91
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b02b0be47c12380800000000000000
+      internalID: -8997691439723705535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 612
+        width: 137
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c752883c6ea48a40800000000000000
+      internalID: 5369608435560241092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 639
+        width: 161
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbad6bcf718a0ee0800000000000000
+      internalID: -1294079557041804339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 632
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f109047c71a724fd0800000000000000
+      internalID: -2359189012242984929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91ecc9f60d88fab0800000000000000
+      internalID: -4974070727330438756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 559
+        width: 107
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ef66b047e55a2e0800000000000000
+      internalID: -2115180597480063385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 526
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a845d2ee19e550ac0800000000000000
+      internalID: -3889598722305338230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 566
+        width: 130
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4e5e38050d02e20800000000000000
+      internalID: 3323885569228268762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 581
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d635f82b92cd735c0800000000000000
+      internalID: -4235674852871154835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 592
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71df0b2e3f414a460800000000000000
+      internalID: 7251944337686199575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_27
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 594
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec98fdb1ef4d09ad0800000000000000
+      internalID: -2697421988940510770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_28
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 592
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2db20241ae03480800000000000000
+      internalID: -8921373489660964136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 503
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8197f6873f6e03f10800000000000000
+      internalID: 2247550147429890328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_30
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 563
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da2ba6aba439fe20800000000000000
+      internalID: 3384794506785925848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 523
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e044e5648f425e000800000000000000
+      internalID: 64498418417812494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 537
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5914566a54c4d0030800000000000000
+      internalID: 3462507550545887637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 523
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29844057d367ba2b0800000000000000
+      internalID: -5572230107612559214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 510
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177bcd5687f0ae320800000000000000
+      internalID: 2587897945657227121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_35
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 523
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1117f77c800ae30800000000000000
+      internalID: 4512616479554867645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 507
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2642d1e3611b540800000000000000
+      internalID: 5021819515527520973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duye_37
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 496
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009619ec2ca7de800800000000000000
+      internalID: 643305298891729152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      duye_0: 3089293182596896234
+      duye_1: -8507053880421345165
+      duye_10: -3928309124037722520
+      duye_11: -4650605234391326706
+      duye_12: -7589573328839061277
+      duye_13: -6952514865191002877
+      duye_14: 1083841071069107128
+      duye_15: -688459272051305779
+      duye_16: -5168791529548404867
+      duye_17: -8997691439723705535
+      duye_18: 5369608435560241092
+      duye_19: -1294079557041804339
+      duye_2: -1401858130773145066
+      duye_20: -2359189012242984929
+      duye_21: -4974070727330438756
+      duye_22: -2115180597480063385
+      duye_23: -3889598722305338230
+      duye_24: 3323885569228268762
+      duye_25: -4235674852871154835
+      duye_26: 7251944337686199575
+      duye_27: -2697421988940510770
+      duye_28: -8921373489660964136
+      duye_29: 2247550147429890328
+      duye_3: 7022485082206669388
+      duye_30: 3384794506785925848
+      duye_31: 64498418417812494
+      duye_32: 3462507550545887637
+      duye_33: -5572230107612559214
+      duye_34: 2587897945657227121
+      duye_35: 4512616479554867645
+      duye_36: 5021819515527520973
+      duye_37: 643305298891729152
+      duye_4: 2645613495998970366
+      duye_5: 8533632962588669767
+      duye_6: 2655708032092792526
+      duye_7: 7771546545732915445
+      duye_8: -4380641393537712312
+      duye_9: -3375974770002821703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 9b27bc12cbec2f0468545be8d4f8eacd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3990943083798122957
+    second: fuluoxia_0
+  - first:
+      213: 17919809868154495
+    second: fuluoxia_1
+  - first:
+      213: 239109909286197166
+    second: fuluoxia_2
+  - first:
+      213: 6624440807273194666
+    second: fuluoxia_3
+  - first:
+      213: 1806427581324039947
+    second: fuluoxia_4
+  - first:
+      213: 8280258319059404720
+    second: fuluoxia_5
+  - first:
+      213: -8226076063601168692
+    second: fuluoxia_6
+  - first:
+      213: -8566748631056096695
+    second: fuluoxia_7
+  - first:
+      213: -7839880975171105556
+    second: fuluoxia_8
+  - first:
+      213: 2606060893169531552
+    second: fuluoxia_9
+  - first:
+      213: -6263094069953286910
+    second: fuluoxia_10
+  - first:
+      213: 2623438232609361547
+    second: fuluoxia_11
+  - first:
+      213: 616717425875492988
+    second: fuluoxia_12
+  - first:
+      213: 924557907746582572
+    second: fuluoxia_13
+  - first:
+      213: 5778112919607370748
+    second: fuluoxia_14
+  - first:
+      213: -7851155250083450153
+    second: fuluoxia_15
+  - first:
+      213: 8373731701432041900
+    second: fuluoxia_16
+  - first:
+      213: -8946609532198713164
+    second: fuluoxia_17
+  - first:
+      213: -359672733063774614
+    second: fuluoxia_18
+  - first:
+      213: 4571952004545910514
+    second: fuluoxia_19
+  - first:
+      213: -5103653360859291592
+    second: fuluoxia_20
+  - first:
+      213: -2781870488878316763
+    second: fuluoxia_21
+  - first:
+      213: 5025001514510452822
+    second: fuluoxia_22
+  - first:
+      213: 4220637175941180013
+    second: fuluoxia_23
+  - first:
+      213: -9198728376250518846
+    second: fuluoxia_24
+  - first:
+      213: 7086222237898930373
+    second: fuluoxia_25
+  - first:
+      213: -2812058580456935257
+    second: fuluoxia_26
+  - first:
+      213: -1470177465168364591
+    second: fuluoxia_27
+  - first:
+      213: -8956268774143272786
+    second: fuluoxia_28
+  - first:
+      213: -6689027473962509360
+    second: fuluoxia_29
+  - first:
+      213: 7478032349916527493
+    second: fuluoxia_30
+  - first:
+      213: 8445327350926782181
+    second: fuluoxia_31
+  - first:
+      213: 5809356751196004474
+    second: fuluoxia_32
+  - first:
+      213: 6993302583556868564
+    second: fuluoxia_33
+  - first:
+      213: 7365878647048048721
+    second: fuluoxia_34
+  - first:
+      213: 3295223887097404732
+    second: fuluoxia_35
+  - first:
+      213: -6241536953071555731
+    second: fuluoxia_36
+  - first:
+      213: 963169747525989048
+    second: fuluoxia_37
+  - first:
+      213: 609346813897217262
+    second: fuluoxia_38
+  - first:
+      213: 1290460282615567872
+    second: fuluoxia_39
+  - first:
+      213: -7485147257715100149
+    second: fuluoxia_40
+  - first:
+      213: -5377491385887073830
+    second: fuluoxia_41
+  - first:
+      213: -6859605817437703770
+    second: fuluoxia_42
+  - first:
+      213: -3466984842993397842
+    second: fuluoxia_43
+  - first:
+      213: -2857321686560646987
+    second: fuluoxia_44
+  - first:
+      213: -2170796633260471746
+    second: fuluoxia_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fuluoxia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 176
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e296309625d98c0800000000000000
+      internalID: -3990943083798122957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 358
+        width: 179
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7642add8f9af3000800000000000000
+      internalID: 17919809868154495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 386
+        width: 149
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea79745123d715300800000000000000
+      internalID: 239109909286197166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 316
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4ee1101ddbeeb50800000000000000
+      internalID: 6624440807273194666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 350
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0799497058b11910800000000000000
+      internalID: 1806427581324039947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 364
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7420c021369e270800000000000000
+      internalID: 8280258319059404720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 348
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce65bd576b17dd80800000000000000
+      internalID: -8226076063601168692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 158
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94266d5328bcc1980800000000000000
+      internalID: -8566748631056096695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 333
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec45916ac5233390800000000000000
+      internalID: -7839880975171105556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 184
+        width: 160
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa386823969a2420800000000000000
+      internalID: 2606060893169531552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 337
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d249d60250519a0800000000000000
+      internalID: -6263094069953286910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 339
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e0cd84c23586420800000000000000
+      internalID: 2623438232609361547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_12
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 326
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702a183b350f8800800000000000000
+      internalID: 616717425875492988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 336
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c207381c480b4dc00800000000000000
+      internalID: 924557907746582572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 310
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3ea4d261bff2050800000000000000
+      internalID: 5778112919607370748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 314
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d23552b5e71b0390800000000000000
+      internalID: -7851155250083450153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 310
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1c844dd98753470800000000000000
+      internalID: 8373731701432041900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 317
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b80c29180247d380800000000000000
+      internalID: -8946609532198713164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 291
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ef65e0e8f220bf0800000000000000
+      internalID: -359672733063774614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 293
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f61819ff16d27f30800000000000000
+      internalID: 4571952004545910514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 281
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830e0410f4e2c29b0800000000000000
+      internalID: -5103653360859291592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_21
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 259
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5230443878fc469d0800000000000000
+      internalID: -2781870488878316763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_22
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 282
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658023cf0446cb540800000000000000
+      internalID: 5025001514510452822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 280
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a28cd4627b29a30800000000000000
+      internalID: 4220637175941180013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 278
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2384c574d875080800000000000000
+      internalID: -9198728376250518846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 265
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c87079b491575260800000000000000
+      internalID: 7086222237898930373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 247
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a07648be9f89f8d0800000000000000
+      internalID: -2812058580456935257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_27
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 250
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbfadf7261e89be0800000000000000
+      internalID: -1470177465168364591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_28
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 223
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea854449001f4b380800000000000000
+      internalID: -8956268774143272786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 185
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbd2a1d3fccb23a0800000000000000
+      internalID: -6689027473962509360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 225
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b77ab4dce47c760800000000000000
+      internalID: 7478032349916527493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eea1ebfa74d33570800000000000000
+      internalID: 8445327350926782181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_32
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 215
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a702e889f2bfe9050800000000000000
+      internalID: 5809356751196004474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_33
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 197
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d98abbc5a33d0160800000000000000
+      internalID: 6993302583556868564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 202
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1501fe77a9bd83660800000000000000
+      internalID: 7365878647048048721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_35
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 212
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d92dd9aacfabd20800000000000000
+      internalID: 3295223887097404732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 135
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b22b3d53b9169a0800000000000000
+      internalID: -6241536953071555731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 187
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b270b348cddd5d00800000000000000
+      internalID: 963169747525989048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_38
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 162
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee41c53e2b5d47800800000000000000
+      internalID: 609346813897217262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_39
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 169
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0061d063ac2a8e110800000000000000
+      internalID: 1290460282615567872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f6642a3a6f1890800000000000000
+      internalID: -7485147257715100149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 157
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad95a7163105f55b0800000000000000
+      internalID: -5377491385887073830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 139
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a13c605ad8cdc0a0800000000000000
+      internalID: -6859605817437703770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 128
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf07b777abc2efc0800000000000000
+      internalID: -3466984842993397842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 136
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b858879011c858d0800000000000000
+      internalID: -2857321686560646987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuluoxia_45
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 121
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a45e2a6f7cfd1e0800000000000000
+      internalID: -2170796633260471746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fuluoxia_0: -3990943083798122957
+      fuluoxia_1: 17919809868154495
+      fuluoxia_10: -6263094069953286910
+      fuluoxia_11: 2623438232609361547
+      fuluoxia_12: 616717425875492988
+      fuluoxia_13: 924557907746582572
+      fuluoxia_14: 5778112919607370748
+      fuluoxia_15: -7851155250083450153
+      fuluoxia_16: 8373731701432041900
+      fuluoxia_17: -8946609532198713164
+      fuluoxia_18: -359672733063774614
+      fuluoxia_19: 4571952004545910514
+      fuluoxia_2: 239109909286197166
+      fuluoxia_20: -5103653360859291592
+      fuluoxia_21: -2781870488878316763
+      fuluoxia_22: 5025001514510452822
+      fuluoxia_23: 4220637175941180013
+      fuluoxia_24: -9198728376250518846
+      fuluoxia_25: 7086222237898930373
+      fuluoxia_26: -2812058580456935257
+      fuluoxia_27: -1470177465168364591
+      fuluoxia_28: -8956268774143272786
+      fuluoxia_29: -6689027473962509360
+      fuluoxia_3: 6624440807273194666
+      fuluoxia_30: 7478032349916527493
+      fuluoxia_31: 8445327350926782181
+      fuluoxia_32: 5809356751196004474
+      fuluoxia_33: 6993302583556868564
+      fuluoxia_34: 7365878647048048721
+      fuluoxia_35: 3295223887097404732
+      fuluoxia_36: -6241536953071555731
+      fuluoxia_37: 963169747525989048
+      fuluoxia_38: 609346813897217262
+      fuluoxia_39: 1290460282615567872
+      fuluoxia_4: 1806427581324039947
+      fuluoxia_40: -7485147257715100149
+      fuluoxia_41: -5377491385887073830
+      fuluoxia_42: -6859605817437703770
+      fuluoxia_43: -3466984842993397842
+      fuluoxia_44: -2857321686560646987
+      fuluoxia_45: -2170796633260471746
+      fuluoxia_5: 8280258319059404720
+      fuluoxia_6: -8226076063601168692
+      fuluoxia_7: -8566748631056096695
+      fuluoxia_8: -7839880975171105556
+      fuluoxia_9: 2606060893169531552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

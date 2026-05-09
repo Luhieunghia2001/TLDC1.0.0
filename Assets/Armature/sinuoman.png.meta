@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: de6b411d1dd786c4c9fb4626ac35e70e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4841906151154814108
+    second: sinuoman_0
+  - first:
+      213: -324405289542679705
+    second: sinuoman_1
+  - first:
+      213: 4229019108485469531
+    second: sinuoman_2
+  - first:
+      213: 1806108004478479188
+    second: sinuoman_3
+  - first:
+      213: 4289702867832997583
+    second: sinuoman_4
+  - first:
+      213: -4858770777135123288
+    second: sinuoman_5
+  - first:
+      213: 8842129298600760929
+    second: sinuoman_6
+  - first:
+      213: 4576923065546669069
+    second: sinuoman_7
+  - first:
+      213: -8839865341242632316
+    second: sinuoman_8
+  - first:
+      213: 867608861098747469
+    second: sinuoman_9
+  - first:
+      213: 562691925177956032
+    second: sinuoman_10
+  - first:
+      213: -7570153580451345219
+    second: sinuoman_11
+  - first:
+      213: -4275162549869259386
+    second: sinuoman_12
+  - first:
+      213: 5832996649698186913
+    second: sinuoman_13
+  - first:
+      213: -5505907293527096526
+    second: sinuoman_14
+  - first:
+      213: -412742984975928126
+    second: sinuoman_15
+  - first:
+      213: 6442309874320546611
+    second: sinuoman_16
+  - first:
+      213: -2867550543555434768
+    second: sinuoman_17
+  - first:
+      213: -7126598936048510272
+    second: sinuoman_18
+  - first:
+      213: 5806915711134054141
+    second: sinuoman_19
+  - first:
+      213: -3430111889887374518
+    second: sinuoman_20
+  - first:
+      213: 8324954757670814609
+    second: sinuoman_21
+  - first:
+      213: 3822445303815731602
+    second: sinuoman_22
+  - first:
+      213: 862224433540381882
+    second: sinuoman_23
+  - first:
+      213: 7431423845606999357
+    second: sinuoman_24
+  - first:
+      213: 6637655093443362273
+    second: sinuoman_25
+  - first:
+      213: 2950146983999772363
+    second: sinuoman_26
+  - first:
+      213: 8428500139093483672
+    second: sinuoman_27
+  - first:
+      213: -7743985347281361806
+    second: sinuoman_28
+  - first:
+      213: 2811419687801618008
+    second: sinuoman_29
+  - first:
+      213: -1048336143292269870
+    second: sinuoman_30
+  - first:
+      213: 5898055490541049790
+    second: sinuoman_31
+  - first:
+      213: -8061772984765335443
+    second: sinuoman_32
+  - first:
+      213: -1668680024729929962
+    second: sinuoman_33
+  - first:
+      213: -5831437364983325629
+    second: sinuoman_34
+  - first:
+      213: 3545331515335040409
+    second: sinuoman_35
+  - first:
+      213: -3535902382986050559
+    second: sinuoman_36
+  - first:
+      213: -5205713731142012054
+    second: sinuoman_37
+  - first:
+      213: 268186769861281059
+    second: sinuoman_38
+  - first:
+      213: 9099174657759249824
+    second: sinuoman_39
+  - first:
+      213: -2601089957723769916
+    second: sinuoman_40
+  - first:
+      213: -5855484327173731085
+    second: sinuoman_41
+  - first:
+      213: -6524340979100888525
+    second: sinuoman_42
+  - first:
+      213: -3887970977673838141
+    second: sinuoman_43
+  - first:
+      213: 6682844406806567056
+    second: sinuoman_44
+  - first:
+      213: 378054121130912097
+    second: sinuoman_45
+  - first:
+      213: -7174447402924280865
+    second: sinuoman_46
+  - first:
+      213: 1304276745516221168
+    second: sinuoman_47
+  - first:
+      213: 5889807323831521032
+    second: sinuoman_48
+  - first:
+      213: -8192614607410117154
+    second: sinuoman_49
+  - first:
+      213: -5763882050759617349
+    second: sinuoman_50
+  - first:
+      213: 7926808279540240634
+    second: sinuoman_51
+  - first:
+      213: -2624186025329497714
+    second: sinuoman_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sinuoman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 431
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c8c5fadf7e13340800000000000000
+      internalID: 4841906151154814108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 252
+        width: 181
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7630d81ab1b7f7bf0800000000000000
+      internalID: -324405289542679705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_2
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 273
+        width: 131
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b559d9d097e70ba30800000000000000
+      internalID: 4229019108485469531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_3
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 376
+        width: 216
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bede039a5901910800000000000000
+      internalID: 1806108004478479188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_4
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 425
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6092dc706188b30800000000000000
+      internalID: 4289702867832997583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_5
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 342
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4ffc798bd229cb0800000000000000
+      internalID: -4858770777135123288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_6
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 153
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1661c2ddfbd85ba70800000000000000
+      internalID: 8842129298600760929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_7
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 225
+        width: 147
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c733e474f748f30800000000000000
+      internalID: 4576923065546669069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_8
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 257
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48712f8ce4d725580800000000000000
+      internalID: -8839865341242632316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_9
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 258
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46a5c199ad5a0c00800000000000000
+      internalID: 867608861098747469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_10
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 206
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6763e13551fc700800000000000000
+      internalID: 562691925177956032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 122
+        width: 65
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbccb0e4d6961f690800000000000000
+      internalID: -7570153580451345219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_12
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 227
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6855df9cf429ba4c0800000000000000
+      internalID: -4275162549869259386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_13
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 193
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6dd416c87f2f050800000000000000
+      internalID: 5832996649698186913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 235
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233c513fc761793b0800000000000000
+      internalID: -5505907293527096526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_15
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 191
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4b9f42174a54af0800000000000000
+      internalID: -412742984975928126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_16
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 185
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b1ed7a2bea76950800000000000000
+      internalID: 6442309874320546611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_17
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 200
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f666eb39f96438d0800000000000000
+      internalID: -2867550543555434768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_18
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 214
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cad628a60c391d90800000000000000
+      internalID: -7126598936048510272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_19
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 153
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6b7caa21f469050800000000000000
+      internalID: 5806915711134054141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 169
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a435b6fd86bc560d0800000000000000
+      internalID: -3430111889887374518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_21
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 177
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193ca2e9e3e288370800000000000000
+      internalID: 8324954757670814609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_22
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 161
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299fb4b60cd0c0530800000000000000
+      internalID: 3822445303815731602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_23
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 169
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc36d5dd8c37fb00800000000000000
+      internalID: 862224433540381882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_24
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 118
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35c5cc3d98b12760800000000000000
+      internalID: 7431423845606999357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_25
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 151
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edf042c320bd1c50800000000000000
+      internalID: 6637655093443362273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_26
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 148
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc61f782d0701f820800000000000000
+      internalID: 2950146983999772363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 158
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8906ffb683c08f470800000000000000
+      internalID: 8428500139093483672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_28
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 149
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274e6752b56d78490800000000000000
+      internalID: -7743985347281361806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_29
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 153
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e74fd7f4b240720800000000000000
+      internalID: 2811419687801618008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_30
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 162
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da7cddf4df8371f0800000000000000
+      internalID: -1048336143292269870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7dd3b283a1ad150800000000000000
+      internalID: 5898055490541049790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 71
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68b837fe24de1090800000000000000
+      internalID: -8061772984765335443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 72
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617be2acb58a7d8e0800000000000000
+      internalID: -1668680024729929962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 76
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c9a32ec92921fa0800000000000000
+      internalID: -5831437364983325629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 95
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dda8eaa3c833130800000000000000
+      internalID: 3545331515335040409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_36
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 91
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104c8a54483fdeec0800000000000000
+      internalID: -3535902382986050559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_37
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 104
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6338ec41f691c7b0800000000000000
+      internalID: -5205713731142012054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_38
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 111
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3258a0f327ac8b300800000000000000
+      internalID: 268186769861281059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_39
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 72
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a50af84423c64e70800000000000000
+      internalID: 9099174657759249824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_40
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 91
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3f901f67217ebd0800000000000000
+      internalID: -2601089957723769916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_41
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 81
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc41f237042dbea0800000000000000
+      internalID: -5855484327173731085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_42
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 76
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332da2b6272e475a0800000000000000
+      internalID: -6524340979100888525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_43
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 132
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c109b2cef62b0ac0800000000000000
+      internalID: -3887970977673838141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_44
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 74
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09859eca49b3ebc50800000000000000
+      internalID: 6682844406806567056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 92
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16961eb583e1f3500800000000000000
+      internalID: 378054121130912097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_46
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 108
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd379f0591e3f6c90800000000000000
+      internalID: -7174447402924280865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_47
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f20c492ac8b91210800000000000000
+      internalID: 1304276745516221168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_48
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 81
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fc8743e8cccb150800000000000000
+      internalID: 5889807323831521032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_49
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 97
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5c4afbb6cfd4e80800000000000000
+      internalID: -8192614607410117154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_50
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 49
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4193d20d39200b0800000000000000
+      internalID: -5763882050759617349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_51
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 53
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af01f98d12ea10e60800000000000000
+      internalID: 7926808279540240634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinuoman_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 57
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89e0b7a6b4059bd0800000000000000
+      internalID: -2624186025329497714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sinuoman_0: 4841906151154814108
+      sinuoman_1: -324405289542679705
+      sinuoman_10: 562691925177956032
+      sinuoman_11: -7570153580451345219
+      sinuoman_12: -4275162549869259386
+      sinuoman_13: 5832996649698186913
+      sinuoman_14: -5505907293527096526
+      sinuoman_15: -412742984975928126
+      sinuoman_16: 6442309874320546611
+      sinuoman_17: -2867550543555434768
+      sinuoman_18: -7126598936048510272
+      sinuoman_19: 5806915711134054141
+      sinuoman_2: 4229019108485469531
+      sinuoman_20: -3430111889887374518
+      sinuoman_21: 8324954757670814609
+      sinuoman_22: 3822445303815731602
+      sinuoman_23: 862224433540381882
+      sinuoman_24: 7431423845606999357
+      sinuoman_25: 6637655093443362273
+      sinuoman_26: 2950146983999772363
+      sinuoman_27: 8428500139093483672
+      sinuoman_28: -7743985347281361806
+      sinuoman_29: 2811419687801618008
+      sinuoman_3: 1806108004478479188
+      sinuoman_30: -1048336143292269870
+      sinuoman_31: 5898055490541049790
+      sinuoman_32: -8061772984765335443
+      sinuoman_33: -1668680024729929962
+      sinuoman_34: -5831437364983325629
+      sinuoman_35: 3545331515335040409
+      sinuoman_36: -3535902382986050559
+      sinuoman_37: -5205713731142012054
+      sinuoman_38: 268186769861281059
+      sinuoman_39: 9099174657759249824
+      sinuoman_4: 4289702867832997583
+      sinuoman_40: -2601089957723769916
+      sinuoman_41: -5855484327173731085
+      sinuoman_42: -6524340979100888525
+      sinuoman_43: -3887970977673838141
+      sinuoman_44: 6682844406806567056
+      sinuoman_45: 378054121130912097
+      sinuoman_46: -7174447402924280865
+      sinuoman_47: 1304276745516221168
+      sinuoman_48: 5889807323831521032
+      sinuoman_49: -8192614607410117154
+      sinuoman_5: -4858770777135123288
+      sinuoman_50: -5763882050759617349
+      sinuoman_51: 7926808279540240634
+      sinuoman_52: -2624186025329497714
+      sinuoman_6: 8842129298600760929
+      sinuoman_7: 4576923065546669069
+      sinuoman_8: -8839865341242632316
+      sinuoman_9: 867608861098747469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 68af70feeb8d8164e96403845982b857
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6850152234169756572
+    second: leibo_0
+  - first:
+      213: -3176978256419569467
+    second: leibo_1
+  - first:
+      213: -7758198466236429590
+    second: leibo_2
+  - first:
+      213: 2600311524954799849
+    second: leibo_3
+  - first:
+      213: 966965078217947741
+    second: leibo_4
+  - first:
+      213: -5834320214654162287
+    second: leibo_5
+  - first:
+      213: 937201641439588861
+    second: leibo_6
+  - first:
+      213: -1654359565945875013
+    second: leibo_7
+  - first:
+      213: 7933426976771250848
+    second: leibo_8
+  - first:
+      213: 2134705360743602097
+    second: leibo_9
+  - first:
+      213: 1209771137582261756
+    second: leibo_10
+  - first:
+      213: -4553474769820640515
+    second: leibo_11
+  - first:
+      213: 9010388116551015612
+    second: leibo_12
+  - first:
+      213: 6958342639911851936
+    second: leibo_13
+  - first:
+      213: -4441171167119209962
+    second: leibo_14
+  - first:
+      213: 261168884611555522
+    second: leibo_15
+  - first:
+      213: 2029807202695124825
+    second: leibo_16
+  - first:
+      213: -3062137113843857570
+    second: leibo_17
+  - first:
+      213: -172968278246137925
+    second: leibo_18
+  - first:
+      213: -2263681081201621890
+    second: leibo_19
+  - first:
+      213: -6815433356915638035
+    second: leibo_20
+  - first:
+      213: 4981455054611674743
+    second: leibo_21
+  - first:
+      213: -6788417413750301842
+    second: leibo_22
+  - first:
+      213: -8330110628987714045
+    second: leibo_23
+  - first:
+      213: 854454587558938961
+    second: leibo_24
+  - first:
+      213: -2666534862927798268
+    second: leibo_25
+  - first:
+      213: -7364354455757091375
+    second: leibo_26
+  - first:
+      213: 7491808175478582884
+    second: leibo_27
+  - first:
+      213: 713093364955405054
+    second: leibo_28
+  - first:
+      213: 9103253293336671977
+    second: leibo_29
+  - first:
+      213: 299558204063977461
+    second: leibo_30
+  - first:
+      213: -6191414163582037384
+    second: leibo_31
+  - first:
+      213: -8813361839404485287
+    second: leibo_32
+  - first:
+      213: -716639439595170972
+    second: leibo_33
+  - first:
+      213: 3778635656222565577
+    second: leibo_34
+  - first:
+      213: 8846252015151146022
+    second: leibo_35
+  - first:
+      213: -6470646324135174720
+    second: leibo_36
+  - first:
+      213: 7209397167658321753
+    second: leibo_37
+  - first:
+      213: 2303671325076289857
+    second: leibo_38
+  - first:
+      213: -7400628660748185548
+    second: leibo_39
+  - first:
+      213: -6442996513726225498
+    second: leibo_40
+  - first:
+      213: -5841741296797774329
+    second: leibo_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leibo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 239
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46496f036de5fe0a0800000000000000
+      internalID: -6850152234169756572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 351
+        width: 219
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0c8feab1b19e3d0800000000000000
+      internalID: -3176978256419569467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 399
+        width: 46
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea4ff28997555490800000000000000
+      internalID: -7758198466236429590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 216
+        width: 143
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eef84e0e89261420800000000000000
+      internalID: 2600311524954799849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 266
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a736d8d995b6d00800000000000000
+      internalID: 966965078217947741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 334
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a68a32da4580fa0800000000000000
+      internalID: -5834320214654162287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 298
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df17be86deb910d00800000000000000
+      internalID: 937201641439588861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 330
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5d60d6db88a09e0800000000000000
+      internalID: -1654359565945875013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa93f16dc1391e60800000000000000
+      internalID: 7933426976771250848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 226
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b79e37273fff9d10800000000000000
+      internalID: 2134705360743602097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 254
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf56c13a078f9c010800000000000000
+      internalID: 1209771137582261756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 242
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa132b72decec0c0800000000000000
+      internalID: -4553474769820640515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 183
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc9c6fb0445b0d70800000000000000
+      internalID: 9010388116551015612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 240
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7566d93cff09060800000000000000
+      internalID: 6958342639911851936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 210
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a07259a5acd52c0800000000000000
+      internalID: -4441171167119209962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 243
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c028a187bbdf9300800000000000000
+      internalID: 261168884611555522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 206
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9571c2f75e25b2c10800000000000000
+      internalID: 2029807202695124825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 214
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e570cc3d48a1185d0800000000000000
+      internalID: -3062137113843857570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 218
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf5ab1744e799df0800000000000000
+      internalID: -172968278246137925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 160
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e748436dc0ac590e0800000000000000
+      internalID: -2263681081201621890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 206
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de002bab877ba61a0800000000000000
+      internalID: -6815433356915638035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 217
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776f3b2bafea12540800000000000000
+      internalID: 4981455054611674743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b565a2452bac1a0800000000000000
+      internalID: -6788417413750301842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 186
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3064b7b8480856c80800000000000000
+      internalID: -8330110628987714045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 198
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15947289be1abdb00800000000000000
+      internalID: 854454587558938961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_25
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 172
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4006ef98ba09efad0800000000000000
+      internalID: -2666534862927798268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 172
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd8888f3ae8cc990800000000000000
+      internalID: -7364354455757091375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_27
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 128
+        width: 24
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ea4c0a7df38f760800000000000000
+      internalID: 7491808175478582884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_28
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 151
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efadad523aa65e900800000000000000
+      internalID: 713093364955405054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_29
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 202
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6bcb1a3a0455e70800000000000000
+      internalID: 9103253293336671977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_30
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 153
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff89c6799e382400800000000000000
+      internalID: 299558204063977461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 151
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872de5a2f9da31aa0800000000000000
+      internalID: -6191414163582037384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955ff4d2a16a0b580800000000000000
+      internalID: -8813361839404485287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 154
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46315e20a3cfd06f0800000000000000
+      internalID: -716639439595170972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 147
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c465c8fb19607430800000000000000
+      internalID: 3778635656222565577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 152
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624eaac965334ca70800000000000000
+      internalID: 8846252015151146022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_36
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 141
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd5cbe7375a336a0800000000000000
+      internalID: -6470646324135174720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 162
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9574bf6e68cec0460800000000000000
+      internalID: 7209397167658321753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 140
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149fc626dd848ff10800000000000000
+      internalID: 2303671325076289857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_39
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 145
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4309789717fab4990800000000000000
+      internalID: -7400628660748185548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_40
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 149
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3a446aec0e596a0800000000000000
+      internalID: -6442996513726225498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leibo_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 140
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e83aecd37fdeea0800000000000000
+      internalID: -5841741296797774329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leibo_0: -6850152234169756572
+      leibo_1: -3176978256419569467
+      leibo_10: 1209771137582261756
+      leibo_11: -4553474769820640515
+      leibo_12: 9010388116551015612
+      leibo_13: 6958342639911851936
+      leibo_14: -4441171167119209962
+      leibo_15: 261168884611555522
+      leibo_16: 2029807202695124825
+      leibo_17: -3062137113843857570
+      leibo_18: -172968278246137925
+      leibo_19: -2263681081201621890
+      leibo_2: -7758198466236429590
+      leibo_20: -6815433356915638035
+      leibo_21: 4981455054611674743
+      leibo_22: -6788417413750301842
+      leibo_23: -8330110628987714045
+      leibo_24: 854454587558938961
+      leibo_25: -2666534862927798268
+      leibo_26: -7364354455757091375
+      leibo_27: 7491808175478582884
+      leibo_28: 713093364955405054
+      leibo_29: 9103253293336671977
+      leibo_3: 2600311524954799849
+      leibo_30: 299558204063977461
+      leibo_31: -6191414163582037384
+      leibo_32: -8813361839404485287
+      leibo_33: -716639439595170972
+      leibo_34: 3778635656222565577
+      leibo_35: 8846252015151146022
+      leibo_36: -6470646324135174720
+      leibo_37: 7209397167658321753
+      leibo_38: 2303671325076289857
+      leibo_39: -7400628660748185548
+      leibo_4: 966965078217947741
+      leibo_40: -6442996513726225498
+      leibo_41: -5841741296797774329
+      leibo_5: -5834320214654162287
+      leibo_6: 937201641439588861
+      leibo_7: -1654359565945875013
+      leibo_8: 7933426976771250848
+      leibo_9: 2134705360743602097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

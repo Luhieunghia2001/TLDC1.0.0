@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 1dca0d2f4a8f7ee45b6c37a850a66d1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2479205579452446345
+    second: wantun_0
+  - first:
+      213: -8793180580904514921
+    second: wantun_1
+  - first:
+      213: 1664045335000460506
+    second: wantun_2
+  - first:
+      213: -7790639067199466311
+    second: wantun_3
+  - first:
+      213: -3062816384979832054
+    second: wantun_4
+  - first:
+      213: -3290392486455035001
+    second: wantun_5
+  - first:
+      213: -8451271990008666679
+    second: wantun_6
+  - first:
+      213: -6040995041183037349
+    second: wantun_7
+  - first:
+      213: -740178546089748094
+    second: wantun_8
+  - first:
+      213: 7488417139567580001
+    second: wantun_9
+  - first:
+      213: -8004241157637757721
+    second: wantun_10
+  - first:
+      213: 8332569090700086933
+    second: wantun_11
+  - first:
+      213: 2180244166744634613
+    second: wantun_12
+  - first:
+      213: 5843893150012658291
+    second: wantun_13
+  - first:
+      213: -2358709645052143043
+    second: wantun_14
+  - first:
+      213: 1928675956539905203
+    second: wantun_15
+  - first:
+      213: -75719271118630922
+    second: wantun_16
+  - first:
+      213: 2122301121621336662
+    second: wantun_17
+  - first:
+      213: 7601952792546918
+    second: wantun_18
+  - first:
+      213: -3876836267060945747
+    second: wantun_19
+  - first:
+      213: -3364835991115002851
+    second: wantun_20
+  - first:
+      213: 8315347540075611206
+    second: wantun_21
+  - first:
+      213: -8072307435357968010
+    second: wantun_22
+  - first:
+      213: -6701369867080052717
+    second: wantun_23
+  - first:
+      213: -1680052656630956125
+    second: wantun_24
+  - first:
+      213: -1457713930815657885
+    second: wantun_25
+  - first:
+      213: -5240953192154823524
+    second: wantun_26
+  - first:
+      213: 7157081439048061759
+    second: wantun_27
+  - first:
+      213: 7340906838423980689
+    second: wantun_28
+  - first:
+      213: 8754944567941975123
+    second: wantun_29
+  - first:
+      213: 9081971885351988780
+    second: wantun_30
+  - first:
+      213: -5649637644726818239
+    second: wantun_31
+  - first:
+      213: -6871161128316449050
+    second: wantun_32
+  - first:
+      213: -205066851306920279
+    second: wantun_33
+  - first:
+      213: -8071179605500573412
+    second: wantun_34
+  - first:
+      213: -1701101203968805229
+    second: wantun_35
+  - first:
+      213: 3827026852727400588
+    second: wantun_36
+  - first:
+      213: -8053823641576342122
+    second: wantun_37
+  - first:
+      213: -7415549988627884217
+    second: wantun_38
+  - first:
+      213: 6814201756284878052
+    second: wantun_39
+  - first:
+      213: -717048881766274772
+    second: wantun_40
+  - first:
+      213: -8791222452364535673
+    second: wantun_41
+  - first:
+      213: -2531899131009762970
+    second: wantun_42
+  - first:
+      213: 342875796811893646
+    second: wantun_43
+  - first:
+      213: -727067595515990553
+    second: wantun_44
+  - first:
+      213: -2824300395068830539
+    second: wantun_45
+  - first:
+      213: 3838293933002392385
+    second: wantun_46
+  - first:
+      213: -6033738681688078001
+    second: wantun_47
+  - first:
+      213: -8128440022599491885
+    second: wantun_48
+  - first:
+      213: -1588073184262360579
+    second: wantun_49
+  - first:
+      213: -5204486392788224608
+    second: wantun_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wantun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 165
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986fd60d658e76220800000000000000
+      internalID: 2479205579452446345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 408
+        width: 117
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ac25599d858f580800000000000000
+      internalID: -8793180580904514921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 382
+        width: 88
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc29da6a60e71710800000000000000
+      internalID: 1664045335000460506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 433
+        width: 124
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b49b428b0712e390800000000000000
+      internalID: -7790639067199466311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 499
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03f701b9b0be75d0800000000000000
+      internalID: -3062816384979832054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 98
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bbb31877d2652d0800000000000000
+      internalID: -3290392486455035001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 314
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5235fd6ec07ba80800000000000000
+      internalID: -8451271990008666679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 341
+        width: 100
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58836044031a2ca0800000000000000
+      internalID: -6040995041183037349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 370
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28994f1b88b5ab5f0800000000000000
+      internalID: -740178546089748094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 374
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1635fdd86b33ce760800000000000000
+      internalID: 7488417139567580001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 307
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4a07e43193be090800000000000000
+      internalID: -8004241157637757721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 362
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e049da07b33a370800000000000000
+      internalID: 8332569090700086933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 350
+        width: 39
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f47e6aa488c14e10800000000000000
+      internalID: 2180244166744634613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 334
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372d7df8bdda91150800000000000000
+      internalID: 5843893150012658291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_14
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 334
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a1166231e244fd0800000000000000
+      internalID: -2358709645052143043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 351
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4d56c509804ca10800000000000000
+      internalID: 1928675956539905203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 352
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff825e59bdf2fef0800000000000000
+      internalID: -75719271118630922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 317
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65227ac20ade37d10800000000000000
+      internalID: 2122301121621336662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_18
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 287
+        width: 22
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e8ccf8fe10b1000800000000000000
+      internalID: 7601952792546918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac1b7994f5b23ac0800000000000000
+      internalID: -3876836267060945747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 327
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c04266e73bd41d0800000000000000
+      internalID: -3364835991115002851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 302
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6440026f78c066370800000000000000
+      internalID: 8315347540075611206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 313
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6796ebd082769ff80800000000000000
+      internalID: -8072307435357968010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 264
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310df2c7c93fff2a0800000000000000
+      internalID: -6701369867080052717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 275
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af7f8592014fa8e0800000000000000
+      internalID: -1680052656630956125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 318
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368289937e825cbe0800000000000000
+      internalID: -1457713930815657885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 317
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c948929e6d46447b0800000000000000
+      internalID: -5240953192154823524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_27
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 301
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33500326af035360800000000000000
+      internalID: 7157081439048061759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 287
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a4f7130e320e560800000000000000
+      internalID: 7340906838423980689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 263
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cca68e2bfcf7970800000000000000
+      internalID: 8754944567941975123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 269
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e6d76bf45a90e70800000000000000
+      internalID: 9081971885351988780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_31
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 291
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a2264ce747891b0800000000000000
+      internalID: -5649637644726818239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 307
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eec938db5bb4a0a0800000000000000
+      internalID: -6871161128316449050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 300
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6a4a409c4772df0800000000000000
+      internalID: -205066851306920279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 308
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19c2c769e86dff80800000000000000
+      internalID: -8071179605500573412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 292
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3963372c7797468e0800000000000000
+      internalID: -1701101203968805229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_36
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 285
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88a2b665a45c1530800000000000000
+      internalID: 3827026852727400588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 293
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69df238a1121b3090800000000000000
+      internalID: -8053823641576342122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_38
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 277
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747dea9139ca61990800000000000000
+      internalID: -7415549988627884217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_39
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 260
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecf337e468e09e50800000000000000
+      internalID: 6814201756284878052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 264
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29eab357d78c06f0800000000000000
+      internalID: -717048881766274772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_41
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 276
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7889f59e1cd4ff580800000000000000
+      internalID: -8791222452364535673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669fa09a723ecdcd0800000000000000
+      internalID: -2531899131009762970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 261
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b4d0778b322c400800000000000000
+      internalID: 342875796811893646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 261
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed6291cfdfe8e5f0800000000000000
+      internalID: -727067595515990553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 260
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc4de421c11ec8d0800000000000000
+      internalID: -2824300395068830539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_46
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 270
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1430524fefb544530800000000000000
+      internalID: 3838293933002392385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_47
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49c27a13aad34ca0800000000000000
+      internalID: -6033738681688078001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_48
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 267
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de93e2addaf13f80800000000000000
+      internalID: -8128440022599491885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 256
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1f7b65ad706f9e0800000000000000
+      internalID: -1588073184262360579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wantun_50
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 254
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5f0874333f5c7b0800000000000000
+      internalID: -5204486392788224608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wantun_0: 2479205579452446345
+      wantun_1: -8793180580904514921
+      wantun_10: -8004241157637757721
+      wantun_11: 8332569090700086933
+      wantun_12: 2180244166744634613
+      wantun_13: 5843893150012658291
+      wantun_14: -2358709645052143043
+      wantun_15: 1928675956539905203
+      wantun_16: -75719271118630922
+      wantun_17: 2122301121621336662
+      wantun_18: 7601952792546918
+      wantun_19: -3876836267060945747
+      wantun_2: 1664045335000460506
+      wantun_20: -3364835991115002851
+      wantun_21: 8315347540075611206
+      wantun_22: -8072307435357968010
+      wantun_23: -6701369867080052717
+      wantun_24: -1680052656630956125
+      wantun_25: -1457713930815657885
+      wantun_26: -5240953192154823524
+      wantun_27: 7157081439048061759
+      wantun_28: 7340906838423980689
+      wantun_29: 8754944567941975123
+      wantun_3: -7790639067199466311
+      wantun_30: 9081971885351988780
+      wantun_31: -5649637644726818239
+      wantun_32: -6871161128316449050
+      wantun_33: -205066851306920279
+      wantun_34: -8071179605500573412
+      wantun_35: -1701101203968805229
+      wantun_36: 3827026852727400588
+      wantun_37: -8053823641576342122
+      wantun_38: -7415549988627884217
+      wantun_39: 6814201756284878052
+      wantun_4: -3062816384979832054
+      wantun_40: -717048881766274772
+      wantun_41: -8791222452364535673
+      wantun_42: -2531899131009762970
+      wantun_43: 342875796811893646
+      wantun_44: -727067595515990553
+      wantun_45: -2824300395068830539
+      wantun_46: 3838293933002392385
+      wantun_47: -6033738681688078001
+      wantun_48: -8128440022599491885
+      wantun_49: -1588073184262360579
+      wantun_5: -3290392486455035001
+      wantun_50: -5204486392788224608
+      wantun_6: -8451271990008666679
+      wantun_7: -6040995041183037349
+      wantun_8: -740178546089748094
+      wantun_9: 7488417139567580001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

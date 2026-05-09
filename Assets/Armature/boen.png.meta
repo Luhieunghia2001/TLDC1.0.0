@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: dac2a8b276792024ca2641013230ab14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6071776304928673977
+    second: boen_0
+  - first:
+      213: 6430662209708048453
+    second: boen_1
+  - first:
+      213: 8604878541905189923
+    second: boen_2
+  - first:
+      213: 5633861963608050428
+    second: boen_3
+  - first:
+      213: -6196004497818512602
+    second: boen_4
+  - first:
+      213: -5137720050326684142
+    second: boen_5
+  - first:
+      213: -1354316057264592673
+    second: boen_6
+  - first:
+      213: 50439771171906081
+    second: boen_7
+  - first:
+      213: -3307293251098710588
+    second: boen_8
+  - first:
+      213: -2426292251541067723
+    second: boen_9
+  - first:
+      213: -6579592834029999114
+    second: boen_10
+  - first:
+      213: -4831615572856883933
+    second: boen_11
+  - first:
+      213: -1717085094697984962
+    second: boen_12
+  - first:
+      213: -7726676639454867888
+    second: boen_13
+  - first:
+      213: -2879442611720455029
+    second: boen_14
+  - first:
+      213: -8477358757539947840
+    second: boen_15
+  - first:
+      213: 1128512224790746346
+    second: boen_16
+  - first:
+      213: -7021517328746415928
+    second: boen_17
+  - first:
+      213: 3207499332861416270
+    second: boen_18
+  - first:
+      213: 1105286516581674720
+    second: boen_19
+  - first:
+      213: 4493649481139776961
+    second: boen_20
+  - first:
+      213: -68470483520148073
+    second: boen_21
+  - first:
+      213: 3686108877409479473
+    second: boen_22
+  - first:
+      213: -3905178402106271153
+    second: boen_23
+  - first:
+      213: -9194487337354107906
+    second: boen_24
+  - first:
+      213: 6190866832955245195
+    second: boen_25
+  - first:
+      213: -3327501264040955654
+    second: boen_26
+  - first:
+      213: -7953027894045681981
+    second: boen_27
+  - first:
+      213: 3145963334423324609
+    second: boen_28
+  - first:
+      213: -3871511100387769229
+    second: boen_29
+  - first:
+      213: 3008221296034315576
+    second: boen_30
+  - first:
+      213: 3085756782900229913
+    second: boen_31
+  - first:
+      213: 4133496241866645707
+    second: boen_32
+  - first:
+      213: -2571536509367486700
+    second: boen_33
+  - first:
+      213: -2078769812335061421
+    second: boen_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 153
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa71dce97bcbba0800000000000000
+      internalID: -6071776304928673977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 357
+        width: 180
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5404d28653d4e3950800000000000000
+      internalID: 6430662209708048453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 466
+        width: 99
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cd3a9717baa6770800000000000000
+      internalID: 8604878541905189923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 434
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa417e3b9f7f2e40800000000000000
+      internalID: 5633861963608050428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_4
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 502
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6231ec0bcbe530aa0800000000000000
+      internalID: -6196004497818512602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 383
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e30e4c5d623b8b0800000000000000
+      internalID: -5137720050326684142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 448
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8e22da8b0843de0800000000000000
+      internalID: -1354316057264592673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 346
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122e04364b233b000800000000000000
+      internalID: 50439771171906081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 403
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde6389f422a12d0800000000000000
+      internalID: -3307293251098710588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_9
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 379
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538ac916d04145ed0800000000000000
+      internalID: -2426292251541067723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 305
+        width: 100
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbafe87d2790b4a0800000000000000
+      internalID: -6579592834029999114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 304
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325be984c37a2fcb0800000000000000
+      internalID: -4831615572856883933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 309
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c98613430bb28e0800000000000000
+      internalID: -1717085094697984962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 300
+        width: 29
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ecbfab88455c490800000000000000
+      internalID: -7726676639454867888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 339
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c7749533a2a08d0800000000000000
+      internalID: -2879442611720455029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_15
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 356
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cad84fff1f5a5a80800000000000000
+      internalID: -8477358757539947840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 299
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4965ba3e749af00800000000000000
+      internalID: 1128512224790746346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 253
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8f1dbe03f8e8e90800000000000000
+      internalID: -7021517328746415928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 293
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43d18036a3538c20800000000000000
+      internalID: 3207499332861416270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 295
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee21e31b34c65f00800000000000000
+      internalID: 1105286516581674720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 308
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd647c0566ac5e30800000000000000
+      internalID: 4493649481139776961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_21
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 296
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dae20457ebc0ff0800000000000000
+      internalID: -68470483520148073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 254
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13be7618e70b72330800000000000000
+      internalID: 3686108877409479473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 285
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a9ded0fe40ec9c0800000000000000
+      internalID: -3905178402106271153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 277
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef36e2d2b7e966080800000000000000
+      internalID: -9194487337354107906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 257
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b828b0e75906ae550800000000000000
+      internalID: 6190866832955245195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_26
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 281
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0fc2fea3752d1d0800000000000000
+      internalID: -3327501264040955654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 264
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c652ae644b21a190800000000000000
+      internalID: -7953027894045681981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 247
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7a4b01cf4b8ab20800000000000000
+      internalID: 3145963334423324609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 284
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374c7659a21a54ac0800000000000000
+      internalID: -3871511100387769229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 269
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83df3eb94595fb920800000000000000
+      internalID: 3008221296034315576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 264
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917350ce17fc2da20800000000000000
+      internalID: 3085756782900229913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 231
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0afd88ee02d5930800000000000000
+      internalID: 4133496241866645707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 227
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417f3385b21105cd0800000000000000
+      internalID: -2571536509367486700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boen_34
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 220
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35696f59ed9b623e0800000000000000
+      internalID: -2078769812335061421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boen_0: -6071776304928673977
+      boen_1: 6430662209708048453
+      boen_10: -6579592834029999114
+      boen_11: -4831615572856883933
+      boen_12: -1717085094697984962
+      boen_13: -7726676639454867888
+      boen_14: -2879442611720455029
+      boen_15: -8477358757539947840
+      boen_16: 1128512224790746346
+      boen_17: -7021517328746415928
+      boen_18: 3207499332861416270
+      boen_19: 1105286516581674720
+      boen_2: 8604878541905189923
+      boen_20: 4493649481139776961
+      boen_21: -68470483520148073
+      boen_22: 3686108877409479473
+      boen_23: -3905178402106271153
+      boen_24: -9194487337354107906
+      boen_25: 6190866832955245195
+      boen_26: -3327501264040955654
+      boen_27: -7953027894045681981
+      boen_28: 3145963334423324609
+      boen_29: -3871511100387769229
+      boen_3: 5633861963608050428
+      boen_30: 3008221296034315576
+      boen_31: 3085756782900229913
+      boen_32: 4133496241866645707
+      boen_33: -2571536509367486700
+      boen_34: -2078769812335061421
+      boen_4: -6196004497818512602
+      boen_5: -5137720050326684142
+      boen_6: -1354316057264592673
+      boen_7: 50439771171906081
+      boen_8: -3307293251098710588
+      boen_9: -2426292251541067723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

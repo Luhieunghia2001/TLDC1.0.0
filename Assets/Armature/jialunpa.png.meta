@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 95db690dd89978a458e50848c78689d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5985866693766492047
+    second: jialunpa_0
+  - first:
+      213: 3399024799791529704
+    second: jialunpa_1
+  - first:
+      213: 7391509129140443258
+    second: jialunpa_2
+  - first:
+      213: 6515923242679057763
+    second: jialunpa_3
+  - first:
+      213: 264157805032463989
+    second: jialunpa_4
+  - first:
+      213: 1679679429731979938
+    second: jialunpa_5
+  - first:
+      213: 2910409835248618094
+    second: jialunpa_6
+  - first:
+      213: -5544507618039705329
+    second: jialunpa_7
+  - first:
+      213: -863706692676862570
+    second: jialunpa_8
+  - first:
+      213: -1927363451680759894
+    second: jialunpa_9
+  - first:
+      213: -3802341763787994113
+    second: jialunpa_10
+  - first:
+      213: 2599637584174460336
+    second: jialunpa_11
+  - first:
+      213: -1488960803080358613
+    second: jialunpa_12
+  - first:
+      213: -7301720360325943108
+    second: jialunpa_13
+  - first:
+      213: 3556069666828121724
+    second: jialunpa_14
+  - first:
+      213: 585283437843344517
+    second: jialunpa_15
+  - first:
+      213: -2306279502954834087
+    second: jialunpa_16
+  - first:
+      213: 9037734688722466597
+    second: jialunpa_17
+  - first:
+      213: -4213069539677836858
+    second: jialunpa_18
+  - first:
+      213: -7490996921955817534
+    second: jialunpa_19
+  - first:
+      213: -6336660080396198057
+    second: jialunpa_20
+  - first:
+      213: -3456413325361450169
+    second: jialunpa_21
+  - first:
+      213: 758349465292588395
+    second: jialunpa_22
+  - first:
+      213: -5121589968054042650
+    second: jialunpa_23
+  - first:
+      213: -6251116405926991141
+    second: jialunpa_24
+  - first:
+      213: 5185714696225234488
+    second: jialunpa_25
+  - first:
+      213: 1574385932249459813
+    second: jialunpa_26
+  - first:
+      213: 6315084712725427241
+    second: jialunpa_27
+  - first:
+      213: -34069570499310574
+    second: jialunpa_28
+  - first:
+      213: -4502172700304471770
+    second: jialunpa_29
+  - first:
+      213: 3260565115677041374
+    second: jialunpa_30
+  - first:
+      213: 320860239424164360
+    second: jialunpa_31
+  - first:
+      213: -2249719701788071573
+    second: jialunpa_32
+  - first:
+      213: -689572113523504398
+    second: jialunpa_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jialunpa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 99
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f2bc22b02121350800000000000000
+      internalID: 5985866693766492047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 378
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee315eeb03cb2f20800000000000000
+      internalID: 3399024799791529704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 367
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78197c146ae39660800000000000000
+      internalID: 7391509129140443258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 375
+        width: 91
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36db8979aa53d6a50800000000000000
+      internalID: 6515923242679057763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 371
+        width: 52
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e5b95cf1a7aa300800000000000000
+      internalID: 264157805032463989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 453
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a294b1ca8b6f4710800000000000000
+      internalID: 1679679429731979938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 413
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a0ccc335ad36820800000000000000
+      internalID: 2910409835248618094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 266
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01db4c82b3fd03b0800000000000000
+      internalID: -5544507618039705329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 292
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d3ed0d65f7304f0800000000000000
+      internalID: -863706692676862570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 328
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf5f7df621a045e0800000000000000
+      internalID: -1927363451680759894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 293
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbc8cebf4e5b3bc0800000000000000
+      internalID: -3802341763787994113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 286
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd297dfb94c31420800000000000000
+      internalID: 2599637584174460336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 300
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b253ae7d906265be0800000000000000
+      internalID: -1488960803080358613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 367
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0f889b4041baa90800000000000000
+      internalID: -7301720360325943108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76f4d76582b95130800000000000000
+      internalID: 3556069666828121724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 296
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c629d8f285f1800800000000000000
+      internalID: 585283437843344517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 275
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957dc91e2037effd0800000000000000
+      internalID: -2306279502954834087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_17
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 276
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527378fb0db7c6d70800000000000000
+      internalID: 9037734688722466597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 268
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9eb71539b2885c0800000000000000
+      internalID: -4213069539677836858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 262
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7674d0df1aa0890800000000000000
+      internalID: -7490996921955817534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 263
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f169dda39af08a0800000000000000
+      internalID: -6336660080396198057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 272
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74377e8b46a5800d0800000000000000
+      internalID: -3456413325361450169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_22
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 261
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b654f5e12d2368a00800000000000000
+      internalID: 758349465292588395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 261
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef3fe43f057ce8b0800000000000000
+      internalID: -5121589968054042650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaea17afb29f39a0800000000000000
+      internalID: -6251116405926991141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 241
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e17078a0c57f740800000000000000
+      internalID: 5185714696225234488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 239
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ce917f9a759d510800000000000000
+      internalID: 1574385932249459813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 243
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924bf746610b3a750800000000000000
+      internalID: 6315084712725427241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 241
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c0db8f7e5f68ff0800000000000000
+      internalID: -34069570499310574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 241
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62904e858c11581c0800000000000000
+      internalID: -4502172700304471770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 241
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2e5fe82badf3d20800000000000000
+      internalID: 3260565115677041374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_31
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 249
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8029c6110bce37400800000000000000
+      internalID: 320860239424164360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_32
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 239
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6969bac9d367c0e0800000000000000
+      internalID: -2249719701788071573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jialunpa_33
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 240
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa8a66f0d52e66f0800000000000000
+      internalID: -689572113523504398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jialunpa_0: 5985866693766492047
+      jialunpa_1: 3399024799791529704
+      jialunpa_10: -3802341763787994113
+      jialunpa_11: 2599637584174460336
+      jialunpa_12: -1488960803080358613
+      jialunpa_13: -7301720360325943108
+      jialunpa_14: 3556069666828121724
+      jialunpa_15: 585283437843344517
+      jialunpa_16: -2306279502954834087
+      jialunpa_17: 9037734688722466597
+      jialunpa_18: -4213069539677836858
+      jialunpa_19: -7490996921955817534
+      jialunpa_2: 7391509129140443258
+      jialunpa_20: -6336660080396198057
+      jialunpa_21: -3456413325361450169
+      jialunpa_22: 758349465292588395
+      jialunpa_23: -5121589968054042650
+      jialunpa_24: -6251116405926991141
+      jialunpa_25: 5185714696225234488
+      jialunpa_26: 1574385932249459813
+      jialunpa_27: 6315084712725427241
+      jialunpa_28: -34069570499310574
+      jialunpa_29: -4502172700304471770
+      jialunpa_3: 6515923242679057763
+      jialunpa_30: 3260565115677041374
+      jialunpa_31: 320860239424164360
+      jialunpa_32: -2249719701788071573
+      jialunpa_33: -689572113523504398
+      jialunpa_4: 264157805032463989
+      jialunpa_5: 1679679429731979938
+      jialunpa_6: 2910409835248618094
+      jialunpa_7: -5544507618039705329
+      jialunpa_8: -863706692676862570
+      jialunpa_9: -1927363451680759894
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 8072a4d340de84245a3c9fdda46c9395
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8681959226941563461
+    second: lisi_0
+  - first:
+      213: -7058420387084229280
+    second: lisi_1
+  - first:
+      213: 8452399915282147782
+    second: lisi_2
+  - first:
+      213: -4816387812471723438
+    second: lisi_3
+  - first:
+      213: -1855208124612985362
+    second: lisi_4
+  - first:
+      213: -7466001925583451066
+    second: lisi_5
+  - first:
+      213: 8219115019209854949
+    second: lisi_6
+  - first:
+      213: 3546021681994005938
+    second: lisi_7
+  - first:
+      213: 2738660886825485661
+    second: lisi_8
+  - first:
+      213: -8060847569216425996
+    second: lisi_9
+  - first:
+      213: -7505649994824899387
+    second: lisi_10
+  - first:
+      213: 8773848078053755129
+    second: lisi_11
+  - first:
+      213: 8353033875088942771
+    second: lisi_12
+  - first:
+      213: -3974817009701069182
+    second: lisi_13
+  - first:
+      213: -743297671690019811
+    second: lisi_14
+  - first:
+      213: -2476313125648814339
+    second: lisi_15
+  - first:
+      213: -3828189406330551485
+    second: lisi_16
+  - first:
+      213: 2648866019619264932
+    second: lisi_17
+  - first:
+      213: 6715992806075357377
+    second: lisi_18
+  - first:
+      213: 3808050013464691304
+    second: lisi_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lisi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 167
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542e64cfae38c7870800000000000000
+      internalID: 8681959226941563461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 95
+        width: 131
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06528781e047b0e90800000000000000
+      internalID: -7058420387084229280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 146
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c92fe1b0f4fc4570800000000000000
+      internalID: 8452399915282147782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 172
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a2a198dc0c82db0800000000000000
+      internalID: -4816387812471723438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 201
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed360c3a0af046e0800000000000000
+      internalID: -1855208124612985362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 174
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c47352ece636890800000000000000
+      internalID: -7466001925583451066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 145
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efc4103099201270800000000000000
+      internalID: 8219115019209854949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 145
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdf511aeeff53130800000000000000
+      internalID: 3546021681994005938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 147
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d554d77019da10620800000000000000
+      internalID: 2738660886825485661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 155
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffa84018dd122090800000000000000
+      internalID: -8060847569216425996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 117
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4ac0aa81396d790800000000000000
+      internalID: -7505649994824899387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_11
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 149
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f843a55758f2c970800000000000000
+      internalID: 8773848078053755129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 132
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b62b799d00fbe370800000000000000
+      internalID: 8353033875088942771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 91
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e56993dfc96d8c0800000000000000
+      internalID: -3974817009701069182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 129
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c9a8ca4b64fa5f0800000000000000
+      internalID: -743297671690019811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 132
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfea011155e52add0800000000000000
+      internalID: -2476313125648814339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_16
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 135
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34301ce740a8fdac0800000000000000
+      internalID: -3828189406330551485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 23
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9520d4c99a2c420800000000000000
+      internalID: 2648866019619264932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 106
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c85330dfdff33d50800000000000000
+      internalID: 6715992806075357377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lisi_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 7
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8620c73bf49e8d430800000000000000
+      internalID: 3808050013464691304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lisi_0: 8681959226941563461
+      lisi_1: -7058420387084229280
+      lisi_10: -7505649994824899387
+      lisi_11: 8773848078053755129
+      lisi_12: 8353033875088942771
+      lisi_13: -3974817009701069182
+      lisi_14: -743297671690019811
+      lisi_15: -2476313125648814339
+      lisi_16: -3828189406330551485
+      lisi_17: 2648866019619264932
+      lisi_18: 6715992806075357377
+      lisi_19: 3808050013464691304
+      lisi_2: 8452399915282147782
+      lisi_3: -4816387812471723438
+      lisi_4: -1855208124612985362
+      lisi_5: -7466001925583451066
+      lisi_6: 8219115019209854949
+      lisi_7: 3546021681994005938
+      lisi_8: 2738660886825485661
+      lisi_9: -8060847569216425996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

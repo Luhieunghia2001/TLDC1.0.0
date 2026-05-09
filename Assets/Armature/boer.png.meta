@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 5192ee0243d7ade48ab42040e381fab1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4249428069554351442
+    second: boer_0
+  - first:
+      213: -1305698554230698489
+    second: boer_1
+  - first:
+      213: -9105836558088351695
+    second: boer_2
+  - first:
+      213: 5498853681421848041
+    second: boer_3
+  - first:
+      213: -4031460284286798232
+    second: boer_4
+  - first:
+      213: 5755022217765629087
+    second: boer_5
+  - first:
+      213: 3875307453767516596
+    second: boer_6
+  - first:
+      213: 6082052701475969386
+    second: boer_7
+  - first:
+      213: 7706234796075507718
+    second: boer_8
+  - first:
+      213: -2514603628988693883
+    second: boer_9
+  - first:
+      213: 8761942381791226264
+    second: boer_10
+  - first:
+      213: 8690319326626430527
+    second: boer_11
+  - first:
+      213: 5002372488371233107
+    second: boer_12
+  - first:
+      213: 5935746707833960740
+    second: boer_13
+  - first:
+      213: -4642200756466453632
+    second: boer_14
+  - first:
+      213: -7226773813644135363
+    second: boer_15
+  - first:
+      213: -5625486818084761092
+    second: boer_16
+  - first:
+      213: -1165746599502032550
+    second: boer_17
+  - first:
+      213: -4207052039490905204
+    second: boer_18
+  - first:
+      213: -7280416569978098930
+    second: boer_19
+  - first:
+      213: -139722627884772064
+    second: boer_20
+  - first:
+      213: -1690174780750664386
+    second: boer_21
+  - first:
+      213: -3838640997586856603
+    second: boer_22
+  - first:
+      213: -8745240109993891964
+    second: boer_23
+  - first:
+      213: -2270086893430587308
+    second: boer_24
+  - first:
+      213: 5711828059010485237
+    second: boer_25
+  - first:
+      213: -216249460391697372
+    second: boer_26
+  - first:
+      213: 3037563901778064330
+    second: boer_27
+  - first:
+      213: -3426988962455838914
+    second: boer_28
+  - first:
+      213: -5188927918730115473
+    second: boer_29
+  - first:
+      213: -3530975701015383072
+    second: boer_30
+  - first:
+      213: -8880487419741404190
+    second: boer_31
+  - first:
+      213: 5235183464816996884
+    second: boer_32
+  - first:
+      213: 5086896597698197604
+    second: boer_33
+  - first:
+      213: 1544358380977652090
+    second: boer_34
+  - first:
+      213: 190789892406947792
+    second: boer_35
+  - first:
+      213: 7446703554604783644
+    second: boer_36
+  - first:
+      213: -6751955249963180547
+    second: boer_37
+  - first:
+      213: 1145387995233441135
+    second: boer_38
+  - first:
+      213: -3298613902550960593
+    second: boer_39
+  - first:
+      213: -4344033850619105466
+    second: boer_40
+  - first:
+      213: -5798345685115021387
+    second: boer_41
+  - first:
+      213: -1929582404721007140
+    second: boer_42
+  - first:
+      213: -2092236396531906243
+    second: boer_43
+  - first:
+      213: 7859795693776128645
+    second: boer_44
+  - first:
+      213: -7916830420660144203
+    second: boer_45
+  - first:
+      213: 4759240022554005472
+    second: boer_46
+  - first:
+      213: -4357945048529256368
+    second: boer_47
+  - first:
+      213: 1242255398617672199
+    second: boer_48
+  - first:
+      213: -4535310463111015678
+    second: boer_49
+  - first:
+      213: 8834070991682459260
+    second: boer_50
+  - first:
+      213: -2678784584974146157
+    second: boer_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 179
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea293a76faff605c0800000000000000
+      internalID: -4249428069554351442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 178
+        width: 150
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e8653351a31ede0800000000000000
+      internalID: -1305698554230698489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 178
+        width: 117
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130d06c25e191a180800000000000000
+      internalID: -9105836558088351695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 186
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed8ff00a4adf4c40800000000000000
+      internalID: 5498853681421848041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 232
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8667df42b306d08c0800000000000000
+      internalID: -4031460284286798232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_5
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 209
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ca6643732fddf40800000000000000
+      internalID: 5755022217765629087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b18c31d89bd7c530800000000000000
+      internalID: 3875307453767516596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 119
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a691ea835bac76450800000000000000
+      internalID: 6082052701475969386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 122
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600e5d7b7bb02fa60800000000000000
+      internalID: 7706234796075507718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 155
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582883782555a1dd0800000000000000
+      internalID: -2514603628988693883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 186
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8992b196c2ca89970800000000000000
+      internalID: 8761942381791226264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 172
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eb74062673a9870800000000000000
+      internalID: 8690319326626430527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 126
+        width: 118
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351ed83464ffb6540800000000000000
+      internalID: 5002372488371233107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 146
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429332d8e22006250800000000000000
+      internalID: 5935746707833960740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 119
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08374c6e107939fb0800000000000000
+      internalID: -4642200756466453632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 159
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3475ad618755bb90800000000000000
+      internalID: -7226773813644135363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 131
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf15a674b814ee1b0800000000000000
+      internalID: -5625486818084761092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 143
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51df86e4af62dfe0800000000000000
+      internalID: -1165746599502032550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 130
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bdf82c57c8d95c0800000000000000
+      internalID: -4207052039490905204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 133
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b6691f3b3c6fa90800000000000000
+      internalID: -7280416569978098930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02518dd920b9f0ef0800000000000000
+      internalID: -139722627884772064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 52
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6809edfa4b88e0800000000000000
+      internalID: -1690174780750664386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 87
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5659596c9586abac0800000000000000
+      internalID: -3838640997586856603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 83
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487e058447aa2a680800000000000000
+      internalID: -8745240109993891964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 102
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450ccc37ff70f70e0800000000000000
+      internalID: -2270086893430587308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 65
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbcd6b6b5d744f40800000000000000
+      internalID: 5711828059010485237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_26
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 55
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424ab72f24abffcf0800000000000000
+      internalID: -216249460391697372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_27
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 90
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3f7046648972a20800000000000000
+      internalID: 3037563901778064330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_28
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 114
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f92a312b3e070d0800000000000000
+      internalID: -3426988962455838914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 45
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f660cfecc893df7b0800000000000000
+      internalID: -5188927918730115473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3317ece447ffec0800000000000000
+      internalID: -3530975701015383072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 81
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e30df91ebb22c480800000000000000
+      internalID: -8880487419741404190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 52
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4127a62cf9b17a840800000000000000
+      internalID: 5235183464816996884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_33
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 68
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468b1fa0189489640800000000000000
+      internalID: 5086896597698197604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 45
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a710210e3c9ae6510800000000000000
+      internalID: 1544358380977652090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_35
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfa6a37562d5a200800000000000000
+      internalID: 190789892406947792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_36
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 28
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c185bd7bd61085760800000000000000
+      internalID: 7446703554604783644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_37
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 18
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd5c9a397c3c42a0800000000000000
+      internalID: -6751955249963180547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_38
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 53
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65d2e9205c35ef00800000000000000
+      internalID: 1145387995233441135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26f847e128f832d0800000000000000
+      internalID: -3298613902550960593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 9
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f63918a34e6b3c0800000000000000
+      internalID: -4344033850619105466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 41
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7dcc10253288fa0800000000000000
+      internalID: -5798345685115021387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_42
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 49
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5a2c9b60fb835e0800000000000000
+      internalID: -1929582404721007140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 29
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39829e1512e6f2e0800000000000000
+      internalID: -2092236396531906243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 12
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58acbae5a8a931d60800000000000000
+      internalID: 7859795693776128645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_45
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 47
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7bb857da4c12290800000000000000
+      internalID: -7916830420660144203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 28
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef4721c5973c0240800000000000000
+      internalID: 4759240022554005472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_47
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 21
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050cdb751187583c0800000000000000
+      internalID: -4357945048529256368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 15
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aeaea04b06d3110800000000000000
+      internalID: 1242255398617672199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_49
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 32
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203d724b9275f01c0800000000000000
+      internalID: -4535310463111015678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_50
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 7
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76d0d313cce89a70800000000000000
+      internalID: 8834070991682459260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boer_51
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 19
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395e2dedc9b03dad0800000000000000
+      internalID: -2678784584974146157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boer_0: -4249428069554351442
+      boer_1: -1305698554230698489
+      boer_10: 8761942381791226264
+      boer_11: 8690319326626430527
+      boer_12: 5002372488371233107
+      boer_13: 5935746707833960740
+      boer_14: -4642200756466453632
+      boer_15: -7226773813644135363
+      boer_16: -5625486818084761092
+      boer_17: -1165746599502032550
+      boer_18: -4207052039490905204
+      boer_19: -7280416569978098930
+      boer_2: -9105836558088351695
+      boer_20: -139722627884772064
+      boer_21: -1690174780750664386
+      boer_22: -3838640997586856603
+      boer_23: -8745240109993891964
+      boer_24: -2270086893430587308
+      boer_25: 5711828059010485237
+      boer_26: -216249460391697372
+      boer_27: 3037563901778064330
+      boer_28: -3426988962455838914
+      boer_29: -5188927918730115473
+      boer_3: 5498853681421848041
+      boer_30: -3530975701015383072
+      boer_31: -8880487419741404190
+      boer_32: 5235183464816996884
+      boer_33: 5086896597698197604
+      boer_34: 1544358380977652090
+      boer_35: 190789892406947792
+      boer_36: 7446703554604783644
+      boer_37: -6751955249963180547
+      boer_38: 1145387995233441135
+      boer_39: -3298613902550960593
+      boer_4: -4031460284286798232
+      boer_40: -4344033850619105466
+      boer_41: -5798345685115021387
+      boer_42: -1929582404721007140
+      boer_43: -2092236396531906243
+      boer_44: 7859795693776128645
+      boer_45: -7916830420660144203
+      boer_46: 4759240022554005472
+      boer_47: -4357945048529256368
+      boer_48: 1242255398617672199
+      boer_49: -4535310463111015678
+      boer_5: 5755022217765629087
+      boer_50: 8834070991682459260
+      boer_51: -2678784584974146157
+      boer_6: 3875307453767516596
+      boer_7: 6082052701475969386
+      boer_8: 7706234796075507718
+      boer_9: -2514603628988693883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

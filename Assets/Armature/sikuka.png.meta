@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: e575006981a1fec44a5b89a97a13b881
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2659175650853160175
+    second: sikuka_0
+  - first:
+      213: 7360804635069171158
+    second: sikuka_1
+  - first:
+      213: 1871788164407429822
+    second: sikuka_2
+  - first:
+      213: 8240321397142282221
+    second: sikuka_3
+  - first:
+      213: 2232270472317686723
+    second: sikuka_4
+  - first:
+      213: 8438200358597472235
+    second: sikuka_5
+  - first:
+      213: -8136641412222937633
+    second: sikuka_6
+  - first:
+      213: -2237530854895879569
+    second: sikuka_7
+  - first:
+      213: 8842504385154154360
+    second: sikuka_8
+  - first:
+      213: 4138067104869409915
+    second: sikuka_9
+  - first:
+      213: -6370119091298795902
+    second: sikuka_10
+  - first:
+      213: -5429182080497816656
+    second: sikuka_11
+  - first:
+      213: 3211678776761907133
+    second: sikuka_12
+  - first:
+      213: 7273987369584710677
+    second: sikuka_13
+  - first:
+      213: 1968182650879425452
+    second: sikuka_14
+  - first:
+      213: -2256742400022336332
+    second: sikuka_15
+  - first:
+      213: 4969119058820788099
+    second: sikuka_16
+  - first:
+      213: 4174399276155954487
+    second: sikuka_17
+  - first:
+      213: 6796628912750311132
+    second: sikuka_18
+  - first:
+      213: 2471811775129476998
+    second: sikuka_19
+  - first:
+      213: -7829479862572148503
+    second: sikuka_20
+  - first:
+      213: -6047096934207588901
+    second: sikuka_21
+  - first:
+      213: -6192579815181800700
+    second: sikuka_22
+  - first:
+      213: 230483557138820968
+    second: sikuka_23
+  - first:
+      213: -8061347484682421118
+    second: sikuka_24
+  - first:
+      213: -9166250669772460516
+    second: sikuka_25
+  - first:
+      213: -3307734006851104228
+    second: sikuka_26
+  - first:
+      213: -4142511647237824942
+    second: sikuka_27
+  - first:
+      213: -5678160077637580361
+    second: sikuka_28
+  - first:
+      213: -2423919168228975865
+    second: sikuka_29
+  - first:
+      213: 5846788504296441886
+    second: sikuka_30
+  - first:
+      213: 6024277753488029317
+    second: sikuka_31
+  - first:
+      213: 4153693423832975890
+    second: sikuka_32
+  - first:
+      213: -2187642853514240328
+    second: sikuka_33
+  - first:
+      213: 5110011706790111138
+    second: sikuka_34
+  - first:
+      213: -7118283419193625692
+    second: sikuka_35
+  - first:
+      213: 7679092603756793319
+    second: sikuka_36
+  - first:
+      213: -4266080468435835520
+    second: sikuka_37
+  - first:
+      213: 6505678197422464117
+    second: sikuka_38
+  - first:
+      213: 4162062664557448012
+    second: sikuka_39
+  - first:
+      213: -5184754963233938514
+    second: sikuka_40
+  - first:
+      213: -3891102156773596225
+    second: sikuka_41
+  - first:
+      213: -2730613475392262234
+    second: sikuka_42
+  - first:
+      213: 4412214192588316391
+    second: sikuka_43
+  - first:
+      213: 3207151229726975129
+    second: sikuka_44
+  - first:
+      213: 7239776993904716434
+    second: sikuka_45
+  - first:
+      213: -2943813130973069850
+    second: sikuka_46
+  - first:
+      213: 6764660362553387728
+    second: sikuka_47
+  - first:
+      213: -2716857977555848287
+    second: sikuka_48
+  - first:
+      213: -6542635466630784487
+    second: sikuka_49
+  - first:
+      213: -4279540864774318385
+    second: sikuka_50
+  - first:
+      213: 4231468700152709300
+    second: sikuka_51
+  - first:
+      213: 6535496573819025406
+    second: sikuka_52
+  - first:
+      213: 8435832717167831756
+    second: sikuka_53
+  - first:
+      213: -8413072545723159530
+    second: sikuka_54
+  - first:
+      213: -8776476880674924937
+    second: sikuka_55
+  - first:
+      213: -5107480298041477417
+    second: sikuka_56
+  - first:
+      213: -7719305541691017403
+    second: sikuka_57
+  - first:
+      213: 6625731171174527183
+    second: sikuka_58
+  - first:
+      213: 8368049854016996135
+    second: sikuka_59
+  - first:
+      213: -2151738284952282149
+    second: sikuka_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sikuka_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 845
+        width: 236
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b778f95d5b81bd0800000000000000
+      internalID: -2659175650853160175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 871
+        width: 218
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5c85ef0d4d62660800000000000000
+      internalID: 7360804635069171158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 898
+        width: 42
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba094a1b6de9f910800000000000000
+      internalID: 1871788164407429822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 815
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def57bfc6a08b5270800000000000000
+      internalID: 8240321397142282221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 198
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3d611ea2e9afe10800000000000000
+      internalID: 2232270472317686723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 811
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befa6c5c4828a1570800000000000000
+      internalID: 8438200358597472235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 788
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd518bfceb7d41f80800000000000000
+      internalID: -8136641412222937633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 723
+        width: 208
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a74fbda81b2f0e0800000000000000
+      internalID: -2237530854895879569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 766
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f72f183e2e6ba70800000000000000
+      internalID: 8842504385154154360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 709
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7468728b1e5d6930800000000000000
+      internalID: 4138067104869409915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 737
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e7332df6ac897a0800000000000000
+      internalID: -6370119091298795902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 706
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbe20fa9aba7a4b0800000000000000
+      internalID: -5429182080497816656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7fd8dc4dc229c20800000000000000
+      internalID: 3211678776761907133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 630
+        width: 91
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51456c039f462f460800000000000000
+      internalID: 7273987369584710677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 676
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab31ce61b3605b10800000000000000
+      internalID: 1968182650879425452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 685
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc2b117eb07ea0e0800000000000000
+      internalID: -2256742400022336332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 614
+        width: 149
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fe2abd47bd5f440800000000000000
+      internalID: 4969119058820788099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 663
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7356ce556027ee930800000000000000
+      internalID: 4174399276155954487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_18
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 615
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6b1ae6cf9725e50800000000000000
+      internalID: 6796628912750311132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 653
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f583896b3ad4220800000000000000
+      internalID: 2471811775129476998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 630
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8105f1c89185390800000000000000
+      internalID: -7829479862572148503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 596
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5f3329065641ca0800000000000000
+      internalID: -6047096934207588901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 544
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ba5d0c7798f0aa0800000000000000
+      internalID: -6192579815181800700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 588
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fe3d5f297d23300800000000000000
+      internalID: 230483557138820968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 605
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cf38c6c27502090800000000000000
+      internalID: -8061347484682421118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 556
+        width: 155
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ea60aa49feac080800000000000000
+      internalID: -9166250669772460516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_26
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 585
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12192622719812d0800000000000000
+      internalID: -3307734006851104228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e9874da97d286c0800000000000000
+      internalID: -4142511647237824942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 583
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b98b9a5e7f1331b0800000000000000
+      internalID: -5678160077637580361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 578
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b9375eb528c5ed0800000000000000
+      internalID: -2423919168228975865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 564
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e184d63ca27f32150800000000000000
+      internalID: 5846788504296441886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_31
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 549
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58631f4e2b88a9350800000000000000
+      internalID: 6024277753488029317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_32
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 582
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ac0796922e4a930800000000000000
+      internalID: 4153693423832975890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_33
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 558
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be9cd45a6ee3a1e0800000000000000
+      internalID: -2187642853514240328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_34
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 565
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7ef45c2986ae640800000000000000
+      internalID: 5110011706790111138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_35
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 535
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3396cc1f6c63d90800000000000000
+      internalID: -7118283419193625692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 494
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edc04c990e919a60800000000000000
+      internalID: 7679092603756793319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 472
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08566a7aa66dbc4c0800000000000000
+      internalID: -4266080468435835520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 532
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c9e5c1adfc84a50800000000000000
+      internalID: 6505678197422464117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_39
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 548
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bccdd11fd92c930800000000000000
+      internalID: 4162062664557448012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_40
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 540
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea36ff8b4dc0c08b0800000000000000
+      internalID: -5184754963233938514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_41
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 518
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3e0c05437000ac0800000000000000
+      internalID: -3891102156773596225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 522
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af6954f289ea1ad0800000000000000
+      internalID: -2730613475392262234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 495
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eed9266e655b3d30800000000000000
+      internalID: 4412214192588316391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 511
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99465dc1d07128c20800000000000000
+      internalID: 3207151229726975129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_45
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 513
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6cb661dad87460800000000000000
+      internalID: 7239776993904716434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_46
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 507
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed383bed897527d0800000000000000
+      internalID: -2943813130973069850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 527
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dae82052c6e0ed50800000000000000
+      internalID: 6764660362553387728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_48
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 493
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3f89e5018cb4ad0800000000000000
+      internalID: -2716857977555848287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_49
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 500
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a999c15b3e335a0800000000000000
+      internalID: -6542635466630784487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6db59e1440c94c0800000000000000
+      internalID: -4279540864774318385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_51
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 487
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b049ce0d5239ba30800000000000000
+      internalID: 4231468700152709300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_52
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 484
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7f341e18fb2ba50800000000000000
+      internalID: 6535496573819025406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 491
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca286b4929121570800000000000000
+      internalID: 8435832717167831756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 448
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c64921813ce3b80800000000000000
+      internalID: -8413072545723159530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_55
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 475
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77651fbd6c0b33680800000000000000
+      internalID: -8776476880674924937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_56
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 485
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d67ee1cab59e19b0800000000000000
+      internalID: -5107480298041477417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_57
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 451
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5477dca22848fd490800000000000000
+      internalID: -7719305541691017403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 470
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc03713456353fb50800000000000000
+      internalID: 6625731171174527183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_59
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 472
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7234173a109412470800000000000000
+      internalID: 8368049854016996135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sikuka_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 472
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb9fc32e6d7322e0800000000000000
+      internalID: -2151738284952282149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sikuka_0: -2659175650853160175
+      sikuka_1: 7360804635069171158
+      sikuka_10: -6370119091298795902
+      sikuka_11: -5429182080497816656
+      sikuka_12: 3211678776761907133
+      sikuka_13: 7273987369584710677
+      sikuka_14: 1968182650879425452
+      sikuka_15: -2256742400022336332
+      sikuka_16: 4969119058820788099
+      sikuka_17: 4174399276155954487
+      sikuka_18: 6796628912750311132
+      sikuka_19: 2471811775129476998
+      sikuka_2: 1871788164407429822
+      sikuka_20: -7829479862572148503
+      sikuka_21: -6047096934207588901
+      sikuka_22: -6192579815181800700
+      sikuka_23: 230483557138820968
+      sikuka_24: -8061347484682421118
+      sikuka_25: -9166250669772460516
+      sikuka_26: -3307734006851104228
+      sikuka_27: -4142511647237824942
+      sikuka_28: -5678160077637580361
+      sikuka_29: -2423919168228975865
+      sikuka_3: 8240321397142282221
+      sikuka_30: 5846788504296441886
+      sikuka_31: 6024277753488029317
+      sikuka_32: 4153693423832975890
+      sikuka_33: -2187642853514240328
+      sikuka_34: 5110011706790111138
+      sikuka_35: -7118283419193625692
+      sikuka_36: 7679092603756793319
+      sikuka_37: -4266080468435835520
+      sikuka_38: 6505678197422464117
+      sikuka_39: 4162062664557448012
+      sikuka_4: 2232270472317686723
+      sikuka_40: -5184754963233938514
+      sikuka_41: -3891102156773596225
+      sikuka_42: -2730613475392262234
+      sikuka_43: 4412214192588316391
+      sikuka_44: 3207151229726975129
+      sikuka_45: 7239776993904716434
+      sikuka_46: -2943813130973069850
+      sikuka_47: 6764660362553387728
+      sikuka_48: -2716857977555848287
+      sikuka_49: -6542635466630784487
+      sikuka_5: 8438200358597472235
+      sikuka_50: -4279540864774318385
+      sikuka_51: 4231468700152709300
+      sikuka_52: 6535496573819025406
+      sikuka_53: 8435832717167831756
+      sikuka_54: -8413072545723159530
+      sikuka_55: -8776476880674924937
+      sikuka_56: -5107480298041477417
+      sikuka_57: -7719305541691017403
+      sikuka_58: 6625731171174527183
+      sikuka_59: 8368049854016996135
+      sikuka_6: -8136641412222937633
+      sikuka_60: -2151738284952282149
+      sikuka_7: -2237530854895879569
+      sikuka_8: 8842504385154154360
+      sikuka_9: 4138067104869409915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: dc9fccb27ffc07246afae9ba8c9104f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2230304040108001585
+    second: ailike_0
+  - first:
+      213: 2448554390046644655
+    second: ailike_1
+  - first:
+      213: -7125950709537808949
+    second: ailike_2
+  - first:
+      213: 911827997567691327
+    second: ailike_3
+  - first:
+      213: 4154086429721612636
+    second: ailike_4
+  - first:
+      213: 2490627464395285052
+    second: ailike_5
+  - first:
+      213: -7110319755986776143
+    second: ailike_6
+  - first:
+      213: 7341816433504116936
+    second: ailike_7
+  - first:
+      213: -394973998901195960
+    second: ailike_8
+  - first:
+      213: -4499897139815639292
+    second: ailike_9
+  - first:
+      213: 8650730661291610133
+    second: ailike_10
+  - first:
+      213: 5723933811717571155
+    second: ailike_11
+  - first:
+      213: 8767893405627539532
+    second: ailike_12
+  - first:
+      213: 6104290857591154931
+    second: ailike_13
+  - first:
+      213: 8461019510255758416
+    second: ailike_14
+  - first:
+      213: 6488202686040974305
+    second: ailike_15
+  - first:
+      213: -222318946093725975
+    second: ailike_16
+  - first:
+      213: -1831352457914348240
+    second: ailike_17
+  - first:
+      213: 5884809168694548288
+    second: ailike_18
+  - first:
+      213: -1290207468167482017
+    second: ailike_19
+  - first:
+      213: 6853331730568722299
+    second: ailike_20
+  - first:
+      213: -1728718324482695109
+    second: ailike_21
+  - first:
+      213: 2250120582950087110
+    second: ailike_22
+  - first:
+      213: 4021480344939658909
+    second: ailike_23
+  - first:
+      213: -2566496423402265509
+    second: ailike_24
+  - first:
+      213: -5116067606620441371
+    second: ailike_25
+  - first:
+      213: -5948444885295075463
+    second: ailike_26
+  - first:
+      213: 3560216434897748652
+    second: ailike_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ailike_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 417
+        width: 261
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13981c335b1a3fe10800000000000000
+      internalID: 2230304040108001585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 355
+        width: 136
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa914f7ae330bf120800000000000000
+      internalID: 2448554390046644655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 474
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd5e07a5998b1d90800000000000000
+      internalID: -7125950709537808949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 475
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a27439bb677ac00800000000000000
+      internalID: 911827997567691327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 443
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51d3d9399746a930800000000000000
+      internalID: 4154086429721612636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 393
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32ec13ab7c709220800000000000000
+      internalID: 2490627464395285052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 291
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf47f0aad1135d90800000000000000
+      internalID: -7110319755986776143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 404
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0632dc52f53e560800000000000000
+      internalID: 7341816433504116936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 385
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b8afb9d35c48af0800000000000000
+      internalID: -394973998901195960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 351
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4071e7f84672d81c0800000000000000
+      internalID: -4499897139815639292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 262
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510ddd1f3b19d0870800000000000000
+      internalID: 8650730661291610133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 340
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352064d997f7f6f40800000000000000
+      internalID: 5723933811717571155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 349
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c406bee1990dda970800000000000000
+      internalID: 8767893405627539532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 125
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8a26c613cc6b450800000000000000
+      internalID: 6104290857591154931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 263
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ca17a8a649b6570800000000000000
+      internalID: 8461019510255758416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 253
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3253c87f9ba0a50800000000000000
+      internalID: 6488202686040974305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 263
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e68e3fa81a2aecf0800000000000000
+      internalID: -222318946093725975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 259
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d0a7774aab596e0800000000000000
+      internalID: -1831352457914348240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_18
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 282
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047100782ca0ba150800000000000000
+      internalID: 5884809168694548288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_19
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 243
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55325db423481ee0800000000000000
+      internalID: -1290207468167482017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 213
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77367006eceb1f50800000000000000
+      internalID: 6853331730568722299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 219
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b302080d7db5208e0800000000000000
+      internalID: -1728718324482695109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 220
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9e880afb80a3f10800000000000000
+      internalID: 2250120582950087110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 226
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ef757211b2fc730800000000000000
+      internalID: 4021480344939658909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 211
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b542ccdc919f16cd0800000000000000
+      internalID: -2566496423402265509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 214
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4718c2e931009b0800000000000000
+      internalID: -5116067606620441371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 217
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f6ffd94e0e27da0800000000000000
+      internalID: -5948444885295075463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ailike_27
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 217
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca286951cfd686130800000000000000
+      internalID: 3560216434897748652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ailike_0: 2230304040108001585
+      ailike_1: 2448554390046644655
+      ailike_10: 8650730661291610133
+      ailike_11: 5723933811717571155
+      ailike_12: 8767893405627539532
+      ailike_13: 6104290857591154931
+      ailike_14: 8461019510255758416
+      ailike_15: 6488202686040974305
+      ailike_16: -222318946093725975
+      ailike_17: -1831352457914348240
+      ailike_18: 5884809168694548288
+      ailike_19: -1290207468167482017
+      ailike_2: -7125950709537808949
+      ailike_20: 6853331730568722299
+      ailike_21: -1728718324482695109
+      ailike_22: 2250120582950087110
+      ailike_23: 4021480344939658909
+      ailike_24: -2566496423402265509
+      ailike_25: -5116067606620441371
+      ailike_26: -5948444885295075463
+      ailike_27: 3560216434897748652
+      ailike_3: 911827997567691327
+      ailike_4: 4154086429721612636
+      ailike_5: 2490627464395285052
+      ailike_6: -7110319755986776143
+      ailike_7: 7341816433504116936
+      ailike_8: -394973998901195960
+      ailike_9: -4499897139815639292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

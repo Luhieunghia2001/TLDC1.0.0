@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 27689b52d53f6ae4d90b413804811fb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9079679870626758956
+    second: kamiao_0
+  - first:
+      213: 6222546708894487088
+    second: kamiao_1
+  - first:
+      213: 1989526236909461482
+    second: kamiao_2
+  - first:
+      213: 7442773862109574935
+    second: kamiao_3
+  - first:
+      213: -8071883717396000406
+    second: kamiao_4
+  - first:
+      213: -3820400632066371363
+    second: kamiao_5
+  - first:
+      213: 6980254226308054157
+    second: kamiao_6
+  - first:
+      213: 1995127855782501495
+    second: kamiao_7
+  - first:
+      213: 1868046044996123714
+    second: kamiao_8
+  - first:
+      213: 661526400817586919
+    second: kamiao_9
+  - first:
+      213: -5288499668882475912
+    second: kamiao_10
+  - first:
+      213: -4184713766292814129
+    second: kamiao_11
+  - first:
+      213: 8060448109455744601
+    second: kamiao_12
+  - first:
+      213: 4957661611116921389
+    second: kamiao_13
+  - first:
+      213: 8135936001286134175
+    second: kamiao_14
+  - first:
+      213: 1542425616362911589
+    second: kamiao_15
+  - first:
+      213: -2795783808375834663
+    second: kamiao_16
+  - first:
+      213: 2538619512223261633
+    second: kamiao_17
+  - first:
+      213: 7774549635675019334
+    second: kamiao_18
+  - first:
+      213: 7184816489872975268
+    second: kamiao_19
+  - first:
+      213: 7881407407883442851
+    second: kamiao_20
+  - first:
+      213: -5265306178378226646
+    second: kamiao_21
+  - first:
+      213: -2810371247023780625
+    second: kamiao_22
+  - first:
+      213: -8360591140327076452
+    second: kamiao_23
+  - first:
+      213: 6519750290302635602
+    second: kamiao_24
+  - first:
+      213: 7868380142060042900
+    second: kamiao_25
+  - first:
+      213: -2054456297077816667
+    second: kamiao_26
+  - first:
+      213: -8898457156981233800
+    second: kamiao_27
+  - first:
+      213: -376843184249001269
+    second: kamiao_28
+  - first:
+      213: -37777715606876036
+    second: kamiao_29
+  - first:
+      213: 1470135877139663977
+    second: kamiao_30
+  - first:
+      213: -5128628336407849319
+    second: kamiao_31
+  - first:
+      213: -3962133310230990592
+    second: kamiao_32
+  - first:
+      213: -7887379649940223874
+    second: kamiao_33
+  - first:
+      213: -4164853658961331181
+    second: kamiao_34
+  - first:
+      213: 4892842007992704153
+    second: kamiao_35
+  - first:
+      213: 6631106767825220279
+    second: kamiao_36
+  - first:
+      213: -5496289716509150231
+    second: kamiao_37
+  - first:
+      213: -1609233794073714258
+    second: kamiao_38
+  - first:
+      213: 7374580435200369903
+    second: kamiao_39
+  - first:
+      213: 3469761545067946453
+    second: kamiao_40
+  - first:
+      213: 1062783235367633660
+    second: kamiao_41
+  - first:
+      213: -1042013087284719384
+    second: kamiao_42
+  - first:
+      213: 5188532321230525118
+    second: kamiao_43
+  - first:
+      213: 3553632696962518743
+    second: kamiao_44
+  - first:
+      213: 707004370057724109
+    second: kamiao_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kamiao_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 202
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2109f27cb0810e70800000000000000
+      internalID: 9079679870626758956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 359
+        width: 162
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0329ee5634dea5650800000000000000
+      internalID: 6222546708894487088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 347
+        width: 114
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefde4e42973c9b10800000000000000
+      internalID: 1989526236909461482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 461
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7177a92e46b0a4760800000000000000
+      internalID: 7442773862109574935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_4
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 424
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a611a549688eaff80800000000000000
+      internalID: -8071883717396000406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 395
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd09102ddd53bfac0800000000000000
+      internalID: -3820400632066371363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 369
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cb2016c38ded060800000000000000
+      internalID: 6980254226308054157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 281
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c1765d63e10bb10800000000000000
+      internalID: 1995127855782501495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 275
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c31180bf1ace910800000000000000
+      internalID: 1868046044996123714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 255
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e26642b1c63e2900800000000000000
+      internalID: 661526400817586919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 296
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8743d7122997b96b0800000000000000
+      internalID: -5288499668882475912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 333
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc60e694009ece5c0800000000000000
+      internalID: -4184713766292814129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 312
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e149679d67cdf60800000000000000
+      internalID: 8060448109455744601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 342
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22073fe7f62dc440800000000000000
+      internalID: 4957661611116921389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 316
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99d8f7efa6a8e070800000000000000
+      internalID: 8135936001286134175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 305
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56736cb0debc76510800000000000000
+      internalID: 1542425616362911589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 305
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d738f060716339d0800000000000000
+      internalID: -2795783808375834663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 245
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c361f50ffcfa3320800000000000000
+      internalID: 2538619512223261633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 289
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6485d0bc3bfb4eb60800000000000000
+      internalID: 7774549635675019334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 287
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a56f3fd78895b360800000000000000
+      internalID: 7184816489872975268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa560da742606d60800000000000000
+      internalID: 7881407407883442851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 263
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24a8147defdde6b0800000000000000
+      internalID: -5265306178378226646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 265
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec0d26ad3e8ff8d0800000000000000
+      internalID: -2810371247023780625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 272
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dc68877a639fb80800000000000000
+      internalID: -8360591140327076452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 262
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e0dbd885eca7a50800000000000000
+      internalID: 6519750290302635602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 265
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49af93dfc0a123d60800000000000000
+      internalID: 7868380142060042900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 242
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2cc1ef1ea1d73e0800000000000000
+      internalID: -2054456297077816667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 242
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877e91d9c54528480800000000000000
+      internalID: -8898457156981233800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 213
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaafcade1f25caf0800000000000000
+      internalID: -376843184249001269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 267
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7093d82e59c97ff0800000000000000
+      internalID: -37777715606876036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 219
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c87788ac8f66410800000000000000
+      internalID: 1470135877139663977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996586f53b373d8b0800000000000000
+      internalID: -5128628336407849319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 251
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00170f22fbca309c0800000000000000
+      internalID: -3962133310230990592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e780bac5ff56a8290800000000000000
+      internalID: -7887379649940223874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 217
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cbf1cd9a77336c0800000000000000
+      internalID: -4164853658961331181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_35
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 220
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c938402edd6e340800000000000000
+      internalID: 4892842007992704153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 204
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b239e3e87c660c50800000000000000
+      internalID: 6631106767825220279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 233
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3f6d89f9149b3b0800000000000000
+      internalID: -5496289716509150231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_38
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 235
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1aeafe36adaa9e0800000000000000
+      internalID: -1609233794073714258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_39
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 232
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4e9a765d5c75660800000000000000
+      internalID: 7374580435200369903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 226
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1e51dddb1172030800000000000000
+      internalID: 3469761545067946453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 221
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf20451c8b3cfbe00800000000000000
+      internalID: 1062783235367633660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_42
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 209
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e016113e960a81f0800000000000000
+      internalID: -1042013087284719384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_43
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 211
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb21498f7ae510840800000000000000
+      internalID: 5188532321230525118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 208
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de0aa42c1a015130800000000000000
+      internalID: 3553632696962518743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamiao_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 195
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc080fb8ab8cfc900800000000000000
+      internalID: 707004370057724109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kamiao_0: 9079679870626758956
+      kamiao_1: 6222546708894487088
+      kamiao_10: -5288499668882475912
+      kamiao_11: -4184713766292814129
+      kamiao_12: 8060448109455744601
+      kamiao_13: 4957661611116921389
+      kamiao_14: 8135936001286134175
+      kamiao_15: 1542425616362911589
+      kamiao_16: -2795783808375834663
+      kamiao_17: 2538619512223261633
+      kamiao_18: 7774549635675019334
+      kamiao_19: 7184816489872975268
+      kamiao_2: 1989526236909461482
+      kamiao_20: 7881407407883442851
+      kamiao_21: -5265306178378226646
+      kamiao_22: -2810371247023780625
+      kamiao_23: -8360591140327076452
+      kamiao_24: 6519750290302635602
+      kamiao_25: 7868380142060042900
+      kamiao_26: -2054456297077816667
+      kamiao_27: -8898457156981233800
+      kamiao_28: -376843184249001269
+      kamiao_29: -37777715606876036
+      kamiao_3: 7442773862109574935
+      kamiao_30: 1470135877139663977
+      kamiao_31: -5128628336407849319
+      kamiao_32: -3962133310230990592
+      kamiao_33: -7887379649940223874
+      kamiao_34: -4164853658961331181
+      kamiao_35: 4892842007992704153
+      kamiao_36: 6631106767825220279
+      kamiao_37: -5496289716509150231
+      kamiao_38: -1609233794073714258
+      kamiao_39: 7374580435200369903
+      kamiao_4: -8071883717396000406
+      kamiao_40: 3469761545067946453
+      kamiao_41: 1062783235367633660
+      kamiao_42: -1042013087284719384
+      kamiao_43: 5188532321230525118
+      kamiao_44: 3553632696962518743
+      kamiao_45: 707004370057724109
+      kamiao_5: -3820400632066371363
+      kamiao_6: 6980254226308054157
+      kamiao_7: 1995127855782501495
+      kamiao_8: 1868046044996123714
+      kamiao_9: 661526400817586919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

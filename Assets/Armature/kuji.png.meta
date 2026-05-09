@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 004ce85dafbba8a418730c109864b476
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8594247611744598652
+    second: kuji_0
+  - first:
+      213: 7230020633379535702
+    second: kuji_1
+  - first:
+      213: -992197440968842286
+    second: kuji_2
+  - first:
+      213: -6031263948684866387
+    second: kuji_3
+  - first:
+      213: -3158783596659158868
+    second: kuji_4
+  - first:
+      213: -6129355540449214511
+    second: kuji_5
+  - first:
+      213: -321080994548620596
+    second: kuji_6
+  - first:
+      213: -6614663457622940161
+    second: kuji_7
+  - first:
+      213: -6469041277482195595
+    second: kuji_8
+  - first:
+      213: -4901415504115172362
+    second: kuji_9
+  - first:
+      213: 3114051172518895266
+    second: kuji_10
+  - first:
+      213: -2370446771364232492
+    second: kuji_11
+  - first:
+      213: -7101927753858749149
+    second: kuji_12
+  - first:
+      213: 1384155133681276328
+    second: kuji_13
+  - first:
+      213: 472203581779040746
+    second: kuji_14
+  - first:
+      213: 3753015124100883061
+    second: kuji_15
+  - first:
+      213: 4138761289322659461
+    second: kuji_16
+  - first:
+      213: 5004226448596264124
+    second: kuji_17
+  - first:
+      213: 7572486735546563308
+    second: kuji_18
+  - first:
+      213: 1928410702823045921
+    second: kuji_19
+  - first:
+      213: 3587830484997854664
+    second: kuji_20
+  - first:
+      213: 427027545698517758
+    second: kuji_21
+  - first:
+      213: -7587283100191835665
+    second: kuji_22
+  - first:
+      213: -4928703161689133077
+    second: kuji_23
+  - first:
+      213: -6355404532650322740
+    second: kuji_24
+  - first:
+      213: -8105716932464801492
+    second: kuji_25
+  - first:
+      213: -3865567738865754798
+    second: kuji_26
+  - first:
+      213: -1019012527830460695
+    second: kuji_27
+  - first:
+      213: 807870628279476880
+    second: kuji_28
+  - first:
+      213: -8807298438259073580
+    second: kuji_29
+  - first:
+      213: -1866132496072490729
+    second: kuji_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kuji_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 813
+        width: 180
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a39c92ba6e44770800000000000000
+      internalID: 8594247611744598652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 823
+        width: 162
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bf453b571365460800000000000000
+      internalID: 7230020633379535702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 818
+        width: 121
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d320003fa10b32f0800000000000000
+      internalID: -992197440968842286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 988
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacc408c465ac4ca0800000000000000
+      internalID: -6031263948684866387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 962
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0dcc60e0fb924d0800000000000000
+      internalID: -3158783596659158868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 977
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfb3755c9720faa0800000000000000
+      internalID: -6129355540449214511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 949
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2eccf598a4b8bf0800000000000000
+      internalID: -321080994548620596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 951
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5a0ab91aef334a0800000000000000
+      internalID: -6614663457622940161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 113
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575a55a8b395936a0800000000000000
+      internalID: -6469041277482195595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 731
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb7f9c519caafbb0800000000000000
+      internalID: -4901415504115172362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 623
+        width: 74
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae906eda05573b20800000000000000
+      internalID: 3114051172518895266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 688
+        width: 67
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d20dd9783b7a1fd0800000000000000
+      internalID: -2370446771364232492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 701
+        width: 139
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32de2c2e552e07d90800000000000000
+      internalID: -7101927753858749149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_13
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 732
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a51b11b2c1853310800000000000000
+      internalID: 1384155133681276328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 561
+        width: 93
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae95b91e7aa9d8600800000000000000
+      internalID: 472203581779040746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 641
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572a3bcfe53651430800000000000000
+      internalID: 3753015124100883061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 683
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ef63ce675df6930800000000000000
+      internalID: 4138761289322659461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4e1340175927540800000000000000
+      internalID: 5004226448596264124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 584
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea3c92b090e61960800000000000000
+      internalID: 7572486735546563308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 604
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b34da215713ca10800000000000000
+      internalID: 1928410702823045921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 590
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c55d9421d88ac130800000000000000
+      internalID: 3587830484997854664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 500
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2caa25a4b1de500800000000000000
+      internalID: 427027545698517758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 573
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9bdb2383e84b690800000000000000
+      internalID: -7587283100191835665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 544
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befac2c769ab99bb0800000000000000
+      internalID: -4928703161689133077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 508
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4587bff311dc7a0800000000000000
+      internalID: -6355404532650322740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 102
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2901965565b28f80800000000000000
+      internalID: -8105716932464801492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 503
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d52b54f9eba5ac0800000000000000
+      internalID: -3865567738865754798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 502
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61ef0418dbbd1f0800000000000000
+      internalID: -1019012527830460695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 466
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092e11f5e02263b00800000000000000
+      internalID: 807870628279476880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 406
+        width: 132
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd17b4cbb036c580800000000000000
+      internalID: -8807298438259073580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kuji_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 445
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71149cbc16a2a16e0800000000000000
+      internalID: -1866132496072490729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kuji_0: 8594247611744598652
+      kuji_1: 7230020633379535702
+      kuji_10: 3114051172518895266
+      kuji_11: -2370446771364232492
+      kuji_12: -7101927753858749149
+      kuji_13: 1384155133681276328
+      kuji_14: 472203581779040746
+      kuji_15: 3753015124100883061
+      kuji_16: 4138761289322659461
+      kuji_17: 5004226448596264124
+      kuji_18: 7572486735546563308
+      kuji_19: 1928410702823045921
+      kuji_2: -992197440968842286
+      kuji_20: 3587830484997854664
+      kuji_21: 427027545698517758
+      kuji_22: -7587283100191835665
+      kuji_23: -4928703161689133077
+      kuji_24: -6355404532650322740
+      kuji_25: -8105716932464801492
+      kuji_26: -3865567738865754798
+      kuji_27: -1019012527830460695
+      kuji_28: 807870628279476880
+      kuji_29: -8807298438259073580
+      kuji_3: -6031263948684866387
+      kuji_30: -1866132496072490729
+      kuji_4: -3158783596659158868
+      kuji_5: -6129355540449214511
+      kuji_6: -321080994548620596
+      kuji_7: -6614663457622940161
+      kuji_8: -6469041277482195595
+      kuji_9: -4901415504115172362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

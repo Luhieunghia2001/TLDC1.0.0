@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: 7d634e0d9b2a60041a982c6305d0043b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -572660012745670789
+    second: habo_0
+  - first:
+      213: -6083190710879244559
+    second: habo_1
+  - first:
+      213: -6986622414587397215
+    second: habo_2
+  - first:
+      213: 2538137750030900825
+    second: habo_3
+  - first:
+      213: 7462944313936686782
+    second: habo_4
+  - first:
+      213: 6092928948470378921
+    second: habo_5
+  - first:
+      213: 5709586087468961816
+    second: habo_6
+  - first:
+      213: 6187545526716374975
+    second: habo_7
+  - first:
+      213: 4738895534353360956
+    second: habo_8
+  - first:
+      213: -4867360119591631862
+    second: habo_9
+  - first:
+      213: -8494008626479925290
+    second: habo_10
+  - first:
+      213: -1840330884330747235
+    second: habo_11
+  - first:
+      213: 6378382714111359588
+    second: habo_12
+  - first:
+      213: 1255599624258553614
+    second: habo_13
+  - first:
+      213: -2372772424329680997
+    second: habo_14
+  - first:
+      213: 7620460406185507298
+    second: habo_15
+  - first:
+      213: 792771837543589015
+    second: habo_16
+  - first:
+      213: -3325601303714466810
+    second: habo_17
+  - first:
+      213: 1526413565351402216
+    second: habo_18
+  - first:
+      213: 8572900201268834724
+    second: habo_19
+  - first:
+      213: 5002734852535049575
+    second: habo_20
+  - first:
+      213: 470709669783696450
+    second: habo_21
+  - first:
+      213: 2646853779558681228
+    second: habo_22
+  - first:
+      213: 4629178664642878127
+    second: habo_23
+  - first:
+      213: 7698006109026650978
+    second: habo_24
+  - first:
+      213: -4531200449723500702
+    second: habo_25
+  - first:
+      213: -3060104403600738898
+    second: habo_26
+  - first:
+      213: -8657203687179495206
+    second: habo_27
+  - first:
+      213: 7594122661491509057
+    second: habo_28
+  - first:
+      213: -7659825951849259238
+    second: habo_29
+  - first:
+      213: 2411926705131028123
+    second: habo_30
+  - first:
+      213: -4581049589416224816
+    second: habo_31
+  - first:
+      213: 8146396843677367992
+    second: habo_32
+  - first:
+      213: -6288772525872161493
+    second: habo_33
+  - first:
+      213: -3151090235729371628
+    second: habo_34
+  - first:
+      213: -5429904908404711620
+    second: habo_35
+  - first:
+      213: -8215991473092160469
+    second: habo_36
+  - first:
+      213: -6597193811935875599
+    second: habo_37
+  - first:
+      213: 7046156964935366206
+    second: habo_38
+  - first:
+      213: 7735996631370046497
+    second: habo_39
+  - first:
+      213: 4821587835128831557
+    second: habo_40
+  - first:
+      213: 2948480052167686500
+    second: habo_41
+  - first:
+      213: -4470534728177374815
+    second: habo_42
+  - first:
+      213: 7679727875104255815
+    second: habo_43
+  - first:
+      213: 6658298909643641615
+    second: habo_44
+  - first:
+      213: -7869472439293174048
+    second: habo_45
+  - first:
+      213: -5222483132184317177
+    second: habo_46
+  - first:
+      213: -3060120489427436322
+    second: habo_47
+  - first:
+      213: -4657136887425554510
+    second: habo_48
+  - first:
+      213: 476855819165241863
+    second: habo_49
+  - first:
+      213: -6368761046109803347
+    second: habo_50
+  - first:
+      213: 8996610325757851908
+    second: habo_51
+  - first:
+      213: 6859022995790548445
+    second: habo_52
+  - first:
+      213: -3571239650530408594
+    second: habo_53
+  - first:
+      213: 792939539281026481
+    second: habo_54
+  - first:
+      213: 3259089385927100762
+    second: habo_55
+  - first:
+      213: -9176381925135478148
+    second: habo_56
+  - first:
+      213: -1195760135792172721
+    second: habo_57
+  - first:
+      213: 807883990794926078
+    second: habo_58
+  - first:
+      213: 3802055235971629946
+    second: habo_59
+  - first:
+      213: -8413023298484668241
+    second: habo_60
+  - first:
+      213: 2398322156758469429
+    second: habo_61
+  - first:
+      213: -177662192017576968
+    second: habo_62
+  - first:
+      213: -4752276803231831438
+    second: habo_63
+  - first:
+      213: 1598599096204788447
+    second: habo_64
+  - first:
+      213: -8001597696310464798
+    second: habo_65
+  - first:
+      213: 5473271560100449823
+    second: habo_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: habo_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 235
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f3933a0c08d08f0800000000000000
+      internalID: -572660012745670789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 431
+        width: 250
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe2611574a249ba0800000000000000
+      internalID: -6083190710879244559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 328
+        width: 25
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab7cbe3ee78a0f90800000000000000
+      internalID: -6986622414587397215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 361
+        width: 19
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ed99506d6493320800000000000000
+      internalID: 2538137750030900825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 386
+        width: 11
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebea7ba2054b19760800000000000000
+      internalID: 7462944313936686782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 294
+        width: 162
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1754fc89e6e8450800000000000000
+      internalID: 6092928948470378921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 281
+        width: 69
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810991ebb468c3f40800000000000000
+      internalID: 5709586087468961816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 392
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf9c7f9fd39ed550800000000000000
+      internalID: 6187545526716374975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 359
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3821d87160f3c140800000000000000
+      internalID: 4738895534353360956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 336
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0486d572c9a37cb0800000000000000
+      internalID: -4867360119591631862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 301
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d77f8b48283f1a80800000000000000
+      internalID: -8494008626479925290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 303
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a094aafc4d576e0800000000000000
+      internalID: -1840330884330747235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 280
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a791cc841948850800000000000000
+      internalID: 6378382714111359588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 107
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078b00b439cc6110800000000000000
+      internalID: 1255599624258553614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 175
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97acf23d08321fd0800000000000000
+      internalID: -2372772424329680997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 230
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9bd9f4d5051c960800000000000000
+      internalID: 7620460406185507298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 195
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79428b439cd700b00800000000000000
+      internalID: 792771837543589015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 229
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604f58beb3719d1d0800000000000000
+      internalID: -3325601303714466810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 144
+        width: 71
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea9b17ec09ee2510800000000000000
+      internalID: 1526413565351402216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 217
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1f087df4f09f670800000000000000
+      internalID: 8572900201268834724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 281
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d51deb7d84d6540800000000000000
+      internalID: 5002734852535049575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_21
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 247
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2447cc363fb488600800000000000000
+      internalID: 470709669783696450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_22
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 229
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8acef62d738bb420800000000000000
+      internalID: 2646853779558681228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 171
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa1bd318752e3040800000000000000
+      internalID: 4629178664642878127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 164
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b025735cfc4da60800000000000000
+      internalID: 7698006109026650978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_25
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 204
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267f324c231fd11c0800000000000000
+      internalID: -4531200449723500702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_26
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 154
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5f4cf02435885d0800000000000000
+      internalID: -3060104403600738898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8d6754d1f6bd780800000000000000
+      internalID: -8657203687179495206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 122
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14702f2435eb36960800000000000000
+      internalID: 7594122661491509057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 142
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fd4ba51e4d2b590800000000000000
+      internalID: -7659825951849259238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 192
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9efc933f82e87120800000000000000
+      internalID: 2411926705131028123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 178
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7956c7ba7dc60c0800000000000000
+      internalID: -4581049589416224816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 139
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beb0c294c0dd0170800000000000000
+      internalID: 8146396843677367992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 149
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d572205bac9b8a0800000000000000
+      internalID: -6288772525872161493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 120
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e162430241544d0800000000000000
+      internalID: -3151090235729371628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 103
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f1362314a15a4b0800000000000000
+      internalID: -5429904908404711620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 152
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2414b0194feafd80800000000000000
+      internalID: -8215991473092160469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 140
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd28257e2f0274a0800000000000000
+      internalID: -6597193811935875599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_38
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 108
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36fd9e6d6af8c160800000000000000
+      internalID: 7046156964935366206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_39
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 102
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c1e6cf2f7cb5b60800000000000000
+      internalID: 7735996631370046497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ed2361798b9e240800000000000000
+      internalID: 4821587835128831557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 131
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469b7c85cfa1be820800000000000000
+      internalID: 2948480052167686500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 87
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9a0f2c95875f1c0800000000000000
+      internalID: -4470534728177374815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_43
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 101
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f214f30dfd39a60800000000000000
+      internalID: 7679727875104255815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_44
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 85
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f031ea5c497076c50800000000000000
+      internalID: 6658298909643641615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee143eb2840ac290800000000000000
+      internalID: -7869472439293174048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 110
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7033facd2430687b0800000000000000
+      internalID: -5222483132184317177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 95
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc78c9c0a44885d0800000000000000
+      internalID: -3060120489427436322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 80
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7a1aaeca68e5fb0800000000000000
+      internalID: -4657136887425554510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 53
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7021c6e47d12e9600800000000000000
+      internalID: 476855819165241863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 90
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daca74b529d9d97a0800000000000000
+      internalID: -6368761046109803347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 92
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4097869dc616adc70800000000000000
+      internalID: 8996610325757851908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddc452f215203f50800000000000000
+      internalID: 6859022995790548445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_53
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 58
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6748568578607ec0800000000000000
+      internalID: -3571239650530408594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_54
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 90
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd153f4f46110b00800000000000000
+      internalID: 792939539281026481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_55
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 74
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a594e63778c9a3d20800000000000000
+      internalID: 3259089385927100762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_56
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c721cf4f141f6a080800000000000000
+      internalID: -9176381925135478148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_57
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 68
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41e88ded7ec76fe0800000000000000
+      internalID: -1195760135792172721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_58
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 63
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef77e03953e263b00800000000000000
+      internalID: 807883990794926078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_59
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 53
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73c08cc71d93c430800000000000000
+      internalID: 3802055235971629946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 52
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa87cb652efee3b80800000000000000
+      internalID: -8413023298484668241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 54
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b89827b4d884120800000000000000
+      internalID: 2398322156758469429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_62
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 70
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb66ca7d21d88df0800000000000000
+      internalID: -177662192017576968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_63
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 47
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aa9051d658c0eb0800000000000000
+      internalID: -4752276803231831438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_64
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 53
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd20c83886d5f2610800000000000000
+      internalID: 1598599096204788447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_65
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eea4db1a4d94f090800000000000000
+      internalID: -8001597696310464798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habo_66
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 51
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e090b3c77f4fb40800000000000000
+      internalID: 5473271560100449823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      habo_0: -572660012745670789
+      habo_1: -6083190710879244559
+      habo_10: -8494008626479925290
+      habo_11: -1840330884330747235
+      habo_12: 6378382714111359588
+      habo_13: 1255599624258553614
+      habo_14: -2372772424329680997
+      habo_15: 7620460406185507298
+      habo_16: 792771837543589015
+      habo_17: -3325601303714466810
+      habo_18: 1526413565351402216
+      habo_19: 8572900201268834724
+      habo_2: -6986622414587397215
+      habo_20: 5002734852535049575
+      habo_21: 470709669783696450
+      habo_22: 2646853779558681228
+      habo_23: 4629178664642878127
+      habo_24: 7698006109026650978
+      habo_25: -4531200449723500702
+      habo_26: -3060104403600738898
+      habo_27: -8657203687179495206
+      habo_28: 7594122661491509057
+      habo_29: -7659825951849259238
+      habo_3: 2538137750030900825
+      habo_30: 2411926705131028123
+      habo_31: -4581049589416224816
+      habo_32: 8146396843677367992
+      habo_33: -6288772525872161493
+      habo_34: -3151090235729371628
+      habo_35: -5429904908404711620
+      habo_36: -8215991473092160469
+      habo_37: -6597193811935875599
+      habo_38: 7046156964935366206
+      habo_39: 7735996631370046497
+      habo_4: 7462944313936686782
+      habo_40: 4821587835128831557
+      habo_41: 2948480052167686500
+      habo_42: -4470534728177374815
+      habo_43: 7679727875104255815
+      habo_44: 6658298909643641615
+      habo_45: -7869472439293174048
+      habo_46: -5222483132184317177
+      habo_47: -3060120489427436322
+      habo_48: -4657136887425554510
+      habo_49: 476855819165241863
+      habo_5: 6092928948470378921
+      habo_50: -6368761046109803347
+      habo_51: 8996610325757851908
+      habo_52: 6859022995790548445
+      habo_53: -3571239650530408594
+      habo_54: 792939539281026481
+      habo_55: 3259089385927100762
+      habo_56: -9176381925135478148
+      habo_57: -1195760135792172721
+      habo_58: 807883990794926078
+      habo_59: 3802055235971629946
+      habo_6: 5709586087468961816
+      habo_60: -8413023298484668241
+      habo_61: 2398322156758469429
+      habo_62: -177662192017576968
+      habo_63: -4752276803231831438
+      habo_64: 1598599096204788447
+      habo_65: -8001597696310464798
+      habo_66: 5473271560100449823
+      habo_7: 6187545526716374975
+      habo_8: 4738895534353360956
+      habo_9: -4867360119591631862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: f2ffa922f57930e4e879718888fce6a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3188039171355605381
+    second: maji_0
+  - first:
+      213: -8259421122962713518
+    second: maji_1
+  - first:
+      213: -160231261948892964
+    second: maji_2
+  - first:
+      213: -8782348110024022357
+    second: maji_3
+  - first:
+      213: -68795442529255196
+    second: maji_4
+  - first:
+      213: 7413325101050005629
+    second: maji_5
+  - first:
+      213: 8810217547093674875
+    second: maji_6
+  - first:
+      213: -8946514808608646691
+    second: maji_7
+  - first:
+      213: -7620718728061380
+    second: maji_8
+  - first:
+      213: -94801325611066251
+    second: maji_9
+  - first:
+      213: 6977493699357243960
+    second: maji_10
+  - first:
+      213: 2085398083731254270
+    second: maji_11
+  - first:
+      213: -8486110245618217756
+    second: maji_12
+  - first:
+      213: -2451227773237798192
+    second: maji_13
+  - first:
+      213: 5015247807109162426
+    second: maji_14
+  - first:
+      213: 5580367062111138857
+    second: maji_15
+  - first:
+      213: -7452697786534772765
+    second: maji_16
+  - first:
+      213: 4954704992629881523
+    second: maji_17
+  - first:
+      213: 6624615920199143313
+    second: maji_18
+  - first:
+      213: 4177075526073886266
+    second: maji_19
+  - first:
+      213: 333413776165776534
+    second: maji_20
+  - first:
+      213: 793295067456113096
+    second: maji_21
+  - first:
+      213: 3894115749150015532
+    second: maji_22
+  - first:
+      213: 8529369727301620545
+    second: maji_23
+  - first:
+      213: 4938957569703288133
+    second: maji_24
+  - first:
+      213: -5613510142651802064
+    second: maji_25
+  - first:
+      213: 6786060595853205306
+    second: maji_26
+  - first:
+      213: -5580510451282995633
+    second: maji_27
+  - first:
+      213: 6348160173158447780
+    second: maji_28
+  - first:
+      213: -4687114388262713804
+    second: maji_29
+  - first:
+      213: 892054359091898012
+    second: maji_30
+  - first:
+      213: 2040164019988954899
+    second: maji_31
+  - first:
+      213: -2459299447021343565
+    second: maji_32
+  - first:
+      213: -3419496465611083042
+    second: maji_33
+  - first:
+      213: -5915037953988938271
+    second: maji_34
+  - first:
+      213: 4220177867479845318
+    second: maji_35
+  - first:
+      213: 2661551176069980422
+    second: maji_36
+  - first:
+      213: 8317449284043639180
+    second: maji_37
+  - first:
+      213: -2248962566117707617
+    second: maji_38
+  - first:
+      213: 1011339675376743602
+    second: maji_39
+  - first:
+      213: -7240181987102273255
+    second: maji_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maji_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 120
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76815db34fc1c3d0800000000000000
+      internalID: -3188039171355605381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 368
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254137bbf34a06d80800000000000000
+      internalID: -8259421122962713518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 291
+        width: 82
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8af95248eb6cdf0800000000000000
+      internalID: -160231261948892964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 371
+        width: 100
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6e130cce4de1680800000000000000
+      internalID: -8782348110024022357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 455
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0c0e5d8e69b0ff0800000000000000
+      internalID: -68795442529255196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_5
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 369
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d788294e6eb61e660800000000000000
+      internalID: 7413325101050005629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 414
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b8e683e2e244a70800000000000000
+      internalID: 8810217547093674875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 262
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd91c17ae2897d380800000000000000
+      internalID: -8946514808608646691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ed7472ffce4eff0800000000000000
+      internalID: -7620718728061380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 328
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c57b652b23faef0800000000000000
+      internalID: -94801325611066251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_10
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 233
+        width: 90
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83af6bc1d8905d060800000000000000
+      internalID: 6977493699357243960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 340
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbe41c1282d0fc10800000000000000
+      internalID: 2085398083731254270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 309
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec8f1561b74b3a80800000000000000
+      internalID: -8486110245618217756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 255
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dad690d35d7bfdd0800000000000000
+      internalID: -2451227773237798192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 294
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab56c430f4db99540800000000000000
+      internalID: 5015247807109162426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 276
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924bc65e642717d40800000000000000
+      internalID: 5580367062111138857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef314769d2b29890800000000000000
+      internalID: -7452697786534772765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 262
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bafe8c80f5a2c440800000000000000
+      internalID: 4954704992629881523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 252
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f0ed8a41d5feb50800000000000000
+      internalID: 6624615920199143313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 215
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36ac935f04f7f930800000000000000
+      internalID: 4177075526073886266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c259b101680a400800000000000000
+      internalID: 333413776165776534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 243
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c98ac929a9520b00800000000000000
+      internalID: 793295067456113096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 270
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20475654adaa0630800000000000000
+      internalID: 3894115749150015532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 273
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14398c193986e5670800000000000000
+      internalID: 8529369727301620545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 247
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d14eeedb3ba8440800000000000000
+      internalID: 4938957569703288133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 248
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03edf24544ec812b0800000000000000
+      internalID: -5613510142651802064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 243
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f1b18682eec2e50800000000000000
+      internalID: 6786060595853205306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 228
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f461ce5bf4b0e82b0800000000000000
+      internalID: -5580510451282995633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 193
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa34622b02391850800000000000000
+      internalID: 6348160173158447780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 226
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4368af91c4604feb0800000000000000
+      internalID: -4687114388262713804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 231
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96e20a96b6316c00800000000000000
+      internalID: 892054359091898012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 214
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f79feed5e105c10800000000000000
+      internalID: 2040164019988954899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 204
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc6affce20deddd0800000000000000
+      internalID: -2459299447021343565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 223
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed23c80f4128b80d0800000000000000
+      internalID: -3419496465611083042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_34
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 158
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5398fe15099eda0800000000000000
+      internalID: -5915037953988938271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 196
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c90a183965119a30800000000000000
+      internalID: 4220177867479845318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 92
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601ac2171babfe420800000000000000
+      internalID: 2661551176069980422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 175
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c898fbc5e048d6370800000000000000
+      internalID: 8317449284043639180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90376d26741ac0e0800000000000000
+      internalID: -2248962566117707617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_39
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 178
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4f6129310090e00800000000000000
+      internalID: 1011339675376743602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maji_40
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 159
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9115695c7d4b58b90800000000000000
+      internalID: -7240181987102273255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      maji_0: -3188039171355605381
+      maji_1: -8259421122962713518
+      maji_10: 6977493699357243960
+      maji_11: 2085398083731254270
+      maji_12: -8486110245618217756
+      maji_13: -2451227773237798192
+      maji_14: 5015247807109162426
+      maji_15: 5580367062111138857
+      maji_16: -7452697786534772765
+      maji_17: 4954704992629881523
+      maji_18: 6624615920199143313
+      maji_19: 4177075526073886266
+      maji_2: -160231261948892964
+      maji_20: 333413776165776534
+      maji_21: 793295067456113096
+      maji_22: 3894115749150015532
+      maji_23: 8529369727301620545
+      maji_24: 4938957569703288133
+      maji_25: -5613510142651802064
+      maji_26: 6786060595853205306
+      maji_27: -5580510451282995633
+      maji_28: 6348160173158447780
+      maji_29: -4687114388262713804
+      maji_3: -8782348110024022357
+      maji_30: 892054359091898012
+      maji_31: 2040164019988954899
+      maji_32: -2459299447021343565
+      maji_33: -3419496465611083042
+      maji_34: -5915037953988938271
+      maji_35: 4220177867479845318
+      maji_36: 2661551176069980422
+      maji_37: 8317449284043639180
+      maji_38: -2248962566117707617
+      maji_39: 1011339675376743602
+      maji_4: -68795442529255196
+      maji_40: -7240181987102273255
+      maji_5: 7413325101050005629
+      maji_6: 8810217547093674875
+      maji_7: -8946514808608646691
+      maji_8: -7620718728061380
+      maji_9: -94801325611066251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

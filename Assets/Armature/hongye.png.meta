@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 17bc269c67a39ed4293270cab9fbaa7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -531890517734038240
+    second: hongye_0
+  - first:
+      213: 6950533426962899585
+    second: hongye_1
+  - first:
+      213: 6259599646551727077
+    second: hongye_2
+  - first:
+      213: -1167094828625153726
+    second: hongye_3
+  - first:
+      213: -5227254279959580980
+    second: hongye_4
+  - first:
+      213: -8427316980138636502
+    second: hongye_5
+  - first:
+      213: 2098235390278596780
+    second: hongye_6
+  - first:
+      213: 1503580883837543983
+    second: hongye_7
+  - first:
+      213: -897201578466816918
+    second: hongye_8
+  - first:
+      213: 723747579493459016
+    second: hongye_9
+  - first:
+      213: 4026599227494958741
+    second: hongye_10
+  - first:
+      213: 7211218630224979787
+    second: hongye_11
+  - first:
+      213: -7598479536163086832
+    second: hongye_12
+  - first:
+      213: -8021462040594117805
+    second: hongye_13
+  - first:
+      213: 2708294432000897081
+    second: hongye_14
+  - first:
+      213: -3081505324386542721
+    second: hongye_15
+  - first:
+      213: 7109096350416334111
+    second: hongye_16
+  - first:
+      213: -938805271234156641
+    second: hongye_17
+  - first:
+      213: -4964715711819764348
+    second: hongye_18
+  - first:
+      213: 7787657033610373804
+    second: hongye_19
+  - first:
+      213: -3937626227116160131
+    second: hongye_20
+  - first:
+      213: 7356002405100751001
+    second: hongye_21
+  - first:
+      213: 7498290920065183287
+    second: hongye_22
+  - first:
+      213: -1698043010815672259
+    second: hongye_23
+  - first:
+      213: -5245153640198034356
+    second: hongye_24
+  - first:
+      213: -4939912211636141065
+    second: hongye_25
+  - first:
+      213: 6254245695443080023
+    second: hongye_26
+  - first:
+      213: -2019184477800484949
+    second: hongye_27
+  - first:
+      213: 9027672205262257435
+    second: hongye_28
+  - first:
+      213: 45075160559163149
+    second: hongye_29
+  - first:
+      213: -702788614058675031
+    second: hongye_30
+  - first:
+      213: 8665285931551561237
+    second: hongye_31
+  - first:
+      213: 4654263472302901202
+    second: hongye_32
+  - first:
+      213: -9051397331354138592
+    second: hongye_33
+  - first:
+      213: -2867260794829383407
+    second: hongye_34
+  - first:
+      213: 3240576948968676725
+    second: hongye_35
+  - first:
+      213: 2156233833076017181
+    second: hongye_36
+  - first:
+      213: -2530530708287305089
+    second: hongye_37
+  - first:
+      213: -2756755404937445305
+    second: hongye_38
+  - first:
+      213: -5047930540484443189
+    second: hongye_39
+  - first:
+      213: -3649169952957286189
+    second: hongye_40
+  - first:
+      213: 6221628342253459574
+    second: hongye_41
+  - first:
+      213: 6311266508686554299
+    second: hongye_42
+  - first:
+      213: -1031602001894343541
+    second: hongye_43
+  - first:
+      213: -5769503594888142701
+    second: hongye_44
+  - first:
+      213: -4201446757905119035
+    second: hongye_45
+  - first:
+      213: -7147462591959050208
+    second: hongye_46
+  - first:
+      213: -8919592459522557285
+    second: hongye_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hongye_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 324
+        width: 386
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025601764685e98f0800000000000000
+      internalID: -531890517734038240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 334
+        width: 226
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1822a998351457060800000000000000
+      internalID: 6950533426962899585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 317
+        width: 145
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb50e8b6b09ed650800000000000000
+      internalID: 6259599646551727077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_3
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 354
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2413a98df65adcfe0800000000000000
+      internalID: -1167094828625153726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_4
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 351
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce6e547def0577b0800000000000000
+      internalID: -5227254279959580980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_5
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 446
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b083d3bd72c0b80800000000000000
+      internalID: -8427316980138636502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_6
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 396
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca875b478fd6e1d10800000000000000
+      internalID: 2098235390278596780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_7
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 369
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f266438f8dacdd410800000000000000
+      internalID: 1503580883837543983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_8
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 340
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cc09ffaef7c83f0800000000000000
+      internalID: -897201578466816918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844a1c6c6944b0a00800000000000000
+      internalID: 723747579493459016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 273
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59603bfd9aa51e730800000000000000
+      internalID: 4026599227494958741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 275
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b472d343325631460800000000000000
+      internalID: 7211218630224979787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 275
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e9cedce17cc8690800000000000000
+      internalID: -7598479536163086832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 279
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b8b1b06ca0ea090800000000000000
+      internalID: -8021462040594117805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 213
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930f49ecf6bc59520800000000000000
+      internalID: 2708294432000897081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 265
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b1776eb3b4c35d0800000000000000
+      internalID: -3081505324386542721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 250
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d6790177598a260800000000000000
+      internalID: 7109096350416334111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_17
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 226
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97e2de6491b8f2f0800000000000000
+      internalID: -938805271234156641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_18
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 258
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dae224d59c91bb0800000000000000
+      internalID: -4964715711819764348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_19
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 213
+        width: 79
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa2be0bfc0531c60800000000000000
+      internalID: 7787657033610373804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 257
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bca721fcdba59c0800000000000000
+      internalID: -3937626227116160131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 229
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99803f2b635c51660800000000000000
+      internalID: 7356002405100751001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 230
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea5093dd74f0860800000000000000
+      internalID: 7498290920065183287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 228
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d304ff6d0e65f68e0800000000000000
+      internalID: -1698043010815672259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_24
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 229
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c26a3ed887537b0800000000000000
+      internalID: -5245153640198034356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 244
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f340db2408e17bb0800000000000000
+      internalID: -4939912211636141065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 246
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75396e6d25b8bc650800000000000000
+      internalID: 6254245695443080023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_27
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 203
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf28b06a6a6af3e0800000000000000
+      internalID: -2019184477800484949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_28
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 224
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1df25f3a0cb84d70800000000000000
+      internalID: 9027672205262257435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_29
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 179
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d079255ae9320a000800000000000000
+      internalID: 45075160559163149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_30
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 218
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4f7d2aa713f36f0800000000000000
+      internalID: -702788614058675031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_31
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 225
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5161253e4a7414870800000000000000
+      internalID: 8665285931551561237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_32
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 230
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7c0bdf7f3479040800000000000000
+      internalID: 4654263472302901202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_33
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 233
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028c7bf551af26280800000000000000
+      internalID: -9051397331354138592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 235
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1195acd9f717538d0800000000000000
+      internalID: -2867260794829383407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dd896d097d8fc20800000000000000
+      internalID: 3240576948968676725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_36
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 202
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18cc293f3b7ced10800000000000000
+      internalID: 2156233833076017181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_37
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 173
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a41576abfb1ecd0800000000000000
+      internalID: -2530530708287305089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_38
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 211
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740c01ca0990eb9d0800000000000000
+      internalID: -2756755404937445305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 220
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc344932be522f9b0800000000000000
+      internalID: -5047930540484443189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_40
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 180
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8b3fc034b8b5dc0800000000000000
+      internalID: -3649169952957286189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 223
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6781580830aa75650800000000000000
+      internalID: 6221628342253459574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_42
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 198
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4f41d737f169750800000000000000
+      internalID: 6311266508686554299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_43
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 170
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c7187e1730fa1f0800000000000000
+      internalID: -1031602001894343541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_44
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3906a507c0b9eefa0800000000000000
+      internalID: -5769503594888142701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_45
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 179
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c849541f6671b5c0800000000000000
+      internalID: -4201446757905119035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_46
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 200
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02853e834ac1fcc90800000000000000
+      internalID: -7147462591959050208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongye_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 196
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ab7e48aed373480800000000000000
+      internalID: -8919592459522557285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hongye_0: -531890517734038240
+      hongye_1: 6950533426962899585
+      hongye_10: 4026599227494958741
+      hongye_11: 7211218630224979787
+      hongye_12: -7598479536163086832
+      hongye_13: -8021462040594117805
+      hongye_14: 2708294432000897081
+      hongye_15: -3081505324386542721
+      hongye_16: 7109096350416334111
+      hongye_17: -938805271234156641
+      hongye_18: -4964715711819764348
+      hongye_19: 7787657033610373804
+      hongye_2: 6259599646551727077
+      hongye_20: -3937626227116160131
+      hongye_21: 7356002405100751001
+      hongye_22: 7498290920065183287
+      hongye_23: -1698043010815672259
+      hongye_24: -5245153640198034356
+      hongye_25: -4939912211636141065
+      hongye_26: 6254245695443080023
+      hongye_27: -2019184477800484949
+      hongye_28: 9027672205262257435
+      hongye_29: 45075160559163149
+      hongye_3: -1167094828625153726
+      hongye_30: -702788614058675031
+      hongye_31: 8665285931551561237
+      hongye_32: 4654263472302901202
+      hongye_33: -9051397331354138592
+      hongye_34: -2867260794829383407
+      hongye_35: 3240576948968676725
+      hongye_36: 2156233833076017181
+      hongye_37: -2530530708287305089
+      hongye_38: -2756755404937445305
+      hongye_39: -5047930540484443189
+      hongye_4: -5227254279959580980
+      hongye_40: -3649169952957286189
+      hongye_41: 6221628342253459574
+      hongye_42: 6311266508686554299
+      hongye_43: -1031602001894343541
+      hongye_44: -5769503594888142701
+      hongye_45: -4201446757905119035
+      hongye_46: -7147462591959050208
+      hongye_47: -8919592459522557285
+      hongye_5: -8427316980138636502
+      hongye_6: 2098235390278596780
+      hongye_7: 1503580883837543983
+      hongye_8: -897201578466816918
+      hongye_9: 723747579493459016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

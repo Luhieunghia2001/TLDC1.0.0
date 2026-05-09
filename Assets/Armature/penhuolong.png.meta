@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 65c6ab58306d3e84ea0d9bf5e33f27b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2859733357815095338
+    second: penhuolong_0
+  - first:
+      213: 7235710023963625759
+    second: penhuolong_1
+  - first:
+      213: -3219064486293989534
+    second: penhuolong_2
+  - first:
+      213: -7927247422747971709
+    second: penhuolong_3
+  - first:
+      213: -7162077701363555994
+    second: penhuolong_4
+  - first:
+      213: -4962308322947466216
+    second: penhuolong_5
+  - first:
+      213: -2505793665134448286
+    second: penhuolong_6
+  - first:
+      213: 6455299764816798901
+    second: penhuolong_7
+  - first:
+      213: -7375243936600284242
+    second: penhuolong_8
+  - first:
+      213: -8813615266667088650
+    second: penhuolong_9
+  - first:
+      213: 6530591106142789609
+    second: penhuolong_10
+  - first:
+      213: -639180340041545433
+    second: penhuolong_11
+  - first:
+      213: -972111349307502463
+    second: penhuolong_12
+  - first:
+      213: -4784276736278822852
+    second: penhuolong_13
+  - first:
+      213: 229616385554062231
+    second: penhuolong_14
+  - first:
+      213: -2927214677295676746
+    second: penhuolong_15
+  - first:
+      213: 4096991448864229502
+    second: penhuolong_16
+  - first:
+      213: -3247142954272628815
+    second: penhuolong_17
+  - first:
+      213: -1648133699568394707
+    second: penhuolong_18
+  - first:
+      213: 4112120559664807626
+    second: penhuolong_19
+  - first:
+      213: 3991885084068526368
+    second: penhuolong_20
+  - first:
+      213: 9179771685258021630
+    second: penhuolong_21
+  - first:
+      213: 1364080553867459180
+    second: penhuolong_22
+  - first:
+      213: -4549083787052987978
+    second: penhuolong_23
+  - first:
+      213: -5908001933948305600
+    second: penhuolong_24
+  - first:
+      213: -6016530629403589417
+    second: penhuolong_25
+  - first:
+      213: -6118654777861841188
+    second: penhuolong_26
+  - first:
+      213: 5313588102205818152
+    second: penhuolong_27
+  - first:
+      213: -620623183589720318
+    second: penhuolong_28
+  - first:
+      213: -3753517459922349144
+    second: penhuolong_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penhuolong_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 201
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df981f99af2058d0800000000000000
+      internalID: -2859733357815095338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 862
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19c51c2ee76a6460800000000000000
+      internalID: 7235710023963625759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 888
+        width: 100
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2671f51b7e59353d0800000000000000
+      internalID: -3219064486293989534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 978
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fe9782872ccf190800000000000000
+      internalID: -7927247422747971709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 940
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661aa74e6403b9c90800000000000000
+      internalID: -7162077701363555994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 907
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c70c82fd6522bb0800000000000000
+      internalID: -4962308322947466216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 884
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261bc3510f1a93dd0800000000000000
+      internalID: -2505793665134448286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 697
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b461983fe4d59950800000000000000
+      internalID: 6455299764816798901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 699
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3261327bed5a990800000000000000
+      internalID: -7375243936600284242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 769
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4395b8c9fbfa580800000000000000
+      internalID: -8813615266667088650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 796
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef57fea20251aa50800000000000000
+      internalID: 6530591106142789609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 730
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72909640edc2127f0800000000000000
+      internalID: -639180340041545433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1809666d0ed5282f0800000000000000
+      internalID: -972111349307502463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 670
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c308fe218a5da9db0800000000000000
+      internalID: -4784276736278822852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 554
+        width: 155
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b1f87d2e2cf2300800000000000000
+      internalID: 229616385554062231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 548
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b24b7292c17067d0800000000000000
+      internalID: -2927214677295676746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_16
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 679
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e788d5514007bd830800000000000000
+      internalID: 4096991448864229502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_17
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 676
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfdaabefa4dfe2d0800000000000000
+      internalID: -3247142954272628815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 586
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e10e6e127a029e0800000000000000
+      internalID: -1648133699568394707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 496
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aceb660bcdf211930800000000000000
+      internalID: 4112120559664807626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b5148556066730800000000000000
+      internalID: 3991885084068526368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 532
+        width: 73
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa4ef216b9156f70800000000000000
+      internalID: 9179771685258021630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 501
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ab94a59003ee210800000000000000
+      internalID: 1364080553867459180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 486
+        width: 87
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9c733d5686ed0c0800000000000000
+      internalID: -4549083787052987978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 506
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fb0b20b8f820ea0800000000000000
+      internalID: -5908001933948305600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 470
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4442ef44df08ca0800000000000000
+      internalID: -6016530629403589417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde5c46c5eb261ba0800000000000000
+      internalID: -6118654777861841188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 458
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82548b2f938adb940800000000000000
+      internalID: 5313588102205818152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 461
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f33c2b08a1367f0800000000000000
+      internalID: -620623183589720318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penhuolong_29
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 454
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a31a17d1c3d8ebc0800000000000000
+      internalID: -3753517459922349144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      penhuolong_0: -2859733357815095338
+      penhuolong_1: 7235710023963625759
+      penhuolong_10: 6530591106142789609
+      penhuolong_11: -639180340041545433
+      penhuolong_12: -972111349307502463
+      penhuolong_13: -4784276736278822852
+      penhuolong_14: 229616385554062231
+      penhuolong_15: -2927214677295676746
+      penhuolong_16: 4096991448864229502
+      penhuolong_17: -3247142954272628815
+      penhuolong_18: -1648133699568394707
+      penhuolong_19: 4112120559664807626
+      penhuolong_2: -3219064486293989534
+      penhuolong_20: 3991885084068526368
+      penhuolong_21: 9179771685258021630
+      penhuolong_22: 1364080553867459180
+      penhuolong_23: -4549083787052987978
+      penhuolong_24: -5908001933948305600
+      penhuolong_25: -6016530629403589417
+      penhuolong_26: -6118654777861841188
+      penhuolong_27: 5313588102205818152
+      penhuolong_28: -620623183589720318
+      penhuolong_29: -3753517459922349144
+      penhuolong_3: -7927247422747971709
+      penhuolong_4: -7162077701363555994
+      penhuolong_5: -4962308322947466216
+      penhuolong_6: -2505793665134448286
+      penhuolong_7: 6455299764816798901
+      penhuolong_8: -7375243936600284242
+      penhuolong_9: -8813615266667088650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

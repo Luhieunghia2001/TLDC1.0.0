@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 327351695661adb46a2a992a5d417b92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7261062533887618773
+    second: sesi_0
+  - first:
+      213: 5671186311550976480
+    second: sesi_1
+  - first:
+      213: -8006518025842534479
+    second: sesi_2
+  - first:
+      213: -3093801608697307188
+    second: sesi_3
+  - first:
+      213: -3694942751023678508
+    second: sesi_4
+  - first:
+      213: -493171043664326828
+    second: sesi_5
+  - first:
+      213: 1538203693401287811
+    second: sesi_6
+  - first:
+      213: 2164569159987905030
+    second: sesi_7
+  - first:
+      213: -8456119848508067886
+    second: sesi_8
+  - first:
+      213: -4750661147622128872
+    second: sesi_9
+  - first:
+      213: -4121925273802386221
+    second: sesi_10
+  - first:
+      213: 7457913387070394265
+    second: sesi_11
+  - first:
+      213: -1275609977600145800
+    second: sesi_12
+  - first:
+      213: -4811142775590091808
+    second: sesi_13
+  - first:
+      213: 1833514086633046208
+    second: sesi_14
+  - first:
+      213: -5189940131754768984
+    second: sesi_15
+  - first:
+      213: 5412029054541169639
+    second: sesi_16
+  - first:
+      213: 6543035197460787800
+    second: sesi_17
+  - first:
+      213: -98630076882866161
+    second: sesi_18
+  - first:
+      213: -2260496022267831538
+    second: sesi_19
+  - first:
+      213: -3189415689662789919
+    second: sesi_20
+  - first:
+      213: -8602925068572886249
+    second: sesi_21
+  - first:
+      213: -5924123716424415808
+    second: sesi_22
+  - first:
+      213: -3159899373604120316
+    second: sesi_23
+  - first:
+      213: 147333553418615969
+    second: sesi_24
+  - first:
+      213: -6023787727172146527
+    second: sesi_25
+  - first:
+      213: 5229502538473803780
+    second: sesi_26
+  - first:
+      213: -1788151600933469836
+    second: sesi_27
+  - first:
+      213: -9210169638435570121
+    second: sesi_28
+  - first:
+      213: -989098023397399030
+    second: sesi_29
+  - first:
+      213: 4763225164272120754
+    second: sesi_30
+  - first:
+      213: 7755449958247978241
+    second: sesi_31
+  - first:
+      213: -4146972306875879515
+    second: sesi_32
+  - first:
+      213: -6770260877631278200
+    second: sesi_33
+  - first:
+      213: 8211680502940846667
+    second: sesi_34
+  - first:
+      213: 2449577770949609344
+    second: sesi_35
+  - first:
+      213: 3935728230233489350
+    second: sesi_36
+  - first:
+      213: -4651781999112802182
+    second: sesi_37
+  - first:
+      213: 4590962392703801955
+    second: sesi_38
+  - first:
+      213: 9183164588441874673
+    second: sesi_39
+  - first:
+      213: -6282971892691341207
+    second: sesi_40
+  - first:
+      213: -6898627461845569793
+    second: sesi_41
+  - first:
+      213: 2594362261088692394
+    second: sesi_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sesi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 286
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b211bbf98168b3b90800000000000000
+      internalID: -7261062533887618773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 369
+        width: 124
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1cd0337e914be40800000000000000
+      internalID: 5671186311550976480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_2
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 464
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7d4ed964223e090800000000000000
+      internalID: -8006518025842534479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_3
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 495
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf901c14db9015d0800000000000000
+      internalID: -3093801608697307188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_4
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 498
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db34d3052de8bcc0800000000000000
+      internalID: -3694942751023678508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_5
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 465
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f01e87c87e729f0800000000000000
+      internalID: -493171043664326828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_6
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 495
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ca0610c1cc85510800000000000000
+      internalID: 1538203693401287811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 232
+        width: 287
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60248d0ce281a0e10800000000000000
+      internalID: 2164569159987905030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_8
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 405
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfeb8bdcc3d5aa80800000000000000
+      internalID: -8456119848508067886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_9
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 405
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813cbb73bd2421eb0800000000000000
+      internalID: -4750661147622128872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_10
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 446
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4dd486dcafbc6c0800000000000000
+      internalID: -4121925273802386221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_11
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 433
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f06f936b4df7760800000000000000
+      internalID: 7457913387070394265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_12
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 428
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876033ddb7f1c4ee0800000000000000
+      internalID: -1275609977600145800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_13
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 429
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e30449d2236b3db0800000000000000
+      internalID: -4811142775590091808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_14
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 400
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c00070f853f17910800000000000000
+      internalID: 1833514086633046208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 307
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5863992f0a9f7b0800000000000000
+      internalID: -5189940131754768984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_16
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 307
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3050e30c36b1b40800000000000000
+      internalID: 5412029054541169639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_17
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 378
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852378978d78dca50800000000000000
+      internalID: 6543035197460787800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_18
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 397
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f003a37b77891aef0800000000000000
+      internalID: -98630076882866161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_19
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 309
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bda8828da11a0e0800000000000000
+      internalID: -2260496022267831538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_20
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 380
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e68798145becb3d0800000000000000
+      internalID: -3189415689662789919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_21
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 358
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bf86afa354c9880800000000000000
+      internalID: -8602925068572886249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_22
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 290
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c54e050ed849cda0800000000000000
+      internalID: -5924123716424415808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_23
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 351
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409d856f248c524d0800000000000000
+      internalID: -3159899373604120316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_24
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 358
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac3303161f6b0200800000000000000
+      internalID: 147333553418615969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_25
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 345
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaeb8f3af4376ca0800000000000000
+      internalID: -6023787727172146527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_26
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 251
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4001cb50adce29840800000000000000
+      internalID: 5229502538473803780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_27
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 253
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47180ddc7953f27e0800000000000000
+      internalID: -1788151600933469836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_28
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 261
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eb5fbe287ee2080800000000000000
+      internalID: -9210169638435570121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_29
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 287
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a066b5396940642f0800000000000000
+      internalID: -989098023397399030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_30
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 290
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b334addc006a1240800000000000000
+      internalID: 4763225164272120754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_31
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 264
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10550ba95a4e0ab60800000000000000
+      internalID: 7755449958247978241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_32
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 248
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe74398aef276c0800000000000000
+      internalID: -4146972306875879515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_33
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 266
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88330182a933b02a0800000000000000
+      internalID: -6770260877631278200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_34
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 269
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a4acaf8efb5f170800000000000000
+      internalID: 8211680502940846667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_35
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 228
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08705271106aef120800000000000000
+      internalID: 2449577770949609344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_36
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 217
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf3b8719f38e9630800000000000000
+      internalID: 3935728230233489350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_37
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 219
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7033520bec817fb0800000000000000
+      internalID: -4651781999112802182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_38
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 244
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a9942e8ff56bf30800000000000000
+      internalID: 4590962392703801955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_39
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 226
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f03608e987217f70800000000000000
+      internalID: 9183164588441874673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_40
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 235
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9607e5a2a566ec8a0800000000000000
+      internalID: -6282971892691341207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_41
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 226
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffea0fabfd62340a0800000000000000
+      internalID: -6898627461845569793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sesi_42
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 245
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8eede1bb6010420800000000000000
+      internalID: 2594362261088692394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sesi_0: -7261062533887618773
+      sesi_1: 5671186311550976480
+      sesi_10: -4121925273802386221
+      sesi_11: 7457913387070394265
+      sesi_12: -1275609977600145800
+      sesi_13: -4811142775590091808
+      sesi_14: 1833514086633046208
+      sesi_15: -5189940131754768984
+      sesi_16: 5412029054541169639
+      sesi_17: 6543035197460787800
+      sesi_18: -98630076882866161
+      sesi_19: -2260496022267831538
+      sesi_2: -8006518025842534479
+      sesi_20: -3189415689662789919
+      sesi_21: -8602925068572886249
+      sesi_22: -5924123716424415808
+      sesi_23: -3159899373604120316
+      sesi_24: 147333553418615969
+      sesi_25: -6023787727172146527
+      sesi_26: 5229502538473803780
+      sesi_27: -1788151600933469836
+      sesi_28: -9210169638435570121
+      sesi_29: -989098023397399030
+      sesi_3: -3093801608697307188
+      sesi_30: 4763225164272120754
+      sesi_31: 7755449958247978241
+      sesi_32: -4146972306875879515
+      sesi_33: -6770260877631278200
+      sesi_34: 8211680502940846667
+      sesi_35: 2449577770949609344
+      sesi_36: 3935728230233489350
+      sesi_37: -4651781999112802182
+      sesi_38: 4590962392703801955
+      sesi_39: 9183164588441874673
+      sesi_4: -3694942751023678508
+      sesi_40: -6282971892691341207
+      sesi_41: -6898627461845569793
+      sesi_42: 2594362261088692394
+      sesi_5: -493171043664326828
+      sesi_6: 1538203693401287811
+      sesi_7: 2164569159987905030
+      sesi_8: -8456119848508067886
+      sesi_9: -4750661147622128872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

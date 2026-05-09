@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: d1b1e6daaba692f448f4f14885077cd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2303331360049395213
+    second: nandi_0
+  - first:
+      213: 6183409157991018374
+    second: nandi_1
+  - first:
+      213: -5214836223232851697
+    second: nandi_2
+  - first:
+      213: -6180996319761622780
+    second: nandi_3
+  - first:
+      213: 4909444530990759055
+    second: nandi_4
+  - first:
+      213: 2547992987055141695
+    second: nandi_5
+  - first:
+      213: 6021566639129314908
+    second: nandi_6
+  - first:
+      213: -3232051851947526434
+    second: nandi_7
+  - first:
+      213: -5214271272504375067
+    second: nandi_8
+  - first:
+      213: 9166791914373600878
+    second: nandi_9
+  - first:
+      213: 4889973151663905221
+    second: nandi_10
+  - first:
+      213: 1338972346637891267
+    second: nandi_11
+  - first:
+      213: 6881138052239513191
+    second: nandi_12
+  - first:
+      213: -3663754520547921566
+    second: nandi_13
+  - first:
+      213: 1060448261798914679
+    second: nandi_14
+  - first:
+      213: -7060364597778058894
+    second: nandi_15
+  - first:
+      213: 6230874777825631276
+    second: nandi_16
+  - first:
+      213: 1024308973616239103
+    second: nandi_17
+  - first:
+      213: 1005853803212686712
+    second: nandi_18
+  - first:
+      213: 5123457716362001463
+    second: nandi_19
+  - first:
+      213: -2078086788826813266
+    second: nandi_20
+  - first:
+      213: 2947733583709821668
+    second: nandi_21
+  - first:
+      213: 8762987766396455767
+    second: nandi_22
+  - first:
+      213: 4902055791697440681
+    second: nandi_23
+  - first:
+      213: 1985138090987905763
+    second: nandi_24
+  - first:
+      213: -4273437098874307515
+    second: nandi_25
+  - first:
+      213: 3125690964582893640
+    second: nandi_26
+  - first:
+      213: 800264728239216118
+    second: nandi_27
+  - first:
+      213: 694009940317249434
+    second: nandi_28
+  - first:
+      213: 5983032596322139172
+    second: nandi_29
+  - first:
+      213: -367743334225392358
+    second: nandi_30
+  - first:
+      213: 1056704006001717316
+    second: nandi_31
+  - first:
+      213: 2602936183361530132
+    second: nandi_32
+  - first:
+      213: -5891164589963789861
+    second: nandi_33
+  - first:
+      213: 1295602423293579093
+    second: nandi_34
+  - first:
+      213: -7695287091153780595
+    second: nandi_35
+  - first:
+      213: 3290884943624785908
+    second: nandi_36
+  - first:
+      213: 4993822414548313119
+    second: nandi_37
+  - first:
+      213: 2557588566996795585
+    second: nandi_38
+  - first:
+      213: -7358605636452046806
+    second: nandi_39
+  - first:
+      213: -4614387943289563470
+    second: nandi_40
+  - first:
+      213: -8888195112072664100
+    second: nandi_41
+  - first:
+      213: -3320570982974625609
+    second: nandi_42
+  - first:
+      213: -5731226412382482640
+    second: nandi_43
+  - first:
+      213: -5395142494638090806
+    second: nandi_44
+  - first:
+      213: -3378767613872426654
+    second: nandi_45
+  - first:
+      213: -4878599241334971493
+    second: nandi_46
+  - first:
+      213: -8764534145450025750
+    second: nandi_47
+  - first:
+      213: -581555406678782070
+    second: nandi_48
+  - first:
+      213: -8372609110747117295
+    second: nandi_49
+  - first:
+      213: 8116153832975606571
+    second: nandi_50
+  - first:
+      213: 8782564614491293646
+    second: nandi_51
+  - first:
+      213: -8017405189375446455
+    second: nandi_52
+  - first:
+      213: 8620298175896718961
+    second: nandi_53
+  - first:
+      213: -6561498241240851763
+    second: nandi_54
+  - first:
+      213: -4331784466975710078
+    second: nandi_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nandi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 192
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06f2cb1ba317ff10800000000000000
+      internalID: 2303331360049395213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 379
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fa3fa3ed1efc550800000000000000
+      internalID: 6183409157991018374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 400
+        width: 150
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01cd58951e21a7b0800000000000000
+      internalID: -5214836223232851697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 370
+        width: 26
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4099c927890b83aa0800000000000000
+      internalID: -6180996319761622780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 133
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c30322ac9d12440800000000000000
+      internalID: 4909444530990759055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 304
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33bb933f1a4c5320800000000000000
+      internalID: 2547992987055141695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 248
+        width: 37
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5645a464f6e09350800000000000000
+      internalID: 6021566639129314908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 296
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6360df6f17523d0800000000000000
+      internalID: -3232051851947526434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 359
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e84adf67ef23a7b0800000000000000
+      internalID: -5214271272504375067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 256
+        width: 118
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66592aadacf63f70800000000000000
+      internalID: 9166791914373600878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 297
+        width: 27
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9df1a5cacacd340800000000000000
+      internalID: 4889973151663905221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 262
+        width: 37
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c63c6d414cf49210800000000000000
+      internalID: 1338972346637891267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 244
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766d826c996be7f50800000000000000
+      internalID: 6881138052239513191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 254
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261728accaab72dc0800000000000000
+      internalID: -3663754520547921566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 243
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a643b531877be00800000000000000
+      internalID: 1060448261798914679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 279
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271f1b44ecb840e90800000000000000
+      internalID: -7060364597778058894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 281
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cdc3c0993887650800000000000000
+      internalID: 6230874777825631276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 245
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff114a0a593173e00800000000000000
+      internalID: 1024308973616239103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 282
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875c77c64b285fd00800000000000000
+      internalID: 1005853803212686712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 236
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cbd75d5ad2a1740800000000000000
+      internalID: 5123457716362001463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacab8363172923e0800000000000000
+      internalID: -2078086788826813266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea538d931478e820800000000000000
+      internalID: 2947733583709821668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 267
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b872bf1f26c9970800000000000000
+      internalID: 8762987766396455767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 267
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afa54535c9970440800000000000000
+      internalID: 4902055791697440681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 239
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e26e677390ac8b10800000000000000
+      internalID: 1985138090987905763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 268
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cfe97a993b1b4c0800000000000000
+      internalID: -4273437098874307515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 223
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8488c952f5fa06b20800000000000000
+      internalID: 3125690964582893640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 261
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f519f4c78c1b1b00800000000000000
+      internalID: 800264728239216118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 246
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f133b1d5e91a900800000000000000
+      internalID: 694009940317249434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 213
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3d576270080350800000000000000
+      internalID: 5983032596322139172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 210
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d4afac26385eaf0800000000000000
+      internalID: -367743334225392358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 236
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440f67ed1ba2aae00800000000000000
+      internalID: 1056704006001717316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_32
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 241
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4196646faac7f1420800000000000000
+      internalID: 2602936183361530132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 232
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd939d5a4016e3ea0800000000000000
+      internalID: -5891164589963789861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 213
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f8c822a87eaf110800000000000000
+      internalID: 1295602423293579093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_35
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8041277929d43590800000000000000
+      internalID: -7695287091153780595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_36
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 246
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffcf6d9b629bad20800000000000000
+      internalID: 3290884943624785908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 226
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f142982170f9d4540800000000000000
+      internalID: 4993822414548313119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_38
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 217
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0c17140416e7320800000000000000
+      internalID: 2557588566996795585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 229
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28a615492bf0e990800000000000000
+      internalID: -7358605636452046806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 223
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b651681d9666ffb0800000000000000
+      internalID: -4614387943289563470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 232
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbab8223a9c6a480800000000000000
+      internalID: -8888195112072664100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 207
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8e35cb846fae1d0800000000000000
+      internalID: -3320570982974625609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 211
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f0b9a71f79670b0800000000000000
+      internalID: -5731226412382482640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_44
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 162
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac55b7e5c7a9025b0800000000000000
+      internalID: -5395142494638090806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_45
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 209
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2613a84b1c43c11d0800000000000000
+      internalID: -3378767613872426654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_46
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 212
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b932db286dbbb4cb0800000000000000
+      internalID: -4878599241334971493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 207
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec5ba691ae1e5680800000000000000
+      internalID: -8764534145450025750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f04b75076ede7f0800000000000000
+      internalID: -581555406678782070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 199
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11908beaf548ecb80800000000000000
+      internalID: -8372609110747117295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 170
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23afece8ee52a070800000000000000
+      internalID: 8116153832975606571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_51
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 203
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec74baf1cffe1e970800000000000000
+      internalID: 8782564614491293646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_52
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 207
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94237e255747cb090800000000000000
+      internalID: -8017405189375446455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 200
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e8548c48371a770800000000000000
+      internalID: 8620298175896718961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_54
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 181
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca1d782d10e0f4a0800000000000000
+      internalID: -6561498241240851763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nandi_55
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 198
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284ab526af862e3c0800000000000000
+      internalID: -4331784466975710078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nandi_0: 2303331360049395213
+      nandi_1: 6183409157991018374
+      nandi_10: 4889973151663905221
+      nandi_11: 1338972346637891267
+      nandi_12: 6881138052239513191
+      nandi_13: -3663754520547921566
+      nandi_14: 1060448261798914679
+      nandi_15: -7060364597778058894
+      nandi_16: 6230874777825631276
+      nandi_17: 1024308973616239103
+      nandi_18: 1005853803212686712
+      nandi_19: 5123457716362001463
+      nandi_2: -5214836223232851697
+      nandi_20: -2078086788826813266
+      nandi_21: 2947733583709821668
+      nandi_22: 8762987766396455767
+      nandi_23: 4902055791697440681
+      nandi_24: 1985138090987905763
+      nandi_25: -4273437098874307515
+      nandi_26: 3125690964582893640
+      nandi_27: 800264728239216118
+      nandi_28: 694009940317249434
+      nandi_29: 5983032596322139172
+      nandi_3: -6180996319761622780
+      nandi_30: -367743334225392358
+      nandi_31: 1056704006001717316
+      nandi_32: 2602936183361530132
+      nandi_33: -5891164589963789861
+      nandi_34: 1295602423293579093
+      nandi_35: -7695287091153780595
+      nandi_36: 3290884943624785908
+      nandi_37: 4993822414548313119
+      nandi_38: 2557588566996795585
+      nandi_39: -7358605636452046806
+      nandi_4: 4909444530990759055
+      nandi_40: -4614387943289563470
+      nandi_41: -8888195112072664100
+      nandi_42: -3320570982974625609
+      nandi_43: -5731226412382482640
+      nandi_44: -5395142494638090806
+      nandi_45: -3378767613872426654
+      nandi_46: -4878599241334971493
+      nandi_47: -8764534145450025750
+      nandi_48: -581555406678782070
+      nandi_49: -8372609110747117295
+      nandi_5: 2547992987055141695
+      nandi_50: 8116153832975606571
+      nandi_51: 8782564614491293646
+      nandi_52: -8017405189375446455
+      nandi_53: 8620298175896718961
+      nandi_54: -6561498241240851763
+      nandi_55: -4331784466975710078
+      nandi_6: 6021566639129314908
+      nandi_7: -3232051851947526434
+      nandi_8: -5214271272504375067
+      nandi_9: 9166791914373600878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 07ab7529b4486b245b54ef9fc8c8345d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7361547551925120543
+    second: tani_0
+  - first:
+      213: 4328334510676103750
+    second: tani_1
+  - first:
+      213: -6585512565376073001
+    second: tani_2
+  - first:
+      213: -8979501161072974844
+    second: tani_3
+  - first:
+      213: 6060920224525696296
+    second: tani_4
+  - first:
+      213: 6608464213917583475
+    second: tani_5
+  - first:
+      213: -7126419883045526762
+    second: tani_6
+  - first:
+      213: 8119177391120465194
+    second: tani_7
+  - first:
+      213: 7506452362868182904
+    second: tani_8
+  - first:
+      213: -7776603506888260711
+    second: tani_9
+  - first:
+      213: 7529303402277951750
+    second: tani_10
+  - first:
+      213: -3942532357296781332
+    second: tani_11
+  - first:
+      213: -8676266220356320882
+    second: tani_12
+  - first:
+      213: 3468929742586875200
+    second: tani_13
+  - first:
+      213: -821343322824843551
+    second: tani_14
+  - first:
+      213: -3588598922726822853
+    second: tani_15
+  - first:
+      213: -4461654118851691780
+    second: tani_16
+  - first:
+      213: 3771956860658208798
+    second: tani_17
+  - first:
+      213: 4053204671952786143
+    second: tani_18
+  - first:
+      213: 2362495238034715206
+    second: tani_19
+  - first:
+      213: 1218376731702073471
+    second: tani_20
+  - first:
+      213: 772484659969218533
+    second: tani_21
+  - first:
+      213: -2435470549987970573
+    second: tani_22
+  - first:
+      213: 8749708829184612685
+    second: tani_23
+  - first:
+      213: 386254115116001489
+    second: tani_24
+  - first:
+      213: -6823882443200075088
+    second: tani_25
+  - first:
+      213: 5377348611838103570
+    second: tani_26
+  - first:
+      213: 4039127510999154187
+    second: tani_27
+  - first:
+      213: 1781967226667745751
+    second: tani_28
+  - first:
+      213: 7752645754185344184
+    second: tani_29
+  - first:
+      213: -1110604719735894893
+    second: tani_30
+  - first:
+      213: 3433555864485906891
+    second: tani_31
+  - first:
+      213: 2284160694917097571
+    second: tani_32
+  - first:
+      213: -858110266716441663
+    second: tani_33
+  - first:
+      213: -7220288673811739961
+    second: tani_34
+  - first:
+      213: 8120400435460077437
+    second: tani_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tani_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 156
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ea4adce78792660800000000000000
+      internalID: 7361547551925120543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 402
+        width: 170
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642d9e11e45511c30800000000000000
+      internalID: 4328334510676103750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 390
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d243ec963f8b94a0800000000000000
+      internalID: -6585512565376073001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 448
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404a90af447626380800000000000000
+      internalID: -8979501161072974844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82db5d205d6bc1450800000000000000
+      internalID: 6060920224525696296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 298
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378407d703bf5bb50800000000000000
+      internalID: 6608464213917583475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 326
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6136aceafded91d90800000000000000
+      internalID: -7126419883045526762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 277
+        width: 77
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d3e1ae1dc1da070800000000000000
+      internalID: 8119177391120465194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 329
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f462437a64c2860800000000000000
+      internalID: 7506452362868182904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 344
+        width: 176
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9934edc0054f31490800000000000000
+      internalID: -7776603506888260711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 302
+        width: 179
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609daea6d857d7860800000000000000
+      internalID: 7529303402277951750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce787df95bf4949c0800000000000000
+      internalID: -3942532357296781332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 303
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81c0f667d5b79780800000000000000
+      internalID: -8676266220356320882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 300
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d8da1c83d142030800000000000000
+      internalID: 3468929742586875200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 245
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eed26c79900a94f0800000000000000
+      internalID: -821343322824843551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ca4810b4cb23ec0800000000000000
+      internalID: -3588598922726822853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 269
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfabf2fb7350512c0800000000000000
+      internalID: -4461654118851691780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 274
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1051a3b7cea85430800000000000000
+      internalID: 3771956860658208798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 273
+        width: 171
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd213b1ac20ef3830800000000000000
+      internalID: 4053204671952786143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 257
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6427c96e6e449c020800000000000000
+      internalID: 2362495238034715206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7814b7ae2b88e010800000000000000
+      internalID: 1218376731702073471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e757e794ba68ba00800000000000000
+      internalID: 772484659969218533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 225
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1ba0f3078733ed0800000000000000
+      internalID: -2435470549987970573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 228
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49d5ab72d53d6970800000000000000
+      internalID: 8749708829184612685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 212
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8a58c32104c5500800000000000000
+      internalID: 386254115116001489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 185
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bae8088213bc41a0800000000000000
+      internalID: -6823882443200075088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 224
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210dc02721e20aa40800000000000000
+      internalID: 5377348611838103570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 229
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ebc9f221ddd0830800000000000000
+      internalID: 4039127510999154187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_28
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 228
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d14bea50c1dab810800000000000000
+      internalID: 1781967226667745751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 225
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b468a7fc3ee69b60800000000000000
+      internalID: 7752645754185344184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_30
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 199
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c054244e65690f0800000000000000
+      internalID: -1110604719735894893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205
+        width: 99
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc94423fdd076af20800000000000000
+      internalID: 3433555864485906891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 161
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368617ecc08f2bf10800000000000000
+      internalID: 2284160694917097571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 171
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3304642416714f0800000000000000
+      internalID: -858110266716441663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_34
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 212
+        width: 89
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cacca5b4b16ccb90800000000000000
+      internalID: -7220288673811739961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tani_35
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 202
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77768d1c2571b070800000000000000
+      internalID: 8120400435460077437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tani_0: 7361547551925120543
+      tani_1: 4328334510676103750
+      tani_10: 7529303402277951750
+      tani_11: -3942532357296781332
+      tani_12: -8676266220356320882
+      tani_13: 3468929742586875200
+      tani_14: -821343322824843551
+      tani_15: -3588598922726822853
+      tani_16: -4461654118851691780
+      tani_17: 3771956860658208798
+      tani_18: 4053204671952786143
+      tani_19: 2362495238034715206
+      tani_2: -6585512565376073001
+      tani_20: 1218376731702073471
+      tani_21: 772484659969218533
+      tani_22: -2435470549987970573
+      tani_23: 8749708829184612685
+      tani_24: 386254115116001489
+      tani_25: -6823882443200075088
+      tani_26: 5377348611838103570
+      tani_27: 4039127510999154187
+      tani_28: 1781967226667745751
+      tani_29: 7752645754185344184
+      tani_3: -8979501161072974844
+      tani_30: -1110604719735894893
+      tani_31: 3433555864485906891
+      tani_32: 2284160694917097571
+      tani_33: -858110266716441663
+      tani_34: -7220288673811739961
+      tani_35: 8120400435460077437
+      tani_4: 6060920224525696296
+      tani_5: 6608464213917583475
+      tani_6: -7126419883045526762
+      tani_7: 8119177391120465194
+      tani_8: 7506452362868182904
+      tani_9: -7776603506888260711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

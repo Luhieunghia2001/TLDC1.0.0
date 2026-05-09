@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 8fa967b4e4d11d748bb9a6a1df07aac4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2699649472253745079
+    second: shengdanlaoren_0
+  - first:
+      213: 8172590739499279853
+    second: shengdanlaoren_1
+  - first:
+      213: 3918378865810476256
+    second: shengdanlaoren_2
+  - first:
+      213: 5344179824231094331
+    second: shengdanlaoren_3
+  - first:
+      213: -7653097530991105545
+    second: shengdanlaoren_4
+  - first:
+      213: -6713843016324377194
+    second: shengdanlaoren_5
+  - first:
+      213: 8182346028024300787
+    second: shengdanlaoren_6
+  - first:
+      213: 2195061431256567546
+    second: shengdanlaoren_7
+  - first:
+      213: -3022278333647741828
+    second: shengdanlaoren_8
+  - first:
+      213: -5837335754371980462
+    second: shengdanlaoren_9
+  - first:
+      213: -8804640346259786637
+    second: shengdanlaoren_10
+  - first:
+      213: 6818734962338728930
+    second: shengdanlaoren_11
+  - first:
+      213: 1773238428238954539
+    second: shengdanlaoren_12
+  - first:
+      213: -6211811081831429577
+    second: shengdanlaoren_13
+  - first:
+      213: -8525879514635164643
+    second: shengdanlaoren_14
+  - first:
+      213: 5295713317321559606
+    second: shengdanlaoren_15
+  - first:
+      213: 1058789045761436395
+    second: shengdanlaoren_16
+  - first:
+      213: 920392356145185044
+    second: shengdanlaoren_17
+  - first:
+      213: -4370410912363060514
+    second: shengdanlaoren_18
+  - first:
+      213: -479578368352121930
+    second: shengdanlaoren_19
+  - first:
+      213: 2158814166137679817
+    second: shengdanlaoren_20
+  - first:
+      213: 4662657283379050762
+    second: shengdanlaoren_21
+  - first:
+      213: -6731387951639053556
+    second: shengdanlaoren_22
+  - first:
+      213: 8872999591886702650
+    second: shengdanlaoren_23
+  - first:
+      213: -805985717513148898
+    second: shengdanlaoren_24
+  - first:
+      213: 4933727944984299648
+    second: shengdanlaoren_25
+  - first:
+      213: -7405624749592169164
+    second: shengdanlaoren_26
+  - first:
+      213: 221761672930501233
+    second: shengdanlaoren_27
+  - first:
+      213: -3196728269319870016
+    second: shengdanlaoren_28
+  - first:
+      213: 8901312099841676166
+    second: shengdanlaoren_29
+  - first:
+      213: -2521233704854054825
+    second: shengdanlaoren_30
+  - first:
+      213: -3746286862192258220
+    second: shengdanlaoren_31
+  - first:
+      213: 7140777989383668595
+    second: shengdanlaoren_32
+  - first:
+      213: 2858409790180701746
+    second: shengdanlaoren_33
+  - first:
+      213: -4765385318810121521
+    second: shengdanlaoren_34
+  - first:
+      213: 7675144324822200744
+    second: shengdanlaoren_35
+  - first:
+      213: 3278801381573077709
+    second: shengdanlaoren_36
+  - first:
+      213: -5166821658103996404
+    second: shengdanlaoren_37
+  - first:
+      213: 314315985883328739
+    second: shengdanlaoren_38
+  - first:
+      213: 8769658488710487272
+    second: shengdanlaoren_39
+  - first:
+      213: 6209393832341133471
+    second: shengdanlaoren_40
+  - first:
+      213: -1475553469168135295
+    second: shengdanlaoren_41
+  - first:
+      213: 4498625197939824813
+    second: shengdanlaoren_42
+  - first:
+      213: -1429357459290834537
+    second: shengdanlaoren_43
+  - first:
+      213: 2397186238228567977
+    second: shengdanlaoren_44
+  - first:
+      213: -6257925875650487528
+    second: shengdanlaoren_45
+  - first:
+      213: -5953090328686304224
+    second: shengdanlaoren_46
+  - first:
+      213: -8505848973946313555
+    second: shengdanlaoren_47
+  - first:
+      213: 7956143161359408250
+    second: shengdanlaoren_48
+  - first:
+      213: -2186071671827709836
+    second: shengdanlaoren_49
+  - first:
+      213: 3584568073272994444
+    second: shengdanlaoren_50
+  - first:
+      213: -6521664138603907771
+    second: shengdanlaoren_51
+  - first:
+      213: 1068229168970233374
+    second: shengdanlaoren_52
+  - first:
+      213: -775170191627076084
+    second: shengdanlaoren_53
+  - first:
+      213: 2797831318625492822
+    second: shengdanlaoren_54
+  - first:
+      213: 4694521977006979928
+    second: shengdanlaoren_55
+  - first:
+      213: -1533532523536214980
+    second: shengdanlaoren_56
+  - first:
+      213: -3004893076478818126
+    second: shengdanlaoren_57
+  - first:
+      213: 5955799322722591211
+    second: shengdanlaoren_58
+  - first:
+      213: 2140081306039901562
+    second: shengdanlaoren_59
+  - first:
+      213: -5448717883837763859
+    second: shengdanlaoren_60
+  - first:
+      213: 9114491505005443985
+    second: shengdanlaoren_61
+  - first:
+      213: 9049075186509348948
+    second: shengdanlaoren_62
+  - first:
+      213: 6777311699130243305
+    second: shengdanlaoren_63
+  - first:
+      213: 8845371566973338446
+    second: shengdanlaoren_64
+  - first:
+      213: 381951387476983716
+    second: shengdanlaoren_65
+  - first:
+      213: -8233139926084638770
+    second: shengdanlaoren_66
+  - first:
+      213: 3053253011689256863
+    second: shengdanlaoren_67
+  - first:
+      213: 6970368193981831196
+    second: shengdanlaoren_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shengdanlaoren_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 232
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948ae3cbb1be88ad0800000000000000
+      internalID: -2699649472253745079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 861
+        width: 143
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de560823affda6170800000000000000
+      internalID: 8172590739499279853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 910
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec080861d0e06630800000000000000
+      internalID: 3918378865810476256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 986
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b389a174c375a2a40800000000000000
+      internalID: 5344179824231094331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 957
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f92bd9e75cbac590800000000000000
+      internalID: -7653097530991105545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 930
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6959f3e1953a3d2a0800000000000000
+      internalID: -6713843016324377194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_6
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 907
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f487bd4c588d8170800000000000000
+      internalID: 8182346028024300787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 807
+        width: 136
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe4536edbc667e10800000000000000
+      internalID: 2195061431256567546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 824
+        width: 93
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c11964ed5be06d0800000000000000
+      internalID: -3022278333647741828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 815
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253a8f51f0e9dfea0800000000000000
+      internalID: -5837335754371980462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 862
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374fc1a0142afc580800000000000000
+      internalID: -8804640346259786637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 822
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb8cbf225301ae50800000000000000
+      internalID: 6818734962338728930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 765
+        width: 125
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20414994fecb9810800000000000000
+      internalID: 1773238428238954539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 838
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a4a9f8bb63bc9a0800000000000000
+      internalID: -6211811081831429577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 815
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d142464e0cdfda980800000000000000
+      internalID: -8525879514635164643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 129
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ec14744372e7940800000000000000
+      internalID: 5295713317321559606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 712
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea6fa4070391be00800000000000000
+      internalID: 1058789045761436395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 787
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411c402b8f3e5cc00800000000000000
+      internalID: 920392356145185044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 795
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2eb1e3e6e2953c0800000000000000
+      internalID: -4370410912363060514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_19
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 777
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb0960d3023859f0800000000000000
+      internalID: -479578368352121930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_20
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 720
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfa7b4db06a5fd10800000000000000
+      internalID: 2158814166137679817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_21
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 791
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09323d681615b040800000000000000
+      internalID: 4662657283379050762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 787
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bb539825e4592a0800000000000000
+      internalID: -6731387951639053556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 755
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38c79e1e1a332b70800000000000000
+      internalID: 8872999591886702650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 764
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16279d924090d4f0800000000000000
+      internalID: -805985717513148898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_25
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 775
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088053b0d6f187440800000000000000
+      internalID: 4933727944984299648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_26
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 667
+        width: 34
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435b7b4e68fe93990800000000000000
+      internalID: -7405624749592169164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172a1db011bd31300800000000000000
+      internalID: 221761672930501233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 634
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c96db77390f2a3d0800000000000000
+      internalID: -3196728269319870016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 634
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68313f19130d78b70800000000000000
+      internalID: 8901312099841676166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 598
+        width: 148
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7589e62bd47c20dd0800000000000000
+      internalID: -2521233704854054825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 695
+        width: 127
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453515092f3820cc0800000000000000
+      internalID: -3746286862192258220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_32
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 657
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37344257fb3291360800000000000000
+      internalID: 7140777989383668595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23638364f8c1ba720800000000000000
+      internalID: 2858409790180701746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 579
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca0676fc43fdddb0800000000000000
+      internalID: -4765385318810121521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 576
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1f1e84917938a60800000000000000
+      internalID: 7675144324822200744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 595
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca29b51c74a08d20800000000000000
+      internalID: 3278801381573077709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 626
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00aae2b313cb48b0800000000000000
+      internalID: -5166821658103996404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 608
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e07dcd49bcac5400800000000000000
+      internalID: 314315985883328739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_39
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 596
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecd31d8ee514b970800000000000000
+      internalID: 8769658488710487272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_40
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 559
+        width: 121
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98d13faac23c2650800000000000000
+      internalID: 6209393832341133471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_41
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 580
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183532700f7c58be0800000000000000
+      internalID: -1475553469168135295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_42
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 549
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da813d468c35e6e30800000000000000
+      internalID: 4498625197939824813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 590
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7993aedb6f6e92ce0800000000000000
+      internalID: -1429357459290834537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_44
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 541
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7911ece24844120800000000000000
+      internalID: 2397186238228567977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b902f62916729a0800000000000000
+      internalID: -6257925875650487528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 527
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024e6da03ef526da0800000000000000
+      internalID: -5953090328686304224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_47
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 535
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da42fc29c6725f980800000000000000
+      internalID: -8505848973946313555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 494
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c1bf24d06e96e60800000000000000
+      internalID: 7956143161359408250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 518
+        width: 104
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4704a23956389a1e0800000000000000
+      internalID: -2186071671827709836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_50
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 517
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aa4a8bba1feb130800000000000000
+      internalID: 3584568073272994444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_51
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 520
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5453c1ae4056e75a0800000000000000
+      internalID: -6521664138603907771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_52
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 496
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e167e2bf4cc13de00800000000000000
+      internalID: 1068229168970233374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_53
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 493
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eb89751da0e35f0800000000000000
+      internalID: -775170191627076084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f9220c2c4e3d620800000000000000
+      internalID: 2797831318625492822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 482
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bf3cd8dda462140800000000000000
+      internalID: 4694521977006979928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 473
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c349d1b7b4cc7bae0800000000000000
+      internalID: -1533532523536214980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_57
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 484
+        width: 106
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b80374eaa97c46d0800000000000000
+      internalID: -3004893076478818126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_58
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 492
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be16468cdef37a250800000000000000
+      internalID: 5955799322722591211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_59
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 486
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d56f4fb9813bd10800000000000000
+      internalID: 2140081306039901562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_60
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 491
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee288404f34264b0800000000000000
+      internalID: -5448717883837763859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_61
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 493
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b3a20bbbd2d7e70800000000000000
+      internalID: 9114491505005443985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_62
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 490
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45001b520f5c49d70800000000000000
+      internalID: 9049075186509348948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_63
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 493
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8d1c62519dd0e50800000000000000
+      internalID: 6777311699130243305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_64
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 462
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4349cb439211ca70800000000000000
+      internalID: 8845371566973338446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 473
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af780463c6fc4500800000000000000
+      internalID: 381951387476983716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 469
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7a3a7bbd20ebd80800000000000000
+      internalID: -8233139926084638770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_67
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 465
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f973123ff655f5a20800000000000000
+      internalID: 3053253011689256863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shengdanlaoren_68
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 468
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18d7fb11f8bbb060800000000000000
+      internalID: 6970368193981831196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shengdanlaoren_0: -2699649472253745079
+      shengdanlaoren_1: 8172590739499279853
+      shengdanlaoren_10: -8804640346259786637
+      shengdanlaoren_11: 6818734962338728930
+      shengdanlaoren_12: 1773238428238954539
+      shengdanlaoren_13: -6211811081831429577
+      shengdanlaoren_14: -8525879514635164643
+      shengdanlaoren_15: 5295713317321559606
+      shengdanlaoren_16: 1058789045761436395
+      shengdanlaoren_17: 920392356145185044
+      shengdanlaoren_18: -4370410912363060514
+      shengdanlaoren_19: -479578368352121930
+      shengdanlaoren_2: 3918378865810476256
+      shengdanlaoren_20: 2158814166137679817
+      shengdanlaoren_21: 4662657283379050762
+      shengdanlaoren_22: -6731387951639053556
+      shengdanlaoren_23: 8872999591886702650
+      shengdanlaoren_24: -805985717513148898
+      shengdanlaoren_25: 4933727944984299648
+      shengdanlaoren_26: -7405624749592169164
+      shengdanlaoren_27: 221761672930501233
+      shengdanlaoren_28: -3196728269319870016
+      shengdanlaoren_29: 8901312099841676166
+      shengdanlaoren_3: 5344179824231094331
+      shengdanlaoren_30: -2521233704854054825
+      shengdanlaoren_31: -3746286862192258220
+      shengdanlaoren_32: 7140777989383668595
+      shengdanlaoren_33: 2858409790180701746
+      shengdanlaoren_34: -4765385318810121521
+      shengdanlaoren_35: 7675144324822200744
+      shengdanlaoren_36: 3278801381573077709
+      shengdanlaoren_37: -5166821658103996404
+      shengdanlaoren_38: 314315985883328739
+      shengdanlaoren_39: 8769658488710487272
+      shengdanlaoren_4: -7653097530991105545
+      shengdanlaoren_40: 6209393832341133471
+      shengdanlaoren_41: -1475553469168135295
+      shengdanlaoren_42: 4498625197939824813
+      shengdanlaoren_43: -1429357459290834537
+      shengdanlaoren_44: 2397186238228567977
+      shengdanlaoren_45: -6257925875650487528
+      shengdanlaoren_46: -5953090328686304224
+      shengdanlaoren_47: -8505848973946313555
+      shengdanlaoren_48: 7956143161359408250
+      shengdanlaoren_49: -2186071671827709836
+      shengdanlaoren_5: -6713843016324377194
+      shengdanlaoren_50: 3584568073272994444
+      shengdanlaoren_51: -6521664138603907771
+      shengdanlaoren_52: 1068229168970233374
+      shengdanlaoren_53: -775170191627076084
+      shengdanlaoren_54: 2797831318625492822
+      shengdanlaoren_55: 4694521977006979928
+      shengdanlaoren_56: -1533532523536214980
+      shengdanlaoren_57: -3004893076478818126
+      shengdanlaoren_58: 5955799322722591211
+      shengdanlaoren_59: 2140081306039901562
+      shengdanlaoren_6: 8182346028024300787
+      shengdanlaoren_60: -5448717883837763859
+      shengdanlaoren_61: 9114491505005443985
+      shengdanlaoren_62: 9049075186509348948
+      shengdanlaoren_63: 6777311699130243305
+      shengdanlaoren_64: 8845371566973338446
+      shengdanlaoren_65: 381951387476983716
+      shengdanlaoren_66: -8233139926084638770
+      shengdanlaoren_67: 3053253011689256863
+      shengdanlaoren_68: 6970368193981831196
+      shengdanlaoren_7: 2195061431256567546
+      shengdanlaoren_8: -3022278333647741828
+      shengdanlaoren_9: -5837335754371980462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

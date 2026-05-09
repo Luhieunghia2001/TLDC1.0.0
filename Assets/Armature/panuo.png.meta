@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 40ebc5d862141714e876772d33602726
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3474233127440556132
+    second: panuo_0
+  - first:
+      213: 4808863173723896135
+    second: panuo_1
+  - first:
+      213: -1073362169921439385
+    second: panuo_2
+  - first:
+      213: 1350200808576600490
+    second: panuo_3
+  - first:
+      213: -1562374248299259136
+    second: panuo_4
+  - first:
+      213: 3010603149163128377
+    second: panuo_5
+  - first:
+      213: -6755223328256508178
+    second: panuo_6
+  - first:
+      213: 3307921631601513311
+    second: panuo_7
+  - first:
+      213: 2117752528012077733
+    second: panuo_8
+  - first:
+      213: 1519519960095486196
+    second: panuo_9
+  - first:
+      213: -8598042860857275478
+    second: panuo_10
+  - first:
+      213: -2128550674177142571
+    second: panuo_11
+  - first:
+      213: 229708431680879023
+    second: panuo_12
+  - first:
+      213: -6904933073790825846
+    second: panuo_13
+  - first:
+      213: 6077155484244713044
+    second: panuo_14
+  - first:
+      213: -4916530452068907479
+    second: panuo_15
+  - first:
+      213: 8203196789104443989
+    second: panuo_16
+  - first:
+      213: -4513788689375920354
+    second: panuo_17
+  - first:
+      213: 8772811606232699763
+    second: panuo_18
+  - first:
+      213: -7921234135313514946
+    second: panuo_19
+  - first:
+      213: 5705116125851274802
+    second: panuo_20
+  - first:
+      213: 2483393947770000366
+    second: panuo_21
+  - first:
+      213: -2634464274007669969
+    second: panuo_22
+  - first:
+      213: -6385254359243565351
+    second: panuo_23
+  - first:
+      213: -1789923711770040106
+    second: panuo_24
+  - first:
+      213: -7878655316918690066
+    second: panuo_25
+  - first:
+      213: 4254124727307251917
+    second: panuo_26
+  - first:
+      213: -7894833232610681019
+    second: panuo_27
+  - first:
+      213: 245235327891829612
+    second: panuo_28
+  - first:
+      213: -4999024202317259707
+    second: panuo_29
+  - first:
+      213: 3674991242863977043
+    second: panuo_30
+  - first:
+      213: 5170464654392648814
+    second: panuo_31
+  - first:
+      213: -5771610310815154028
+    second: panuo_32
+  - first:
+      213: -3863503816184078397
+    second: panuo_33
+  - first:
+      213: -7802065797000080349
+    second: panuo_34
+  - first:
+      213: 2743369999767078282
+    second: panuo_35
+  - first:
+      213: -5202441870784692946
+    second: panuo_36
+  - first:
+      213: -4996252678647397049
+    second: panuo_37
+  - first:
+      213: -3294119049013542913
+    second: panuo_38
+  - first:
+      213: -5390291601086329256
+    second: panuo_39
+  - first:
+      213: -7965333157513732028
+    second: panuo_40
+  - first:
+      213: -4544318102664648124
+    second: panuo_41
+  - first:
+      213: -7788236427498734208
+    second: panuo_42
+  - first:
+      213: -89762040398157340
+    second: panuo_43
+  - first:
+      213: 4686396899072668537
+    second: panuo_44
+  - first:
+      213: -26226080597239737
+    second: panuo_45
+  - first:
+      213: 3303467943092668711
+    second: panuo_46
+  - first:
+      213: -8530297196386391629
+    second: panuo_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panuo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 118
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fd20cb06b09cfc0800000000000000
+      internalID: -3474233127440556132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 371
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749354bf3938cb240800000000000000
+      internalID: 4808863173723896135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 375
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7697d7a1bc6aa11f0800000000000000
+      internalID: -1073362169921439385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 371
+        width: 70
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa947a25b70ecb210800000000000000
+      internalID: 1350200808576600490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_4
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 423
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b97e326e4515ae0800000000000000
+      internalID: -1562374248299259136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 482
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9366a810d9fc7c920800000000000000
+      internalID: 3010603149163128377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 254
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeb6d47c20a042a0800000000000000
+      internalID: -6755223328256508178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 296
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f535074a23918ed20800000000000000
+      internalID: 3307921631601513311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 307
+        width: 123
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa685234b4c36d10800000000000000
+      internalID: 2117752528012077733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 269
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f07b9a5a5b661510800000000000000
+      internalID: 1519519960095486196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 342
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabc40b829d9da880800000000000000
+      internalID: -8598042860857275478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 293
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0d04b707ed572e0800000000000000
+      internalID: -2128550674177142571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 355
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa930400a96103300800000000000000
+      internalID: 229708431680879023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a0ada04ffbc20a0800000000000000
+      internalID: -6904933073790825846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 284
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e193bf6b4665450800000000000000
+      internalID: 6077155484244713044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_15
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 326
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926ca0d4a99f4cbb0800000000000000
+      internalID: -4916530452068907479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 283
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552023d640c97d170800000000000000
+      internalID: 8203196789104443989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 298
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f72922a1dcb51c0800000000000000
+      internalID: -4513788689375920354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 271
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3739ceeeca94fb970800000000000000
+      internalID: 8772811606232699763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 297
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e70fdb58f121290800000000000000
+      internalID: -7921234135313514946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 257
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ec7b3b3e4ac2f40800000000000000
+      internalID: 5705116125851274802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee39f2e43a9c67220800000000000000
+      internalID: 2483393947770000366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 235
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23c05663b0807bd0800000000000000
+      internalID: -2634464274007669969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 244
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6d5c4adf40367a0800000000000000
+      internalID: -6385254359243565351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 274
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8e5e81ed9e827e0800000000000000
+      internalID: -1789923711770040106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_25
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 257
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee915f6bb469a290800000000000000
+      internalID: -7878655316918690066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0ba5176efa90b30800000000000000
+      internalID: 4254124727307251917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f9a49e00bef6290800000000000000
+      internalID: -7894833232610681019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 238
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c637e5d3b30476300800000000000000
+      internalID: 245235327891829612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_29
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 250
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c9c4559f5ef9ab0800000000000000
+      internalID: -4999024202317259707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_30
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 259
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352249f7011300330800000000000000
+      internalID: 3674991242863977043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_31
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6469c8753e21c740800000000000000
+      internalID: 5170464654392648814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 260
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49081e9600f17efa0800000000000000
+      internalID: -5771610310815154028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 253
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf5bf7bfb3126ac0800000000000000
+      internalID: -3863503816184078397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 226
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324d597ae7e79b390800000000000000
+      internalID: -7802065797000080349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 217
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a858493da78621620800000000000000
+      internalID: 2743369999767078282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_36
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 225
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d7247aea63dc7b0800000000000000
+      internalID: -5202441870784692946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 219
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745c029f8aeb9aab0800000000000000
+      internalID: -4996252678647397049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_38
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 224
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff33bb8d20f842d0800000000000000
+      internalID: -3294119049013542913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 232
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e4a790956d135b0800000000000000
+      internalID: -5390291601086329256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 230
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440e0c402b3757190800000000000000
+      internalID: -7965333157513732028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_41
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 244
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aeb4033c65fe0c0800000000000000
+      internalID: -4544318102664648124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_42
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 244
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d3e28ab30aae390800000000000000
+      internalID: -7788236427498734208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_43
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 217
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9e0cb56e911cef0800000000000000
+      internalID: -89762040398157340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_44
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 221
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973f7bd662d690140800000000000000
+      internalID: 4686396899072668537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_45
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 222
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7489626c483d2aff0800000000000000
+      internalID: -26226080597239737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_46
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 226
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729cdea779648dd20800000000000000
+      internalID: 3303467943092668711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panuo_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 220
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9e0e435eb4e9980800000000000000
+      internalID: -8530297196386391629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      panuo_0: -3474233127440556132
+      panuo_1: 4808863173723896135
+      panuo_10: -8598042860857275478
+      panuo_11: -2128550674177142571
+      panuo_12: 229708431680879023
+      panuo_13: -6904933073790825846
+      panuo_14: 6077155484244713044
+      panuo_15: -4916530452068907479
+      panuo_16: 8203196789104443989
+      panuo_17: -4513788689375920354
+      panuo_18: 8772811606232699763
+      panuo_19: -7921234135313514946
+      panuo_2: -1073362169921439385
+      panuo_20: 5705116125851274802
+      panuo_21: 2483393947770000366
+      panuo_22: -2634464274007669969
+      panuo_23: -6385254359243565351
+      panuo_24: -1789923711770040106
+      panuo_25: -7878655316918690066
+      panuo_26: 4254124727307251917
+      panuo_27: -7894833232610681019
+      panuo_28: 245235327891829612
+      panuo_29: -4999024202317259707
+      panuo_3: 1350200808576600490
+      panuo_30: 3674991242863977043
+      panuo_31: 5170464654392648814
+      panuo_32: -5771610310815154028
+      panuo_33: -3863503816184078397
+      panuo_34: -7802065797000080349
+      panuo_35: 2743369999767078282
+      panuo_36: -5202441870784692946
+      panuo_37: -4996252678647397049
+      panuo_38: -3294119049013542913
+      panuo_39: -5390291601086329256
+      panuo_4: -1562374248299259136
+      panuo_40: -7965333157513732028
+      panuo_41: -4544318102664648124
+      panuo_42: -7788236427498734208
+      panuo_43: -89762040398157340
+      panuo_44: 4686396899072668537
+      panuo_45: -26226080597239737
+      panuo_46: 3303467943092668711
+      panuo_47: -8530297196386391629
+      panuo_5: 3010603149163128377
+      panuo_6: -6755223328256508178
+      panuo_7: 3307921631601513311
+      panuo_8: 2117752528012077733
+      panuo_9: 1519519960095486196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4e6431a0d44bef4781df309c0cf8f6e, type: 3}
+  m_Name: pet 2
+  m_EditorClassIdentifier: Assembly-CSharp::PetBaseSO
+  petBaseID: 2
+  speciesName: name pet 2
+  element: 0
+  attackType: 0
+  defaultTier: 0
+  baseHP: 12
+  baseAtkPhy: 12
+  baseAtkMag: 12
+  baseDefPhy: 12
+  baseDefMag: 12
+  baseSpeed: 12
+  icon: {fileID: -6340952189099933019, guid: 8943f3ab3d972754a88460c86414ecac, type: 3}
+  petPrefab: {fileID: 3098258138955482143, guid: 20fba004be3c0604eb54052bf2a74029, type: 3}

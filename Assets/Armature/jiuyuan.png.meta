@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 4925a86829e632d4e88c6eae198a5a07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7524074898048896751
+    second: jiuyuan_0
+  - first:
+      213: 2863965505656818308
+    second: jiuyuan_1
+  - first:
+      213: -2761620042924735042
+    second: jiuyuan_2
+  - first:
+      213: 4735422821151726886
+    second: jiuyuan_3
+  - first:
+      213: -8030626161671041119
+    second: jiuyuan_4
+  - first:
+      213: -4259045766582496151
+    second: jiuyuan_5
+  - first:
+      213: 1643156592817445513
+    second: jiuyuan_6
+  - first:
+      213: 4723311926166778209
+    second: jiuyuan_7
+  - first:
+      213: 7267045115012098390
+    second: jiuyuan_8
+  - first:
+      213: 4874460807823650405
+    second: jiuyuan_9
+  - first:
+      213: 7021595500893949377
+    second: jiuyuan_10
+  - first:
+      213: -6656412863887102562
+    second: jiuyuan_11
+  - first:
+      213: 3109274509995552270
+    second: jiuyuan_12
+  - first:
+      213: 8484615486472056252
+    second: jiuyuan_13
+  - first:
+      213: -4918614956040560444
+    second: jiuyuan_14
+  - first:
+      213: -2636491690167672630
+    second: jiuyuan_15
+  - first:
+      213: 3630777409893309892
+    second: jiuyuan_16
+  - first:
+      213: -6508008505758182538
+    second: jiuyuan_17
+  - first:
+      213: 3698866352177094990
+    second: jiuyuan_18
+  - first:
+      213: 2915431506219343565
+    second: jiuyuan_19
+  - first:
+      213: -6884922829134879319
+    second: jiuyuan_20
+  - first:
+      213: -1265458889907358975
+    second: jiuyuan_21
+  - first:
+      213: 5108542013468024815
+    second: jiuyuan_22
+  - first:
+      213: 3211469524330831113
+    second: jiuyuan_23
+  - first:
+      213: 7445731652116112862
+    second: jiuyuan_24
+  - first:
+      213: 5449813230368886332
+    second: jiuyuan_25
+  - first:
+      213: -2843562419022299021
+    second: jiuyuan_26
+  - first:
+      213: 6202740690281776415
+    second: jiuyuan_27
+  - first:
+      213: -5327075850173492791
+    second: jiuyuan_28
+  - first:
+      213: -5750918028890234705
+    second: jiuyuan_29
+  - first:
+      213: 2158568444691420235
+    second: jiuyuan_30
+  - first:
+      213: -2003390925288209092
+    second: jiuyuan_31
+  - first:
+      213: -328211630473689472
+    second: jiuyuan_32
+  - first:
+      213: -5266279745361606685
+    second: jiuyuan_33
+  - first:
+      213: 3140764637334774716
+    second: jiuyuan_34
+  - first:
+      213: 7493062411726692682
+    second: jiuyuan_35
+  - first:
+      213: -3170381357237219047
+    second: jiuyuan_36
+  - first:
+      213: -9131129991395116074
+    second: jiuyuan_37
+  - first:
+      213: -2976033827372656009
+    second: jiuyuan_38
+  - first:
+      213: 8072132998935947175
+    second: jiuyuan_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jiuyuan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee43a96142ea6860800000000000000
+      internalID: 7524074898048896751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 311
+        width: 193
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a85a51479deb720800000000000000
+      internalID: 2863965505656818308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 348
+        width: 149
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb54fd0e331cca9d0800000000000000
+      internalID: -2761620042924735042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 283
+        width: 81
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dd60c67f997b140800000000000000
+      internalID: 4735422821151726886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_4
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 400
+        width: 196
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af83a5dd0c7d8090800000000000000
+      internalID: -8030626161671041119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_5
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 317
+        width: 97
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96418b0d074d4e4c0800000000000000
+      internalID: -4259045766582496151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_6
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 293
+        width: 63
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a9931273aadc610800000000000000
+      internalID: 1643156592817445513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_7
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 492
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1617982fb239c8140800000000000000
+      internalID: 4723311926166778209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_8
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 466
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659a807970bb9d460800000000000000
+      internalID: 7267045115012098390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_9
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 447
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e64e9574095a340800000000000000
+      internalID: 4874460807823650405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 228
+        width: 164
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdc343f7e7b17160800000000000000
+      internalID: 7021595500893949377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 196
+        width: 87
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d2ba974cbaf93a0800000000000000
+      internalID: -6656412863887102562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 175
+        width: 62
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e267571bc562b20800000000000000
+      internalID: 3109274509995552270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 212
+        width: 73
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbde1fed4d86fb570800000000000000
+      internalID: 8484615486472056252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_14
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 253
+        width: 98
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c06746e1c19dbbb0800000000000000
+      internalID: -4918614956040560444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_15
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 300
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0694ac6cc496bd0800000000000000
+      internalID: -2636491690167672630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_16
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 302
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd143f41dc136230800000000000000
+      internalID: 3630777409893309892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_17
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 264
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6731013beb8eea5a0800000000000000
+      internalID: -6508008505758182538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_18
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 264
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4129219953055330800000000000000
+      internalID: 3698866352177094990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_19
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 290
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce9f2f1281b57820800000000000000
+      internalID: 2915431506219343565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_20
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5207f2a27d370a0800000000000000
+      internalID: -6884922829134879319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_21
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 271
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103363528df207ee0800000000000000
+      internalID: -1265458889907358975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 263
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef9be025ef25e640800000000000000
+      internalID: 5108542013468024815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 257
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d5bbc648e619c20800000000000000
+      internalID: 3211469524330831113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 197
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed563490d7d845760800000000000000
+      internalID: 7445731652116112862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 211
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e8c583240a1ab40800000000000000
+      internalID: 5449813230368886332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_26
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 207
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3708685bb03a988d0800000000000000
+      internalID: -2843562419022299021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_27
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 245
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f154b165bcf841650800000000000000
+      internalID: 6202740690281776415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_28
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 274
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1d8d20dbc6216b0800000000000000
+      internalID: -5327075850173492791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_29
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 271
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0ab9bb582a030b0800000000000000
+      internalID: -5750918028890234705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_30
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 245
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4413395096c4fd10800000000000000
+      internalID: 2158568444691420235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3584ff51968234e0800000000000000
+      internalID: -2003390925288209092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 238
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086c672d245f17bf0800000000000000
+      internalID: -328211630473689472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_33
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 188
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e703e9397a6ae6b0800000000000000
+      internalID: -5266279745361606685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_34
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 204
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3a2731ccc369b20800000000000000
+      internalID: 3140764637334774716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_35
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 198
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412dc24094bcf760800000000000000
+      internalID: 7493062411726692682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_36
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 205
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911da57f3fa8004d0800000000000000
+      internalID: -3170381357237219047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_37
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 240
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db7af0d6a5b74180800000000000000
+      internalID: -9131129991395116074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 205
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a18ef600103b6d0800000000000000
+      internalID: -2976033827372656009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiuyuan_39
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 220
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7294dc13af50070800000000000000
+      internalID: 8072132998935947175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jiuyuan_0: 7524074898048896751
+      jiuyuan_1: 2863965505656818308
+      jiuyuan_10: 7021595500893949377
+      jiuyuan_11: -6656412863887102562
+      jiuyuan_12: 3109274509995552270
+      jiuyuan_13: 8484615486472056252
+      jiuyuan_14: -4918614956040560444
+      jiuyuan_15: -2636491690167672630
+      jiuyuan_16: 3630777409893309892
+      jiuyuan_17: -6508008505758182538
+      jiuyuan_18: 3698866352177094990
+      jiuyuan_19: 2915431506219343565
+      jiuyuan_2: -2761620042924735042
+      jiuyuan_20: -6884922829134879319
+      jiuyuan_21: -1265458889907358975
+      jiuyuan_22: 5108542013468024815
+      jiuyuan_23: 3211469524330831113
+      jiuyuan_24: 7445731652116112862
+      jiuyuan_25: 5449813230368886332
+      jiuyuan_26: -2843562419022299021
+      jiuyuan_27: 6202740690281776415
+      jiuyuan_28: -5327075850173492791
+      jiuyuan_29: -5750918028890234705
+      jiuyuan_3: 4735422821151726886
+      jiuyuan_30: 2158568444691420235
+      jiuyuan_31: -2003390925288209092
+      jiuyuan_32: -328211630473689472
+      jiuyuan_33: -5266279745361606685
+      jiuyuan_34: 3140764637334774716
+      jiuyuan_35: 7493062411726692682
+      jiuyuan_36: -3170381357237219047
+      jiuyuan_37: -9131129991395116074
+      jiuyuan_38: -2976033827372656009
+      jiuyuan_39: 8072132998935947175
+      jiuyuan_4: -8030626161671041119
+      jiuyuan_5: -4259045766582496151
+      jiuyuan_6: 1643156592817445513
+      jiuyuan_7: 4723311926166778209
+      jiuyuan_8: 7267045115012098390
+      jiuyuan_9: 4874460807823650405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

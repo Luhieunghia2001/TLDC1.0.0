@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 5c6bdb48f7a26e94dbec897e4889da1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -60431994226386221
+    second: poyi_0
+  - first:
+      213: -5344613366256815171
+    second: poyi_1
+  - first:
+      213: 8794613075652388741
+    second: poyi_2
+  - first:
+      213: 5575161817406264614
+    second: poyi_3
+  - first:
+      213: 5282992419208021797
+    second: poyi_4
+  - first:
+      213: -2103110431582721481
+    second: poyi_5
+  - first:
+      213: 8370971091294188949
+    second: poyi_6
+  - first:
+      213: -6188957768938732661
+    second: poyi_7
+  - first:
+      213: -6542426678461784546
+    second: poyi_8
+  - first:
+      213: 3598539574848673141
+    second: poyi_9
+  - first:
+      213: -5860959862029196022
+    second: poyi_10
+  - first:
+      213: 7500800679209753014
+    second: poyi_11
+  - first:
+      213: 6519910512683836911
+    second: poyi_12
+  - first:
+      213: 8727342779409827531
+    second: poyi_13
+  - first:
+      213: 4536975231417073804
+    second: poyi_14
+  - first:
+      213: -1952713030801824746
+    second: poyi_15
+  - first:
+      213: 6701170377720701618
+    second: poyi_16
+  - first:
+      213: -2657111646838712098
+    second: poyi_17
+  - first:
+      213: -2443114081038220377
+    second: poyi_18
+  - first:
+      213: -4813260548155222826
+    second: poyi_19
+  - first:
+      213: 2604878137029691848
+    second: poyi_20
+  - first:
+      213: 2900549128412357807
+    second: poyi_21
+  - first:
+      213: 7778151972765606675
+    second: poyi_22
+  - first:
+      213: 8314137166475860631
+    second: poyi_23
+  - first:
+      213: -8879322713068658112
+    second: poyi_24
+  - first:
+      213: 2849731020589150418
+    second: poyi_25
+  - first:
+      213: -8685170871823140007
+    second: poyi_26
+  - first:
+      213: 1736969305834736221
+    second: poyi_27
+  - first:
+      213: 2554375381026346424
+    second: poyi_28
+  - first:
+      213: 4697856624142768258
+    second: poyi_29
+  - first:
+      213: -2163657667959191037
+    second: poyi_30
+  - first:
+      213: -6054762804801232136
+    second: poyi_31
+  - first:
+      213: -4862850259671799625
+    second: poyi_32
+  - first:
+      213: -2071596907879116003
+    second: poyi_33
+  - first:
+      213: -3805753989026245871
+    second: poyi_34
+  - first:
+      213: 8117135258208633194
+    second: poyi_35
+  - first:
+      213: -4042455365590352246
+    second: poyi_36
+  - first:
+      213: 7127154586239792162
+    second: poyi_37
+  - first:
+      213: -5110666128595640966
+    second: poyi_38
+  - first:
+      213: 2191616861041306402
+    second: poyi_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poyi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 297
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da5113eb6d492ff0800000000000000
+      internalID: -60431994226386221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 813
+        width: 244
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3357ad57e14d5b0800000000000000
+      internalID: -5344613366256815171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 776
+        width: 165
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58724471ffdbc0a70800000000000000
+      internalID: 8794613075652388741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_3
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 867
+        width: 214
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62552db6224fe5d40800000000000000
+      internalID: 5575161817406264614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_4
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 882
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527c9f16d95f05940800000000000000
+      internalID: 5282992419208021797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_5
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 842
+        width: 95
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ae71a843040d2e0800000000000000
+      internalID: -2103110431582721481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_6
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 691
+        width: 188
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59577a13bd9ab2470800000000000000
+      internalID: 8370971091294188949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_7
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 791
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83438c13b76c1aa0800000000000000
+      internalID: -6188957768938732661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_8
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 666
+        width: 83
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e1f356991a435a0800000000000000
+      internalID: -6542426678461784546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 833
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5755a0d6da490f130800000000000000
+      internalID: 3598539574848673141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_10
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 833
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a056de4ee00b9aea0800000000000000
+      internalID: -5860959862029196022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 177
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b95e4f0a72381860800000000000000
+      internalID: 7500800679209753014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 622
+        width: 99
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5eadb31106b7a50800000000000000
+      internalID: 6519910512683836911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 618
+        width: 121
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc60bc7b400cd1970800000000000000
+      internalID: 8727342779409827531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 640
+        width: 121
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c804c5f5fe296fe30800000000000000
+      internalID: 4536975231417073804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 608
+        width: 125
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614e7ca28d196e4e0800000000000000
+      internalID: -1952713030801824746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_16
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 723
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2a96744f65ffc50800000000000000
+      internalID: 6701170377720701618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_17
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 739
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed810a1090b002bd0800000000000000
+      internalID: -2657111646838712098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_18
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 755
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a346fdffa0581ed0800000000000000
+      internalID: -2443114081038220377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_19
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 688
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d45ecf780dd33db0800000000000000
+      internalID: -4813260548155222826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_20
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 699
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c906d84dd2662420800000000000000
+      internalID: 2604878137029691848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_21
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 662
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa466948012d04820800000000000000
+      internalID: 2900549128412357807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_22
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 658
+        width: 214
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313a2b1420c81fb60800000000000000
+      internalID: 7778151972765606675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_23
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 527
+        width: 104
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a9aa5e3bfb16370800000000000000
+      internalID: 8314137166475860631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0422c71890f46c480800000000000000
+      internalID: -8879322713068658112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 553
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0b0a3c3474c8720800000000000000
+      internalID: 2849731020589150418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 599
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b796bab13187780800000000000000
+      internalID: -8685170871823140007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 572
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a490c7164fa1810800000000000000
+      internalID: 1736969305834736221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_28
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 558
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5141910e6f27320800000000000000
+      internalID: 2554375381026346424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 519
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288deb795b3223140800000000000000
+      internalID: 4697856624142768258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_30
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 560
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a0eb580d429f1e0800000000000000
+      internalID: -2163657667959191037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_31
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 545
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2239cfe4929fba0800000000000000
+      internalID: -6054762804801232136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_32
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 519
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8a85c047fa38cb0800000000000000
+      internalID: -4862850259671799625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 526
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13511c86953043e0800000000000000
+      internalID: -2071596907879116003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_34
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 542
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113909529ee3f2bc0800000000000000
+      internalID: -3805753989026245871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_35
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 538
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61035bc28bd5a070800000000000000
+      internalID: 8117135258208633194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 474
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e7d99434056e7c0800000000000000
+      internalID: -4042455365590352246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 526
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2247e1cb55db8e260800000000000000
+      internalID: 7127154586239792162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 472
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d9f67cb344319b0800000000000000
+      internalID: -5110666128595640966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poyi_39
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 465
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22baf166cef2a6e10800000000000000
+      internalID: 2191616861041306402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      poyi_0: -60431994226386221
+      poyi_1: -5344613366256815171
+      poyi_10: -5860959862029196022
+      poyi_11: 7500800679209753014
+      poyi_12: 6519910512683836911
+      poyi_13: 8727342779409827531
+      poyi_14: 4536975231417073804
+      poyi_15: -1952713030801824746
+      poyi_16: 6701170377720701618
+      poyi_17: -2657111646838712098
+      poyi_18: -2443114081038220377
+      poyi_19: -4813260548155222826
+      poyi_2: 8794613075652388741
+      poyi_20: 2604878137029691848
+      poyi_21: 2900549128412357807
+      poyi_22: 7778151972765606675
+      poyi_23: 8314137166475860631
+      poyi_24: -8879322713068658112
+      poyi_25: 2849731020589150418
+      poyi_26: -8685170871823140007
+      poyi_27: 1736969305834736221
+      poyi_28: 2554375381026346424
+      poyi_29: 4697856624142768258
+      poyi_3: 5575161817406264614
+      poyi_30: -2163657667959191037
+      poyi_31: -6054762804801232136
+      poyi_32: -4862850259671799625
+      poyi_33: -2071596907879116003
+      poyi_34: -3805753989026245871
+      poyi_35: 8117135258208633194
+      poyi_36: -4042455365590352246
+      poyi_37: 7127154586239792162
+      poyi_38: -5110666128595640966
+      poyi_39: 2191616861041306402
+      poyi_4: 5282992419208021797
+      poyi_5: -2103110431582721481
+      poyi_6: 8370971091294188949
+      poyi_7: -6188957768938732661
+      poyi_8: -6542426678461784546
+      poyi_9: 3598539574848673141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

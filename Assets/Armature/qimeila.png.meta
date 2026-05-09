@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: ae0c12703e22e0e448131ae73c7302c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9089675162495507276
+    second: qimeila_0
+  - first:
+      213: -6944168551709947207
+    second: qimeila_1
+  - first:
+      213: 5142748317026894049
+    second: qimeila_2
+  - first:
+      213: 5308551417192925524
+    second: qimeila_3
+  - first:
+      213: -2921925284108086603
+    second: qimeila_4
+  - first:
+      213: -3565808979676861580
+    second: qimeila_5
+  - first:
+      213: 5727842217582980457
+    second: qimeila_6
+  - first:
+      213: -5355662503277887652
+    second: qimeila_7
+  - first:
+      213: -2664991998717665636
+    second: qimeila_8
+  - first:
+      213: -8263850815870987470
+    second: qimeila_9
+  - first:
+      213: -6423201621909033405
+    second: qimeila_10
+  - first:
+      213: -7689083601721221397
+    second: qimeila_11
+  - first:
+      213: 3441451803379612763
+    second: qimeila_12
+  - first:
+      213: -9173848607843452201
+    second: qimeila_13
+  - first:
+      213: 4927219382132600839
+    second: qimeila_14
+  - first:
+      213: -8552260125645887030
+    second: qimeila_15
+  - first:
+      213: 4153741857054734249
+    second: qimeila_16
+  - first:
+      213: 7134807019193943361
+    second: qimeila_17
+  - first:
+      213: -5380893392111213677
+    second: qimeila_18
+  - first:
+      213: 3066771445397888806
+    second: qimeila_19
+  - first:
+      213: -3411898440337545002
+    second: qimeila_20
+  - first:
+      213: 6819443443214411618
+    second: qimeila_21
+  - first:
+      213: 3356353391314385373
+    second: qimeila_22
+  - first:
+      213: -3181710607291262052
+    second: qimeila_23
+  - first:
+      213: 4833352868187011388
+    second: qimeila_24
+  - first:
+      213: 7952269381495901047
+    second: qimeila_25
+  - first:
+      213: 4465142965354571248
+    second: qimeila_26
+  - first:
+      213: -4042232527674953132
+    second: qimeila_27
+  - first:
+      213: 8517132786141155482
+    second: qimeila_28
+  - first:
+      213: 5490031091830875147
+    second: qimeila_29
+  - first:
+      213: 7996017350115530118
+    second: qimeila_30
+  - first:
+      213: 7241413407265909749
+    second: qimeila_31
+  - first:
+      213: 4421518846872812890
+    second: qimeila_32
+  - first:
+      213: 3516370716839397443
+    second: qimeila_33
+  - first:
+      213: -7541672736350546426
+    second: qimeila_34
+  - first:
+      213: -424232223272899270
+    second: qimeila_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: qimeila_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4a3cf499cfad180800000000000000
+      internalID: -9089675162495507276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 352
+        width: 133
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bac3e67e7b51af90800000000000000
+      internalID: -6944168551709947207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 428
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e040adc856be5740800000000000000
+      internalID: 5142748317026894049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 484
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4594ea55363cba940800000000000000
+      internalID: 5308551417192925524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b251846f6c3377d0800000000000000
+      internalID: -2921925284108086603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 326
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b667d10a3b38ec0800000000000000
+      internalID: -3565808979676861580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 318
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96de48446226d7f40800000000000000
+      internalID: 5727842217582980457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 413
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ffd3b245ddca5b0800000000000000
+      internalID: -5355662503277887652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 417
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9edc2b95eb040bd0800000000000000
+      internalID: -2664991998717665636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 390
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233103b7777e05d80800000000000000
+      internalID: -8263850815870987470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 394
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e266d08243cd6a0800000000000000
+      internalID: -6423201621909033405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 369
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee1027e333ea4590800000000000000
+      internalID: -7689083601721221397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 359
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cb11c7e2e72cf20800000000000000
+      internalID: 3441451803379612763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 332
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da774adb41ffa080800000000000000
+      internalID: -9173848607843452201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 357
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700fe6a2ceff06440800000000000000
+      internalID: 4927219382132600839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 334
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9a3204ab4405980800000000000000
+      internalID: -8552260125645887030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 251
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a73b66263e05a930800000000000000
+      internalID: 4153741857054734249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 327
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c400ae2de30360800000000000000
+      internalID: 7134807019193943361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 313
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393e6f418f93355b0800000000000000
+      internalID: -5380893392111213677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 208
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f9042916c5f8a20800000000000000
+      internalID: 3066771445397888806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 288
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8a8fd027086a0d0800000000000000
+      internalID: -3411898440337545002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 250
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26769ae3ea783ae50800000000000000
+      internalID: 6819443443214411618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 209
+        width: 73
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9b8fd60a9249e20800000000000000
+      internalID: 3356353391314385373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_23
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 238
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bdf426f0b48d3d0800000000000000
+      internalID: -3181710607291262052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39f66e43d4831340800000000000000
+      internalID: 4833352868187011388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 215
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b474a9ed22c5e60800000000000000
+      internalID: 7952269381495901047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 174
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f52b41aedf57fd30800000000000000
+      internalID: 4465142965354571248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 232
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452b768ceea17e7c0800000000000000
+      internalID: -4042232527674953132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 197
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90d6cea42fe23670800000000000000
+      internalID: 8517132786141155482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 153
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04ed6ac032803c40800000000000000
+      internalID: 5490031091830875147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6851f7b4a6f87fe60800000000000000
+      internalID: 7996017350115530118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 201
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbe5d3902bae7460800000000000000
+      internalID: 7241413407265909749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 203
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d7c8b07f36c5d30800000000000000
+      internalID: 4421518846872812890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 178
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484cc35988acc030800000000000000
+      internalID: 3516370716839397443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 171
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606d3919a98965790800000000000000
+      internalID: -7541672736350546426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qimeila_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 160
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d6b856a03dc1af0800000000000000
+      internalID: -424232223272899270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      qimeila_0: -9089675162495507276
+      qimeila_1: -6944168551709947207
+      qimeila_10: -6423201621909033405
+      qimeila_11: -7689083601721221397
+      qimeila_12: 3441451803379612763
+      qimeila_13: -9173848607843452201
+      qimeila_14: 4927219382132600839
+      qimeila_15: -8552260125645887030
+      qimeila_16: 4153741857054734249
+      qimeila_17: 7134807019193943361
+      qimeila_18: -5380893392111213677
+      qimeila_19: 3066771445397888806
+      qimeila_2: 5142748317026894049
+      qimeila_20: -3411898440337545002
+      qimeila_21: 6819443443214411618
+      qimeila_22: 3356353391314385373
+      qimeila_23: -3181710607291262052
+      qimeila_24: 4833352868187011388
+      qimeila_25: 7952269381495901047
+      qimeila_26: 4465142965354571248
+      qimeila_27: -4042232527674953132
+      qimeila_28: 8517132786141155482
+      qimeila_29: 5490031091830875147
+      qimeila_3: 5308551417192925524
+      qimeila_30: 7996017350115530118
+      qimeila_31: 7241413407265909749
+      qimeila_32: 4421518846872812890
+      qimeila_33: 3516370716839397443
+      qimeila_34: -7541672736350546426
+      qimeila_35: -424232223272899270
+      qimeila_4: -2921925284108086603
+      qimeila_5: -3565808979676861580
+      qimeila_6: 5727842217582980457
+      qimeila_7: -5355662503277887652
+      qimeila_8: -2664991998717665636
+      qimeila_9: -8263850815870987470
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

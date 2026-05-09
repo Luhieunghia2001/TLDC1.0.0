@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: f8fbeddb470cad440be2144e87e0db13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3751638867770642266
+    second: gelifen_0
+  - first:
+      213: -287973207160628361
+    second: gelifen_1
+  - first:
+      213: 5165257505715184085
+    second: gelifen_2
+  - first:
+      213: 7196724700856089007
+    second: gelifen_3
+  - first:
+      213: 6884637671109316382
+    second: gelifen_4
+  - first:
+      213: -2560661616773664432
+    second: gelifen_5
+  - first:
+      213: 6785632987341683925
+    second: gelifen_6
+  - first:
+      213: -7747233803582473602
+    second: gelifen_7
+  - first:
+      213: -4568789654524022759
+    second: gelifen_8
+  - first:
+      213: -3209620426234000753
+    second: gelifen_9
+  - first:
+      213: -4466130390902578939
+    second: gelifen_10
+  - first:
+      213: -5356846918634738199
+    second: gelifen_11
+  - first:
+      213: -6987465029700377652
+    second: gelifen_12
+  - first:
+      213: 1741000796752988454
+    second: gelifen_13
+  - first:
+      213: 7906510184108651652
+    second: gelifen_14
+  - first:
+      213: -8882288506887772764
+    second: gelifen_15
+  - first:
+      213: 2463558793270186686
+    second: gelifen_16
+  - first:
+      213: 5058657975144772281
+    second: gelifen_17
+  - first:
+      213: -3788746581082225348
+    second: gelifen_18
+  - first:
+      213: 1034728518371487990
+    second: gelifen_19
+  - first:
+      213: 3438168085810186096
+    second: gelifen_20
+  - first:
+      213: -4471148356647910611
+    second: gelifen_21
+  - first:
+      213: 6075174421774247305
+    second: gelifen_22
+  - first:
+      213: 7464402308604554057
+    second: gelifen_23
+  - first:
+      213: 5756797056358847601
+    second: gelifen_24
+  - first:
+      213: 6698902453712769427
+    second: gelifen_25
+  - first:
+      213: 2908776060493180913
+    second: gelifen_26
+  - first:
+      213: 3877745040638910208
+    second: gelifen_27
+  - first:
+      213: -1962890231136120837
+    second: gelifen_28
+  - first:
+      213: -5430040592869833108
+    second: gelifen_29
+  - first:
+      213: -6458120477687079345
+    second: gelifen_30
+  - first:
+      213: -2854639901935349522
+    second: gelifen_31
+  - first:
+      213: -3365516084445547590
+    second: gelifen_32
+  - first:
+      213: -7421916925908731225
+    second: gelifen_33
+  - first:
+      213: -2807232460888213428
+    second: gelifen_34
+  - first:
+      213: 7642091121150317114
+    second: gelifen_35
+  - first:
+      213: 1527615071367923623
+    second: gelifen_36
+  - first:
+      213: -3571947882923591829
+    second: gelifen_37
+  - first:
+      213: -5049350018277246763
+    second: gelifen_38
+  - first:
+      213: -7929115311842884839
+    second: gelifen_39
+  - first:
+      213: -1440523673492979548
+    second: gelifen_40
+  - first:
+      213: 6474590195226948050
+    second: gelifen_41
+  - first:
+      213: 2936371865018457423
+    second: gelifen_42
+  - first:
+      213: -1442612575596144478
+    second: gelifen_43
+  - first:
+      213: 3853369947122945879
+    second: gelifen_44
+  - first:
+      213: 5974009059211975783
+    second: gelifen_45
+  - first:
+      213: 5826989390492214005
+    second: gelifen_46
+  - first:
+      213: 797594027189380627
+    second: gelifen_47
+  - first:
+      213: 7960084800037155923
+    second: gelifen_48
+  - first:
+      213: 8473045423999282004
+    second: gelifen_49
+  - first:
+      213: 7120355869617794406
+    second: gelifen_50
+  - first:
+      213: 552027151993071388
+    second: gelifen_51
+  - first:
+      213: 5991700304438791105
+    second: gelifen_52
+  - first:
+      213: 469102888920218034
+    second: gelifen_53
+  - first:
+      213: 7831598979705343083
+    second: gelifen_54
+  - first:
+      213: -8849119369815995903
+    second: gelifen_55
+  - first:
+      213: -6900153797034408023
+    second: gelifen_56
+  - first:
+      213: -3672357991573794832
+    second: gelifen_57
+  - first:
+      213: 5924624156574225424
+    second: gelifen_58
+  - first:
+      213: 464542158333626120
+    second: gelifen_59
+  - first:
+      213: 9013799509752166004
+    second: gelifen_60
+  - first:
+      213: 3453372267670783070
+    second: gelifen_61
+  - first:
+      213: 59761145392358524
+    second: gelifen_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gelifen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 319
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a07bf8a3508febc0800000000000000
+      internalID: -3751638867770642266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 799
+        width: 409
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b5c52d4e9e00cf0800000000000000
+      internalID: -287973207160628361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 674
+        width: 199
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1e291b55eaea740800000000000000
+      internalID: 5165257505715184085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_3
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 746
+        width: 72
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa97ecc4cf6efd360800000000000000
+      internalID: 7196724700856089007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_4
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 888
+        width: 88
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f4eb94c752b8f50800000000000000
+      internalID: 6884637671109316382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_5
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 858
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0517a3693d3b67cd0800000000000000
+      internalID: -2560661616773664432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_6
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 842
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc7caa00496b2e50800000000000000
+      internalID: 6785632987341683925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 626
+        width: 255
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a7199f6eb4c7490800000000000000
+      internalID: -7747233803582473602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_8
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 650
+        width: 122
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910bd9404066890c0800000000000000
+      internalID: -4568789654524022759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_9
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 715
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a0c764a332573d0800000000000000
+      internalID: -3209620426234000753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_10
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 642
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501eca1721e1502c0800000000000000
+      internalID: -4466130390902578939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_11
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 672
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed61aafb18a8a5b0800000000000000
+      internalID: -5356846918634738199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 198
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3ae30a399870f90800000000000000
+      internalID: -6987465029700377652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 544
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629422c1007492810800000000000000
+      internalID: 1741000796752988454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 474
+        width: 186
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484fdc83f1199bd60800000000000000
+      internalID: 7906510184108651652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 554
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a56b62d9a5cbb480800000000000000
+      internalID: -8882288506887772764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 549
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2d8248ba1503220800000000000000
+      internalID: 2463558793270186686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_17
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 598
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b273b060a6f33640800000000000000
+      internalID: 5058657975144772281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_18
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 586
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c354e92ee0bab6bc0800000000000000
+      internalID: -3788746581082225348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_19
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 590
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0bf70fa181c5e00800000000000000
+      internalID: 1034728518371487990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_20
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 451
+        width: 181
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0770dc868a3d6bf20800000000000000
+      internalID: 3438168085810186096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_21
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 515
+        width: 99
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d230eef324a43f1c0800000000000000
+      internalID: -4471148356647910611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_22
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 581
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985a46ee2fa5f4450800000000000000
+      internalID: 6075174421774247305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_23
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 567
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94beaf00a52e69760800000000000000
+      internalID: 7464402308604554057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 485
+        width: 87
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17498440c6044ef40800000000000000
+      internalID: 5756797056358847601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_25
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 479
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391da821a4847fc50800000000000000
+      internalID: 6698902453712769427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_26
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 490
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff2bd86a6c0e5820800000000000000
+      internalID: 2908776060493180913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_27
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 430
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f90dcb19480d530800000000000000
+      internalID: 3877745040638910208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_28
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 494
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff0c001cb962c4e0800000000000000
+      internalID: -1962890231136120837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_29
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 450
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66ca02b9de94a4b0800000000000000
+      internalID: -5430040592869833108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_30
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 451
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e19c264a52066a0800000000000000
+      internalID: -6458120477687079345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 123
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0dc7b32284268d0800000000000000
+      internalID: -2854639901935349522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 397
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab372c4d3f84b41d0800000000000000
+      internalID: -3365516084445547590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 408
+        width: 91
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa30cef0ed000990800000000000000
+      internalID: -7421916925908731225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 443
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48ffce33f4ba09d0800000000000000
+      internalID: -2807232460888213428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_35
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 422
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32d45992692e0a60800000000000000
+      internalID: 7642091121150317114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 384
+        width: 152
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a70b6250dd233510800000000000000
+      internalID: 1527615071367923623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_37
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 412
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6771225354ed6ec0800000000000000
+      internalID: -3571947882923591829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_38
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 427
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8f8f539ea1de9b0800000000000000
+      internalID: -5049350018277246763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_39
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 430
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9138e7652af16f190800000000000000
+      internalID: -7929115311842884839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_40
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 355
+        width: 133
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a009e6e95b320ce0800000000000000
+      internalID: -1440523673492979548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_41
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 398
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1babc8a7d5ad950800000000000000
+      internalID: 6474590195226948050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_42
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 390
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d50e657a610c820800000000000000
+      internalID: 2936371865018457423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_43
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 401
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8941b718fcafbe0800000000000000
+      internalID: -1442612575596144478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 417
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fcd660d8be97530800000000000000
+      internalID: 3853369947122945879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_45
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 387
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c9b437691f7e250800000000000000
+      internalID: 5974009059211975783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_46
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 380
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2224a5aff9dd050800000000000000
+      internalID: 5826989390492214005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_47
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 398
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316a899ba8f911b00800000000000000
+      internalID: 797594027189380627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_48
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 349
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354733883f6e77e60800000000000000
+      internalID: 7960084800037155923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 350
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45be937cbed469570800000000000000
+      internalID: 8473045423999282004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 368
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dafea20f590d260800000000000000
+      internalID: 7120355869617794406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_51
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 290
+        width: 127
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17eaec15c139a700800000000000000
+      internalID: 552027151993071388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_52
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 346
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb8ca67eabc62350800000000000000
+      internalID: 5991700304438791105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_53
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 353
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9f2319796928600800000000000000
+      internalID: 469102888920218034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 359
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c06a847cd6fac60800000000000000
+      internalID: 7831598979705343083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_55
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 352
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ac61b51dc913580800000000000000
+      internalID: -8849119369815995903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_56
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 361
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a783302eaabd30a0800000000000000
+      internalID: -6900153797034408023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_57
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 356
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff4d281dd9290dc0800000000000000
+      internalID: -3672357991573794832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_58
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 347
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0141e48c74e783250800000000000000
+      internalID: 5924624156574225424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_59
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 345
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8074baab1a2627600800000000000000
+      internalID: 464542158333626120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_60
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 372
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4763e5f95e2771d70800000000000000
+      internalID: 9013799509752166004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_61
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 341
+        width: 126
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54c3bbd7c7dcef20800000000000000
+      internalID: 3453372267670783070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gelifen_62
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 248
+        width: 206
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c746b72f17054d000800000000000000
+      internalID: 59761145392358524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gelifen_0: -3751638867770642266
+      gelifen_1: -287973207160628361
+      gelifen_10: -4466130390902578939
+      gelifen_11: -5356846918634738199
+      gelifen_12: -6987465029700377652
+      gelifen_13: 1741000796752988454
+      gelifen_14: 7906510184108651652
+      gelifen_15: -8882288506887772764
+      gelifen_16: 2463558793270186686
+      gelifen_17: 5058657975144772281
+      gelifen_18: -3788746581082225348
+      gelifen_19: 1034728518371487990
+      gelifen_2: 5165257505715184085
+      gelifen_20: 3438168085810186096
+      gelifen_21: -4471148356647910611
+      gelifen_22: 6075174421774247305
+      gelifen_23: 7464402308604554057
+      gelifen_24: 5756797056358847601
+      gelifen_25: 6698902453712769427
+      gelifen_26: 2908776060493180913
+      gelifen_27: 3877745040638910208
+      gelifen_28: -1962890231136120837
+      gelifen_29: -5430040592869833108
+      gelifen_3: 7196724700856089007
+      gelifen_30: -6458120477687079345
+      gelifen_31: -2854639901935349522
+      gelifen_32: -3365516084445547590
+      gelifen_33: -7421916925908731225
+      gelifen_34: -2807232460888213428
+      gelifen_35: 7642091121150317114
+      gelifen_36: 1527615071367923623
+      gelifen_37: -3571947882923591829
+      gelifen_38: -5049350018277246763
+      gelifen_39: -7929115311842884839
+      gelifen_4: 6884637671109316382
+      gelifen_40: -1440523673492979548
+      gelifen_41: 6474590195226948050
+      gelifen_42: 2936371865018457423
+      gelifen_43: -1442612575596144478
+      gelifen_44: 3853369947122945879
+      gelifen_45: 5974009059211975783
+      gelifen_46: 5826989390492214005
+      gelifen_47: 797594027189380627
+      gelifen_48: 7960084800037155923
+      gelifen_49: 8473045423999282004
+      gelifen_5: -2560661616773664432
+      gelifen_50: 7120355869617794406
+      gelifen_51: 552027151993071388
+      gelifen_52: 5991700304438791105
+      gelifen_53: 469102888920218034
+      gelifen_54: 7831598979705343083
+      gelifen_55: -8849119369815995903
+      gelifen_56: -6900153797034408023
+      gelifen_57: -3672357991573794832
+      gelifen_58: 5924624156574225424
+      gelifen_59: 464542158333626120
+      gelifen_6: 6785632987341683925
+      gelifen_60: 9013799509752166004
+      gelifen_61: 3453372267670783070
+      gelifen_62: 59761145392358524
+      gelifen_7: -7747233803582473602
+      gelifen_8: -4568789654524022759
+      gelifen_9: -3209620426234000753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

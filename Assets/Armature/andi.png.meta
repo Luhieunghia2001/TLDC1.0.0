@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 105ed2f6e0860e24a9973c9d864b02d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 759466232620949957
+    second: andi_0
+  - first:
+      213: -7902596184825020687
+    second: andi_1
+  - first:
+      213: -2489609900595700007
+    second: andi_2
+  - first:
+      213: -4747671566444791503
+    second: andi_3
+  - first:
+      213: 8968734561262925239
+    second: andi_4
+  - first:
+      213: -2597718273951218783
+    second: andi_5
+  - first:
+      213: -2914766303482511248
+    second: andi_6
+  - first:
+      213: -3757811358218822625
+    second: andi_7
+  - first:
+      213: -8462302143207711192
+    second: andi_8
+  - first:
+      213: -5818321665928166284
+    second: andi_9
+  - first:
+      213: 6528870836042693210
+    second: andi_10
+  - first:
+      213: 3004266969050451341
+    second: andi_11
+  - first:
+      213: 7776936326705332873
+    second: andi_12
+  - first:
+      213: 7246558563120200999
+    second: andi_13
+  - first:
+      213: 464660400077088170
+    second: andi_14
+  - first:
+      213: 8481671610925680760
+    second: andi_15
+  - first:
+      213: 8897177371374843230
+    second: andi_16
+  - first:
+      213: -4512164313647204851
+    second: andi_17
+  - first:
+      213: -2518545754885026488
+    second: andi_18
+  - first:
+      213: -283422674890094681
+    second: andi_19
+  - first:
+      213: 237242680134923690
+    second: andi_20
+  - first:
+      213: -6470944655175386989
+    second: andi_21
+  - first:
+      213: 2946962793386360922
+    second: andi_22
+  - first:
+      213: -1962145076231416288
+    second: andi_23
+  - first:
+      213: 2948294496338146834
+    second: andi_24
+  - first:
+      213: -4137641191588256911
+    second: andi_25
+  - first:
+      213: -6473083809086323251
+    second: andi_26
+  - first:
+      213: 2664192586095366518
+    second: andi_27
+  - first:
+      213: -3796577195715325118
+    second: andi_28
+  - first:
+      213: -3354275799783558200
+    second: andi_29
+  - first:
+      213: 5702304126401145915
+    second: andi_30
+  - first:
+      213: -2378833385545150073
+    second: andi_31
+  - first:
+      213: -1594253343449738712
+    second: andi_32
+  - first:
+      213: -4143804098520088107
+    second: andi_33
+  - first:
+      213: 8524481843173924143
+    second: andi_34
+  - first:
+      213: -4688859611634545668
+    second: andi_35
+  - first:
+      213: -1811081045851203277
+    second: andi_36
+  - first:
+      213: 2779356524469318507
+    second: andi_37
+  - first:
+      213: -5512489362492915332
+    second: andi_38
+  - first:
+      213: 5262981511695331334
+    second: andi_39
+  - first:
+      213: -5486400124544431145
+    second: andi_40
+  - first:
+      213: 7304533189031244333
+    second: andi_41
+  - first:
+      213: 2841228924800592283
+    second: andi_42
+  - first:
+      213: 6381112592158708554
+    second: andi_43
+  - first:
+      213: -8266784858399859047
+    second: andi_44
+  - first:
+      213: -696994683927232788
+    second: andi_45
+  - first:
+      213: 6273462496894634781
+    second: andi_46
+  - first:
+      213: 191147612514933469
+    second: andi_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: andi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 194
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1a646c38a2a8a00800000000000000
+      internalID: 759466232620949957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 403
+        width: 175
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb520c3a6545290800000000000000
+      internalID: -7902596184825020687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 370
+        width: 101
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de92b56cf0237dd0800000000000000
+      internalID: -2489609900595700007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 477
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f5d35dd1ec1eb0800000000000000
+      internalID: -4747671566444791503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_4
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 445
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b578d8a098577c70800000000000000
+      internalID: 8968734561262925239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 409
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3c89e3efc03fbd0800000000000000
+      internalID: -2597718273951218783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 374
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07085a57d7bac87d0800000000000000
+      internalID: -2914766303482511248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 296
+        width: 118
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c507cba7299dbc0800000000000000
+      internalID: -3757811358218822625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 282
+        width: 51
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ed314390ddf8a80800000000000000
+      internalID: -8462302143207711192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 236
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4748469854b214fa0800000000000000
+      internalID: -5818321665928166284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 346
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a7bb61f653b9a50800000000000000
+      internalID: 6528870836042693210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 278
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d01bc14ec41b920800000000000000
+      internalID: 3004266969050451341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_12
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 352
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9824a1a926a3deb60800000000000000
+      internalID: 7776936326705332873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_13
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 319
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d38d68e92f09460800000000000000
+      internalID: 7246558563120200999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_14
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 293
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa529c70c2ec27600800000000000000
+      internalID: 464660400077088170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 190
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8788dbe6463f4b570800000000000000
+      internalID: 8481671610925680760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 283
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55f0741eaf197b70800000000000000
+      internalID: 8897177371374843230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_17
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 269
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d063dd496729161c0800000000000000
+      internalID: -4512164313647204851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 164
+        width: 70
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d8281daf35c0dd0800000000000000
+      internalID: -2518545754885026488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 253
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a782ed2494111cf0800000000000000
+      internalID: -283422674890094681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 166
+        width: 49
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5f00be5fada4300800000000000000
+      internalID: 237242680134923690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_21
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 127
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398fe03ee169236a0800000000000000
+      internalID: -6470944655175386989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 204
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5046120c07b5e820800000000000000
+      internalID: 2946962793386360922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 225
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026d175f27f05c4e0800000000000000
+      internalID: -1962145076231416288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 117
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216797349327ae820800000000000000
+      internalID: 2948294496338146834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_25
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 180
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173ab5722452496c0800000000000000
+      internalID: -4137641191588256911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_26
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 160
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5c31e429cfa26a0800000000000000
+      internalID: -6473083809086323251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 123
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6719173aa0d19f420800000000000000
+      internalID: 2664192586095366518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 122
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2431a07d729df4bc0800000000000000
+      internalID: -3796577195715325118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_29
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 139
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3363b8ee73371d0800000000000000
+      internalID: -3354275799783558200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 108
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c626f0467a22f40800000000000000
+      internalID: 5702304126401145915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 95
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781ddb2b3afacfed0800000000000000
+      internalID: -2378833385545150073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82213b5e70310e9e0800000000000000
+      internalID: -1594253343449738712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 96
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d107e090204e76c0800000000000000
+      internalID: -4143804098520088107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 75
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d16ac521b0d4670800000000000000
+      internalID: 8524481843173924143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 73
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbc8de9603ddeeb0800000000000000
+      internalID: -4688859611634545668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_36
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 114
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399892626fbdd6e0800000000000000
+      internalID: -1811081045851203277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_37
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 106
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6378298802429620800000000000000
+      internalID: 2779356524469318507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_38
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 102
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c718d789124bf73b0800000000000000
+      internalID: -5512489362492915332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 101
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6007c08eccdd90940800000000000000
+      internalID: 5262981511695331334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 88
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbced8a7246cd3b0800000000000000
+      internalID: -5486400124544431145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_41
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 86
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22324efb3aee5560800000000000000
+      internalID: 7304533189031244333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 96
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99ed4457a21e6720800000000000000
+      internalID: 2841228924800592283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 95
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43546f08144e8850800000000000000
+      internalID: 6381112592158708554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_44
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 86
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e9f7878fa764d80800000000000000
+      internalID: -8266784858399859047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 86
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee7e2e1707c356f0800000000000000
+      internalID: -696994683927232788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 78
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bc32717e0df0750800000000000000
+      internalID: 6273462496894634781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andi_47
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 77
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddadd97adb717a200800000000000000
+      internalID: 191147612514933469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      andi_0: 759466232620949957
+      andi_1: -7902596184825020687
+      andi_10: 6528870836042693210
+      andi_11: 3004266969050451341
+      andi_12: 7776936326705332873
+      andi_13: 7246558563120200999
+      andi_14: 464660400077088170
+      andi_15: 8481671610925680760
+      andi_16: 8897177371374843230
+      andi_17: -4512164313647204851
+      andi_18: -2518545754885026488
+      andi_19: -283422674890094681
+      andi_2: -2489609900595700007
+      andi_20: 237242680134923690
+      andi_21: -6470944655175386989
+      andi_22: 2946962793386360922
+      andi_23: -1962145076231416288
+      andi_24: 2948294496338146834
+      andi_25: -4137641191588256911
+      andi_26: -6473083809086323251
+      andi_27: 2664192586095366518
+      andi_28: -3796577195715325118
+      andi_29: -3354275799783558200
+      andi_3: -4747671566444791503
+      andi_30: 5702304126401145915
+      andi_31: -2378833385545150073
+      andi_32: -1594253343449738712
+      andi_33: -4143804098520088107
+      andi_34: 8524481843173924143
+      andi_35: -4688859611634545668
+      andi_36: -1811081045851203277
+      andi_37: 2779356524469318507
+      andi_38: -5512489362492915332
+      andi_39: 5262981511695331334
+      andi_4: 8968734561262925239
+      andi_40: -5486400124544431145
+      andi_41: 7304533189031244333
+      andi_42: 2841228924800592283
+      andi_43: 6381112592158708554
+      andi_44: -8266784858399859047
+      andi_45: -696994683927232788
+      andi_46: 6273462496894634781
+      andi_47: 191147612514933469
+      andi_5: -2597718273951218783
+      andi_6: -2914766303482511248
+      andi_7: -3757811358218822625
+      andi_8: -8462302143207711192
+      andi_9: -5818321665928166284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

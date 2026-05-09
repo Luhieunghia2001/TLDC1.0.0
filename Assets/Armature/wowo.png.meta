@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: d7e932bd4fb5fc245a724a0960a01c32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4911301539410286670
+    second: wowo_0
+  - first:
+      213: 4645955113857930019
+    second: wowo_1
+  - first:
+      213: -8971302714709346332
+    second: wowo_2
+  - first:
+      213: 1229039107359830578
+    second: wowo_3
+  - first:
+      213: 5770540646560299032
+    second: wowo_4
+  - first:
+      213: 601393594826538470
+    second: wowo_5
+  - first:
+      213: 8389492476233040784
+    second: wowo_6
+  - first:
+      213: 7819058333534301547
+    second: wowo_7
+  - first:
+      213: 6991555570854571970
+    second: wowo_8
+  - first:
+      213: 5906540451507454093
+    second: wowo_9
+  - first:
+      213: -858226194584081794
+    second: wowo_10
+  - first:
+      213: -8178487038421130917
+    second: wowo_11
+  - first:
+      213: 6097270417060501216
+    second: wowo_12
+  - first:
+      213: -7774788663714198589
+    second: wowo_13
+  - first:
+      213: -1681089569141194519
+    second: wowo_14
+  - first:
+      213: 1528405665977496264
+    second: wowo_15
+  - first:
+      213: 5281479914056124769
+    second: wowo_16
+  - first:
+      213: 7935666794457924439
+    second: wowo_17
+  - first:
+      213: -287706891849568826
+    second: wowo_18
+  - first:
+      213: 1784333447129849035
+    second: wowo_19
+  - first:
+      213: 6533027830121386964
+    second: wowo_20
+  - first:
+      213: -8472215564253535628
+    second: wowo_21
+  - first:
+      213: -1898657103164175600
+    second: wowo_22
+  - first:
+      213: 2222064400069573040
+    second: wowo_23
+  - first:
+      213: -2432149005118512617
+    second: wowo_24
+  - first:
+      213: -2661093846743218769
+    second: wowo_25
+  - first:
+      213: 6747280789203379755
+    second: wowo_26
+  - first:
+      213: -5001983236388049696
+    second: wowo_27
+  - first:
+      213: 7753190479357708571
+    second: wowo_28
+  - first:
+      213: -7691678482266217604
+    second: wowo_29
+  - first:
+      213: -4169336741870007975
+    second: wowo_30
+  - first:
+      213: 6423253482091861333
+    second: wowo_31
+  - first:
+      213: -8675065759166802772
+    second: wowo_32
+  - first:
+      213: 3045237703953066396
+    second: wowo_33
+  - first:
+      213: -8625730316952418564
+    second: wowo_34
+  - first:
+      213: 6829685364888100535
+    second: wowo_35
+  - first:
+      213: -3646362910821166249
+    second: wowo_36
+  - first:
+      213: -3530516163431649549
+    second: wowo_37
+  - first:
+      213: 3006784402059601189
+    second: wowo_38
+  - first:
+      213: -9120091131474760127
+    second: wowo_39
+  - first:
+      213: -2434110108179662218
+    second: wowo_40
+  - first:
+      213: 8350692057380071033
+    second: wowo_41
+  - first:
+      213: 1663679572448029601
+    second: wowo_42
+  - first:
+      213: 4073030337391917602
+    second: wowo_43
+  - first:
+      213: -3772908387656461539
+    second: wowo_44
+  - first:
+      213: -159523857793181245
+    second: wowo_45
+  - first:
+      213: -3512128421242823912
+    second: wowo_46
+  - first:
+      213: -1103856305288568594
+    second: wowo_47
+  - first:
+      213: 4027974905157051691
+    second: wowo_48
+  - first:
+      213: 446892814017502414
+    second: wowo_49
+  - first:
+      213: 5566983349120678219
+    second: wowo_50
+  - first:
+      213: -7884211686709241828
+    second: wowo_51
+  - first:
+      213: 4759273282137127799
+    second: wowo_52
+  - first:
+      213: -8703948735293102320
+    second: wowo_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wowo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 291
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7ee96654d87dbb0800000000000000
+      internalID: -4911301539410286670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 305
+        width: 187
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32359eb8f8fb97040800000000000000
+      internalID: 4645955113857930019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 306
+        width: 187
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7704586b78f7380800000000000000
+      internalID: -8971302714709346332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 378
+        width: 159
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232fe317e8c6e0110800000000000000
+      internalID: 1229039107359830578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 368
+        width: 98
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818fd28f424151050800000000000000
+      internalID: 5770540646560299032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_5
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 389
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edb4d5c944985800800000000000000
+      internalID: 601393594826538470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_6
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 265
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093ceab25f67d6470800000000000000
+      internalID: 8389492476233040784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 244
+        width: 80
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dae509020e28c60800000000000000
+      internalID: 7819058333534301547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_8
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 296
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfa034bfbef60160800000000000000
+      internalID: 6991555570854571970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 321
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80c3971f3f38f150800000000000000
+      internalID: 5906540451507454093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_10
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 350
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a61e6b2d7f614f0800000000000000
+      internalID: -858226194584081794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_11
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 356
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51a5cabe5d208e80800000000000000
+      internalID: -8178487038421130917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 263
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6936cb32bdd9450800000000000000
+      internalID: 6097270417060501216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_13
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 307
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbc49727e66a1490800000000000000
+      internalID: -7774788663714198589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_14
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 299
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e089b391f19ba8e0800000000000000
+      internalID: -1681089569141194519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_15
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 309
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c27849fadcf53510800000000000000
+      internalID: 1528405665977496264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 238
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1690da5dff59b4940800000000000000
+      internalID: 5281479914056124769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 243
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753078397e6212e60800000000000000
+      internalID: 7935666794457924439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 276
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdefdf2b1cd10cf0800000000000000
+      internalID: -287706891849568826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 264
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccd50df0d933c810800000000000000
+      internalID: 1784333447129849035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d35022b23af9aa50800000000000000
+      internalID: 6533027830121386964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 296
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472e12005d4ac6a80800000000000000
+      internalID: -8472215564253535628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_22
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 285
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b80a79c6d96a5e0800000000000000
+      internalID: -1898657103164175600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_23
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 291
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b930328ccb56de10800000000000000
+      internalID: 2222064400069573040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_24
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 269
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712671dad554f3ed0800000000000000
+      internalID: -2432149005118512617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_25
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 230
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa584e6de35e11bd0800000000000000
+      internalID: -2661093846743218769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_26
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 236
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26e840112823ad50800000000000000
+      internalID: 6747280789203379755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_27
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 233
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eca1a68fb2659ab0800000000000000
+      internalID: -5001983236388049696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_28
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 271
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b198e0ea9add89b60800000000000000
+      internalID: 7753190479357708571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73a1023c2ba14590800000000000000
+      internalID: -7691678482266217604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 206
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9598ad7c25a8326c0800000000000000
+      internalID: -4169336741870007975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 200
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5555066920bf32950800000000000000
+      internalID: 6423253482091861333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 215
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca455bd87a9fb9780800000000000000
+      internalID: -8675065759166802772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_33
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 230
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99afb0be8bd24a20800000000000000
+      internalID: 3045237703953066396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 230
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6cbb15aff3b4880800000000000000
+      internalID: -8625730316952418564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 227
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bed6d577aae7ce50800000000000000
+      internalID: 6829685364888100535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 225
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753585a7044856dc0800000000000000
+      internalID: -3646362910821166249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_37
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 228
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fea1ec3146110fc0800000000000000
+      internalID: -3530516163431649549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 246
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525a2f8ab7e3ab920800000000000000
+      internalID: 3006784402059601189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_39
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 239
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ea14daf6dee6180800000000000000
+      internalID: -9120091131474760127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 245
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a73c9c0cd483ed0800000000000000
+      internalID: -2434110108179662218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_41
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 243
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976a0dcae2e93e370800000000000000
+      internalID: 8350692057380071033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_42
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 245
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aba6dfa1c3961710800000000000000
+      internalID: 1663679572448029601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_43
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 246
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a72a3138f468830800000000000000
+      internalID: 4073030337391917602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_44
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 251
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1315a7afcfe3abc0800000000000000
+      internalID: -3772908387656461539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_45
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 233
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9990385e149cdf0800000000000000
+      internalID: -159523857793181245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_46
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 236
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b94461fc9624fc0800000000000000
+      internalID: -3512128421242823912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_47
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 249
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee02330f9805ea0f0800000000000000
+      internalID: -1103856305288568594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_48
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 209
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25e21ac5dd36e730800000000000000
+      internalID: 4027974905157051691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_49
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 205
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc103885aea33600800000000000000
+      internalID: 446892814017502414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_50
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 240
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b493ad26cd5e14d40800000000000000
+      internalID: 5566983349120678219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_51
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 222
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1856b74e37a59290800000000000000
+      internalID: -7884211686709241828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_52
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 241
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b7aca95d55c0240800000000000000
+      internalID: 4759273282137127799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wowo_53
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 229
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017e4a1adbc553780800000000000000
+      internalID: -8703948735293102320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wowo_0: -4911301539410286670
+      wowo_1: 4645955113857930019
+      wowo_10: -858226194584081794
+      wowo_11: -8178487038421130917
+      wowo_12: 6097270417060501216
+      wowo_13: -7774788663714198589
+      wowo_14: -1681089569141194519
+      wowo_15: 1528405665977496264
+      wowo_16: 5281479914056124769
+      wowo_17: 7935666794457924439
+      wowo_18: -287706891849568826
+      wowo_19: 1784333447129849035
+      wowo_2: -8971302714709346332
+      wowo_20: 6533027830121386964
+      wowo_21: -8472215564253535628
+      wowo_22: -1898657103164175600
+      wowo_23: 2222064400069573040
+      wowo_24: -2432149005118512617
+      wowo_25: -2661093846743218769
+      wowo_26: 6747280789203379755
+      wowo_27: -5001983236388049696
+      wowo_28: 7753190479357708571
+      wowo_29: -7691678482266217604
+      wowo_3: 1229039107359830578
+      wowo_30: -4169336741870007975
+      wowo_31: 6423253482091861333
+      wowo_32: -8675065759166802772
+      wowo_33: 3045237703953066396
+      wowo_34: -8625730316952418564
+      wowo_35: 6829685364888100535
+      wowo_36: -3646362910821166249
+      wowo_37: -3530516163431649549
+      wowo_38: 3006784402059601189
+      wowo_39: -9120091131474760127
+      wowo_4: 5770540646560299032
+      wowo_40: -2434110108179662218
+      wowo_41: 8350692057380071033
+      wowo_42: 1663679572448029601
+      wowo_43: 4073030337391917602
+      wowo_44: -3772908387656461539
+      wowo_45: -159523857793181245
+      wowo_46: -3512128421242823912
+      wowo_47: -1103856305288568594
+      wowo_48: 4027974905157051691
+      wowo_49: 446892814017502414
+      wowo_5: 601393594826538470
+      wowo_50: 5566983349120678219
+      wowo_51: -7884211686709241828
+      wowo_52: 4759273282137127799
+      wowo_53: -8703948735293102320
+      wowo_6: 8389492476233040784
+      wowo_7: 7819058333534301547
+      wowo_8: 6991555570854571970
+      wowo_9: 5906540451507454093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

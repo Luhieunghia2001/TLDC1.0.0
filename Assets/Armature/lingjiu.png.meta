@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 1a38b7ce2d96a08439c1bcfff2614cd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1243721322828227159
+    second: lingjiu_0
+  - first:
+      213: -798573358830192029
+    second: lingjiu_1
+  - first:
+      213: 865511723658259340
+    second: lingjiu_2
+  - first:
+      213: 8838809947158791680
+    second: lingjiu_3
+  - first:
+      213: -7778162347321999118
+    second: lingjiu_4
+  - first:
+      213: -3866691185346075626
+    second: lingjiu_5
+  - first:
+      213: -7019928570624242026
+    second: lingjiu_6
+  - first:
+      213: -5072810493777993480
+    second: lingjiu_7
+  - first:
+      213: 245537322199602656
+    second: lingjiu_8
+  - first:
+      213: -8819322297067133434
+    second: lingjiu_9
+  - first:
+      213: -8314862574155688562
+    second: lingjiu_10
+  - first:
+      213: 5725212455335702680
+    second: lingjiu_11
+  - first:
+      213: 5999377653378466438
+    second: lingjiu_12
+  - first:
+      213: -3090434661975694885
+    second: lingjiu_13
+  - first:
+      213: -5100257445169015327
+    second: lingjiu_14
+  - first:
+      213: -4635667286945258494
+    second: lingjiu_15
+  - first:
+      213: 6217179837187636875
+    second: lingjiu_16
+  - first:
+      213: -1138817632994184720
+    second: lingjiu_17
+  - first:
+      213: 2689863340030896956
+    second: lingjiu_18
+  - first:
+      213: 332522448304638129
+    second: lingjiu_19
+  - first:
+      213: 4889454236759264140
+    second: lingjiu_20
+  - first:
+      213: -1210837979866056065
+    second: lingjiu_21
+  - first:
+      213: -5012733716973157285
+    second: lingjiu_22
+  - first:
+      213: -4122328666115648036
+    second: lingjiu_23
+  - first:
+      213: -9091340060637457850
+    second: lingjiu_24
+  - first:
+      213: -4563020338866655119
+    second: lingjiu_25
+  - first:
+      213: 1549347264032684361
+    second: lingjiu_26
+  - first:
+      213: 7954154961207943351
+    second: lingjiu_27
+  - first:
+      213: 5689954073587447540
+    second: lingjiu_28
+  - first:
+      213: 3794230820165213236
+    second: lingjiu_29
+  - first:
+      213: 340612776021643544
+    second: lingjiu_30
+  - first:
+      213: 6532082006500838155
+    second: lingjiu_31
+  - first:
+      213: 5546974419303119806
+    second: lingjiu_32
+  - first:
+      213: -6166413050380307494
+    second: lingjiu_33
+  - first:
+      213: 7015668999043536212
+    second: lingjiu_34
+  - first:
+      213: 6463715381480446980
+    second: lingjiu_35
+  - first:
+      213: 8584891809438581843
+    second: lingjiu_36
+  - first:
+      213: -7321251016680305385
+    second: lingjiu_37
+  - first:
+      213: 6494778448972359647
+    second: lingjiu_38
+  - first:
+      213: 8659742424178361975
+    second: lingjiu_39
+  - first:
+      213: -3492516748190071344
+    second: lingjiu_40
+  - first:
+      213: -491074200495153406
+    second: lingjiu_41
+  - first:
+      213: -835748196405268938
+    second: lingjiu_42
+  - first:
+      213: -8873618762824166861
+    second: lingjiu_43
+  - first:
+      213: 6787287630349687128
+    second: lingjiu_44
+  - first:
+      213: 1412685328575913636
+    second: lingjiu_45
+  - first:
+      213: 7539155483370237990
+    second: lingjiu_46
+  - first:
+      213: -5768137360094070210
+    second: lingjiu_47
+  - first:
+      213: 9014346073237085223
+    second: lingjiu_48
+  - first:
+      213: 7127922421375885930
+    second: lingjiu_49
+  - first:
+      213: 162068218138269131
+    second: lingjiu_50
+  - first:
+      213: 6527166590327600131
+    second: lingjiu_51
+  - first:
+      213: 6673741403888372434
+    second: lingjiu_52
+  - first:
+      213: 8093945746691510683
+    second: lingjiu_53
+  - first:
+      213: -3016099930863334325
+    second: lingjiu_54
+  - first:
+      213: -3167976778362696647
+    second: lingjiu_55
+  - first:
+      213: 2039638952184233911
+    second: lingjiu_56
+  - first:
+      213: 2053934284245596703
+    second: lingjiu_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lingjiu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 149
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad9e31eb0a6dbee0800000000000000
+      internalID: -1243721322828227159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 430
+        width: 152
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36af5dbd2c5eae4f0800000000000000
+      internalID: -798573358830192029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 330
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b2695b35ae20c00800000000000000
+      internalID: 865511723658259340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 354
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006c69121d2c9aa70800000000000000
+      internalID: 8838809947158791680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 416
+        width: 129
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0cd8a3e8a6e0490800000000000000
+      internalID: -7778162347321999118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 413
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61420518ad0c65ac0800000000000000
+      internalID: -3866691185346075626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e835f7824349e90800000000000000
+      internalID: -7019928570624242026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 387
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f02d799bb1c999b0800000000000000
+      internalID: -5072810493777993480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 365
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5dec4c4e2586300800000000000000
+      internalID: 245537322199602656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 342
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606a1abf8197b9580800000000000000
+      internalID: -8819322297067133434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 345
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e859247fa8cab9c80800000000000000
+      internalID: -8314862574155688562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 362
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8903de7056a047f40800000000000000
+      internalID: 5725212455335702680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 387
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6824a0f8032124350800000000000000
+      internalID: 5999377653378466438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 360
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1626b7c029c15d0800000000000000
+      internalID: -3090434661975694885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_14
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 331
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5d8ad30ee3839b0800000000000000
+      internalID: -5100257445169015327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 373
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204aab0d92dcaafb0800000000000000
+      internalID: -4635667286945258494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 345
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e3a443f1cd74650800000000000000
+      internalID: 6217179837187636875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 341
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f13e61856b1230f0800000000000000
+      internalID: -1138817632994184720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 345
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b23ecc470545520800000000000000
+      internalID: 2689863340030896956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 352
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b88a0ba76b5d9400800000000000000
+      internalID: 332522448304638129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 317
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b809f09b4dad340800000000000000
+      internalID: 4889454236759264140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 316
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a3889c54d323fe0800000000000000
+      internalID: -1210837979866056065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 336
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5401363e313f6ab0800000000000000
+      internalID: -5012733716973157285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd554c05beb8ac6c0800000000000000
+      internalID: -4122328666115648036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 325
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6421d61026215d180800000000000000
+      internalID: -9091340060637457850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 324
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17078fe7d25eca0c0800000000000000
+      internalID: -4563020338866655119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 304
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949346ab023608510800000000000000
+      internalID: 1549347264032684361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 277
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e5375bc5d26e60800000000000000
+      internalID: 7954154961207943351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 282
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f677705517c6fe40800000000000000
+      internalID: 5689954073587447540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 284
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c59c704d0d7a430800000000000000
+      internalID: 3794230820165213236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 294
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811dab0e3891ab400800000000000000
+      internalID: 340612776021643544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_31
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 305
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b0439f9fd96aa50800000000000000
+      internalID: 6532082006500838155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 320
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbbdb068dfcafc40800000000000000
+      internalID: 5546974419303119806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_33
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 279
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3bfb170008c6aa0800000000000000
+      internalID: -6166413050380307494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_34
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 296
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455d5b5b8c9ac5160800000000000000
+      internalID: 7015668999043536212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_35
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 290
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cde5aa4eab3b950800000000000000
+      internalID: 6463715381480446980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_36
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 287
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3544fb0bd99a32770800000000000000
+      internalID: 8584891809438581843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 302
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d8d4f6df0b56a90800000000000000
+      internalID: -7321251016680305385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_38
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 293
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd72cd9a696122a50800000000000000
+      internalID: 6494778448972359647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 280
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776088f7ad59d2870800000000000000
+      internalID: 8659742424178361975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 282
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5470c8586188fc0800000000000000
+      internalID: -3492516748190071344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 282
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f9021dd9a5f29f0800000000000000
+      internalID: -491074200495153406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_42
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 256
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e279f7173d664f0800000000000000
+      internalID: -835748196405268938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 286
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332df99efb29ad480800000000000000
+      internalID: -8873618762824166861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 287
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8595563a32a413e50800000000000000
+      internalID: 6787287630349687128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae5c2552ddda9310800000000000000
+      internalID: 1412685328575913636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 253
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620b8bcc7f570a860800000000000000
+      internalID: 7539155483370237990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 264
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3afee3c1a573ffa0800000000000000
+      internalID: -5768137360094070210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 265
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cdbb95ef3691d70800000000000000
+      internalID: 9014346073237085223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 263
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62e6a84da77be260800000000000000
+      internalID: 7127922421375885930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 268
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5138b8f28cf3200800000000000000
+      internalID: 162068218138269131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 250
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30436467e67259a50800000000000000
+      internalID: 6527166590327600131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_52
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 255
+        width: 73
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da4595a274ed9c50800000000000000
+      internalID: 6673741403888372434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_53
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 263
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91d4d6e5c8735070800000000000000
+      internalID: 8093945746691510683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 256
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c8fc5c719a426d0800000000000000
+      internalID: -3016099930863334325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_55
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 249
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c410d97e51904d0800000000000000
+      internalID: -3167976778362696647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_56
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 255
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfbdfe02d04e4c10800000000000000
+      internalID: 2039638952184233911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingjiu_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 248
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a747c695a018c10800000000000000
+      internalID: 2053934284245596703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lingjiu_0: -1243721322828227159
+      lingjiu_1: -798573358830192029
+      lingjiu_10: -8314862574155688562
+      lingjiu_11: 5725212455335702680
+      lingjiu_12: 5999377653378466438
+      lingjiu_13: -3090434661975694885
+      lingjiu_14: -5100257445169015327
+      lingjiu_15: -4635667286945258494
+      lingjiu_16: 6217179837187636875
+      lingjiu_17: -1138817632994184720
+      lingjiu_18: 2689863340030896956
+      lingjiu_19: 332522448304638129
+      lingjiu_2: 865511723658259340
+      lingjiu_20: 4889454236759264140
+      lingjiu_21: -1210837979866056065
+      lingjiu_22: -5012733716973157285
+      lingjiu_23: -4122328666115648036
+      lingjiu_24: -9091340060637457850
+      lingjiu_25: -4563020338866655119
+      lingjiu_26: 1549347264032684361
+      lingjiu_27: 7954154961207943351
+      lingjiu_28: 5689954073587447540
+      lingjiu_29: 3794230820165213236
+      lingjiu_3: 8838809947158791680
+      lingjiu_30: 340612776021643544
+      lingjiu_31: 6532082006500838155
+      lingjiu_32: 5546974419303119806
+      lingjiu_33: -6166413050380307494
+      lingjiu_34: 7015668999043536212
+      lingjiu_35: 6463715381480446980
+      lingjiu_36: 8584891809438581843
+      lingjiu_37: -7321251016680305385
+      lingjiu_38: 6494778448972359647
+      lingjiu_39: 8659742424178361975
+      lingjiu_4: -7778162347321999118
+      lingjiu_40: -3492516748190071344
+      lingjiu_41: -491074200495153406
+      lingjiu_42: -835748196405268938
+      lingjiu_43: -8873618762824166861
+      lingjiu_44: 6787287630349687128
+      lingjiu_45: 1412685328575913636
+      lingjiu_46: 7539155483370237990
+      lingjiu_47: -5768137360094070210
+      lingjiu_48: 9014346073237085223
+      lingjiu_49: 7127922421375885930
+      lingjiu_5: -3866691185346075626
+      lingjiu_50: 162068218138269131
+      lingjiu_51: 6527166590327600131
+      lingjiu_52: 6673741403888372434
+      lingjiu_53: 8093945746691510683
+      lingjiu_54: -3016099930863334325
+      lingjiu_55: -3167976778362696647
+      lingjiu_56: 2039638952184233911
+      lingjiu_57: 2053934284245596703
+      lingjiu_6: -7019928570624242026
+      lingjiu_7: -5072810493777993480
+      lingjiu_8: 245537322199602656
+      lingjiu_9: -8819322297067133434
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

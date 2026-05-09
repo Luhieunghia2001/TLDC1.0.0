@@ -1,0 +1,7839 @@
+fileFormatVersion: 2
+guid: 48913e492534b5f409777f5e37fb075c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3859712648727107316
+    second: suoer_0
+  - first:
+      213: 288653524478603270
+    second: suoer_1
+  - first:
+      213: -5274111948037146659
+    second: suoer_2
+  - first:
+      213: -6584905241018809418
+    second: suoer_3
+  - first:
+      213: 894607303833054366
+    second: suoer_4
+  - first:
+      213: -4308052065864649049
+    second: suoer_5
+  - first:
+      213: -624073110095044450
+    second: suoer_6
+  - first:
+      213: 5424384788466661778
+    second: suoer_7
+  - first:
+      213: -7897253472700966830
+    second: suoer_8
+  - first:
+      213: 8655511924080764585
+    second: suoer_9
+  - first:
+      213: -4365408981931552794
+    second: suoer_10
+  - first:
+      213: 4654849027765284134
+    second: suoer_11
+  - first:
+      213: -2371381630925204795
+    second: suoer_12
+  - first:
+      213: -2594449604490354239
+    second: suoer_13
+  - first:
+      213: -8320354427794686153
+    second: suoer_14
+  - first:
+      213: -6859038052316448417
+    second: suoer_15
+  - first:
+      213: 8170115708035692341
+    second: suoer_16
+  - first:
+      213: 4679847694992461235
+    second: suoer_17
+  - first:
+      213: -3975982719070580086
+    second: suoer_18
+  - first:
+      213: 6556248873412172901
+    second: suoer_19
+  - first:
+      213: -4484814064891407085
+    second: suoer_20
+  - first:
+      213: -981301606439509863
+    second: suoer_21
+  - first:
+      213: -7747002229612596719
+    second: suoer_22
+  - first:
+      213: 2553196791646235129
+    second: suoer_23
+  - first:
+      213: -1207729153750735581
+    second: suoer_24
+  - first:
+      213: 935182248023038708
+    second: suoer_25
+  - first:
+      213: 4877994983142051203
+    second: suoer_26
+  - first:
+      213: 4674006000248597291
+    second: suoer_27
+  - first:
+      213: -8820024136188297596
+    second: suoer_28
+  - first:
+      213: 6606857221709813898
+    second: suoer_29
+  - first:
+      213: -7340886664718342425
+    second: suoer_30
+  - first:
+      213: 104290005779423771
+    second: suoer_31
+  - first:
+      213: 8995944961063235802
+    second: suoer_32
+  - first:
+      213: -1510688464817598586
+    second: suoer_33
+  - first:
+      213: -7090390631146159401
+    second: suoer_34
+  - first:
+      213: -6979908237713607757
+    second: suoer_35
+  - first:
+      213: -5790906638272856747
+    second: suoer_36
+  - first:
+      213: -7101651062375909562
+    second: suoer_37
+  - first:
+      213: 4323789071198793265
+    second: suoer_38
+  - first:
+      213: -3159108308494887074
+    second: suoer_39
+  - first:
+      213: 8323306964570445521
+    second: suoer_40
+  - first:
+      213: 8461331760744201751
+    second: suoer_41
+  - first:
+      213: 5978014684960246981
+    second: suoer_42
+  - first:
+      213: 4884337193000602201
+    second: suoer_43
+  - first:
+      213: 71919274926446342
+    second: suoer_44
+  - first:
+      213: -7377130715277943292
+    second: suoer_45
+  - first:
+      213: -5647676110783700216
+    second: suoer_46
+  - first:
+      213: -201696397947233666
+    second: suoer_47
+  - first:
+      213: -3005083433631815692
+    second: suoer_48
+  - first:
+      213: 1338601776249371653
+    second: suoer_49
+  - first:
+      213: -1317816529610264600
+    second: suoer_50
+  - first:
+      213: 6725387147469339488
+    second: suoer_51
+  - first:
+      213: -2554960589719174186
+    second: suoer_52
+  - first:
+      213: -9015385591620498125
+    second: suoer_53
+  - first:
+      213: -7273123491268169898
+    second: suoer_54
+  - first:
+      213: -678015138418921757
+    second: suoer_55
+  - first:
+      213: -2472139134697425207
+    second: suoer_56
+  - first:
+      213: -874785134884857372
+    second: suoer_57
+  - first:
+      213: -5400614255599930570
+    second: suoer_58
+  - first:
+      213: 7074775566720656010
+    second: suoer_59
+  - first:
+      213: 4527212850892264187
+    second: suoer_60
+  - first:
+      213: 4262802640403936787
+    second: suoer_61
+  - first:
+      213: 2693907652190657472
+    second: suoer_62
+  - first:
+      213: 8989573617154934896
+    second: suoer_63
+  - first:
+      213: 756142955788882471
+    second: suoer_64
+  - first:
+      213: -3921739235979638222
+    second: suoer_65
+  - first:
+      213: 3236185063976440973
+    second: suoer_66
+  - first:
+      213: 5336763692359404965
+    second: suoer_67
+  - first:
+      213: 2350426104777985797
+    second: suoer_68
+  - first:
+      213: -2859989653943382185
+    second: suoer_69
+  - first:
+      213: 661902905339625687
+    second: suoer_70
+  - first:
+      213: 6531111349137003563
+    second: suoer_71
+  - first:
+      213: 1599650650333084341
+    second: suoer_72
+  - first:
+      213: -8213332176064405373
+    second: suoer_73
+  - first:
+      213: -3032709814264478131
+    second: suoer_74
+  - first:
+      213: -2227146422728585224
+    second: suoer_75
+  - first:
+      213: 5224959256227154733
+    second: suoer_76
+  - first:
+      213: -3711569396779116028
+    second: suoer_77
+  - first:
+      213: 3247579691690919847
+    second: suoer_78
+  - first:
+      213: 1494389902044362470
+    second: suoer_79
+  - first:
+      213: 3823971407103914446
+    second: suoer_80
+  - first:
+      213: -383674006544467737
+    second: suoer_81
+  - first:
+      213: -8692229846402979633
+    second: suoer_82
+  - first:
+      213: 1224637268239372298
+    second: suoer_83
+  - first:
+      213: 8554442671628699957
+    second: suoer_84
+  - first:
+      213: 337457080627422773
+    second: suoer_85
+  - first:
+      213: 5533715147906705602
+    second: suoer_86
+  - first:
+      213: -1800974693722868557
+    second: suoer_87
+  - first:
+      213: 8887625182037709063
+    second: suoer_88
+  - first:
+      213: 2996102089323966451
+    second: suoer_89
+  - first:
+      213: -4668639499403407500
+    second: suoer_90
+  - first:
+      213: -4258539986838358970
+    second: suoer_91
+  - first:
+      213: 792273248300090875
+    second: suoer_92
+  - first:
+      213: -6457197977746844709
+    second: suoer_93
+  - first:
+      213: -2405814319033494480
+    second: suoer_94
+  - first:
+      213: 6300383343576441503
+    second: suoer_95
+  - first:
+      213: 4116222935924296763
+    second: suoer_96
+  - first:
+      213: 7982871836384185542
+    second: suoer_97
+  - first:
+      213: -5570998664489557348
+    second: suoer_98
+  - first:
+      213: -2450870630814872936
+    second: suoer_99
+  - first:
+      213: -8345346217682802751
+    second: suoer_100
+  - first:
+      213: 3788101428557347343
+    second: suoer_101
+  - first:
+      213: 4072857927217664943
+    second: suoer_102
+  - first:
+      213: -6176980144444238773
+    second: suoer_103
+  - first:
+      213: 5758950354004236879
+    second: suoer_104
+  - first:
+      213: 2391478581480531944
+    second: suoer_105
+  - first:
+      213: 3254854601996638676
+    second: suoer_106
+  - first:
+      213: -6044445743391851809
+    second: suoer_107
+  - first:
+      213: 3640496928644350749
+    second: suoer_108
+  - first:
+      213: 3588919837033175120
+    second: suoer_109
+  - first:
+      213: 7538405404568472631
+    second: suoer_110
+  - first:
+      213: -6035687155693739522
+    second: suoer_111
+  - first:
+      213: 7112646871282893205
+    second: suoer_112
+  - first:
+      213: 8956393924029551940
+    second: suoer_113
+  - first:
+      213: 2621918457375351760
+    second: suoer_114
+  - first:
+      213: 4436345861057702007
+    second: suoer_115
+  - first:
+      213: 1383551804183406511
+    second: suoer_116
+  - first:
+      213: 5107859531850783159
+    second: suoer_117
+  - first:
+      213: 355519729762952975
+    second: suoer_118
+  - first:
+      213: 1625532531498729012
+    second: suoer_119
+  - first:
+      213: -1122446621729795550
+    second: suoer_120
+  - first:
+      213: -601710394329762318
+    second: suoer_121
+  - first:
+      213: -6230133085346799250
+    second: suoer_122
+  - first:
+      213: -4131561343187748831
+    second: suoer_123
+  - first:
+      213: -4359200266448726102
+    second: suoer_124
+  - first:
+      213: 8477431702123840724
+    second: suoer_125
+  - first:
+      213: -2236442616234634238
+    second: suoer_126
+  - first:
+      213: -6250052659612126521
+    second: suoer_127
+  - first:
+      213: -2483424239478006098
+    second: suoer_128
+  - first:
+      213: -1606263172999813126
+    second: suoer_129
+  - first:
+      213: -4051015675759293387
+    second: suoer_130
+  - first:
+      213: 7423741708223754785
+    second: suoer_131
+  - first:
+      213: 1946917254045487161
+    second: suoer_132
+  - first:
+      213: 5313982030989663065
+    second: suoer_133
+  - first:
+      213: -4006073164586677957
+    second: suoer_134
+  - first:
+      213: 2328909782522817111
+    second: suoer_135
+  - first:
+      213: -5843544582240421807
+    second: suoer_136
+  - first:
+      213: -8009185989601529520
+    second: suoer_137
+  - first:
+      213: -4153254165770668920
+    second: suoer_138
+  - first:
+      213: -6842908133980233545
+    second: suoer_139
+  - first:
+      213: 1807855963213834931
+    second: suoer_140
+  - first:
+      213: -8678729356502380600
+    second: suoer_141
+  - first:
+      213: 2680829489872273936
+    second: suoer_142
+  - first:
+      213: 8421839848763270060
+    second: suoer_143
+  - first:
+      213: 9058359704016772018
+    second: suoer_144
+  - first:
+      213: 1289913707881625599
+    second: suoer_145
+  - first:
+      213: -856284200436186868
+    second: suoer_146
+  - first:
+      213: -7436124844390976690
+    second: suoer_147
+  - first:
+      213: -3163490698556810535
+    second: suoer_148
+  - first:
+      213: -8287981623702035387
+    second: suoer_149
+  - first:
+      213: 2015645402152206122
+    second: suoer_150
+  - first:
+      213: 2321470648791380971
+    second: suoer_151
+  - first:
+      213: 5275573545983886499
+    second: suoer_152
+  - first:
+      213: 5153248329553509432
+    second: suoer_153
+  - first:
+      213: 3080169643957220630
+    second: suoer_154
+  - first:
+      213: 2695947590422535916
+    second: suoer_155
+  - first:
+      213: 3184452214967016304
+    second: suoer_156
+  - first:
+      213: -1652120586415936869
+    second: suoer_157
+  - first:
+      213: 725946542210310124
+    second: suoer_158
+  - first:
+      213: -1994879379181758224
+    second: suoer_159
+  - first:
+      213: 7607475280654931941
+    second: suoer_160
+  - first:
+      213: 1804887758334027240
+    second: suoer_161
+  - first:
+      213: 6716908491266122259
+    second: suoer_162
+  - first:
+      213: -5654487795557577317
+    second: suoer_163
+  - first:
+      213: 5271382513872146759
+    second: suoer_164
+  - first:
+      213: -2966306739185630517
+    second: suoer_165
+  - first:
+      213: 4308758065612181366
+    second: suoer_166
+  - first:
+      213: -1449711014804262482
+    second: suoer_167
+  - first:
+      213: 1272783109216002994
+    second: suoer_168
+  - first:
+      213: 1434877305445409271
+    second: suoer_169
+  - first:
+      213: -513938758222560003
+    second: suoer_170
+  - first:
+      213: -1371730776064534244
+    second: suoer_171
+  - first:
+      213: 1665864588842207399
+    second: suoer_172
+  - first:
+      213: 1276790342680849158
+    second: suoer_173
+  - first:
+      213: 4094138830519509926
+    second: suoer_174
+  - first:
+      213: 4977733602826904740
+    second: suoer_175
+  - first:
+      213: 6205602053168121863
+    second: suoer_176
+  - first:
+      213: -4133152308171873797
+    second: suoer_177
+  - first:
+      213: -4723588437017962058
+    second: suoer_178
+  - first:
+      213: -4546005617001317152
+    second: suoer_179
+  - first:
+      213: 851901937916164402
+    second: suoer_180
+  - first:
+      213: -3383075440309832697
+    second: suoer_181
+  - first:
+      213: 1848204160753221494
+    second: suoer_182
+  - first:
+      213: -4619399592406815883
+    second: suoer_183
+  - first:
+      213: -8151325557019752052
+    second: suoer_184
+  - first:
+      213: -8750146980599239379
+    second: suoer_185
+  - first:
+      213: 2017155559530107284
+    second: suoer_186
+  - first:
+      213: 324128700966390434
+    second: suoer_187
+  - first:
+      213: 1987564519685603306
+    second: suoer_188
+  - first:
+      213: 2998917656411698217
+    second: suoer_189
+  - first:
+      213: -871553473623986338
+    second: suoer_190
+  - first:
+      213: 116272125034309326
+    second: suoer_191
+  - first:
+      213: 2639325459438449923
+    second: suoer_192
+  - first:
+      213: -6466394151695750394
+    second: suoer_193
+  - first:
+      213: 2654607520177042098
+    second: suoer_194
+  - first:
+      213: 3314416093160597279
+    second: suoer_195
+  - first:
+      213: -8512719060236076012
+    second: suoer_196
+  - first:
+      213: 1924223196309114996
+    second: suoer_197
+  - first:
+      213: -6537504766065745458
+    second: suoer_198
+  - first:
+      213: -7765938969701343402
+    second: suoer_199
+  - first:
+      213: 5729941660406151027
+    second: suoer_200
+  - first:
+      213: -3856075662885839761
+    second: suoer_201
+  - first:
+      213: 4325390933874590620
+    second: suoer_202
+  - first:
+      213: -4592203671247013339
+    second: suoer_203
+  - first:
+      213: -7117558697222935992
+    second: suoer_204
+  - first:
+      213: -7156081480568686345
+    second: suoer_205
+  - first:
+      213: -1129569264599106592
+    second: suoer_206
+  - first:
+      213: 4286686984627722417
+    second: suoer_207
+  - first:
+      213: -2985039476584250639
+    second: suoer_208
+  - first:
+      213: 7324061401357919083
+    second: suoer_209
+  - first:
+      213: -5979896548982980379
+    second: suoer_210
+  - first:
+      213: -4730111600826829728
+    second: suoer_211
+  - first:
+      213: -4016084331390281893
+    second: suoer_212
+  - first:
+      213: 6221063155238763603
+    second: suoer_213
+  - first:
+      213: -3401986303610964672
+    second: suoer_214
+  - first:
+      213: 1334496463523428026
+    second: suoer_215
+  - first:
+      213: -3343076358273362069
+    second: suoer_216
+  - first:
+      213: -293507807568865511
+    second: suoer_217
+  - first:
+      213: 3763414661496493669
+    second: suoer_218
+  - first:
+      213: -5799702504836836070
+    second: suoer_219
+  - first:
+      213: -4924342385287475121
+    second: suoer_220
+  - first:
+      213: -4034489947709339416
+    second: suoer_221
+  - first:
+      213: -3567539906008635441
+    second: suoer_222
+  - first:
+      213: 876362886105722578
+    second: suoer_223
+  - first:
+      213: 2170498530999783836
+    second: suoer_224
+  - first:
+      213: -8852247895100576258
+    second: suoer_225
+  - first:
+      213: -6621662455907640407
+    second: suoer_226
+  - first:
+      213: 3784231326789038450
+    second: suoer_227
+  - first:
+      213: 8884379675946535155
+    second: suoer_228
+  - first:
+      213: 8568670290353035230
+    second: suoer_229
+  - first:
+      213: -8920940937491361051
+    second: suoer_230
+  - first:
+      213: 5106311926345409955
+    second: suoer_231
+  - first:
+      213: -469987825808534386
+    second: suoer_232
+  - first:
+      213: 1686858290738263771
+    second: suoer_233
+  - first:
+      213: -1053977665370412423
+    second: suoer_234
+  - first:
+      213: 8884876383950735951
+    second: suoer_235
+  - first:
+      213: 7331429738832107589
+    second: suoer_236
+  - first:
+      213: 1401165148017924872
+    second: suoer_237
+  - first:
+      213: -7529148211225999209
+    second: suoer_238
+  - first:
+      213: -647224182991680956
+    second: suoer_239
+  - first:
+      213: 8658389981587427405
+    second: suoer_240
+  - first:
+      213: 732870614428073284
+    second: suoer_241
+  - first:
+      213: -5151979983947975266
+    second: suoer_242
+  - first:
+      213: 4015685228078604740
+    second: suoer_243
+  - first:
+      213: 2173658483132535035
+    second: suoer_244
+  - first:
+      213: 3724189986789431953
+    second: suoer_245
+  - first:
+      213: 6042055057128211873
+    second: suoer_246
+  - first:
+      213: 686821758281989525
+    second: suoer_247
+  - first:
+      213: 4716948063409456254
+    second: suoer_248
+  - first:
+      213: 1626168995950577153
+    second: suoer_249
+  - first:
+      213: -2242724870711591800
+    second: suoer_250
+  - first:
+      213: -3035913159961492135
+    second: suoer_251
+  - first:
+      213: -3754915490046377082
+    second: suoer_252
+  - first:
+      213: 766236409600433932
+    second: suoer_253
+  - first:
+      213: -2918694077643313274
+    second: suoer_254
+  - first:
+      213: 7236390873842588680
+    second: suoer_255
+  - first:
+      213: -5975753066071913543
+    second: suoer_256
+  - first:
+      213: 3240795793300353361
+    second: suoer_257
+  - first:
+      213: -3476266483747799518
+    second: suoer_258
+  - first:
+      213: 8600373023943364349
+    second: suoer_259
+  - first:
+      213: 4027040209650242150
+    second: suoer_260
+  - first:
+      213: -3495354205790920390
+    second: suoer_261
+  - first:
+      213: 1379331443253392239
+    second: suoer_262
+  - first:
+      213: 4243321107464209809
+    second: suoer_263
+  - first:
+      213: 2655955035880711457
+    second: suoer_264
+  - first:
+      213: -1728199656143649250
+    second: suoer_265
+  - first:
+      213: 3638239573278574671
+    second: suoer_266
+  - first:
+      213: -6322523458003056693
+    second: suoer_267
+  - first:
+      213: -7788734514370078768
+    second: suoer_268
+  - first:
+      213: -1734409960050146146
+    second: suoer_269
+  - first:
+      213: 1750730130357604630
+    second: suoer_270
+  - first:
+      213: 3445088225204914812
+    second: suoer_271
+  - first:
+      213: 7729285329955378934
+    second: suoer_272
+  - first:
+      213: -7464585150743063504
+    second: suoer_273
+  - first:
+      213: -6548112112769088618
+    second: suoer_274
+  - first:
+      213: -8520709565906930370
+    second: suoer_275
+  - first:
+      213: -1816770226993696374
+    second: suoer_276
+  - first:
+      213: 4567075650036712111
+    second: suoer_277
+  - first:
+      213: -8944123072078457322
+    second: suoer_278
+  - first:
+      213: 8927075843657084783
+    second: suoer_279
+  - first:
+      213: -7037648852153431935
+    second: suoer_280
+  - first:
+      213: 2002714241402364974
+    second: suoer_281
+  - first:
+      213: -6367180102203856861
+    second: suoer_282
+  - first:
+      213: -6826331567993718199
+    second: suoer_283
+  - first:
+      213: -3389540463027470721
+    second: suoer_284
+  - first:
+      213: 8702266041524408065
+    second: suoer_285
+  - first:
+      213: 2544112910257711819
+    second: suoer_286
+  - first:
+      213: -1315474133886706229
+    second: suoer_287
+  - first:
+      213: 8615090588647999912
+    second: suoer_288
+  - first:
+      213: 772399542475255836
+    second: suoer_289
+  - first:
+      213: -6691008777117732997
+    second: suoer_290
+  - first:
+      213: -2005616841010712209
+    second: suoer_291
+  - first:
+      213: 332287229969201718
+    second: suoer_292
+  - first:
+      213: 4644568898846287800
+    second: suoer_293
+  - first:
+      213: 6866188994242993016
+    second: suoer_294
+  - first:
+      213: -7301161514550192988
+    second: suoer_295
+  - first:
+      213: -9132844417958016855
+    second: suoer_296
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: suoer_0
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2016
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09e98dabcb8f6ac0800000000000000
+      internalID: -3859712648727107316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2025
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60036b5e9d0810400800000000000000
+      internalID: 288653524478603270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2000
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd73a9f60279ec6b0800000000000000
+      internalID: -5274111948037146659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1918
+        width: 196
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b347755297bd94a0800000000000000
+      internalID: -6584905241018809418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_4
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1916
+        width: 56
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c607e5a984a6c00800000000000000
+      internalID: 894607303833054366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1992
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6ff3c9879b634c0800000000000000
+      internalID: -4308052065864649049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1978
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9069e610d8d657f0800000000000000
+      internalID: -624073110095044450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2009
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2997699b939474b40800000000000000
+      internalID: 5424384788466661778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2009
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258507adec1576290800000000000000
+      internalID: -7897253472700966830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2009
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6edff6c3e8e1870800000000000000
+      internalID: 8655511924080764585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1976
+        width: 78
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef8bace8a3fa63c0800000000000000
+      internalID: -4365408981931552794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2001
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da50f3788599040800000000000000
+      internalID: 4654849027765284134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2000
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c211d588f8271fd0800000000000000
+      internalID: -2371381630925204795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1948
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c123b8a4d9aefbd0800000000000000
+      internalID: -2594449604490354239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1976
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ff2f52bb9288c80800000000000000
+      internalID: -8320354427794686153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1981
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f597ace6b3dcfc0a0800000000000000
+      internalID: -6859038052316448417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1971
+        width: 88
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5377e4703f4126170800000000000000
+      internalID: 8170115708035692341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_17
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1950
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdc4f60fa822f040800000000000000
+      internalID: 4679847694992461235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1972
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82d4bc58c872d8c0800000000000000
+      internalID: -3975982719070580086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1951
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c99c62d997cfa50800000000000000
+      internalID: 6556248873412172901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1954
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315d87a9e5db2c1c0800000000000000
+      internalID: -4484814064891407085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_21
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1967
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99027aa5367b162f0800000000000000
+      internalID: -981301606439509863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1959
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11238cd748e1d7490800000000000000
+      internalID: -7747002229612596719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1969
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9adbf54f6ce6320800000000000000
+      internalID: 2553196791646235129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1928
+        width: 115
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325edc5cbb84d3fe0800000000000000
+      internalID: -1207729153750735581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1964
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa1aadbc4f6afc00800000000000000
+      internalID: 935182248023038708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_26
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1958
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dc15aa79e12b340800000000000000
+      internalID: 4877994983142051203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1953
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bacda71b76dd040800000000000000
+      internalID: 4674006000248597291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1948
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eff1457caf89580800000000000000
+      internalID: -8820024136188297596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_29
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1926
+        width: 72
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88dcb573a540bb50800000000000000
+      internalID: 6606857221709813898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1953
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6af0dd87eef1a90800000000000000
+      internalID: -7340886664718342425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1952
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b122b1c2533827100800000000000000
+      internalID: 104290005779423771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1950
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0b32f874408dc70800000000000000
+      internalID: 8995944961063235802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1381
+        width: 515
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f444068d4f80be0800000000000000
+      internalID: -1510688464817598586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_34
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1925
+        width: 150
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d286c7994fd99d90800000000000000
+      internalID: -7090390631146159401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1926
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3f14e5072622f90800000000000000
+      internalID: -6979908237713607757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_36
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1926
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d7b42181192afa0800000000000000
+      internalID: -5790906638272856747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_37
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1925
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647fe442cfdd17d90800000000000000
+      internalID: -7101651062375909562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1921
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e2588704f210c30800000000000000
+      internalID: 4323789071198793265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1920
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e575d292bb79824d0800000000000000
+      internalID: -3159108308494887074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_40
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1916
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d691c3e593528370800000000000000
+      internalID: 8323306964570445521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_41
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1926
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e73e50860bc6570800000000000000
+      internalID: 8461331760744201751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_42
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1927
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cccf1fdeac26f250800000000000000
+      internalID: 5978014684960246981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1926
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a87087cc6a8c340800000000000000
+      internalID: 4884337193000602201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_44
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1923
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6079e7213328ff000800000000000000
+      internalID: 71919274926446342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_45
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1927
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e1c3e33ba2f9990800000000000000
+      internalID: -7377130715277943292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_46
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1925
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803274aff7c6f91b0800000000000000
+      internalID: -5647676110783700216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_47
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1923
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a11e7d13e633df0800000000000000
+      internalID: -201696397947233666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_48
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1885
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7e6f9e98ccb46d0800000000000000
+      internalID: -3005083433631815692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_49
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1917
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cfc09293ba39210800000000000000
+      internalID: 1338601776249371653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_50
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1903
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef217139dc26bde0800000000000000
+      internalID: -1317816529610264600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_51
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1875
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b33ed5aff555d50800000000000000
+      internalID: 6725387147469339488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_52
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1775
+        width: 137
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d38aa261e4fa8cd0800000000000000
+      internalID: -2554960589719174186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_53
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1858
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d094ae19ae2e280800000000000000
+      internalID: -9015385591620498125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_54
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1850
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f696728bca01b90800000000000000
+      internalID: -7273123491268169898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_55
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1879
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eee33ae2d43796f0800000000000000
+      internalID: -678015138418921757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_56
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1839
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6b4011e8231bdd0800000000000000
+      internalID: -2472139134697425207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_57
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1854
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9556cfd832cd3f0800000000000000
+      internalID: -874785134884857372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_58
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1846
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6333e0eb2f92d05b0800000000000000
+      internalID: -5400614255599930570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_59
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1854
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a826ff7e4e6ae2260800000000000000
+      internalID: 7074775566720656010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_60
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1846
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf254080a14e3de30800000000000000
+      internalID: 4527212850892264187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_61
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1805
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316bfd88a64882b30800000000000000
+      internalID: 4262802640403936787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_62
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1830
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbd78a9cbea26520800000000000000
+      internalID: 2693907652190657472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_63
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1814
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0784eb4739161cc70800000000000000
+      internalID: 8989573617154934896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_64
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1738
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722d537130c5e7a00800000000000000
+      internalID: 756142955788882471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_65
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1837
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ac8b171fe2399c0800000000000000
+      internalID: -3921739235979638222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_66
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1796
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d849dbd6b2d39ec20800000000000000
+      internalID: 3236185063976440973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_67
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1843
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adc8458d4eff0a40800000000000000
+      internalID: 5336763692359404965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1829
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc816d6146e9020800000000000000
+      internalID: 2350426104777985797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_69
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1816
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f896700964f48d0800000000000000
+      internalID: -2859989653943382185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_70
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1810
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0419c7f2d8f2900800000000000000
+      internalID: 661902905339625687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_71
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1814
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2455d13b2b23aa50800000000000000
+      internalID: 6531111349137003563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_72
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1818
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba73d98ac9133610800000000000000
+      internalID: 1599650650333084341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_73
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1771
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3802567e6e1640e80800000000000000
+      internalID: -8213332176064405373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_74
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1819
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46cceded76a9e5d0800000000000000
+      internalID: -3032709814264478131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_75
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1820
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff0b72e0269711e0800000000000000
+      internalID: -2227146422728585224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_76
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1797
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b0f41b2c8c28840800000000000000
+      internalID: 5224959256227154733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_77
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1809
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a15c16c4bdd7cc0800000000000000
+      internalID: -3711569396779116028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_78
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1793
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7820fe588b11d20800000000000000
+      internalID: 3247579691690919847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_79
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1805
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6f843c2b32db410800000000000000
+      internalID: 1494389902044362470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_80
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1811
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1fda70cb9711530800000000000000
+      internalID: 3823971407103914446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_81
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1801
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8bd5a168aecaaf0800000000000000
+      internalID: -383674006544467737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_82
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1800
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc82a13120ffe5780800000000000000
+      internalID: -8692229846402979633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_83
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1793
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00dc186b19cef010800000000000000
+      internalID: 1224637268239372298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_84
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1788
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5394fd5594c77b670800000000000000
+      internalID: 8554442671628699957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_85
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1790
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536ecb94d63eea400800000000000000
+      internalID: 337457080627422773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_86
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1799
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c86d2fab94bbcc40800000000000000
+      internalID: 5533715147906705602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_87
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1785
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b43e2bde07a107e0800000000000000
+      internalID: -1800974693722868557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_88
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1781
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7019c20b300375b70800000000000000
+      internalID: 8887625182037709063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_89
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1726
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffe5f8e9fa449920800000000000000
+      internalID: 2996102089323966451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_90
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1759
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fc3bd5c19a53fb0800000000000000
+      internalID: -4668639499403407500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_91
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1788
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644f3b6d170a6e4c0800000000000000
+      internalID: -4258539986838358970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_92
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1781
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5c8f95258befa00800000000000000
+      internalID: 792273248300090875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_93
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1780
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd35704a6ac6366a0800000000000000
+      internalID: -6457197977746844709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_94
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1787
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034d5769f94dc9ed0800000000000000
+      internalID: -2405814319033494480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_95
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1778
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9269a625457f6750800000000000000
+      internalID: 6300383343576441503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_96
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1785
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c451893f2cf1930800000000000000
+      internalID: 4116222935924296763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_97
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1782
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc462fd3abd8ce60800000000000000
+      internalID: 7982871836384185542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_98
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1787
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92ace62b36dfa2b0800000000000000
+      internalID: -5570998664489557348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_99
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1781
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a87d38522ccfdd0800000000000000
+      internalID: -2450870630814872936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_100
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1771
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7ed5f94df5f2c80800000000000000
+      internalID: -8345346217682802751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_101
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1768
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a7f46dd2a029430800000000000000
+      internalID: 3788101428557347343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_102
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1780
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa35174b4b2b58830800000000000000
+      internalID: 4072857927217664943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_103
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1771
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4492c12945f64aa0800000000000000
+      internalID: -6176980144444238773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_104
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1772
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a5881b5d6ebef40800000000000000
+      internalID: 5758950354004236879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_105
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1748
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e72a19691d303120800000000000000
+      internalID: 2391478581480531944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_106
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1777
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d91e8bf3019b2d20800000000000000
+      internalID: 3254854601996638676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_107
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1777
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdab1090f90dd1ca0800000000000000
+      internalID: -6044445743391851809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_108
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1758
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d134fbd1ba4a58230800000000000000
+      internalID: 3640496928644350749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_109
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1775
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05817bda3976ec130800000000000000
+      internalID: 3588919837033175120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_110
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1701
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c403876cbcd9860800000000000000
+      internalID: 7538405404568472631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_111
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1778
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1ac75a28eec3ca0800000000000000
+      internalID: -6035687155693739522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_112
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1740
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5914c9f15a235b260800000000000000
+      internalID: 7112646871282893205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_113
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1749
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4459f3622d08b4c70800000000000000
+      internalID: 8956393924029551940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_114
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1759
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3e5e902fce26420800000000000000
+      internalID: 2621918457375351760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_115
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1762
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7786e1d4e01119d30800000000000000
+      internalID: 4436345861057702007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_116
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1764
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7e3b8190d533310800000000000000
+      internalID: 1383551804183406511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_117
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1758
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b91f8e7e23c2e640800000000000000
+      internalID: 5107859531850783159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_118
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1759
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07e9238f4f0fe400800000000000000
+      internalID: 355519729762952975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_119
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1769
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb2d6993d0f8610800000000000000
+      internalID: 1625532531498729012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_120
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1687
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22255789eb44c60f0800000000000000
+      internalID: -1122446621729795550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_121
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1749
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f57058959b46a7f0800000000000000
+      internalID: -601710394329762318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_122
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1740
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61ee70b7fe1a89a0800000000000000
+      internalID: -6230133085346799250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_123
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1745
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128fe8b29deb9a6c0800000000000000
+      internalID: -4131561343187748831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_124
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1749
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7198524720183c0800000000000000
+      internalID: -4359200266448726102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_125
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1755
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d40abcb733e5a570800000000000000
+      internalID: 8477431702123840724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_126
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1750
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2041aca2a4f86f0e0800000000000000
+      internalID: -2236442616234634238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_127
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1751
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c27554683a5349a0800000000000000
+      internalID: -6250052659612126521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_128
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1736
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae915bdfca198dd0800000000000000
+      internalID: -2483424239478006098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_129
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1749
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7ed8d872865b9e0800000000000000
+      internalID: -1606263172999813126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_130
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1750
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c04d2c4b6e7c7c0800000000000000
+      internalID: -4051015675759293387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_131
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1754
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122bdee30cd660760800000000000000
+      internalID: 7423741708223754785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_132
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1713
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930d5766de6d40b10800000000000000
+      internalID: 1946917254045487161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_133
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1741
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b92f3a08e0fb940800000000000000
+      internalID: 5313982030989663065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_134
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1625
+        width: 30
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3906909ea19768c0800000000000000
+      internalID: -4006073164586677957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_135
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1706
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a643dab13f15020800000000000000
+      internalID: 2328909782522817111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_136
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1735
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b662b92f87eea0800000000000000
+      internalID: -5843544582240421807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_137
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1657
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051f3c5e6c7a9d090800000000000000
+      internalID: -8009185989601529520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_138
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1718
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884f353575dac56c0800000000000000
+      internalID: -4153254165770668920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_139
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1720
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b02a73be4b1901a0800000000000000
+      internalID: -6842908133980233545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_140
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1735
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baae6c8b6bc61910800000000000000
+      internalID: 1807855963213834931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_141
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1734
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfcbe3d1a5fe8780800000000000000
+      internalID: -8678729356502380600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_142
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1739
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0128a37a738343520800000000000000
+      internalID: 2680829489872273936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_143
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1708
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3a3ccb8b260e470800000000000000
+      internalID: 8421839848763270060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_144
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1706
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbd1a55822c5bd70800000000000000
+      internalID: 9058359704016772018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_145
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1725
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7f03ddea1b6e110800000000000000
+      internalID: 1289913707881625599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_146
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1708
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01c8367e0edd14f0800000000000000
+      internalID: -856284200436186868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_147
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1645
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e437e903ad39dc890800000000000000
+      internalID: -7436124844390976690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_148
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1717
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dad44678f50914d0800000000000000
+      internalID: -3163490698556810535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_149
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1720
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5446646ff9c2bfc80800000000000000
+      internalID: -8287981623702035387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_150
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1724
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f7e6c50d209fb10800000000000000
+      internalID: 2015645402152206122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_151
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1682
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3b4b16145873020800000000000000
+      internalID: 2321470648791380971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_152
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1644
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a441da503a963940800000000000000
+      internalID: 5275573545983886499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_153
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1696
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c796a7d04048740800000000000000
+      internalID: 5153248329553509432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_154
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1704
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615f204c8f5feba20800000000000000
+      internalID: 3080169643957220630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_155
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1702
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee943cbc0ee96520800000000000000
+      internalID: 2695947590422535916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_156
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1709
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b9055ea62713c20800000000000000
+      internalID: 3184452214967016304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_157
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1700
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a6198741d7219e0800000000000000
+      internalID: -1652120586415936869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_158
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1655
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef5e5ea884131a00800000000000000
+      internalID: 725946542210310124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_159
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1674
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f89e1226c3c054e0800000000000000
+      internalID: -1994879379181758224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_160
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1679
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7900d267e239960800000000000000
+      internalID: 7607475280654931941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_161
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1682
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e563fe7adf3c0910800000000000000
+      internalID: 1804887758334027240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_162
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1628
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312e8b26fa0473d50800000000000000
+      internalID: 6716908491266122259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_163
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1652
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d42070f493781b0800000000000000
+      internalID: -5654487795557577317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_164
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1616
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7411e86a776b72940800000000000000
+      internalID: 5271382513872146759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_165
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1642
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc24ef3acbf85d6d0800000000000000
+      internalID: -2966306739185630517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_166
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1662
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fc9e3c1a8cbcb30800000000000000
+      internalID: 4308758065612181366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1666
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1fe9f438791ebe0800000000000000
+      internalID: -1449711014804262482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_168
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1664
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3efec8e75d9a110800000000000000
+      internalID: 1272783109216002994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_169
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1626
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1e7579e45b9e310800000000000000
+      internalID: 1434877305445409271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_170
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1571
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4c6df1c6f1ed8f0800000000000000
+      internalID: -513938758222560003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_171
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1656
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19d33d7022a6fce0800000000000000
+      internalID: -1371730776064534244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_172
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1648
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a887d574075e1710800000000000000
+      internalID: 1665864588842207399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_173
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1644
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b242c4d0218b110800000000000000
+      internalID: 1276790342680849158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_174
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1651
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3af3e139d41d830800000000000000
+      internalID: 4094138830519509926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_175
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1650
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4e50fa656741540800000000000000
+      internalID: 4977733602826904740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_176
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1633
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708458c403abe1650800000000000000
+      internalID: 6205602053168121863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_177
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1632
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf164d4cfd714a6c0800000000000000
+      internalID: -4133152308171873797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_178
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1621
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9d66ad751727eb0800000000000000
+      internalID: -4723588437017962058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_179
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1621
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecb4b32af759e0c0800000000000000
+      internalID: -4546005617001317152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_180
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1641
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239b5f88c4092db00800000000000000
+      internalID: 851901937916164402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_181
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1636
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704fbf3bfc6ec01d0800000000000000
+      internalID: -3383075440309832697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_182
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1643
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f381a54e326a910800000000000000
+      internalID: 1848204160753221494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_183
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1630
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57be10b9b8894efb0800000000000000
+      internalID: -4619399592406815883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_184
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1624
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89464de79ca0ee80800000000000000
+      internalID: -8151325557019752052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_185
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1631
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dece07eab319680800000000000000
+      internalID: -8750146980599239379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_186
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1623
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4911f764b406efb10800000000000000
+      internalID: 2017155559530107284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_187
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1628
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa4c9216598f7400800000000000000
+      internalID: 324128700966390434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_188
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1629
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefb70c666f359b10800000000000000
+      internalID: 1987564519685603306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_189
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1610
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924f01538bb4e9920800000000000000
+      internalID: 2998917656411698217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_190
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1610
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f62e1cbbe97e3f0800000000000000
+      internalID: -871553473623986338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_191
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1509
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec623f5b1e41d9100800000000000000
+      internalID: 116272125034309326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_192
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1606
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30539788584c0a420800000000000000
+      internalID: 2639325459438449923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_193
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1614
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60be28a87c0c246a0800000000000000
+      internalID: -6466394151695750394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_194
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1618
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2bb32997f07d420800000000000000
+      internalID: 2654607520177042098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_195
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1590
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17ecae40eb2ffd20800000000000000
+      internalID: 3314416093160597279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_196
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1620
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c7ee5fd1fbcd980800000000000000
+      internalID: -8512719060236076012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_197
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1604
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47052945dc634ba10800000000000000
+      internalID: 1924223196309114996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_198
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1617
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec16a3d6d0e1645a0800000000000000
+      internalID: -6537504766065745458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_199
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1573
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f969b17a7d93490800000000000000
+      internalID: -7765938969701343402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_200
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1525
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3777834e497d48f40800000000000000
+      internalID: 5729941660406151027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_201
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1609
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c19ae6d977c7ac0800000000000000
+      internalID: -3856075662885839761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_202
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1604
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c934a403320e60c30800000000000000
+      internalID: 4325390933874590620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_203
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1603
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ab31f67173540c0800000000000000
+      internalID: -4592203671247013339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_204
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1604
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ae808431a593d90800000000000000
+      internalID: -7117558697222935992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_205
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1568
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8b3f6decd70bc90800000000000000
+      internalID: -7156081480568686345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_206
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1546
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebfe521db6f250f0800000000000000
+      internalID: -1129569264599106592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_207
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1586
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b89606c91f5d7b30800000000000000
+      internalID: 4286686984627722417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_208
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1587
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f28da559620396d0800000000000000
+      internalID: -2985039476584250639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_209
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1599
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63a61d3a0b44a560800000000000000
+      internalID: 7324061401357919083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_210
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1552
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0094485c3230da0800000000000000
+      internalID: -5979896548982980379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_211
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1596
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06433cc6f844b5eb0800000000000000
+      internalID: -4730111600826829728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_212
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1537
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57587724900448c0800000000000000
+      internalID: -4016084331390281893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_213
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1572
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cf645aaf7a55650800000000000000
+      internalID: 6221063155238763603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_214
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1538
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045368a3b77b9c0d0800000000000000
+      internalID: -3401986303610964672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_215
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1587
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6345e8675158210800000000000000
+      internalID: 1334496463523428026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_216
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1542
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b671c18b3c10b91d0800000000000000
+      internalID: -3343076358273362069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_217
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1561
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917dd0f34304debf0800000000000000
+      internalID: -293507807568865511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_218
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1569
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566def8f1b55a3430800000000000000
+      internalID: 3763414661496493669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_219
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1563
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15d14ccc41538fa0800000000000000
+      internalID: -5799702504836836070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1550
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f405a8cd0b839abb0800000000000000
+      internalID: -4924342385287475121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1543
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e886e8a4cc9208c0800000000000000
+      internalID: -4034489947709339416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_222
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1551
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7235c6b5d8d7ec0800000000000000
+      internalID: -3567539906008635441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_223
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1533
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2deeaa8d667792c00800000000000000
+      internalID: 876362886105722578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_224
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1551
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91dfb50ae82f1e10800000000000000
+      internalID: 2170498530999783836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_225
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1543
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efda4dcc07f762580800000000000000
+      internalID: -8852247895100576258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_226
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1550
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab951554112b14a0800000000000000
+      internalID: -6621662455907640407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_227
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1546
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2717a2d875a448430800000000000000
+      internalID: 3784231326789038450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_228
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1534
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f84e7a6e38ab4b70800000000000000
+      internalID: 8884379675946535155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_229
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1512
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed79fe5fa380ae670800000000000000
+      internalID: 8568670290353035230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_230
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1463
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e256968b73723480800000000000000
+      internalID: -8920940937491361051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_231
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1535
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5a82284a34dd640800000000000000
+      internalID: 5106311926345409955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_232
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1534
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e849ce100944a79f0800000000000000
+      internalID: -469987825808534386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_233
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1531
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd670e59dace86710800000000000000
+      internalID: 1686858290738263771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_234
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1532
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aa666c5e48f51f0800000000000000
+      internalID: -1053977665370412423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_235
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1533
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a04a24ffb6d4b70800000000000000
+      internalID: 8884876383950735951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_236
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1515
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54892def0887eb560800000000000000
+      internalID: 7331429738832107589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_237
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1502
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b14474740f17310800000000000000
+      internalID: 1401165148017924872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_238
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1489
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7984b90d797138790800000000000000
+      internalID: -7529148211225999209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_239
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1501
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a0db2e8099407f0800000000000000
+      internalID: -647224182991680956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_240
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1433
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40d15b60d7c82870800000000000000
+      internalID: 8658389981587427405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_241
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1402
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dbe4fd0fdab2a00800000000000000
+      internalID: 732870614428073284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_242
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1379
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95bbde308d7088b0800000000000000
+      internalID: -5151979983947975266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_243
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1406
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1a86d50749ab730800000000000000
+      internalID: 4015685228078604740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_244
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1402
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf01126bfd26a2e10800000000000000
+      internalID: 2173658483132535035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_245
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1398
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a96a6bf0bfea330800000000000000
+      internalID: 3724189986789431953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_246
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1390
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5ca71ff01b9d350800000000000000
+      internalID: 6042055057128211873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_247
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1295
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d386e00c4188900800000000000000
+      internalID: 686821758281989525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_248
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1401
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74cc7fa547f57140800000000000000
+      internalID: 4716948063409456254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_249
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10643640610519610800000000000000
+      internalID: 1626168995950577153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_250
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c3d40dc9d30e0e0800000000000000
+      internalID: -2242724870711591800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_251
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1399
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955cf83e0154ed5d0800000000000000
+      internalID: -3035913159961492135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_252
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1400
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6838c26914cd3ebc0800000000000000
+      internalID: -3754915490046377082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_253
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1404
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f543074f732aa00800000000000000
+      internalID: 766236409600433932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_254
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1371
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fa8064337be77d0800000000000000
+      internalID: -2918694077643313274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_255
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1387
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c1443e823dc6460800000000000000
+      internalID: 7236390873842588680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_256
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1382
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb055f4f3cd11da0800000000000000
+      internalID: -5975753066071913543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_257
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1381
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1517f318a9e99fc20800000000000000
+      internalID: 3240795793300353361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_258
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1383
+        width: 69
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ebd931d02d1cfc0800000000000000
+      internalID: -3476266483747799518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_259
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1378
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe0ff3d2b9aa5770800000000000000
+      internalID: 8600373023943364349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_260
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1364
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662da680cbbe2e730800000000000000
+      internalID: 4027040209650242150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_261
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1369
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a312aa77ed10e7fc0800000000000000
+      internalID: -3495354205790920390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_262
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1361
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6335aeb3ae542310800000000000000
+      internalID: 1379331443253392239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_263
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1367
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195425ea01e43ea30800000000000000
+      internalID: 4243321107464209809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_264
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1368
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12564158809dbd420800000000000000
+      internalID: 2655955035880711457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_265
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1363
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e160b92b1933408e0800000000000000
+      internalID: -1728199656143649250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_266
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1360
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48c90d9d9f9d7230800000000000000
+      internalID: 3638239573278574671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_267
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1373
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc747a1c962e148a0800000000000000
+      internalID: -6322523458003056693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_268
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1358
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d79525c93bd8e390800000000000000
+      internalID: -7788734514370078768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_269
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1364
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94cf44a4532ee7e0800000000000000
+      internalID: -1734409960050146146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_270
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1358
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611d98d17c7db4810800000000000000
+      internalID: 1750730130357604630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_271
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1365
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a483bec796fcf20800000000000000
+      internalID: 3445088225204914812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_272
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1342
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6d0ab5e00f34b60800000000000000
+      internalID: 7729285329955378934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_273
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1357
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034dd4eba57786890800000000000000
+      internalID: -7464585150743063504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_274
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1352
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69347f01abe6025a0800000000000000
+      internalID: -6548112112769088618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_275
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1350
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3538d16bcb50c980800000000000000
+      internalID: -8520709565906930370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_276
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1355
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81f88daa1989c6e0800000000000000
+      internalID: -1816770226993696374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_277
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1349
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa246c63b13816f30800000000000000
+      internalID: 4567075650036712111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_278
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1345
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6165365347710e380800000000000000
+      internalID: -8944123072078457322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_279
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1346
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fa620ae2853eb70800000000000000
+      internalID: 8927075843657084783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_280
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1347
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1888571f7af355e90800000000000000
+      internalID: -7037648852153431935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_281
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1342
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e246761edf11bcb10800000000000000
+      internalID: 2002714241402364974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_282
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1336
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328243b8e6b33a7a0800000000000000
+      internalID: -6367180102203856861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_283
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1343
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94af2ba3b9ff341a0800000000000000
+      internalID: -6826331567993718199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_284
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1336
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e3f6d48eee5f0d0800000000000000
+      internalID: -3389540463027470721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_285
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1327
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc102bbd8a4c870800000000000000
+      internalID: 8702266041524408065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_286
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1337
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca656c66318e4320800000000000000
+      internalID: 2544112910257711819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_287
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1300
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdd772be3f7ebde0800000000000000
+      internalID: -1315474133886706229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_288
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1334
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9cc24ee33fe8770800000000000000
+      internalID: 8615090588647999912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_289
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1339
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1079e1aa4d18ba00800000000000000
+      internalID: 772399542475255836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_290
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1333
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f60eab7f2c423a0800000000000000
+      internalID: -6691008777117732997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_291
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1322
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61f30cfb1e9a24e0800000000000000
+      internalID: -2005616841010712209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_292
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1314
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a76b1a9758c9400800000000000000
+      internalID: 332287229969201718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_293
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1320
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b76f863ec2d47040800000000000000
+      internalID: 4644568898846287800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_294
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1310
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bdc8af28a994f50800000000000000
+      internalID: 6866188994242993016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_295
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1330
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a49b7529401daa90800000000000000
+      internalID: -7301161514550192988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoer_296
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 382
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a804b6c36e914180800000000000000
+      internalID: -9132844417958016855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      suoer_0: -3859712648727107316
+      suoer_1: 288653524478603270
+      suoer_10: -4365408981931552794
+      suoer_100: -8345346217682802751
+      suoer_101: 3788101428557347343
+      suoer_102: 4072857927217664943
+      suoer_103: -6176980144444238773
+      suoer_104: 5758950354004236879
+      suoer_105: 2391478581480531944
+      suoer_106: 3254854601996638676
+      suoer_107: -6044445743391851809
+      suoer_108: 3640496928644350749
+      suoer_109: 3588919837033175120
+      suoer_11: 4654849027765284134
+      suoer_110: 7538405404568472631
+      suoer_111: -6035687155693739522
+      suoer_112: 7112646871282893205
+      suoer_113: 8956393924029551940
+      suoer_114: 2621918457375351760
+      suoer_115: 4436345861057702007
+      suoer_116: 1383551804183406511
+      suoer_117: 5107859531850783159
+      suoer_118: 355519729762952975
+      suoer_119: 1625532531498729012
+      suoer_12: -2371381630925204795
+      suoer_120: -1122446621729795550
+      suoer_121: -601710394329762318
+      suoer_122: -6230133085346799250
+      suoer_123: -4131561343187748831
+      suoer_124: -4359200266448726102
+      suoer_125: 8477431702123840724
+      suoer_126: -2236442616234634238
+      suoer_127: -6250052659612126521
+      suoer_128: -2483424239478006098
+      suoer_129: -1606263172999813126
+      suoer_13: -2594449604490354239
+      suoer_130: -4051015675759293387
+      suoer_131: 7423741708223754785
+      suoer_132: 1946917254045487161
+      suoer_133: 5313982030989663065
+      suoer_134: -4006073164586677957
+      suoer_135: 2328909782522817111
+      suoer_136: -5843544582240421807
+      suoer_137: -8009185989601529520
+      suoer_138: -4153254165770668920
+      suoer_139: -6842908133980233545
+      suoer_14: -8320354427794686153
+      suoer_140: 1807855963213834931
+      suoer_141: -8678729356502380600
+      suoer_142: 2680829489872273936
+      suoer_143: 8421839848763270060
+      suoer_144: 9058359704016772018
+      suoer_145: 1289913707881625599
+      suoer_146: -856284200436186868
+      suoer_147: -7436124844390976690
+      suoer_148: -3163490698556810535
+      suoer_149: -8287981623702035387
+      suoer_15: -6859038052316448417
+      suoer_150: 2015645402152206122
+      suoer_151: 2321470648791380971
+      suoer_152: 5275573545983886499
+      suoer_153: 5153248329553509432
+      suoer_154: 3080169643957220630
+      suoer_155: 2695947590422535916
+      suoer_156: 3184452214967016304
+      suoer_157: -1652120586415936869
+      suoer_158: 725946542210310124
+      suoer_159: -1994879379181758224
+      suoer_16: 8170115708035692341
+      suoer_160: 7607475280654931941
+      suoer_161: 1804887758334027240
+      suoer_162: 6716908491266122259
+      suoer_163: -5654487795557577317
+      suoer_164: 5271382513872146759
+      suoer_165: -2966306739185630517
+      suoer_166: 4308758065612181366
+      suoer_167: -1449711014804262482
+      suoer_168: 1272783109216002994
+      suoer_169: 1434877305445409271
+      suoer_17: 4679847694992461235
+      suoer_170: -513938758222560003
+      suoer_171: -1371730776064534244
+      suoer_172: 1665864588842207399
+      suoer_173: 1276790342680849158
+      suoer_174: 4094138830519509926
+      suoer_175: 4977733602826904740
+      suoer_176: 6205602053168121863
+      suoer_177: -4133152308171873797
+      suoer_178: -4723588437017962058
+      suoer_179: -4546005617001317152
+      suoer_18: -3975982719070580086
+      suoer_180: 851901937916164402
+      suoer_181: -3383075440309832697
+      suoer_182: 1848204160753221494
+      suoer_183: -4619399592406815883
+      suoer_184: -8151325557019752052
+      suoer_185: -8750146980599239379
+      suoer_186: 2017155559530107284
+      suoer_187: 324128700966390434
+      suoer_188: 1987564519685603306
+      suoer_189: 2998917656411698217
+      suoer_19: 6556248873412172901
+      suoer_190: -871553473623986338
+      suoer_191: 116272125034309326
+      suoer_192: 2639325459438449923
+      suoer_193: -6466394151695750394
+      suoer_194: 2654607520177042098
+      suoer_195: 3314416093160597279
+      suoer_196: -8512719060236076012
+      suoer_197: 1924223196309114996
+      suoer_198: -6537504766065745458
+      suoer_199: -7765938969701343402
+      suoer_2: -5274111948037146659
+      suoer_20: -4484814064891407085
+      suoer_200: 5729941660406151027
+      suoer_201: -3856075662885839761
+      suoer_202: 4325390933874590620
+      suoer_203: -4592203671247013339
+      suoer_204: -7117558697222935992
+      suoer_205: -7156081480568686345
+      suoer_206: -1129569264599106592
+      suoer_207: 4286686984627722417
+      suoer_208: -2985039476584250639
+      suoer_209: 7324061401357919083
+      suoer_21: -981301606439509863
+      suoer_210: -5979896548982980379
+      suoer_211: -4730111600826829728
+      suoer_212: -4016084331390281893
+      suoer_213: 6221063155238763603
+      suoer_214: -3401986303610964672
+      suoer_215: 1334496463523428026
+      suoer_216: -3343076358273362069
+      suoer_217: -293507807568865511
+      suoer_218: 3763414661496493669
+      suoer_219: -5799702504836836070
+      suoer_22: -7747002229612596719
+      suoer_220: -4924342385287475121
+      suoer_221: -4034489947709339416
+      suoer_222: -3567539906008635441
+      suoer_223: 876362886105722578
+      suoer_224: 2170498530999783836
+      suoer_225: -8852247895100576258
+      suoer_226: -6621662455907640407
+      suoer_227: 3784231326789038450
+      suoer_228: 8884379675946535155
+      suoer_229: 8568670290353035230
+      suoer_23: 2553196791646235129
+      suoer_230: -8920940937491361051
+      suoer_231: 5106311926345409955
+      suoer_232: -469987825808534386
+      suoer_233: 1686858290738263771
+      suoer_234: -1053977665370412423
+      suoer_235: 8884876383950735951
+      suoer_236: 7331429738832107589
+      suoer_237: 1401165148017924872
+      suoer_238: -7529148211225999209
+      suoer_239: -647224182991680956
+      suoer_24: -1207729153750735581
+      suoer_240: 8658389981587427405
+      suoer_241: 732870614428073284
+      suoer_242: -5151979983947975266
+      suoer_243: 4015685228078604740
+      suoer_244: 2173658483132535035
+      suoer_245: 3724189986789431953
+      suoer_246: 6042055057128211873
+      suoer_247: 686821758281989525
+      suoer_248: 4716948063409456254
+      suoer_249: 1626168995950577153
+      suoer_25: 935182248023038708
+      suoer_250: -2242724870711591800
+      suoer_251: -3035913159961492135
+      suoer_252: -3754915490046377082
+      suoer_253: 766236409600433932
+      suoer_254: -2918694077643313274
+      suoer_255: 7236390873842588680
+      suoer_256: -5975753066071913543
+      suoer_257: 3240795793300353361
+      suoer_258: -3476266483747799518
+      suoer_259: 8600373023943364349
+      suoer_26: 4877994983142051203
+      suoer_260: 4027040209650242150
+      suoer_261: -3495354205790920390
+      suoer_262: 1379331443253392239
+      suoer_263: 4243321107464209809
+      suoer_264: 2655955035880711457
+      suoer_265: -1728199656143649250
+      suoer_266: 3638239573278574671
+      suoer_267: -6322523458003056693
+      suoer_268: -7788734514370078768
+      suoer_269: -1734409960050146146
+      suoer_27: 4674006000248597291
+      suoer_270: 1750730130357604630
+      suoer_271: 3445088225204914812
+      suoer_272: 7729285329955378934
+      suoer_273: -7464585150743063504
+      suoer_274: -6548112112769088618
+      suoer_275: -8520709565906930370
+      suoer_276: -1816770226993696374
+      suoer_277: 4567075650036712111
+      suoer_278: -8944123072078457322
+      suoer_279: 8927075843657084783
+      suoer_28: -8820024136188297596
+      suoer_280: -7037648852153431935
+      suoer_281: 2002714241402364974
+      suoer_282: -6367180102203856861
+      suoer_283: -6826331567993718199
+      suoer_284: -3389540463027470721
+      suoer_285: 8702266041524408065
+      suoer_286: 2544112910257711819
+      suoer_287: -1315474133886706229
+      suoer_288: 8615090588647999912
+      suoer_289: 772399542475255836
+      suoer_29: 6606857221709813898
+      suoer_290: -6691008777117732997
+      suoer_291: -2005616841010712209
+      suoer_292: 332287229969201718
+      suoer_293: 4644568898846287800
+      suoer_294: 6866188994242993016
+      suoer_295: -7301161514550192988
+      suoer_296: -9132844417958016855
+      suoer_3: -6584905241018809418
+      suoer_30: -7340886664718342425
+      suoer_31: 104290005779423771
+      suoer_32: 8995944961063235802
+      suoer_33: -1510688464817598586
+      suoer_34: -7090390631146159401
+      suoer_35: -6979908237713607757
+      suoer_36: -5790906638272856747
+      suoer_37: -7101651062375909562
+      suoer_38: 4323789071198793265
+      suoer_39: -3159108308494887074
+      suoer_4: 894607303833054366
+      suoer_40: 8323306964570445521
+      suoer_41: 8461331760744201751
+      suoer_42: 5978014684960246981
+      suoer_43: 4884337193000602201
+      suoer_44: 71919274926446342
+      suoer_45: -7377130715277943292
+      suoer_46: -5647676110783700216
+      suoer_47: -201696397947233666
+      suoer_48: -3005083433631815692
+      suoer_49: 1338601776249371653
+      suoer_5: -4308052065864649049
+      suoer_50: -1317816529610264600
+      suoer_51: 6725387147469339488
+      suoer_52: -2554960589719174186
+      suoer_53: -9015385591620498125
+      suoer_54: -7273123491268169898
+      suoer_55: -678015138418921757
+      suoer_56: -2472139134697425207
+      suoer_57: -874785134884857372
+      suoer_58: -5400614255599930570
+      suoer_59: 7074775566720656010
+      suoer_6: -624073110095044450
+      suoer_60: 4527212850892264187
+      suoer_61: 4262802640403936787
+      suoer_62: 2693907652190657472
+      suoer_63: 8989573617154934896
+      suoer_64: 756142955788882471
+      suoer_65: -3921739235979638222
+      suoer_66: 3236185063976440973
+      suoer_67: 5336763692359404965
+      suoer_68: 2350426104777985797
+      suoer_69: -2859989653943382185
+      suoer_7: 5424384788466661778
+      suoer_70: 661902905339625687
+      suoer_71: 6531111349137003563
+      suoer_72: 1599650650333084341
+      suoer_73: -8213332176064405373
+      suoer_74: -3032709814264478131
+      suoer_75: -2227146422728585224
+      suoer_76: 5224959256227154733
+      suoer_77: -3711569396779116028
+      suoer_78: 3247579691690919847
+      suoer_79: 1494389902044362470
+      suoer_8: -7897253472700966830
+      suoer_80: 3823971407103914446
+      suoer_81: -383674006544467737
+      suoer_82: -8692229846402979633
+      suoer_83: 1224637268239372298
+      suoer_84: 8554442671628699957
+      suoer_85: 337457080627422773
+      suoer_86: 5533715147906705602
+      suoer_87: -1800974693722868557
+      suoer_88: 8887625182037709063
+      suoer_89: 2996102089323966451
+      suoer_9: 8655511924080764585
+      suoer_90: -4668639499403407500
+      suoer_91: -4258539986838358970
+      suoer_92: 792273248300090875
+      suoer_93: -6457197977746844709
+      suoer_94: -2405814319033494480
+      suoer_95: 6300383343576441503
+      suoer_96: 4116222935924296763
+      suoer_97: 7982871836384185542
+      suoer_98: -5570998664489557348
+      suoer_99: -2450870630814872936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

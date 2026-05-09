@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 4de5c0d62f254a049adfdfaa4f8ed796
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8193286086847055536
+    second: puyouyou_0
+  - first:
+      213: 2621349354621033234
+    second: puyouyou_1
+  - first:
+      213: -5690789600163438744
+    second: puyouyou_2
+  - first:
+      213: 6579933098456882329
+    second: puyouyou_3
+  - first:
+      213: 4456956309493792595
+    second: puyouyou_4
+  - first:
+      213: -4174709493287182124
+    second: puyouyou_5
+  - first:
+      213: 8021686104130098465
+    second: puyouyou_6
+  - first:
+      213: 5810180389042746578
+    second: puyouyou_7
+  - first:
+      213: 8576170256260082615
+    second: puyouyou_8
+  - first:
+      213: 8290354816346096750
+    second: puyouyou_9
+  - first:
+      213: 6101914168313368202
+    second: puyouyou_10
+  - first:
+      213: 3103809317390540809
+    second: puyouyou_11
+  - first:
+      213: -4395765577679044962
+    second: puyouyou_12
+  - first:
+      213: -8383527462281025635
+    second: puyouyou_13
+  - first:
+      213: -6579766664363065182
+    second: puyouyou_14
+  - first:
+      213: 937659575529869056
+    second: puyouyou_15
+  - first:
+      213: 4846365435889951269
+    second: puyouyou_16
+  - first:
+      213: 7910634655852927548
+    second: puyouyou_17
+  - first:
+      213: 3914756349772373923
+    second: puyouyou_18
+  - first:
+      213: -7303238177911647940
+    second: puyouyou_19
+  - first:
+      213: -3968534545515908631
+    second: puyouyou_20
+  - first:
+      213: -8761115175378802977
+    second: puyouyou_21
+  - first:
+      213: 2449783411116003609
+    second: puyouyou_22
+  - first:
+      213: -1769646918411996441
+    second: puyouyou_23
+  - first:
+      213: 4761681245652189542
+    second: puyouyou_24
+  - first:
+      213: -4815545532195059786
+    second: puyouyou_25
+  - first:
+      213: -3734540359875962251
+    second: puyouyou_26
+  - first:
+      213: -2002217110165036104
+    second: puyouyou_27
+  - first:
+      213: 626824054210117388
+    second: puyouyou_28
+  - first:
+      213: -2068219380681943586
+    second: puyouyou_29
+  - first:
+      213: -7767919612101063881
+    second: puyouyou_30
+  - first:
+      213: 7561576988079562735
+    second: puyouyou_31
+  - first:
+      213: -2775937202806115602
+    second: puyouyou_32
+  - first:
+      213: 7293152931119319413
+    second: puyouyou_33
+  - first:
+      213: -3215724335234324498
+    second: puyouyou_34
+  - first:
+      213: -8731492115374595696
+    second: puyouyou_35
+  - first:
+      213: -895705753894772744
+    second: puyouyou_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puyouyou_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 172
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059b452c6b99b4e80800000000000000
+      internalID: -8193286086847055536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 443
+        width: 168
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bd26a7957e06420800000000000000
+      internalID: 2621349354621033234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 437
+        width: 148
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f55ce72014601b0800000000000000
+      internalID: -5690789600163438744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 374
+        width: 146
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c9b538a4e905b50800000000000000
+      internalID: 6579933098456882329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 366
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f30d6462a4add30800000000000000
+      internalID: 4456956309493792595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 358
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0aa2c95d37016c0800000000000000
+      internalID: -4174709493287182124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_6
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 390
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1259c50d201c25f60800000000000000
+      internalID: 8021686104130098465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 138
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d475d9b748e1a050800000000000000
+      internalID: 5810180389042746578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 357
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb27a9d86da40770800000000000000
+      internalID: 8576170256260082615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 295
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64024208c14d0370800000000000000
+      internalID: 8290354816346096750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 356
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ecd345b9a5ea450800000000000000
+      internalID: 6101914168313368202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 360
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9006c952122f21b20800000000000000
+      internalID: 3103809317390540809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_12
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 347
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9efc823f7a1ff2c0800000000000000
+      internalID: -4395765577679044962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 336
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97e10ed03ab7ab80800000000000000
+      internalID: -8383527462281025635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 349
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0cea17419ffa4a0800000000000000
+      internalID: -6579766664363065182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 350
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f83bf7a6c330d00800000000000000
+      internalID: 937659575529869056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 337
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522a3f1dfafb14340800000000000000
+      internalID: 4846365435889951269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 305
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a1202ae4838cd60800000000000000
+      internalID: 7910634655852927548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 306
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af136aa822045630800000000000000
+      internalID: 3914756349772373923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 295
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c315187429fa5aa90800000000000000
+      internalID: -7303238177911647940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e178a76bdeece8c0800000000000000
+      internalID: -3968534545515908631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 287
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd623479a244a6680800000000000000
+      internalID: -8761115175378802977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 262
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911d63c68016ff120800000000000000
+      internalID: 2449783411116003609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 307
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e23032f083f077e0800000000000000
+      internalID: -1769646918411996441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_24
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 269
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6610dbc4dd3e41240800000000000000
+      internalID: 4761681245652189542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_25
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 308
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b74bc13adebb2db0800000000000000
+      internalID: -4815545532195059786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 245
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57adb32445f3c2cc0800000000000000
+      internalID: -3734540359875962251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_27
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 237
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b367618522b634e0800000000000000
+      internalID: -2002217110165036104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 288
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f3ddff72de2b800800000000000000
+      internalID: 626824054210117388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 249
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5dfd06e653c43e0800000000000000
+      internalID: -2068219380681943586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_30
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 272
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b0decd44ec23490800000000000000
+      internalID: -7767919612101063881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef104c253e10f860800000000000000
+      internalID: 7561576988079562735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 266
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee233f352d3e979d0800000000000000
+      internalID: -2775937202806115602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 238
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57947f733fb763560800000000000000
+      internalID: 7293152931119319413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 249
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee767c631c37f53d0800000000000000
+      internalID: -3215724335234324498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_35
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 240
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09129f7be2283d680800000000000000
+      internalID: -8731492115374595696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puyouyou_36
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 247
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff14dbcc50d193f0800000000000000
+      internalID: -895705753894772744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      puyouyou_0: -8193286086847055536
+      puyouyou_1: 2621349354621033234
+      puyouyou_10: 6101914168313368202
+      puyouyou_11: 3103809317390540809
+      puyouyou_12: -4395765577679044962
+      puyouyou_13: -8383527462281025635
+      puyouyou_14: -6579766664363065182
+      puyouyou_15: 937659575529869056
+      puyouyou_16: 4846365435889951269
+      puyouyou_17: 7910634655852927548
+      puyouyou_18: 3914756349772373923
+      puyouyou_19: -7303238177911647940
+      puyouyou_2: -5690789600163438744
+      puyouyou_20: -3968534545515908631
+      puyouyou_21: -8761115175378802977
+      puyouyou_22: 2449783411116003609
+      puyouyou_23: -1769646918411996441
+      puyouyou_24: 4761681245652189542
+      puyouyou_25: -4815545532195059786
+      puyouyou_26: -3734540359875962251
+      puyouyou_27: -2002217110165036104
+      puyouyou_28: 626824054210117388
+      puyouyou_29: -2068219380681943586
+      puyouyou_3: 6579933098456882329
+      puyouyou_30: -7767919612101063881
+      puyouyou_31: 7561576988079562735
+      puyouyou_32: -2775937202806115602
+      puyouyou_33: 7293152931119319413
+      puyouyou_34: -3215724335234324498
+      puyouyou_35: -8731492115374595696
+      puyouyou_36: -895705753894772744
+      puyouyou_4: 4456956309493792595
+      puyouyou_5: -4174709493287182124
+      puyouyou_6: 8021686104130098465
+      puyouyou_7: 5810180389042746578
+      puyouyou_8: 8576170256260082615
+      puyouyou_9: 8290354816346096750
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

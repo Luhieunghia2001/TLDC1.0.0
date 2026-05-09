@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: f2b846778dbc6ca4fbcd5ea47c6e89a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5914650848078485376
+    second: taotie_0
+  - first:
+      213: -3708318953096019538
+    second: taotie_1
+  - first:
+      213: 795237521014206467
+    second: taotie_2
+  - first:
+      213: 7475314160525352292
+    second: taotie_3
+  - first:
+      213: -6967525027866279069
+    second: taotie_4
+  - first:
+      213: -3450993067388791632
+    second: taotie_5
+  - first:
+      213: 2196874349794845889
+    second: taotie_6
+  - first:
+      213: -1798783226911473659
+    second: taotie_7
+  - first:
+      213: -5488243279341768052
+    second: taotie_8
+  - first:
+      213: -7617505752106722841
+    second: taotie_9
+  - first:
+      213: 1509568329289826907
+    second: taotie_10
+  - first:
+      213: -505035330034078651
+    second: taotie_11
+  - first:
+      213: -7953322506950604930
+    second: taotie_12
+  - first:
+      213: 157448300738193734
+    second: taotie_13
+  - first:
+      213: -5321927670418613493
+    second: taotie_14
+  - first:
+      213: 6169365243312857427
+    second: taotie_15
+  - first:
+      213: 976022828241849814
+    second: taotie_16
+  - first:
+      213: 3295415277983709293
+    second: taotie_17
+  - first:
+      213: -3298370842478220904
+    second: taotie_18
+  - first:
+      213: 3658407419818635724
+    second: taotie_19
+  - first:
+      213: -7146847447602271842
+    second: taotie_20
+  - first:
+      213: -702672062888426821
+    second: taotie_21
+  - first:
+      213: 2079640973592980446
+    second: taotie_22
+  - first:
+      213: -3685422031929624851
+    second: taotie_23
+  - first:
+      213: 5397340518472585575
+    second: taotie_24
+  - first:
+      213: 7867247323795771853
+    second: taotie_25
+  - first:
+      213: 2036302073904831165
+    second: taotie_26
+  - first:
+      213: -7424113526707163511
+    second: taotie_27
+  - first:
+      213: 211568380998417090
+    second: taotie_28
+  - first:
+      213: 1502629396130708343
+    second: taotie_29
+  - first:
+      213: -7577253007198201329
+    second: taotie_30
+  - first:
+      213: 8669592665325113056
+    second: taotie_31
+  - first:
+      213: -4213165113002819337
+    second: taotie_32
+  - first:
+      213: -427665487087681401
+    second: taotie_33
+  - first:
+      213: -5386138009112189798
+    second: taotie_34
+  - first:
+      213: -5482298582774975949
+    second: taotie_35
+  - first:
+      213: 1699463928492880197
+    second: taotie_36
+  - first:
+      213: 5253555369785839316
+    second: taotie_37
+  - first:
+      213: 4448505371872890453
+    second: taotie_38
+  - first:
+      213: -3899869232496407654
+    second: taotie_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: taotie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 293
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088a1dd0460faeda0800000000000000
+      internalID: -5914650848078485376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 308
+        width: 218
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea10dd64f87698cc0800000000000000
+      internalID: -3708318953096019538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 183
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3003d10ef40490b00800000000000000
+      internalID: 795237521014206467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 157
+        width: 90
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d9f828f96adb760800000000000000
+      internalID: 7475314160525352292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363036617e06e4f90800000000000000
+      internalID: -6967525027866279069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 131
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b494ffd61c9b10d0800000000000000
+      internalID: -3450993067388791632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 140
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c460b3e49ddc7e10800000000000000
+      internalID: 2196874349794845889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 118
+        width: 114
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500c20c7f207907e0800000000000000
+      internalID: -1798783226911473659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 153
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82b8edb0d7d5d3b0800000000000000
+      internalID: -5488243279341768052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 141
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e91f23b0ee294690800000000000000
+      internalID: -7617505752106722841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 143
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52008fb56013f410800000000000000
+      internalID: 1509568329289826907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ceb4a0b01cdf8f0800000000000000
+      internalID: -505035330034078651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 99
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e770715815f10a190800000000000000
+      internalID: -7953322506950604930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 72
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6492df3356e5f2200800000000000000
+      internalID: 157448300738193734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 52
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b50640bf6b426b0800000000000000
+      internalID: -5321927670418613493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 53
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351ed49800dfd9550800000000000000
+      internalID: 6169365243312857427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 55
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd070257978b8d00800000000000000
+      internalID: 976022828241849814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 80
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d683d974cbaabbd20800000000000000
+      internalID: 3295415277983709293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 81
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899649cb135d932d0800000000000000
+      internalID: -3298370842478220904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 61
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc171fd4a2645c230800000000000000
+      internalID: 3658407419818635724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 111
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9962cdac1c41dc90800000000000000
+      internalID: -7146847447602271842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_21
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 112
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2c1f15b7b9f36f0800000000000000
+      internalID: -702672062888426821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 83
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb6b53727e5cdc10800000000000000
+      internalID: 2079640973592980446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 61
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6bf6b2030cadcc0800000000000000
+      internalID: -3685422031929624851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_24
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 95
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761916fea9437ea40800000000000000
+      internalID: 5397340518472585575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15dfe22c31e2d60800000000000000
+      internalID: 7867247323795771853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 42
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba1d7a82f5624c10800000000000000
+      internalID: 2036302073904831165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e6274051048f890800000000000000
+      internalID: -7424113526707163511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_28
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 60
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca7d135254afe200800000000000000
+      internalID: 211568380998417090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 72
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b3e6979796ad410800000000000000
+      internalID: 1502629396130708343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 38
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ad0b4398038d690800000000000000
+      internalID: -7577253007198201329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_31
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 39
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee090c7894905870800000000000000
+      internalID: 8669592665325113056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_32
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 23
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0066be6a4d785c0800000000000000
+      internalID: -4213165113002819337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 27
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780c17f5180a01af0800000000000000
+      internalID: -427665487087681401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 23
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9463a784089045b0800000000000000
+      internalID: -5386138009112189798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 25
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332f1154c76fae3b0800000000000000
+      internalID: -5482298582774975949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_36
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 31
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54178665075b59710800000000000000
+      internalID: 1699463928492880197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_37
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 24
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de4ee736c068e840800000000000000
+      internalID: 5253555369785839316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_38
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 29
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e86e701144cbd30800000000000000
+      internalID: 4448505371872890453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taotie_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 27
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b839e6891e0e9c0800000000000000
+      internalID: -3899869232496407654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      taotie_0: -5914650848078485376
+      taotie_1: -3708318953096019538
+      taotie_10: 1509568329289826907
+      taotie_11: -505035330034078651
+      taotie_12: -7953322506950604930
+      taotie_13: 157448300738193734
+      taotie_14: -5321927670418613493
+      taotie_15: 6169365243312857427
+      taotie_16: 976022828241849814
+      taotie_17: 3295415277983709293
+      taotie_18: -3298370842478220904
+      taotie_19: 3658407419818635724
+      taotie_2: 795237521014206467
+      taotie_20: -7146847447602271842
+      taotie_21: -702672062888426821
+      taotie_22: 2079640973592980446
+      taotie_23: -3685422031929624851
+      taotie_24: 5397340518472585575
+      taotie_25: 7867247323795771853
+      taotie_26: 2036302073904831165
+      taotie_27: -7424113526707163511
+      taotie_28: 211568380998417090
+      taotie_29: 1502629396130708343
+      taotie_3: 7475314160525352292
+      taotie_30: -7577253007198201329
+      taotie_31: 8669592665325113056
+      taotie_32: -4213165113002819337
+      taotie_33: -427665487087681401
+      taotie_34: -5386138009112189798
+      taotie_35: -5482298582774975949
+      taotie_36: 1699463928492880197
+      taotie_37: 5253555369785839316
+      taotie_38: 4448505371872890453
+      taotie_39: -3899869232496407654
+      taotie_4: -6967525027866279069
+      taotie_5: -3450993067388791632
+      taotie_6: 2196874349794845889
+      taotie_7: -1798783226911473659
+      taotie_8: -5488243279341768052
+      taotie_9: -7617505752106722841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

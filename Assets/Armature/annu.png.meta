@@ -1,0 +1,2379 @@
+fileFormatVersion: 2
+guid: d4be7cc1b319735408b0b5194dff429e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1438558608811811059
+    second: annu_0
+  - first:
+      213: 8095897824620542007
+    second: annu_1
+  - first:
+      213: -558987238880682736
+    second: annu_2
+  - first:
+      213: -4680942415291871851
+    second: annu_3
+  - first:
+      213: -3197770704259970473
+    second: annu_4
+  - first:
+      213: 3233558417278318700
+    second: annu_5
+  - first:
+      213: -6581148773859165533
+    second: annu_6
+  - first:
+      213: -6227316112475018459
+    second: annu_7
+  - first:
+      213: 6651237101931368674
+    second: annu_8
+  - first:
+      213: 3713148555720661146
+    second: annu_9
+  - first:
+      213: -8447384495078701151
+    second: annu_10
+  - first:
+      213: 7217321542435231425
+    second: annu_11
+  - first:
+      213: 5112976964553198034
+    second: annu_12
+  - first:
+      213: -2210204950216545477
+    second: annu_13
+  - first:
+      213: -4287969024416114286
+    second: annu_14
+  - first:
+      213: 6780951744166956227
+    second: annu_15
+  - first:
+      213: 5673919872183419371
+    second: annu_16
+  - first:
+      213: -6215554572407948649
+    second: annu_17
+  - first:
+      213: -1698258306725754495
+    second: annu_18
+  - first:
+      213: -6887146553519980117
+    second: annu_19
+  - first:
+      213: 6028895027012089337
+    second: annu_20
+  - first:
+      213: 3720100272924588558
+    second: annu_21
+  - first:
+      213: 4130353868501555837
+    second: annu_22
+  - first:
+      213: -9052212267375648287
+    second: annu_23
+  - first:
+      213: 2700078985073551252
+    second: annu_24
+  - first:
+      213: 6119427931398279891
+    second: annu_25
+  - first:
+      213: 1010653509805255931
+    second: annu_26
+  - first:
+      213: 740051398926130879
+    second: annu_27
+  - first:
+      213: 5247664717166995195
+    second: annu_28
+  - first:
+      213: 5207283014467716529
+    second: annu_29
+  - first:
+      213: 4987587813441466311
+    second: annu_30
+  - first:
+      213: 1623037446698540028
+    second: annu_31
+  - first:
+      213: 6964463841001225848
+    second: annu_32
+  - first:
+      213: 2509286168688351910
+    second: annu_33
+  - first:
+      213: 7509638368353634452
+    second: annu_34
+  - first:
+      213: 7231770964971721891
+    second: annu_35
+  - first:
+      213: 8826594126727210069
+    second: annu_36
+  - first:
+      213: -4545041459032324717
+    second: annu_37
+  - first:
+      213: -2946210566592478762
+    second: annu_38
+  - first:
+      213: -400686127163241139
+    second: annu_39
+  - first:
+      213: -8030534469362950068
+    second: annu_40
+  - first:
+      213: -7653812129287305938
+    second: annu_41
+  - first:
+      213: -7049369743240273076
+    second: annu_42
+  - first:
+      213: -6160394786233168780
+    second: annu_43
+  - first:
+      213: -5174348565225758228
+    second: annu_44
+  - first:
+      213: 4305122007865157873
+    second: annu_45
+  - first:
+      213: 680681413158364913
+    second: annu_46
+  - first:
+      213: -4417155652741347095
+    second: annu_47
+  - first:
+      213: -4057223025520093960
+    second: annu_48
+  - first:
+      213: 552202296225694984
+    second: annu_49
+  - first:
+      213: 760148833408262759
+    second: annu_50
+  - first:
+      213: -281997128637732414
+    second: annu_51
+  - first:
+      213: -19021630823325848
+    second: annu_52
+  - first:
+      213: -7182746344210886938
+    second: annu_53
+  - first:
+      213: 1288489534094294488
+    second: annu_54
+  - first:
+      213: 7706056979356574614
+    second: annu_55
+  - first:
+      213: -7486819692223631129
+    second: annu_56
+  - first:
+      213: 2590727065801806475
+    second: annu_57
+  - first:
+      213: -7904327261749970672
+    second: annu_58
+  - first:
+      213: 5989738868735467439
+    second: annu_59
+  - first:
+      213: 9038339365054220601
+    second: annu_60
+  - first:
+      213: -8353214595572490039
+    second: annu_61
+  - first:
+      213: -2221604326513859363
+    second: annu_62
+  - first:
+      213: -4476633422475706593
+    second: annu_63
+  - first:
+      213: 2392061928941618969
+    second: annu_64
+  - first:
+      213: -5872023557147603641
+    second: annu_65
+  - first:
+      213: -5753444146084358399
+    second: annu_66
+  - first:
+      213: 3078945353914250586
+    second: annu_67
+  - first:
+      213: 3547456104212776909
+    second: annu_68
+  - first:
+      213: 351726802747556326
+    second: annu_69
+  - first:
+      213: -3015709035973941888
+    second: annu_70
+  - first:
+      213: 6837043251938264529
+    second: annu_71
+  - first:
+      213: -8422142927935270241
+    second: annu_72
+  - first:
+      213: -9128925483133147825
+    second: annu_73
+  - first:
+      213: -5463148065140649557
+    second: annu_74
+  - first:
+      213: -756932597947141873
+    second: annu_75
+  - first:
+      213: 5828111099827037280
+    second: annu_76
+  - first:
+      213: -4867707351907258219
+    second: annu_77
+  - first:
+      213: -6993984968256206883
+    second: annu_78
+  - first:
+      213: -429757341782409574
+    second: annu_79
+  - first:
+      213: 479639969526612899
+    second: annu_80
+  - first:
+      213: -7435050063107439981
+    second: annu_81
+  - first:
+      213: 8761666941537850338
+    second: annu_82
+  - first:
+      213: 1780595563524150762
+    second: annu_83
+  - first:
+      213: -8801596783143425807
+    second: annu_84
+  - first:
+      213: -1758728388364905132
+    second: annu_85
+  - first:
+      213: 3018182141261621324
+    second: annu_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: annu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 334
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f113d2196390ce0800000000000000
+      internalID: -1438558608811811059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 793
+        width: 284
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7387d567d286a5070800000000000000
+      internalID: 8095897824620542007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_2
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 809
+        width: 118
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d5a8061141e38f0800000000000000
+      internalID: -558987238880682736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_3
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 811
+        width: 172
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d087a8ca3f90fb0800000000000000
+      internalID: -4680942415291871851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 838
+        width: 118
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a0f6bac7c3f93d0800000000000000
+      internalID: -3197770704259970473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_5
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 937
+        width: 28
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6839569f38efdc20800000000000000
+      internalID: 3233558417278318700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_6
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 893
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa70200f001ba4a0800000000000000
+      internalID: -6581148773859165533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_7
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 858
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b2cdb4df02499a0800000000000000
+      internalID: -6227316112475018459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_8
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 827
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0948987e0fd4c50800000000000000
+      internalID: 6651237101931368674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 98
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a981cf530f0c78330800000000000000
+      internalID: 3713148555720661146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 644
+        width: 76
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a701b1de8cd4ca80800000000000000
+      internalID: -8447384495078701151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 695
+        width: 115
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c650ae24b3192460800000000000000
+      internalID: 7217321542435231425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 741
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9c2f4a571f4f640800000000000000
+      internalID: 5112976964553198034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 701
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b6885de46c351e0800000000000000
+      internalID: -2210204950216545477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 707
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2999cc314e21e74c0800000000000000
+      internalID: -4287969024416114286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_15
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 708
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc032e2fa7ca1e50800000000000000
+      internalID: 6780951744166956227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 702
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1c581ef00ddbe40800000000000000
+      internalID: 5673919872183419371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_17
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 679
+        width: 43
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ab19d3c0aedb9a0800000000000000
+      internalID: -6215554572407948649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_18
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 658
+        width: 131
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18941ca51139e68e0800000000000000
+      internalID: -1698258306725754495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_19
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 650
+        width: 111
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1c26103b0fb60a0800000000000000
+      internalID: -6887146553519980117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_20
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 720
+        width: 40
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5bc29a510faa350800000000000000
+      internalID: 6028895027012089337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 626
+        width: 104
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0af0800d7370a330800000000000000
+      internalID: 3720100272924588558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 667
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a12b8b5f6f15930800000000000000
+      internalID: 4130353868501555837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 622
+        width: 123
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e124ab47e4106280800000000000000
+      internalID: -9052212267375648287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 602
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4976ec2088b987520800000000000000
+      internalID: 2700078985073551252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 677
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2199f08439ce450800000000000000
+      internalID: 6119427931398279891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 653
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca1f23300960e00800000000000000
+      internalID: 1010653509805255931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 613
+        width: 110
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbed58c83d0354a00800000000000000
+      internalID: 740051398926130879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_28
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 672
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6e617c14373d840800000000000000
+      internalID: 5247664717166995195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_29
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 580
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b50642ff4cf34840800000000000000
+      internalID: 5207283014467716529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_30
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 676
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfee32e0b8773540800000000000000
+      internalID: 4987587813441466311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb9f9365ff268610800000000000000
+      internalID: 1623037446698540028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 597
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e3eedc6feb6a060800000000000000
+      internalID: 6964463841001225848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_33
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 631
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa5874c976c2d220800000000000000
+      internalID: 2509286168688351910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_34
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 652
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498cc59ee48973860800000000000000
+      internalID: 7509638368353634452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_35
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 576
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a49f1880696c5460800000000000000
+      internalID: 7231770964971721891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_36
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 599
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554ef1cc79c5e7a70800000000000000
+      internalID: 8826594126727210069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_37
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 647
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39584f8afd4cce0c0800000000000000
+      internalID: -4545041459032324717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 548
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1c0c07915fc17d0800000000000000
+      internalID: -2946210566592478762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 619
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d020c171a707af0800000000000000
+      internalID: -400686127163241139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 540
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40671d927fcd8090800000000000000
+      internalID: -8030534469362950068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_41
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 604
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2501488b6238c590800000000000000
+      internalID: -7653812129287305938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 567
+        width: 100
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43e6c3519b9b2e90800000000000000
+      internalID: -7049369743240273076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_43
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 578
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c4762c491e18aa0800000000000000
+      internalID: -6160394786233168780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_44
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 583
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1aaa115650138b0800000000000000
+      internalID: -5174348565225758228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8e48918addebb30800000000000000
+      internalID: 4305122007865157873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_46
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 539
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6e38c8324427900800000000000000
+      internalID: 680681413158364913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_47
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 532
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e84eb0465c13b2c0800000000000000
+      internalID: -4417155652741347095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_48
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 518
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4d6558729d1b7c0800000000000000
+      internalID: -4057223025520093960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_49
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 568
+        width: 106
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80500be0011d9a700800000000000000
+      internalID: 552202296225694984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_50
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 553
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7622ab726579c8a00800000000000000
+      internalID: 760148833408262759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_51
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 530
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c92ed70b15261cf0800000000000000
+      internalID: -281997128637732414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_52
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 525
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f1ab37deb6cbff0800000000000000
+      internalID: -19021630823325848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_53
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 543
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee03997142c15c90800000000000000
+      internalID: -7182746344210886938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_54
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 517
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddbf709762a1e110800000000000000
+      internalID: 1288489534094294488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_55
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 529
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693e7798ef961fa60800000000000000
+      internalID: 7706056979356574614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_56
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 502
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e07c932829791890800000000000000
+      internalID: -7486819692223631129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_57
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 517
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b825b134a8c14f320800000000000000
+      internalID: 2590727065801806475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_58
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 522
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019f4fefb303e4290800000000000000
+      internalID: -7904327261749970672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_59
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 494
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafd35024c3df1350800000000000000
+      internalID: 5989738868735467439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_60
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 499
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9398c7de3c1ae6d70800000000000000
+      internalID: 9038339365054220601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_61
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 504
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c02b42259b631c80800000000000000
+      internalID: -8353214595572490039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_62
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 493
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4aba6b2a64b21e0800000000000000
+      internalID: -2221604326513859363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_63
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 494
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fb1b7de9dcfd1c0800000000000000
+      internalID: -4476633422475706593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_64
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 480
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170d4396af423120800000000000000
+      internalID: 2392061928941618969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_65
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 492
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dcd73afa1628ea0800000000000000
+      internalID: -5872023557147603641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_66
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 485
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107579d3809a720b0800000000000000
+      internalID: -5753444146084358399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_67
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 491
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55f5e68c7c9aba20800000000000000
+      internalID: 3078945353914250586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_68
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 474
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7c4e318881b3130800000000000000
+      internalID: 3547456104212776909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e180cfd9a591e400800000000000000
+      internalID: 351726802747556326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 498
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08566d41c9c0626d0800000000000000
+      internalID: -3015709035973941888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_71
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 506
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d503c90d9e02ee50800000000000000
+      internalID: 6837043251938264529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_72
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 489
+        width: 83
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9299d421a98e1b80800000000000000
+      internalID: -8422142927935270241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_73
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 460
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4566d4e3aa8f4180800000000000000
+      internalID: -9128925483133147825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_74
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 469
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1dded97cffe24b0800000000000000
+      internalID: -5463148065140649557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_75
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 466
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01727400d5de75f0800000000000000
+      internalID: -756932597947141873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_76
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 443
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064a3b8aa2c91e050800000000000000
+      internalID: 5828111099827037280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_77
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 448
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590b20324fd627cb0800000000000000
+      internalID: -4867707351907258219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 466
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7caa22abf50fe90800000000000000
+      internalID: -6993984968256206883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_79
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 456
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e717f79f1390af0800000000000000
+      internalID: -429757341782409574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_80
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 490
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a386b3d20608a600800000000000000
+      internalID: 479639969526612899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_81
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 476
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3924c353c5561d890800000000000000
+      internalID: -7435050063107439981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_82
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 463
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e395aa79a1b79970800000000000000
+      internalID: 8761666941537850338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_83
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 469
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae55e742b32f5b810800000000000000
+      internalID: 1780595563524150762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_84
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 443
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8e38ccb527ad580800000000000000
+      internalID: -8801596783143425807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_85
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 464
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4555d1359ddb797e0800000000000000
+      internalID: -1758728388364905132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: annu_86
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 483
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48a35d9aacb2e920800000000000000
+      internalID: 3018182141261621324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      annu_0: -1438558608811811059
+      annu_1: 8095897824620542007
+      annu_10: -8447384495078701151
+      annu_11: 7217321542435231425
+      annu_12: 5112976964553198034
+      annu_13: -2210204950216545477
+      annu_14: -4287969024416114286
+      annu_15: 6780951744166956227
+      annu_16: 5673919872183419371
+      annu_17: -6215554572407948649
+      annu_18: -1698258306725754495
+      annu_19: -6887146553519980117
+      annu_2: -558987238880682736
+      annu_20: 6028895027012089337
+      annu_21: 3720100272924588558
+      annu_22: 4130353868501555837
+      annu_23: -9052212267375648287
+      annu_24: 2700078985073551252
+      annu_25: 6119427931398279891
+      annu_26: 1010653509805255931
+      annu_27: 740051398926130879
+      annu_28: 5247664717166995195
+      annu_29: 5207283014467716529
+      annu_3: -4680942415291871851
+      annu_30: 4987587813441466311
+      annu_31: 1623037446698540028
+      annu_32: 6964463841001225848
+      annu_33: 2509286168688351910
+      annu_34: 7509638368353634452
+      annu_35: 7231770964971721891
+      annu_36: 8826594126727210069
+      annu_37: -4545041459032324717
+      annu_38: -2946210566592478762
+      annu_39: -400686127163241139
+      annu_4: -3197770704259970473
+      annu_40: -8030534469362950068
+      annu_41: -7653812129287305938
+      annu_42: -7049369743240273076
+      annu_43: -6160394786233168780
+      annu_44: -5174348565225758228
+      annu_45: 4305122007865157873
+      annu_46: 680681413158364913
+      annu_47: -4417155652741347095
+      annu_48: -4057223025520093960
+      annu_49: 552202296225694984
+      annu_5: 3233558417278318700
+      annu_50: 760148833408262759
+      annu_51: -281997128637732414
+      annu_52: -19021630823325848
+      annu_53: -7182746344210886938
+      annu_54: 1288489534094294488
+      annu_55: 7706056979356574614
+      annu_56: -7486819692223631129
+      annu_57: 2590727065801806475
+      annu_58: -7904327261749970672
+      annu_59: 5989738868735467439
+      annu_6: -6581148773859165533
+      annu_60: 9038339365054220601
+      annu_61: -8353214595572490039
+      annu_62: -2221604326513859363
+      annu_63: -4476633422475706593
+      annu_64: 2392061928941618969
+      annu_65: -5872023557147603641
+      annu_66: -5753444146084358399
+      annu_67: 3078945353914250586
+      annu_68: 3547456104212776909
+      annu_69: 351726802747556326
+      annu_7: -6227316112475018459
+      annu_70: -3015709035973941888
+      annu_71: 6837043251938264529
+      annu_72: -8422142927935270241
+      annu_73: -9128925483133147825
+      annu_74: -5463148065140649557
+      annu_75: -756932597947141873
+      annu_76: 5828111099827037280
+      annu_77: -4867707351907258219
+      annu_78: -6993984968256206883
+      annu_79: -429757341782409574
+      annu_8: 6651237101931368674
+      annu_80: 479639969526612899
+      annu_81: -7435050063107439981
+      annu_82: 8761666941537850338
+      annu_83: 1780595563524150762
+      annu_84: -8801596783143425807
+      annu_85: -1758728388364905132
+      annu_86: 3018182141261621324
+      annu_9: 3713148555720661146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

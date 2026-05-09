@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: a1a877ac91f910342abfd3eec989c8b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1354653096607395436
+    second: meier_0
+  - first:
+      213: 5362180858867656370
+    second: meier_1
+  - first:
+      213: -6791055222044027886
+    second: meier_2
+  - first:
+      213: -5094268015551524846
+    second: meier_3
+  - first:
+      213: 4519950300831221222
+    second: meier_4
+  - first:
+      213: 1713193328673007421
+    second: meier_5
+  - first:
+      213: -833349972606983822
+    second: meier_6
+  - first:
+      213: -8432648448203584005
+    second: meier_7
+  - first:
+      213: -4696623879299582326
+    second: meier_8
+  - first:
+      213: 8439799519218369666
+    second: meier_9
+  - first:
+      213: 3237340042063227679
+    second: meier_10
+  - first:
+      213: 3710375825768616733
+    second: meier_11
+  - first:
+      213: -3292131492364470489
+    second: meier_12
+  - first:
+      213: -7451858760657326045
+    second: meier_13
+  - first:
+      213: 6514570901591141196
+    second: meier_14
+  - first:
+      213: 3797025072635516002
+    second: meier_15
+  - first:
+      213: 7221419037103511145
+    second: meier_16
+  - first:
+      213: 3467302533468376463
+    second: meier_17
+  - first:
+      213: -2217823819867100327
+    second: meier_18
+  - first:
+      213: 4676395158140448233
+    second: meier_19
+  - first:
+      213: -2593172551570079760
+    second: meier_20
+  - first:
+      213: -1220795591056803653
+    second: meier_21
+  - first:
+      213: -3652468561850644486
+    second: meier_22
+  - first:
+      213: -7540099434241038342
+    second: meier_23
+  - first:
+      213: 8553597338331308957
+    second: meier_24
+  - first:
+      213: -7971011944988029880
+    second: meier_25
+  - first:
+      213: -4374614276314520038
+    second: meier_26
+  - first:
+      213: -1379690407159438499
+    second: meier_27
+  - first:
+      213: -1145569286067460761
+    second: meier_28
+  - first:
+      213: 3175490967667151267
+    second: meier_29
+  - first:
+      213: -6555176973422406872
+    second: meier_30
+  - first:
+      213: 5519194275527553006
+    second: meier_31
+  - first:
+      213: 7315197606700474249
+    second: meier_32
+  - first:
+      213: -2636569751928266468
+    second: meier_33
+  - first:
+      213: 8130689015289173572
+    second: meier_34
+  - first:
+      213: 2148546980009923160
+    second: meier_35
+  - first:
+      213: -577995605217117949
+    second: meier_36
+  - first:
+      213: 237162187601587832
+    second: meier_37
+  - first:
+      213: -142404482791178593
+    second: meier_38
+  - first:
+      213: -2417322607398346734
+    second: meier_39
+  - first:
+      213: 186125745706277023
+    second: meier_40
+  - first:
+      213: -3729159741435320981
+    second: meier_41
+  - first:
+      213: 8860705002457588886
+    second: meier_42
+  - first:
+      213: -2205250352171934971
+    second: meier_43
+  - first:
+      213: 496515251512883629
+    second: meier_44
+  - first:
+      213: 6024269411349860240
+    second: meier_45
+  - first:
+      213: -7723040862379703614
+    second: meier_46
+  - first:
+      213: 2032088174025817992
+    second: meier_47
+  - first:
+      213: 1259331266022909812
+    second: meier_48
+  - first:
+      213: 2489436073398972323
+    second: meier_49
+  - first:
+      213: 5447933738128357968
+    second: meier_50
+  - first:
+      213: -4530117738677625479
+    second: meier_51
+  - first:
+      213: 5476858674518954279
+    second: meier_52
+  - first:
+      213: -6252015654752860091
+    second: meier_53
+  - first:
+      213: -8579362982922030688
+    second: meier_54
+  - first:
+      213: -5962985942778572226
+    second: meier_55
+  - first:
+      213: 7076156792878104044
+    second: meier_56
+  - first:
+      213: 4020340392729340322
+    second: meier_57
+  - first:
+      213: 4264848520045462137
+    second: meier_58
+  - first:
+      213: 4949522911376281784
+    second: meier_59
+  - first:
+      213: -4655648252324691741
+    second: meier_60
+  - first:
+      213: -71520858245946125
+    second: meier_61
+  - first:
+      213: 8415446039603931217
+    second: meier_62
+  - first:
+      213: -3566413730202231533
+    second: meier_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meier_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 415
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49155d69f2e433de0800000000000000
+      internalID: -1354653096607395436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 844
+        width: 435
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6a432c41b4a6a40800000000000000
+      internalID: 5362180858867656370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 863
+        width: 142
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2141100914351c1a0800000000000000
+      internalID: -6791055222044027886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_3
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 994
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210da6efa368d49b0800000000000000
+      internalID: -5094268015551524846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_4
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 965
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e50773d9d61abe30800000000000000
+      internalID: 4519950300831221222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_5
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 934
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37af1b614c76c710800000000000000
+      internalID: 1713193328673007421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_6
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 950
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271ed2d7d985f64f0800000000000000
+      internalID: -833349972606983822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_7
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 910
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd83191ae639fa80800000000000000
+      internalID: -8432648448203584005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 859
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a863bbe277d32deb0800000000000000
+      internalID: -4696623879299582326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_9
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 670
+        width: 107
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284068e52f0302570800000000000000
+      internalID: 8439799519218369666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_10
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 817
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ba358bd975dec20800000000000000
+      internalID: 3237340042063227679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_11
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 813
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d139226b727ed7330800000000000000
+      internalID: 3710375825768616733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 760
+        width: 210
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7273db3a9dfff42d0800000000000000
+      internalID: -3292131492364470489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 739
+        width: 169
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32033a650fda59890800000000000000
+      internalID: -7451858760657326045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_14
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 773
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4baf6528b7686a50800000000000000
+      internalID: 6514570901591141196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_15
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 728
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26411b1af2eb1b430800000000000000
+      internalID: 3797025072635516002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_16
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 758
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9665cc08a52a73460800000000000000
+      internalID: 7221419037103511145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_17
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 771
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dc13c98455e1030800000000000000
+      internalID: 3467302533468376463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 617
+        width: 123
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95beb628cf4b831e0800000000000000
+      internalID: -2217823819867100327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_19
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 619
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed6156ae94e5e040800000000000000
+      internalID: 4676395158140448233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_20
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 635
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff3f56bd43330cd0800000000000000
+      internalID: -2593172551570079760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_21
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 724
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb832b3c0ecde0fe0800000000000000
+      internalID: -1220795591056803653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_22
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 699
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af74c91d133df4dc0800000000000000
+      internalID: -3652468561850644486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_23
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 735
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af760f2838f2c5790800000000000000
+      internalID: -7540099434241038342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_24
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 700
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93e6f6d57b74b670800000000000000
+      internalID: 8553597338331308957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 657
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cc7964ed6416190800000000000000
+      internalID: -7971011944988029880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_26
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 687
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16abee4e7f3a43c0800000000000000
+      internalID: -4374614276314520038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_27
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 695
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d536f3572ea5adce0800000000000000
+      internalID: -1379690407159438499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_28
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 641
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765e956cdce1a10f0800000000000000
+      internalID: -1145569286067460761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_29
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 645
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1134be53c911c20800000000000000
+      internalID: 3175490967667151267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_30
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 556
+        width: 100
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823565306455705a0800000000000000
+      internalID: -6555176973422406872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_31
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 638
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef603f93fd189c40800000000000000
+      internalID: 5519194275527553006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_32
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 630
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f5b29377dc48560800000000000000
+      internalID: 7315197606700474249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_33
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 670
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11a6ce97c5096bd0800000000000000
+      internalID: -2636569751928266468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_34
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 530
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4465b77c49206d070800000000000000
+      internalID: 8130689015289173572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 594
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852dab6481c21dd10800000000000000
+      internalID: 2148546980009923160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_36
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 622
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309fb453f0c8af7f0800000000000000
+      internalID: -577995605217117949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 606
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ea52ac0c19a4300800000000000000
+      internalID: 237162187601587832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_38
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 614
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9efecc90e3160ef0800000000000000
+      internalID: -142404482791178593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_39
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 608
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210208665e1f37ed0800000000000000
+      internalID: -2417322607398346734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_40
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 603
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98906c2160459200800000000000000
+      internalID: 186125745706277023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_41
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 584
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b656f0d19fc5f3cc0800000000000000
+      internalID: -3729159741435320981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_42
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 586
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694e203f04c87fa70800000000000000
+      internalID: 8860705002457588886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_43
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 504
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b9cf51d706561e0800000000000000
+      internalID: -2205250352171934971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_44
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 592
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da93df79df9f3e600800000000000000
+      internalID: 496515251512883629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 570
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f82c69c118a9350800000000000000
+      internalID: 6024269411349860240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_46
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 567
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2080c014f32d490800000000000000
+      internalID: -7723040862379703614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb4158d6d633c10800000000000000
+      internalID: 2032088174025817992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_48
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 552
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477a6dd3d1b0a7110800000000000000
+      internalID: 1259331266022909812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 565
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af2dfd4be04c8220800000000000000
+      internalID: 2489436073398972323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 513
+        width: 107
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ab105ded2fa9b40800000000000000
+      internalID: 5447933738128357968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_51
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 560
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d9c631be9c121c0800000000000000
+      internalID: -4530117738677625479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 566
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72118b362f5b10c40800000000000000
+      internalID: 5476858674518954279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_53
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 539
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5484648f2e06c39a0800000000000000
+      internalID: -6252015654752860091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_54
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 563
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1fbcb82daffe880800000000000000
+      internalID: -8579362982922030688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_55
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 544
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e321908d0e73f3da0800000000000000
+      internalID: -5962985942778572226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_56
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 526
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced777eac1f833260800000000000000
+      internalID: 7076156792878104044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 540
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a969c8594e1bc730800000000000000
+      internalID: 4020340392729340322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_58
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 520
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97209220229cf2b30800000000000000
+      internalID: 4264848520045462137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_59
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 530
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b09d3c3ddc30b440800000000000000
+      internalID: 4949522911376281784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_60
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 533
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c409c490d36fb0800000000000000
+      internalID: -4655648252324691741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_61
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 502
+        width: 112
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4283a8828e10ff0800000000000000
+      internalID: -71520858245946125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_62
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 493
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1586f09069ba9c470800000000000000
+      internalID: 8415446039603931217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meier_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5839ab9d818ec0800000000000000
+      internalID: -3566413730202231533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      meier_0: -1354653096607395436
+      meier_1: 5362180858867656370
+      meier_10: 3237340042063227679
+      meier_11: 3710375825768616733
+      meier_12: -3292131492364470489
+      meier_13: -7451858760657326045
+      meier_14: 6514570901591141196
+      meier_15: 3797025072635516002
+      meier_16: 7221419037103511145
+      meier_17: 3467302533468376463
+      meier_18: -2217823819867100327
+      meier_19: 4676395158140448233
+      meier_2: -6791055222044027886
+      meier_20: -2593172551570079760
+      meier_21: -1220795591056803653
+      meier_22: -3652468561850644486
+      meier_23: -7540099434241038342
+      meier_24: 8553597338331308957
+      meier_25: -7971011944988029880
+      meier_26: -4374614276314520038
+      meier_27: -1379690407159438499
+      meier_28: -1145569286067460761
+      meier_29: 3175490967667151267
+      meier_3: -5094268015551524846
+      meier_30: -6555176973422406872
+      meier_31: 5519194275527553006
+      meier_32: 7315197606700474249
+      meier_33: -2636569751928266468
+      meier_34: 8130689015289173572
+      meier_35: 2148546980009923160
+      meier_36: -577995605217117949
+      meier_37: 237162187601587832
+      meier_38: -142404482791178593
+      meier_39: -2417322607398346734
+      meier_4: 4519950300831221222
+      meier_40: 186125745706277023
+      meier_41: -3729159741435320981
+      meier_42: 8860705002457588886
+      meier_43: -2205250352171934971
+      meier_44: 496515251512883629
+      meier_45: 6024269411349860240
+      meier_46: -7723040862379703614
+      meier_47: 2032088174025817992
+      meier_48: 1259331266022909812
+      meier_49: 2489436073398972323
+      meier_5: 1713193328673007421
+      meier_50: 5447933738128357968
+      meier_51: -4530117738677625479
+      meier_52: 5476858674518954279
+      meier_53: -6252015654752860091
+      meier_54: -8579362982922030688
+      meier_55: -5962985942778572226
+      meier_56: 7076156792878104044
+      meier_57: 4020340392729340322
+      meier_58: 4264848520045462137
+      meier_59: 4949522911376281784
+      meier_6: -833349972606983822
+      meier_60: -4655648252324691741
+      meier_61: -71520858245946125
+      meier_62: 8415446039603931217
+      meier_63: -3566413730202231533
+      meier_7: -8432648448203584005
+      meier_8: -4696623879299582326
+      meier_9: 8439799519218369666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

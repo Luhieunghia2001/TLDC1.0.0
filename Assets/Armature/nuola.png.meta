@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a6f990f2b92c440479604629d5089cc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8098009197956732493
+    second: nuola_0
+  - first:
+      213: 6867975344736381640
+    second: nuola_1
+  - first:
+      213: -3884618147721083696
+    second: nuola_2
+  - first:
+      213: -6240471231934216922
+    second: nuola_3
+  - first:
+      213: 3910037026614423905
+    second: nuola_4
+  - first:
+      213: 5980415719811129009
+    second: nuola_5
+  - first:
+      213: -6769388985007428679
+    second: nuola_6
+  - first:
+      213: 8738037331343022444
+    second: nuola_7
+  - first:
+      213: 4593076129961180713
+    second: nuola_8
+  - first:
+      213: -1695887586479207717
+    second: nuola_9
+  - first:
+      213: -8766656800662264348
+    second: nuola_10
+  - first:
+      213: -3749106223848933027
+    second: nuola_11
+  - first:
+      213: -1343670348526924984
+    second: nuola_12
+  - first:
+      213: 6696105718650924203
+    second: nuola_13
+  - first:
+      213: -7554696770474251784
+    second: nuola_14
+  - first:
+      213: 5506975823093857174
+    second: nuola_15
+  - first:
+      213: -19747603097892382
+    second: nuola_16
+  - first:
+      213: -1984438440076900852
+    second: nuola_17
+  - first:
+      213: -2720520442723028338
+    second: nuola_18
+  - first:
+      213: 2503796842219257671
+    second: nuola_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuola_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 231
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469e00e578e16070800000000000000
+      internalID: 8098009197956732493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 379
+        width: 181
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca272d1033ff4f50800000000000000
+      internalID: 6867975344736381640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 457
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d48c015060171ac0800000000000000
+      internalID: -3884618147721083696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 391
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625448d5a746569a0800000000000000
+      internalID: -6240471231934216922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 355
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1613afd95fd334630800000000000000
+      internalID: 3910037026614423905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 294
+        width: 229
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be118c5964bef250800000000000000
+      internalID: 5980415719811129009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 230
+        width: 126
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bba03a759c4e02a0800000000000000
+      internalID: -6769388985007428679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 298
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c699dc028aeb34970800000000000000
+      internalID: 8738037331343022444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e79a0b762edbf30800000000000000
+      internalID: 4593076129961180713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 242
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda89eca93ff678e0800000000000000
+      internalID: -1695887586479207717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 249
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e563c86614965680800000000000000
+      internalID: -8766656800662264348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 206
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d593746c0cf78fbc0800000000000000
+      internalID: -3749106223848933027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 236
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bc3d4efe25a5de0800000000000000
+      internalID: -1343670348526924984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 230
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac66a27ca85dec50800000000000000
+      internalID: 6696105718650924203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f967125053582790800000000000000
+      internalID: -7554696770474251784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 153
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b7c2a7555bc6c40800000000000000
+      internalID: 5506975823093857174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 196
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e94f2cd8a7d9bff0800000000000000
+      internalID: -19747603097892382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 201
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c060694b0cbd574e0800000000000000
+      internalID: -1984438440076900852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 177
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e823e4f3215ce3ad0800000000000000
+      internalID: -2720520442723028338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuola_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f393a56f54fb220800000000000000
+      internalID: 2503796842219257671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nuola_0: 8098009197956732493
+      nuola_1: 6867975344736381640
+      nuola_10: -8766656800662264348
+      nuola_11: -3749106223848933027
+      nuola_12: -1343670348526924984
+      nuola_13: 6696105718650924203
+      nuola_14: -7554696770474251784
+      nuola_15: 5506975823093857174
+      nuola_16: -19747603097892382
+      nuola_17: -1984438440076900852
+      nuola_18: -2720520442723028338
+      nuola_19: 2503796842219257671
+      nuola_2: -3884618147721083696
+      nuola_3: -6240471231934216922
+      nuola_4: 3910037026614423905
+      nuola_5: 5980415719811129009
+      nuola_6: -6769388985007428679
+      nuola_7: 8738037331343022444
+      nuola_8: 4593076129961180713
+      nuola_9: -1695887586479207717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

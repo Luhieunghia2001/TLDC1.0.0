@@ -1,0 +1,4433 @@
+fileFormatVersion: 2
+guid: adc46dc0e7243ad4ba5e3f97a1f132d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 711727789498133856
+    second: jinniuzuo_0
+  - first:
+      213: 7878647324595414953
+    second: jinniuzuo_1
+  - first:
+      213: -4507738001721419558
+    second: jinniuzuo_2
+  - first:
+      213: 1285770828558228800
+    second: jinniuzuo_3
+  - first:
+      213: -4117922101695437092
+    second: jinniuzuo_4
+  - first:
+      213: 2283884030287307443
+    second: jinniuzuo_5
+  - first:
+      213: 1745539619219018767
+    second: jinniuzuo_6
+  - first:
+      213: -310429211243280888
+    second: jinniuzuo_7
+  - first:
+      213: -1431332176083234519
+    second: jinniuzuo_8
+  - first:
+      213: 1321936461734624042
+    second: jinniuzuo_9
+  - first:
+      213: -4758368741912798311
+    second: jinniuzuo_10
+  - first:
+      213: -8384016971107462431
+    second: jinniuzuo_11
+  - first:
+      213: 2860195881209578563
+    second: jinniuzuo_12
+  - first:
+      213: 8653738335727974056
+    second: jinniuzuo_13
+  - first:
+      213: -8036477730315456057
+    second: jinniuzuo_14
+  - first:
+      213: -7321372479379703363
+    second: jinniuzuo_15
+  - first:
+      213: -7215474131861670586
+    second: jinniuzuo_16
+  - first:
+      213: 5510332733265461893
+    second: jinniuzuo_17
+  - first:
+      213: 8148667463818854197
+    second: jinniuzuo_18
+  - first:
+      213: 969268474581324501
+    second: jinniuzuo_19
+  - first:
+      213: -5878476664655099516
+    second: jinniuzuo_20
+  - first:
+      213: -5356117967865267643
+    second: jinniuzuo_21
+  - first:
+      213: -6299105272892888815
+    second: jinniuzuo_22
+  - first:
+      213: 6440425035468860434
+    second: jinniuzuo_23
+  - first:
+      213: -6137744511911385672
+    second: jinniuzuo_24
+  - first:
+      213: 3325960597404312997
+    second: jinniuzuo_25
+  - first:
+      213: 148853227941565659
+    second: jinniuzuo_26
+  - first:
+      213: 5704001406397098713
+    second: jinniuzuo_27
+  - first:
+      213: 255631631385953425
+    second: jinniuzuo_28
+  - first:
+      213: -7906924539121889327
+    second: jinniuzuo_29
+  - first:
+      213: 6111470604988440089
+    second: jinniuzuo_30
+  - first:
+      213: -6249877966564820695
+    second: jinniuzuo_31
+  - first:
+      213: -7095577466655903213
+    second: jinniuzuo_32
+  - first:
+      213: -8321875792717265344
+    second: jinniuzuo_33
+  - first:
+      213: 4898396226448032904
+    second: jinniuzuo_34
+  - first:
+      213: 6014358309529050891
+    second: jinniuzuo_35
+  - first:
+      213: -3634359131854177720
+    second: jinniuzuo_36
+  - first:
+      213: 5890080158378609948
+    second: jinniuzuo_37
+  - first:
+      213: -2437805234245172313
+    second: jinniuzuo_38
+  - first:
+      213: 402755412232563919
+    second: jinniuzuo_39
+  - first:
+      213: 5065246868871999004
+    second: jinniuzuo_40
+  - first:
+      213: 4876830651439188490
+    second: jinniuzuo_41
+  - first:
+      213: -4635801297628004031
+    second: jinniuzuo_42
+  - first:
+      213: -6159611128746053592
+    second: jinniuzuo_43
+  - first:
+      213: 8038173297904053248
+    second: jinniuzuo_44
+  - first:
+      213: 976138725377056637
+    second: jinniuzuo_45
+  - first:
+      213: -3218838144027964747
+    second: jinniuzuo_46
+  - first:
+      213: 907982151096429438
+    second: jinniuzuo_47
+  - first:
+      213: -1814804667996002987
+    second: jinniuzuo_48
+  - first:
+      213: 7124574634574467578
+    second: jinniuzuo_49
+  - first:
+      213: -6786863892273882298
+    second: jinniuzuo_50
+  - first:
+      213: -144339955926843872
+    second: jinniuzuo_51
+  - first:
+      213: 4035374413623238182
+    second: jinniuzuo_52
+  - first:
+      213: -1305497401694377343
+    second: jinniuzuo_53
+  - first:
+      213: -7509041014809695071
+    second: jinniuzuo_54
+  - first:
+      213: 5314432811783401563
+    second: jinniuzuo_55
+  - first:
+      213: 3633137250991733842
+    second: jinniuzuo_56
+  - first:
+      213: -3100312270640885270
+    second: jinniuzuo_57
+  - first:
+      213: 6214061310418780608
+    second: jinniuzuo_58
+  - first:
+      213: 5889273017151004093
+    second: jinniuzuo_59
+  - first:
+      213: 2063069405909528950
+    second: jinniuzuo_60
+  - first:
+      213: 5060743597722946338
+    second: jinniuzuo_61
+  - first:
+      213: -739691166718937530
+    second: jinniuzuo_62
+  - first:
+      213: 3944008864357662819
+    second: jinniuzuo_63
+  - first:
+      213: 4291027607647163755
+    second: jinniuzuo_64
+  - first:
+      213: 4246678311134273368
+    second: jinniuzuo_65
+  - first:
+      213: -8970721136152870987
+    second: jinniuzuo_66
+  - first:
+      213: 4809103195104274391
+    second: jinniuzuo_67
+  - first:
+      213: -2503404755328869464
+    second: jinniuzuo_68
+  - first:
+      213: 6481890188869658824
+    second: jinniuzuo_69
+  - first:
+      213: 6807056449647078690
+    second: jinniuzuo_70
+  - first:
+      213: 8343667051450195637
+    second: jinniuzuo_71
+  - first:
+      213: 9203959517431421201
+    second: jinniuzuo_72
+  - first:
+      213: -3525639462415352929
+    second: jinniuzuo_73
+  - first:
+      213: -7429580753285010455
+    second: jinniuzuo_74
+  - first:
+      213: 8759112872689366323
+    second: jinniuzuo_75
+  - first:
+      213: 7568206498035531184
+    second: jinniuzuo_76
+  - first:
+      213: -6992468000074993347
+    second: jinniuzuo_77
+  - first:
+      213: -2258562721284430022
+    second: jinniuzuo_78
+  - first:
+      213: 2880891793536187624
+    second: jinniuzuo_79
+  - first:
+      213: -7858790059850800811
+    second: jinniuzuo_80
+  - first:
+      213: 7449933643422721081
+    second: jinniuzuo_81
+  - first:
+      213: -1341045797663092737
+    second: jinniuzuo_82
+  - first:
+      213: -4675937858984950939
+    second: jinniuzuo_83
+  - first:
+      213: -2358477513710252910
+    second: jinniuzuo_84
+  - first:
+      213: -700029292255829072
+    second: jinniuzuo_85
+  - first:
+      213: 8120445581567183850
+    second: jinniuzuo_86
+  - first:
+      213: 608758298694273523
+    second: jinniuzuo_87
+  - first:
+      213: -4664403044198347766
+    second: jinniuzuo_88
+  - first:
+      213: 2562200054009796552
+    second: jinniuzuo_89
+  - first:
+      213: 966584134522520433
+    second: jinniuzuo_90
+  - first:
+      213: 3786805420497771577
+    second: jinniuzuo_91
+  - first:
+      213: -2381811166530683791
+    second: jinniuzuo_92
+  - first:
+      213: -7652287073067867196
+    second: jinniuzuo_93
+  - first:
+      213: 7549375479803507725
+    second: jinniuzuo_94
+  - first:
+      213: 4233004158486264178
+    second: jinniuzuo_95
+  - first:
+      213: 2612628871679650221
+    second: jinniuzuo_96
+  - first:
+      213: -4609942365096497817
+    second: jinniuzuo_97
+  - first:
+      213: 6017142059117425598
+    second: jinniuzuo_98
+  - first:
+      213: 8188315159441518992
+    second: jinniuzuo_99
+  - first:
+      213: 3144727879851854096
+    second: jinniuzuo_100
+  - first:
+      213: -5911605242750146785
+    second: jinniuzuo_101
+  - first:
+      213: -6623853398693467641
+    second: jinniuzuo_102
+  - first:
+      213: -1312804753749637438
+    second: jinniuzuo_103
+  - first:
+      213: 7551023511340486751
+    second: jinniuzuo_104
+  - first:
+      213: 7115577759612306618
+    second: jinniuzuo_105
+  - first:
+      213: -453105276179565192
+    second: jinniuzuo_106
+  - first:
+      213: 7051983810616511441
+    second: jinniuzuo_107
+  - first:
+      213: -3673137858670260833
+    second: jinniuzuo_108
+  - first:
+      213: -4515804063696992997
+    second: jinniuzuo_109
+  - first:
+      213: -8416318524460343294
+    second: jinniuzuo_110
+  - first:
+      213: -8921313490048464795
+    second: jinniuzuo_111
+  - first:
+      213: 8023676758148697969
+    second: jinniuzuo_112
+  - first:
+      213: -487076384713876061
+    second: jinniuzuo_113
+  - first:
+      213: 890131201777087981
+    second: jinniuzuo_114
+  - first:
+      213: 7503437024600781653
+    second: jinniuzuo_115
+  - first:
+      213: -1088049071225274826
+    second: jinniuzuo_116
+  - first:
+      213: 8283940748567926899
+    second: jinniuzuo_117
+  - first:
+      213: 7410000553065866950
+    second: jinniuzuo_118
+  - first:
+      213: 2105082589257666645
+    second: jinniuzuo_119
+  - first:
+      213: 1877621183455144624
+    second: jinniuzuo_120
+  - first:
+      213: 1153621554948726747
+    second: jinniuzuo_121
+  - first:
+      213: 4211605872207274144
+    second: jinniuzuo_122
+  - first:
+      213: 4069434930803192875
+    second: jinniuzuo_123
+  - first:
+      213: -2604881655515993697
+    second: jinniuzuo_124
+  - first:
+      213: 5201502261840267859
+    second: jinniuzuo_125
+  - first:
+      213: -5205790419620090605
+    second: jinniuzuo_126
+  - first:
+      213: 7356301713668763816
+    second: jinniuzuo_127
+  - first:
+      213: -1311406842891756901
+    second: jinniuzuo_128
+  - first:
+      213: 7022098036570197498
+    second: jinniuzuo_129
+  - first:
+      213: 6643003265243687897
+    second: jinniuzuo_130
+  - first:
+      213: 8915207516831030595
+    second: jinniuzuo_131
+  - first:
+      213: 8304228023913109870
+    second: jinniuzuo_132
+  - first:
+      213: -4995760500013978112
+    second: jinniuzuo_133
+  - first:
+      213: 6733058126712163170
+    second: jinniuzuo_134
+  - first:
+      213: -4699130918124381009
+    second: jinniuzuo_135
+  - first:
+      213: -807799815093525895
+    second: jinniuzuo_136
+  - first:
+      213: -7035250801951191641
+    second: jinniuzuo_137
+  - first:
+      213: -2031848582576158155
+    second: jinniuzuo_138
+  - first:
+      213: 2364524517177121282
+    second: jinniuzuo_139
+  - first:
+      213: 2874980783579690923
+    second: jinniuzuo_140
+  - first:
+      213: 5970603223557395968
+    second: jinniuzuo_141
+  - first:
+      213: -1369387327425611551
+    second: jinniuzuo_142
+  - first:
+      213: -3148509622147771235
+    second: jinniuzuo_143
+  - first:
+      213: 1056531848642285375
+    second: jinniuzuo_144
+  - first:
+      213: 3364237549887522384
+    second: jinniuzuo_145
+  - first:
+      213: 7043787137798354682
+    second: jinniuzuo_146
+  - first:
+      213: -8495146563240366370
+    second: jinniuzuo_147
+  - first:
+      213: 3540705682671634531
+    second: jinniuzuo_148
+  - first:
+      213: 8165107849959395919
+    second: jinniuzuo_149
+  - first:
+      213: -5477686669704128827
+    second: jinniuzuo_150
+  - first:
+      213: -4425322614928276487
+    second: jinniuzuo_151
+  - first:
+      213: 9114704638200393995
+    second: jinniuzuo_152
+  - first:
+      213: -3249282843573452340
+    second: jinniuzuo_153
+  - first:
+      213: -5001971637061622293
+    second: jinniuzuo_154
+  - first:
+      213: -8674835263833998776
+    second: jinniuzuo_155
+  - first:
+      213: -4538178050242044421
+    second: jinniuzuo_156
+  - first:
+      213: 8810136907412690861
+    second: jinniuzuo_157
+  - first:
+      213: 2709132521474610997
+    second: jinniuzuo_158
+  - first:
+      213: -1017044526997804788
+    second: jinniuzuo_159
+  - first:
+      213: 4609558845516912246
+    second: jinniuzuo_160
+  - first:
+      213: 6469397547505938330
+    second: jinniuzuo_161
+  - first:
+      213: -3505152114712155528
+    second: jinniuzuo_162
+  - first:
+      213: 1189389118525308933
+    second: jinniuzuo_163
+  - first:
+      213: -6738546669856450116
+    second: jinniuzuo_164
+  - first:
+      213: 2685482521443714880
+    second: jinniuzuo_165
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jinniuzuo_0
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 463
+        width: 436
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d6fc557a090e900800000000000000
+      internalID: 711727789498133856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1008
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a76715bff3965d60800000000000000
+      internalID: 7878647324595414953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1015
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad89dd2ab2c4171c0800000000000000
+      internalID: -4507738001721419558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1018
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dd5ca91c9f7d110800000000000000
+      internalID: 1285770828558228800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_4
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1016
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a6bb8aa33ad6c0800000000000000
+      internalID: -4117922101695437092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_5
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1014
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2667dcc6cf1bf10800000000000000
+      internalID: 2283884030287307443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_6
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1010
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f049be01907693810800000000000000
+      internalID: 1745539619219018767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_7
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 723
+        width: 305
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80680ffe64221bbf0800000000000000
+      internalID: -310429211243280888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_8
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 769
+        width: 225
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921d8f828f2e22ce0800000000000000
+      internalID: -1431332176083234519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_9
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 799
+        width: 183
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b34514536785210800000000000000
+      internalID: 1321936461734624042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_10
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 798
+        width: 180
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b17f317d0e6fdb0800000000000000
+      internalID: -4758368741912798311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_11
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 872
+        width: 252
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e21b463cfcf5ab80800000000000000
+      internalID: -8384016971107462431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_12
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 944
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344488ffff471b720800000000000000
+      internalID: 2860195881209578563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 997
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6fe38ba21481870800000000000000
+      internalID: 8653738335727974056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_14
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1007
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1b5375512b87090800000000000000
+      internalID: -8036477730315456057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1009
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db970423582456a90800000000000000
+      internalID: -7321372479379703363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 933
+        width: 18
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6457d5c918c7ddb90800000000000000
+      internalID: -7215474131861670586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 979
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582ce780d62a87c40800000000000000
+      internalID: 5510332733265461893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_18
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 999
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fb4b582e1e51170800000000000000
+      internalID: 8148667463818854197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 464
+        width: 356
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2976fca88837d00800000000000000
+      internalID: 969268474581324501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_20
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 986
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4894fc67e947b6ea0800000000000000
+      internalID: -5878476664655099516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_21
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 943
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54abd4e061f3ba5b0800000000000000
+      internalID: -5356117967865267643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_22
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 969
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119ed6ed0251598a0800000000000000
+      internalID: -6299105272892888815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_23
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 950
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c67a9627cf06950800000000000000
+      internalID: 6440425035468860434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_24
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 946
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b52b65b2e952daa0800000000000000
+      internalID: -6137744511911385672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_25
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 923
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5ea39aa8f282e20800000000000000
+      internalID: 3325960597404312997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_26
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 919
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4902fd835d01200800000000000000
+      internalID: 148853227941565659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_27
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 922
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daa0aade0fa82f40800000000000000
+      internalID: 5704001406397098713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_28
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 902
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1940d164d9f2c8300800000000000000
+      internalID: 255631631385953425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 879
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df02db3606f44290800000000000000
+      internalID: -7906924539121889327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_30
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 900
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ed391a22e40d450800000000000000
+      internalID: 6111470604988440089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_31
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 894
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929fc594a19f349a0800000000000000
+      internalID: -6249877966564820695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_32
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 892
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31275b753e1778d90800000000000000
+      internalID: -7095577466655903213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_33
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 902
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0464a26ce02c28c80800000000000000
+      internalID: -8321875792717265344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_34
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 862
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8848c864a699af340800000000000000
+      internalID: 4898396226448032904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 841
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fd56f540b477350800000000000000
+      internalID: 6014358309529050891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 878
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a72af00a9209dc0800000000000000
+      internalID: -3634359131854177720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_37
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 874
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dcbb272b4cdb150800000000000000
+      internalID: 5890080158378609948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_38
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 865
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a38a353e0d2b2ed0800000000000000
+      internalID: -2437805234245172313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_39
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 821
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccec7dd9efd69500800000000000000
+      internalID: 402755412232563919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_40
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 865
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e66ceb03f5b4640800000000000000
+      internalID: 5065246868871999004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_41
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 694
+        width: 196
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a05c093abfda340800000000000000
+      internalID: 4876830651439188490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 827
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141869508435aafb0800000000000000
+      internalID: -4635801297628004031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_43
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 812
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8207c8c305aa48aa0800000000000000
+      internalID: -6159611128746053592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_44
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 806
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ce990c6045d8f60800000000000000
+      internalID: 8038173297904053248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_45
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 784
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f1a99bff0fb8d00800000000000000
+      internalID: 976138725377056637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_46
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 761
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba4cbb13c36453d0800000000000000
+      internalID: -3218838144027964747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_47
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 793
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b6f7aa4fcc99c00800000000000000
+      internalID: 907982151096429438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_48
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 618
+        width: 143
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555a06b05c480d6e0800000000000000
+      internalID: -1814804667996002987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_49
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 759
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1d19de1e29fd260800000000000000
+      internalID: 7124574634574467578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_50
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 607
+        width: 140
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b17129f3730d1a0800000000000000
+      internalID: -6786863892273882298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_51
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 760
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eb51823933ffdf0800000000000000
+      internalID: -144339955926843872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_52
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 749
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e96bb16a7800830800000000000000
+      internalID: 4035374413623238182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_53
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 776
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aafcca701f1ede0800000000000000
+      internalID: -1305497401694377343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_54
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 746
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aced6c4bf68ac790800000000000000
+      internalID: -7509041014809695071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_55
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 743
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50b7093c78a0c940800000000000000
+      internalID: 5314432811783401563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_56
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 591
+        width: 205
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cf991a41f7b6230800000000000000
+      internalID: 3633137250991733842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_57
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 762
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae15aaf7a6a79f4d0800000000000000
+      internalID: -3100312270640885270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_58
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 699
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1820c96d7cc3650800000000000000
+      internalID: 6214061310418780608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_59
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 733
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd149c3b96eab150800000000000000
+      internalID: 5889273017151004093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_60
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 711
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671b63ea1be71ac10800000000000000
+      internalID: 2063069405909528950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_61
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 728
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bcb993d7f5b3640800000000000000
+      internalID: 5060743597722946338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_62
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 722
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646393c8dc61cb5f0800000000000000
+      internalID: -739691166718937530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_63
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 672
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360c7077a2febb630800000000000000
+      internalID: 3944008864357662819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_64
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 717
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b651433dfdacc8b30800000000000000
+      internalID: 4291027607647163755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_65
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 545
+        width: 196
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f93829c6b3fea30800000000000000
+      internalID: 4246678311134273368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_66
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 716
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bff484d7a8918380800000000000000
+      internalID: -8970721136152870987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_67
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 578
+        width: 89
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e26050ed5db240800000000000000
+      internalID: 4809103195104274391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_68
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 706
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab599d73ae124dd0800000000000000
+      internalID: -2503404755328869464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_69
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 687
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c86aa4c8cc44f950800000000000000
+      internalID: 6481890188869658824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_70
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 696
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dee3f86c5877e50800000000000000
+      internalID: 6807056449647078690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_71
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 696
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bed1d50af8aac370800000000000000
+      internalID: 8343667051450195637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_72
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 696
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119539b9a680bbf70800000000000000
+      internalID: 9203959517431421201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_73
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 679
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b32aca699621fc0800000000000000
+      internalID: -3525639462415352929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_74
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 669
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb2e522ba3d4e890800000000000000
+      internalID: -7429580753285010455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_75
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 673
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335733cffbe9e8970800000000000000
+      internalID: 8759112872689366323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_76
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 585
+        width: 194
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdf53e36bba70960800000000000000
+      internalID: 7568206498035531184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_77
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 561
+        width: 64
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d317e30d663c5fe90800000000000000
+      internalID: -6992468000074993347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_78
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 658
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37e6eedb29f7a0e0800000000000000
+      internalID: -2258562721284430022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_79
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 655
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecff0692dbfaf720800000000000000
+      internalID: 2880891793536187624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_80
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 661
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551e8360418ffe290800000000000000
+      internalID: -7858790059850800811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_81
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 571
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93461706d2b736760800000000000000
+      internalID: 7449933643422721081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_82
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 648
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffc2c2c3f5a36de0800000000000000
+      internalID: -1341045797663092737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_83
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 645
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563c66b9a4bbb1fb0800000000000000
+      internalID: -4675937858984950939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_84
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 638
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ccd807231054fd0800000000000000
+      internalID: -2358477513710252910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 628
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b329be411ff846f0800000000000000
+      internalID: -700029292255829072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_86
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 622
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebc3338b3e91b070800000000000000
+      internalID: 8120445581567183850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_87
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 625
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f94eb3827eb27800800000000000000
+      internalID: 608758298694273523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_88
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 629
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c8e45f426b44fb0800000000000000
+      internalID: -4664403044198347766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_89
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 615
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c79dbebf53ce8320800000000000000
+      internalID: 2562200054009796552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_90
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 613
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1734ebf262ff96d00800000000000000
+      internalID: 966584134522520433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_91
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 619
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c1b42777f6d8430800000000000000
+      internalID: 3786805420497771577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_92
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 585
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c31e80d5b12fed0800000000000000
+      internalID: -2381811166530683791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_93
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 591
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3e97a537d9dc590800000000000000
+      internalID: -7652287073067867196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_94
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 591
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d047bb52005c4c860800000000000000
+      internalID: 7549375479803507725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_95
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 431
+        width: 96
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279335fcad6aeba30800000000000000
+      internalID: 4233004158486264178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_96
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 451
+        width: 106
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da92562dd1ce14420800000000000000
+      internalID: 2612628871679650221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_97
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 472
+        width: 155
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d266de7d13600c0800000000000000
+      internalID: -4609942365096497817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_98
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 575
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3b1c492de218350800000000000000
+      internalID: 6017142059117425598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_99
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 428
+        width: 113
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0913573014db2a170800000000000000
+      internalID: 8188315159441518992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_100
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 579
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01946d1685154ab20800000000000000
+      internalID: 3144727879851854096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_101
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 571
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f176a8d4a52c5fda0800000000000000
+      internalID: -5911605242750146785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_102
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 451
+        width: 97
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aac96bd685314a0800000000000000
+      internalID: -6623853398693467641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_103
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 462
+        width: 90
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c60f41380bf7cde0800000000000000
+      internalID: -1312804753749637438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_104
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 560
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50921460ef9ac860800000000000000
+      internalID: 7551023511340486751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_105
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab48c5db54c9fb260800000000000000
+      internalID: 7115577759612306618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_106
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 554
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8753677e62f36b9f0800000000000000
+      internalID: -453105276179565192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_107
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 493
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db4a99a9edadd160800000000000000
+      internalID: 7051983810616511441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_108
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 539
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d8be22494660dc0800000000000000
+      internalID: -3673137858670260833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_109
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 464
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15431c3124a451c0800000000000000
+      internalID: -4515804063696992997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_110
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 484
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2006001c4ea333b80800000000000000
+      internalID: -8416318524460343294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_111
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 551
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568c2cfd5a0213480800000000000000
+      internalID: -8921313490048464795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_112
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 548
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fc2021083d95f60800000000000000
+      internalID: 8023676758148697969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_113
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 531
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3add5a6db9e8d39f0800000000000000
+      internalID: -487076384713876061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_114
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 542
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de53a65ac916a5c00800000000000000
+      internalID: 890131201777087981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_115
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 466
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553f7dd0830912860800000000000000
+      internalID: 7503437024600781653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_116
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 525
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e7c6b622976e0f0800000000000000
+      internalID: -1088049071225274826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_117
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 521
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37856ca783876f270800000000000000
+      internalID: 8283940748567926899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_118
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 522
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c660fe3e3c95d660800000000000000
+      internalID: 7410000553065866950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_119
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 458
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55010933671c63d10800000000000000
+      internalID: 2105082589257666645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_120
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 503
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baa79ea486ae0a10800000000000000
+      internalID: 1877621183455144624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_121
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 508
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfd3fb21bc720010800000000000000
+      internalID: 1153621554948726747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_122
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 513
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a02dda0a31a27a30800000000000000
+      internalID: 4211605872207274144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_123
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 513
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24371f3289897830800000000000000
+      internalID: 4069434930803192875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_124
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 512
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99a9018fe999dbd0800000000000000
+      internalID: -2604881655515993697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_125
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a41679fb27f2840800000000000000
+      internalID: 5201502261840267859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_126
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 501
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31da96fd13151c7b0800000000000000
+      internalID: -5205790419620090605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 495
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0f2d7ee65d61660800000000000000
+      internalID: 7356301713668763816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_128
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 473
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a9b6dac62fccde0800000000000000
+      internalID: -1311406842891756901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_129
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 467
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd0cb7a5f0837160800000000000000
+      internalID: 7022098036570197498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_130
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 477
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db2c9a0640b03c50800000000000000
+      internalID: 6643003265243687897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_131
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 405
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d1b93700e29bb70800000000000000
+      internalID: 8915207516831030595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_132
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 402
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e695f2bd36b8e3370800000000000000
+      internalID: 8304228023913109870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_133
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 466
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e2dbd3b4e7baab0800000000000000
+      internalID: -4995760500013978112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_134
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 464
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b4cb661b0a07d50800000000000000
+      internalID: 6733058126712163170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_135
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 441
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac1428b35559ceb0800000000000000
+      internalID: -4699130918124381009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_136
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 382
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97269bb195e1ac4f0800000000000000
+      internalID: -807799815093525895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_137
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 396
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adcae38ba4cd5e90800000000000000
+      internalID: -7035250801951191641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_138
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 455
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53aca26ba7c6dc3e0800000000000000
+      internalID: -2031848582576158155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_139
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 417
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a5b05458a70d020800000000000000
+      internalID: 2364524517177121282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_140
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 422
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba777555acbf5e720800000000000000
+      internalID: 2874980783579690923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 391
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006d0fa8ff7dbd250800000000000000
+      internalID: 5970603223557395968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_142
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 423
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8ffd42b75fefce0800000000000000
+      internalID: -1369387327425611551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_143
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 392
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d949bff1e2f3e44d0800000000000000
+      internalID: -3148509622147771235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_144
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 402
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fc53c5e1e89ae00800000000000000
+      internalID: 1056531848642285375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_145
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 410
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05683152a3c20be20800000000000000
+      internalID: 3364237549887522384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_146
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 413
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6bfed051f80c160800000000000000
+      internalID: 7043787137798354682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_147
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 428
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede6d2fb53d2b1a80800000000000000
+      internalID: -8495146563240366370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_148
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 412
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36889d51f0d132130800000000000000
+      internalID: 3540705682671634531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_149
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 421
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f425595345a405170800000000000000
+      internalID: 8165107849959395919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_150
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 415
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c69465fef85bf3b0800000000000000
+      internalID: -5477686669704128827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_151
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 436
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f382b037881692c0800000000000000
+      internalID: -4425322614928276487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_152
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 418
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013a80a39fed7e70800000000000000
+      internalID: 9114704638200393995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_153
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 417
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1880e187a38e2d0800000000000000
+      internalID: -3249282843573452340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_154
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 418
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5ec543c4d659ab0800000000000000
+      internalID: -5001971637061622293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_155
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 420
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a742ee94bcc9780800000000000000
+      internalID: -8674835263833998776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd19db8b172501c0800000000000000
+      internalID: -4538178050242044421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_157
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 403
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da754e4d6d4e34a70800000000000000
+      internalID: 8810136907412690861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_158
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 406
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537d3f7bca5c89520800000000000000
+      internalID: 2709132521474610997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_159
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 416
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c096a87246bb2e1f0800000000000000
+      internalID: -1017044526997804788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_160
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 421
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6769b46f85178ff30800000000000000
+      internalID: 4609558845516912246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_161
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 442
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fefd90bcae7c950800000000000000
+      internalID: 6469397547505938330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_162
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 411
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a6fd609b23b5fc0800000000000000
+      internalID: -3505152114712155528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_163
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 394
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5008a650a1f818010800000000000000
+      internalID: 1189389118525308933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_164
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 396
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb990d0918fdb72a0800000000000000
+      internalID: -6738546669856450116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jinniuzuo_165
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 397
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0474c2dff10c44520800000000000000
+      internalID: 2685482521443714880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jinniuzuo_0: 711727789498133856
+      jinniuzuo_1: 7878647324595414953
+      jinniuzuo_10: -4758368741912798311
+      jinniuzuo_100: 3144727879851854096
+      jinniuzuo_101: -5911605242750146785
+      jinniuzuo_102: -6623853398693467641
+      jinniuzuo_103: -1312804753749637438
+      jinniuzuo_104: 7551023511340486751
+      jinniuzuo_105: 7115577759612306618
+      jinniuzuo_106: -453105276179565192
+      jinniuzuo_107: 7051983810616511441
+      jinniuzuo_108: -3673137858670260833
+      jinniuzuo_109: -4515804063696992997
+      jinniuzuo_11: -8384016971107462431
+      jinniuzuo_110: -8416318524460343294
+      jinniuzuo_111: -8921313490048464795
+      jinniuzuo_112: 8023676758148697969
+      jinniuzuo_113: -487076384713876061
+      jinniuzuo_114: 890131201777087981
+      jinniuzuo_115: 7503437024600781653
+      jinniuzuo_116: -1088049071225274826
+      jinniuzuo_117: 8283940748567926899
+      jinniuzuo_118: 7410000553065866950
+      jinniuzuo_119: 2105082589257666645
+      jinniuzuo_12: 2860195881209578563
+      jinniuzuo_120: 1877621183455144624
+      jinniuzuo_121: 1153621554948726747
+      jinniuzuo_122: 4211605872207274144
+      jinniuzuo_123: 4069434930803192875
+      jinniuzuo_124: -2604881655515993697
+      jinniuzuo_125: 5201502261840267859
+      jinniuzuo_126: -5205790419620090605
+      jinniuzuo_127: 7356301713668763816
+      jinniuzuo_128: -1311406842891756901
+      jinniuzuo_129: 7022098036570197498
+      jinniuzuo_13: 8653738335727974056
+      jinniuzuo_130: 6643003265243687897
+      jinniuzuo_131: 8915207516831030595
+      jinniuzuo_132: 8304228023913109870
+      jinniuzuo_133: -4995760500013978112
+      jinniuzuo_134: 6733058126712163170
+      jinniuzuo_135: -4699130918124381009
+      jinniuzuo_136: -807799815093525895
+      jinniuzuo_137: -7035250801951191641
+      jinniuzuo_138: -2031848582576158155
+      jinniuzuo_139: 2364524517177121282
+      jinniuzuo_14: -8036477730315456057
+      jinniuzuo_140: 2874980783579690923
+      jinniuzuo_141: 5970603223557395968
+      jinniuzuo_142: -1369387327425611551
+      jinniuzuo_143: -3148509622147771235
+      jinniuzuo_144: 1056531848642285375
+      jinniuzuo_145: 3364237549887522384
+      jinniuzuo_146: 7043787137798354682
+      jinniuzuo_147: -8495146563240366370
+      jinniuzuo_148: 3540705682671634531
+      jinniuzuo_149: 8165107849959395919
+      jinniuzuo_15: -7321372479379703363
+      jinniuzuo_150: -5477686669704128827
+      jinniuzuo_151: -4425322614928276487
+      jinniuzuo_152: 9114704638200393995
+      jinniuzuo_153: -3249282843573452340
+      jinniuzuo_154: -5001971637061622293
+      jinniuzuo_155: -8674835263833998776
+      jinniuzuo_156: -4538178050242044421
+      jinniuzuo_157: 8810136907412690861
+      jinniuzuo_158: 2709132521474610997
+      jinniuzuo_159: -1017044526997804788
+      jinniuzuo_16: -7215474131861670586
+      jinniuzuo_160: 4609558845516912246
+      jinniuzuo_161: 6469397547505938330
+      jinniuzuo_162: -3505152114712155528
+      jinniuzuo_163: 1189389118525308933
+      jinniuzuo_164: -6738546669856450116
+      jinniuzuo_165: 2685482521443714880
+      jinniuzuo_17: 5510332733265461893
+      jinniuzuo_18: 8148667463818854197
+      jinniuzuo_19: 969268474581324501
+      jinniuzuo_2: -4507738001721419558
+      jinniuzuo_20: -5878476664655099516
+      jinniuzuo_21: -5356117967865267643
+      jinniuzuo_22: -6299105272892888815
+      jinniuzuo_23: 6440425035468860434
+      jinniuzuo_24: -6137744511911385672
+      jinniuzuo_25: 3325960597404312997
+      jinniuzuo_26: 148853227941565659
+      jinniuzuo_27: 5704001406397098713
+      jinniuzuo_28: 255631631385953425
+      jinniuzuo_29: -7906924539121889327
+      jinniuzuo_3: 1285770828558228800
+      jinniuzuo_30: 6111470604988440089
+      jinniuzuo_31: -6249877966564820695
+      jinniuzuo_32: -7095577466655903213
+      jinniuzuo_33: -8321875792717265344
+      jinniuzuo_34: 4898396226448032904
+      jinniuzuo_35: 6014358309529050891
+      jinniuzuo_36: -3634359131854177720
+      jinniuzuo_37: 5890080158378609948
+      jinniuzuo_38: -2437805234245172313
+      jinniuzuo_39: 402755412232563919
+      jinniuzuo_4: -4117922101695437092
+      jinniuzuo_40: 5065246868871999004
+      jinniuzuo_41: 4876830651439188490
+      jinniuzuo_42: -4635801297628004031
+      jinniuzuo_43: -6159611128746053592
+      jinniuzuo_44: 8038173297904053248
+      jinniuzuo_45: 976138725377056637
+      jinniuzuo_46: -3218838144027964747
+      jinniuzuo_47: 907982151096429438
+      jinniuzuo_48: -1814804667996002987
+      jinniuzuo_49: 7124574634574467578
+      jinniuzuo_5: 2283884030287307443
+      jinniuzuo_50: -6786863892273882298
+      jinniuzuo_51: -144339955926843872
+      jinniuzuo_52: 4035374413623238182
+      jinniuzuo_53: -1305497401694377343
+      jinniuzuo_54: -7509041014809695071
+      jinniuzuo_55: 5314432811783401563
+      jinniuzuo_56: 3633137250991733842
+      jinniuzuo_57: -3100312270640885270
+      jinniuzuo_58: 6214061310418780608
+      jinniuzuo_59: 5889273017151004093
+      jinniuzuo_6: 1745539619219018767
+      jinniuzuo_60: 2063069405909528950
+      jinniuzuo_61: 5060743597722946338
+      jinniuzuo_62: -739691166718937530
+      jinniuzuo_63: 3944008864357662819
+      jinniuzuo_64: 4291027607647163755
+      jinniuzuo_65: 4246678311134273368
+      jinniuzuo_66: -8970721136152870987
+      jinniuzuo_67: 4809103195104274391
+      jinniuzuo_68: -2503404755328869464
+      jinniuzuo_69: 6481890188869658824
+      jinniuzuo_7: -310429211243280888
+      jinniuzuo_70: 6807056449647078690
+      jinniuzuo_71: 8343667051450195637
+      jinniuzuo_72: 9203959517431421201
+      jinniuzuo_73: -3525639462415352929
+      jinniuzuo_74: -7429580753285010455
+      jinniuzuo_75: 8759112872689366323
+      jinniuzuo_76: 7568206498035531184
+      jinniuzuo_77: -6992468000074993347
+      jinniuzuo_78: -2258562721284430022
+      jinniuzuo_79: 2880891793536187624
+      jinniuzuo_8: -1431332176083234519
+      jinniuzuo_80: -7858790059850800811
+      jinniuzuo_81: 7449933643422721081
+      jinniuzuo_82: -1341045797663092737
+      jinniuzuo_83: -4675937858984950939
+      jinniuzuo_84: -2358477513710252910
+      jinniuzuo_85: -700029292255829072
+      jinniuzuo_86: 8120445581567183850
+      jinniuzuo_87: 608758298694273523
+      jinniuzuo_88: -4664403044198347766
+      jinniuzuo_89: 2562200054009796552
+      jinniuzuo_9: 1321936461734624042
+      jinniuzuo_90: 966584134522520433
+      jinniuzuo_91: 3786805420497771577
+      jinniuzuo_92: -2381811166530683791
+      jinniuzuo_93: -7652287073067867196
+      jinniuzuo_94: 7549375479803507725
+      jinniuzuo_95: 4233004158486264178
+      jinniuzuo_96: 2612628871679650221
+      jinniuzuo_97: -4609942365096497817
+      jinniuzuo_98: 6017142059117425598
+      jinniuzuo_99: 8188315159441518992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

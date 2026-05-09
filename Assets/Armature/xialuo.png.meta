@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 3b20843afc8e0724490c700960bc256c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3541934561579654263
+    second: xialuo_0
+  - first:
+      213: 7868058510539781749
+    second: xialuo_1
+  - first:
+      213: -7463211977214955941
+    second: xialuo_2
+  - first:
+      213: -4372350938361706589
+    second: xialuo_3
+  - first:
+      213: 3638852305045421741
+    second: xialuo_4
+  - first:
+      213: 6660811278256993112
+    second: xialuo_5
+  - first:
+      213: 8172588229811784648
+    second: xialuo_6
+  - first:
+      213: 5740180479365184347
+    second: xialuo_7
+  - first:
+      213: -5090250219322415641
+    second: xialuo_8
+  - first:
+      213: 4174637918645599334
+    second: xialuo_9
+  - first:
+      213: -8479756727264369084
+    second: xialuo_10
+  - first:
+      213: 6899664098397793597
+    second: xialuo_11
+  - first:
+      213: -8121314843979209912
+    second: xialuo_12
+  - first:
+      213: -6959562266625775391
+    second: xialuo_13
+  - first:
+      213: 8998117279295491062
+    second: xialuo_14
+  - first:
+      213: 3632236602832743342
+    second: xialuo_15
+  - first:
+      213: 3687925646587571495
+    second: xialuo_16
+  - first:
+      213: -725041184643296958
+    second: xialuo_17
+  - first:
+      213: -2756125891626762407
+    second: xialuo_18
+  - first:
+      213: -3540406384254415679
+    second: xialuo_19
+  - first:
+      213: -8171098713820680990
+    second: xialuo_20
+  - first:
+      213: 8390162303986920453
+    second: xialuo_21
+  - first:
+      213: 2190544620872877715
+    second: xialuo_22
+  - first:
+      213: 4017256780516120962
+    second: xialuo_23
+  - first:
+      213: -4861642901336016517
+    second: xialuo_24
+  - first:
+      213: -4697713424587915730
+    second: xialuo_25
+  - first:
+      213: 6383585970398345071
+    second: xialuo_26
+  - first:
+      213: -5408870484253013676
+    second: xialuo_27
+  - first:
+      213: -7109137314856110531
+    second: xialuo_28
+  - first:
+      213: -326299897742122556
+    second: xialuo_29
+  - first:
+      213: -1989011648341187708
+    second: xialuo_30
+  - first:
+      213: 1612244894664422972
+    second: xialuo_31
+  - first:
+      213: 7904085935868927794
+    second: xialuo_32
+  - first:
+      213: 7325651913510414905
+    second: xialuo_33
+  - first:
+      213: -4612261357581366961
+    second: xialuo_34
+  - first:
+      213: 6090632634886355171
+    second: xialuo_35
+  - first:
+      213: -3504306947548678988
+    second: xialuo_36
+  - first:
+      213: -8528278992526725359
+    second: xialuo_37
+  - first:
+      213: 2054554923430499139
+    second: xialuo_38
+  - first:
+      213: -4695817371726680513
+    second: xialuo_39
+  - first:
+      213: 8327980514139484577
+    second: xialuo_40
+  - first:
+      213: 8378921579869957726
+    second: xialuo_41
+  - first:
+      213: 3564581886053250167
+    second: xialuo_42
+  - first:
+      213: -151240276203637838
+    second: xialuo_43
+  - first:
+      213: -4338390462111340686
+    second: xialuo_44
+  - first:
+      213: 8645687773293486534
+    second: xialuo_45
+  - first:
+      213: 4443569868560653618
+    second: xialuo_46
+  - first:
+      213: 7539735406465325296
+    second: xialuo_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xialuo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 253
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c52a0c7ba772130800000000000000
+      internalID: 3541934561579654263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 422
+        width: 160
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57676b05785f03d60800000000000000
+      internalID: 7868058510539781749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 432
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e69ae9f385d6890800000000000000
+      internalID: -7463211977214955941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 422
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7ca9dbcf94253c0800000000000000
+      internalID: -4372350938361706589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 367
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef75854eccf7230800000000000000
+      internalID: 3638852305045421741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 323
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8537c6c2194ff6c50800000000000000
+      internalID: 6660811278256993112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 358
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb487dd1bdda6170800000000000000
+      internalID: 8172588229811784648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 389
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b7133bbb739af40800000000000000
+      internalID: 5740180479365184347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 379
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5ee63156ccb59b0800000000000000
+      internalID: -5090250219322415641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 390
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c3fbe911b4fe930800000000000000
+      internalID: 4174637918645599334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 376
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446ada92f2ad15a80800000000000000
+      internalID: -8479756727264369084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 296
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d248601f780cf50800000000000000
+      internalID: 6899664098397793597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 303
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843238f8d2b4b4f80800000000000000
+      internalID: -8121314843979209912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 347
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8ee89edfaaa6f90800000000000000
+      internalID: -6959562266625775391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 306
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb46bfcdfbbfdc70800000000000000
+      internalID: 8998117279295491062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 311
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab640422fb486230800000000000000
+      internalID: 3632236602832743342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 312
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72da7ea06d42e2330800000000000000
+      internalID: 3687925646587571495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 283
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241decd42e220f5f0800000000000000
+      internalID: -725041184643296958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 316
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f7459aa1640c9d0800000000000000
+      internalID: -2756125891626762407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc8df1c623fddec0800000000000000
+      internalID: -3540406384254415679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 284
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec211a130d6a9e80800000000000000
+      internalID: -8171098713820680990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 271
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c63099928df6470800000000000000
+      internalID: 8390162303986920453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39645c70ab0666e10800000000000000
+      internalID: 2190544620872877715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 281
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289513ee1c920c730800000000000000
+      internalID: 4017256780516120962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_24
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 256
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7931111a89f78cb0800000000000000
+      internalID: -4861642901336016517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 250
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e7ad6a78e5eceb0800000000000000
+      internalID: -4697713424587915730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 235
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67b2ce4e9d079850800000000000000
+      internalID: 6383585970398345071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 226
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4590106b3f4dfe4b0800000000000000
+      internalID: -5408870484253013676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 215
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36f6882745475d90800000000000000
+      internalID: -7109137314856110531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_29
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 247
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1a5d8c8ffb87bf0800000000000000
+      internalID: -326299897742122556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 222
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483628ea17c9564e0800000000000000
+      internalID: -1989011648341187708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_31
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 208
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36f86d8038df5610800000000000000
+      internalID: 1612244894664422972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fd0a1f744f0bd60800000000000000
+      internalID: 7904085935868927794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 199
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ae2f43a91f9a560800000000000000
+      internalID: 7325651913510414905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 195
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f490a1a6bb4fdffb0800000000000000
+      internalID: -4612261357581366961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 201
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e87dc3ac16468450800000000000000
+      internalID: 6090632634886355171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_36
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 204
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b47d67d5633e5fc0800000000000000
+      internalID: -3504306947548678988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 204
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fa409e07775a980800000000000000
+      internalID: -8528278992526725359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_38
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 205
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343da9e31de338c10800000000000000
+      internalID: 2054554923430499139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 208
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e6f1cdafa15deb0800000000000000
+      internalID: -4695817371726680513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_40
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 200
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1b8a1772ee29370800000000000000
+      internalID: 8327980514139484577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 205
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ee00198c8e74470800000000000000
+      internalID: 8378921579869957726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 196
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774fef2e650f77130800000000000000
+      internalID: 3564581886053250167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_43
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 205
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3762525cfa6edf0800000000000000
+      internalID: -151240276203637838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_44
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 192
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27729e84cd0fac3c0800000000000000
+      internalID: -4338390462111340686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 197
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1a8161937abf770800000000000000
+      internalID: 8645687773293486534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_46
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 198
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ddf2e904bbaad30800000000000000
+      internalID: 4443569868560653618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xialuo_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 190
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f81dcaa76582a860800000000000000
+      internalID: 7539735406465325296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      xialuo_0: 3541934561579654263
+      xialuo_1: 7868058510539781749
+      xialuo_10: -8479756727264369084
+      xialuo_11: 6899664098397793597
+      xialuo_12: -8121314843979209912
+      xialuo_13: -6959562266625775391
+      xialuo_14: 8998117279295491062
+      xialuo_15: 3632236602832743342
+      xialuo_16: 3687925646587571495
+      xialuo_17: -725041184643296958
+      xialuo_18: -2756125891626762407
+      xialuo_19: -3540406384254415679
+      xialuo_2: -7463211977214955941
+      xialuo_20: -8171098713820680990
+      xialuo_21: 8390162303986920453
+      xialuo_22: 2190544620872877715
+      xialuo_23: 4017256780516120962
+      xialuo_24: -4861642901336016517
+      xialuo_25: -4697713424587915730
+      xialuo_26: 6383585970398345071
+      xialuo_27: -5408870484253013676
+      xialuo_28: -7109137314856110531
+      xialuo_29: -326299897742122556
+      xialuo_3: -4372350938361706589
+      xialuo_30: -1989011648341187708
+      xialuo_31: 1612244894664422972
+      xialuo_32: 7904085935868927794
+      xialuo_33: 7325651913510414905
+      xialuo_34: -4612261357581366961
+      xialuo_35: 6090632634886355171
+      xialuo_36: -3504306947548678988
+      xialuo_37: -8528278992526725359
+      xialuo_38: 2054554923430499139
+      xialuo_39: -4695817371726680513
+      xialuo_4: 3638852305045421741
+      xialuo_40: 8327980514139484577
+      xialuo_41: 8378921579869957726
+      xialuo_42: 3564581886053250167
+      xialuo_43: -151240276203637838
+      xialuo_44: -4338390462111340686
+      xialuo_45: 8645687773293486534
+      xialuo_46: 4443569868560653618
+      xialuo_47: 7539735406465325296
+      xialuo_5: 6660811278256993112
+      xialuo_6: 8172588229811784648
+      xialuo_7: 5740180479365184347
+      xialuo_8: -5090250219322415641
+      xialuo_9: 4174637918645599334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

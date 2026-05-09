@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: a46e69ce4ae33dd4aa59c4644abc6e9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2962372698319259444
+    second: nanzhujue_0
+  - first:
+      213: 8610953506029918408
+    second: nanzhujue_1
+  - first:
+      213: 788787064175583360
+    second: nanzhujue_2
+  - first:
+      213: -1451641149968748446
+    second: nanzhujue_3
+  - first:
+      213: -4518629017723256873
+    second: nanzhujue_4
+  - first:
+      213: 2905014445637023849
+    second: nanzhujue_5
+  - first:
+      213: 8496783060255607974
+    second: nanzhujue_6
+  - first:
+      213: 180100456800035748
+    second: nanzhujue_7
+  - first:
+      213: 8573267427769008658
+    second: nanzhujue_8
+  - first:
+      213: 839679042111092323
+    second: nanzhujue_9
+  - first:
+      213: -2682502849702974970
+    second: nanzhujue_10
+  - first:
+      213: -7794423752401041699
+    second: nanzhujue_11
+  - first:
+      213: 7963591730879721575
+    second: nanzhujue_12
+  - first:
+      213: 7552725662485055939
+    second: nanzhujue_13
+  - first:
+      213: 8704332295328473521
+    second: nanzhujue_14
+  - first:
+      213: 1808674024252987086
+    second: nanzhujue_15
+  - first:
+      213: -6656448947985836625
+    second: nanzhujue_16
+  - first:
+      213: 8312249371757054685
+    second: nanzhujue_17
+  - first:
+      213: 7971741199863949791
+    second: nanzhujue_18
+  - first:
+      213: -3214340593391928377
+    second: nanzhujue_19
+  - first:
+      213: 8454673854884823209
+    second: nanzhujue_20
+  - first:
+      213: -91965624606359918
+    second: nanzhujue_21
+  - first:
+      213: 4052315140235973464
+    second: nanzhujue_22
+  - first:
+      213: -7137901388564810962
+    second: nanzhujue_23
+  - first:
+      213: -1628527277360971497
+    second: nanzhujue_24
+  - first:
+      213: -3822809989701128722
+    second: nanzhujue_25
+  - first:
+      213: 3869686270007979245
+    second: nanzhujue_26
+  - first:
+      213: 6985862634609432587
+    second: nanzhujue_27
+  - first:
+      213: 2771587333511912855
+    second: nanzhujue_28
+  - first:
+      213: 1773022114219897523
+    second: nanzhujue_29
+  - first:
+      213: 5084502354127537380
+    second: nanzhujue_30
+  - first:
+      213: 7419556476877562979
+    second: nanzhujue_31
+  - first:
+      213: 5474847231463033500
+    second: nanzhujue_32
+  - first:
+      213: -4842050779243261988
+    second: nanzhujue_33
+  - first:
+      213: -5854803621669981894
+    second: nanzhujue_34
+  - first:
+      213: 9088384471425815040
+    second: nanzhujue_35
+  - first:
+      213: -6279643498299468968
+    second: nanzhujue_36
+  - first:
+      213: 1899085870369893604
+    second: nanzhujue_37
+  - first:
+      213: 3797820221746158810
+    second: nanzhujue_38
+  - first:
+      213: -367121833889733763
+    second: nanzhujue_39
+  - first:
+      213: 4373458059013956604
+    second: nanzhujue_40
+  - first:
+      213: -578917228706224683
+    second: nanzhujue_41
+  - first:
+      213: 4016120317818002279
+    second: nanzhujue_42
+  - first:
+      213: 9187932951344850716
+    second: nanzhujue_43
+  - first:
+      213: 5743286500943582745
+    second: nanzhujue_44
+  - first:
+      213: -3825094109543861911
+    second: nanzhujue_45
+  - first:
+      213: 3323917091780783066
+    second: nanzhujue_46
+  - first:
+      213: -8425617364338865090
+    second: nanzhujue_47
+  - first:
+      213: -4957887442540072947
+    second: nanzhujue_48
+  - first:
+      213: 5903391948275691227
+    second: nanzhujue_49
+  - first:
+      213: -3203992473091975886
+    second: nanzhujue_50
+  - first:
+      213: -5272184901297486084
+    second: nanzhujue_51
+  - first:
+      213: -7780666291427651548
+    second: nanzhujue_52
+  - first:
+      213: 3361586481781632391
+    second: nanzhujue_53
+  - first:
+      213: 6350709841108250320
+    second: nanzhujue_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nanzhujue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 280
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc87d58e9b983e6d0800000000000000
+      internalID: -2962372698319259444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 395
+        width: 198
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c851584790408770800000000000000
+      internalID: 8610953506029918408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 433
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080eb9bd7a552fa00800000000000000
+      internalID: 788787064175583360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 362
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260f5c2b01cbadbe0800000000000000
+      internalID: -1451641149968748446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df35de59da9a41c0800000000000000
+      internalID: -4518629017723256873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 244
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b2933f3fa05820800000000000000
+      internalID: 2905014445637023849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 245
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac8718ec23aae570800000000000000
+      internalID: 8496783060255607974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 256
+        width: 147
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3a3774968df7200800000000000000
+      internalID: 180100456800035748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 303
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212499c6d4d5af670800000000000000
+      internalID: 8573267427769008658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 226
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3663f56d3a327ab00800000000000000
+      internalID: 839679042111092323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 278
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a2b76eed5d5cad0800000000000000
+      internalID: -2682502849702974970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6c441d4e4a4d390800000000000000
+      internalID: -7794423752401041699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 194
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760f25f7c7c548e60800000000000000
+      internalID: 7963591730879721575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 170
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9066659fba0d860800000000000000
+      internalID: 7552725662485055939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 159
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1a306ea100cc870800000000000000
+      internalID: 8704332295328473521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 171
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6531a3173b91910800000000000000
+      internalID: 1808674024252987086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 195
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa518cdf2fa8f93a0800000000000000
+      internalID: -6656448947985836625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 192
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda0b0073ca0b5370800000000000000
+      internalID: 8312249371757054685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 142
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9ac3b926051ae60800000000000000
+      internalID: 7971741199863949791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 202
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb71c7b24e5463d0800000000000000
+      internalID: -3214340593391928377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 154
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a041348319055570800000000000000
+      internalID: 8454673854884823209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 122
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e7acd60c549bef0800000000000000
+      internalID: -91965624606359918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 144
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d3b36627bc3830800000000000000
+      internalID: 4052315140235973464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23b3dc518411fc90800000000000000
+      internalID: -7137901388564810962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 153
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7118dddc11f4669e0800000000000000
+      internalID: -1628527277360971497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 125
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedac088196a2fac0800000000000000
+      internalID: -3822809989701128722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 157
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec280cf823e3b530800000000000000
+      internalID: 3869686270007979245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_27
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 145
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08d191bd05c2f060800000000000000
+      internalID: 6985862634609432587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 132
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d13fdcef7a67620800000000000000
+      internalID: 2771587333511912855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b23df0183a0b9810800000000000000
+      internalID: 1773022114219897523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 119
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4c865c3f7cf8640800000000000000
+      internalID: 5084502354127537380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 122
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3646c332e4f87f660800000000000000
+      internalID: 7419556476877562979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 122
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a82eecc809afb40800000000000000
+      internalID: 5474847231463033500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 97
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf4dc678749dccb0800000000000000
+      internalID: -4842050779243261988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_34
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 124
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31b0bc402f8fbea0800000000000000
+      internalID: -5854803621669981894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 91
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0021381468d602e70800000000000000
+      internalID: 9088384471425815040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 92
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d4cf52893ad8a0800000000000000
+      internalID: -6279643498299468968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 84
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec6c5d8988ea5a10800000000000000
+      internalID: 1899085870369893604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 89
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc99f5be5194b430800000000000000
+      internalID: 3797820221746158810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 85
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7366bd13a8b7eaf0800000000000000
+      internalID: -367121833889733763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_40
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 80
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a89fdee4a1bc30800000000000000
+      internalID: 4373458059013956604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_41
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 69
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5ac9409d547f7f0800000000000000
+      internalID: -578917228706224683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 107
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b55c696202cb730800000000000000
+      internalID: 4016120317818002279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c172409e658128f70800000000000000
+      internalID: 9187932951344850716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_44
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 62
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916d904b4a044bf40800000000000000
+      internalID: 5743286500943582745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_45
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 68
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961f2307c298aeac0800000000000000
+      internalID: -3825094109543861911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_46
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 63
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb617eebfce02e20800000000000000
+      internalID: 3323917091780783066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_47
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 62
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c0831e5a1321b80800000000000000
+      internalID: -8425617364338865090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 62
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00770793ab023bb0800000000000000
+      internalID: -4957887442540072947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_49
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 74
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdeafde03bf0de150800000000000000
+      internalID: 5903391948275691227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 78
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235d35a32d12983d0800000000000000
+      internalID: -3203992473091975886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 60
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64cf7f3cf65d6b0800000000000000
+      internalID: -5272184901297486084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 59
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420599f4b35850490800000000000000
+      internalID: -7780666291427651548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_53
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 64
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d69504811c6ae20800000000000000
+      internalID: 3361586481781632391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nanzhujue_54
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 62
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dea5d6f3f0422850800000000000000
+      internalID: 6350709841108250320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nanzhujue_0: -2962372698319259444
+      nanzhujue_1: 8610953506029918408
+      nanzhujue_10: -2682502849702974970
+      nanzhujue_11: -7794423752401041699
+      nanzhujue_12: 7963591730879721575
+      nanzhujue_13: 7552725662485055939
+      nanzhujue_14: 8704332295328473521
+      nanzhujue_15: 1808674024252987086
+      nanzhujue_16: -6656448947985836625
+      nanzhujue_17: 8312249371757054685
+      nanzhujue_18: 7971741199863949791
+      nanzhujue_19: -3214340593391928377
+      nanzhujue_2: 788787064175583360
+      nanzhujue_20: 8454673854884823209
+      nanzhujue_21: -91965624606359918
+      nanzhujue_22: 4052315140235973464
+      nanzhujue_23: -7137901388564810962
+      nanzhujue_24: -1628527277360971497
+      nanzhujue_25: -3822809989701128722
+      nanzhujue_26: 3869686270007979245
+      nanzhujue_27: 6985862634609432587
+      nanzhujue_28: 2771587333511912855
+      nanzhujue_29: 1773022114219897523
+      nanzhujue_3: -1451641149968748446
+      nanzhujue_30: 5084502354127537380
+      nanzhujue_31: 7419556476877562979
+      nanzhujue_32: 5474847231463033500
+      nanzhujue_33: -4842050779243261988
+      nanzhujue_34: -5854803621669981894
+      nanzhujue_35: 9088384471425815040
+      nanzhujue_36: -6279643498299468968
+      nanzhujue_37: 1899085870369893604
+      nanzhujue_38: 3797820221746158810
+      nanzhujue_39: -367121833889733763
+      nanzhujue_4: -4518629017723256873
+      nanzhujue_40: 4373458059013956604
+      nanzhujue_41: -578917228706224683
+      nanzhujue_42: 4016120317818002279
+      nanzhujue_43: 9187932951344850716
+      nanzhujue_44: 5743286500943582745
+      nanzhujue_45: -3825094109543861911
+      nanzhujue_46: 3323917091780783066
+      nanzhujue_47: -8425617364338865090
+      nanzhujue_48: -4957887442540072947
+      nanzhujue_49: 5903391948275691227
+      nanzhujue_5: 2905014445637023849
+      nanzhujue_50: -3203992473091975886
+      nanzhujue_51: -5272184901297486084
+      nanzhujue_52: -7780666291427651548
+      nanzhujue_53: 3361586481781632391
+      nanzhujue_54: 6350709841108250320
+      nanzhujue_6: 8496783060255607974
+      nanzhujue_7: 180100456800035748
+      nanzhujue_8: 8573267427769008658
+      nanzhujue_9: 839679042111092323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

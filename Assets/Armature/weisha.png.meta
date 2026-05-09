@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 13e07c006095d164298faf26e8bffca1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3880177807376946097
+    second: weisha_0
+  - first:
+      213: -3080271942859206556
+    second: weisha_1
+  - first:
+      213: 3320177606613113693
+    second: weisha_2
+  - first:
+      213: 1623654706424225722
+    second: weisha_3
+  - first:
+      213: 6758640708871967380
+    second: weisha_4
+  - first:
+      213: -499049410510363343
+    second: weisha_5
+  - first:
+      213: -8722794475500331280
+    second: weisha_6
+  - first:
+      213: 1267987800559662177
+    second: weisha_7
+  - first:
+      213: -1746600156378174909
+    second: weisha_8
+  - first:
+      213: 6997798580817953992
+    second: weisha_9
+  - first:
+      213: 5595630528366219133
+    second: weisha_10
+  - first:
+      213: -6680060514954056449
+    second: weisha_11
+  - first:
+      213: -4178753029233621413
+    second: weisha_12
+  - first:
+      213: -5210416433420845731
+    second: weisha_13
+  - first:
+      213: -6578382176618191357
+    second: weisha_14
+  - first:
+      213: -8750553482407337508
+    second: weisha_15
+  - first:
+      213: -8474630446773463896
+    second: weisha_16
+  - first:
+      213: -3262549380896927787
+    second: weisha_17
+  - first:
+      213: 7684015519579075388
+    second: weisha_18
+  - first:
+      213: 3608329133679795311
+    second: weisha_19
+  - first:
+      213: -4483442124301804511
+    second: weisha_20
+  - first:
+      213: 1712528592729639987
+    second: weisha_21
+  - first:
+      213: 3867866108544537101
+    second: weisha_22
+  - first:
+      213: -9131376523694945566
+    second: weisha_23
+  - first:
+      213: -7619518962714057172
+    second: weisha_24
+  - first:
+      213: -1421838719887418423
+    second: weisha_25
+  - first:
+      213: -215908879693588659
+    second: weisha_26
+  - first:
+      213: 4512973193160413333
+    second: weisha_27
+  - first:
+      213: -6601138534892371042
+    second: weisha_28
+  - first:
+      213: 8432641337032150747
+    second: weisha_29
+  - first:
+      213: 2527865730192995377
+    second: weisha_30
+  - first:
+      213: -2557918033816814674
+    second: weisha_31
+  - first:
+      213: -6093477892721083015
+    second: weisha_32
+  - first:
+      213: -2890477799961989625
+    second: weisha_33
+  - first:
+      213: 2272472812850164451
+    second: weisha_34
+  - first:
+      213: -3296271885289039174
+    second: weisha_35
+  - first:
+      213: -6593760002431174253
+    second: weisha_36
+  - first:
+      213: -6579912485870371673
+    second: weisha_37
+  - first:
+      213: -1641930093127249455
+    second: weisha_38
+  - first:
+      213: 6276319224218629295
+    second: weisha_39
+  - first:
+      213: -1583770503232829471
+    second: weisha_40
+  - first:
+      213: 4760817898214588066
+    second: weisha_41
+  - first:
+      213: -3345762864312783803
+    second: weisha_42
+  - first:
+      213: -2942365502695687611
+    second: weisha_43
+  - first:
+      213: -2339707686817614422
+    second: weisha_44
+  - first:
+      213: -7617713353508254261
+    second: weisha_45
+  - first:
+      213: -303995062594876927
+    second: weisha_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weisha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c61fd97d6d62ac0800000000000000
+      internalID: -3880177807376946097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 343
+        width: 202
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460564aecfca045d0800000000000000
+      internalID: -3080271942859206556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 344
+        width: 99
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b916131f3a31e20800000000000000
+      internalID: 3320177606613113693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 242
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf9e4e5a51688610800000000000000
+      internalID: 1623654706424225722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 283
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492dec87ae38bcd50800000000000000
+      internalID: 6758640708871967380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 162
+        width: 127
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135692984350319f0800000000000000
+      internalID: -499049410510363343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe101fc3a862f680800000000000000
+      internalID: -8722794475500331280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 323
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16433efbf2cc89110800000000000000
+      internalID: 1267987800559662177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 111
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aef626964d2c7e0800000000000000
+      internalID: -1746600156378174909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 222
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4036bbbbc2d1160800000000000000
+      internalID: 6997798580817953992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f8991915ca7ad40800000000000000
+      internalID: 5595630528366219133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 185
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcec08aa58ab43a0800000000000000
+      internalID: -6680060514954056449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 207
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56417882461206c0800000000000000
+      internalID: -4178753029233621413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 194
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db71a1cd1e0b7b0800000000000000
+      internalID: -5210416433420845731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 175
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30669ed9344e4b4a0800000000000000
+      internalID: -6578382176618191357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 228
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1ad0d58f9cf8680800000000000000
+      internalID: -8750553482407337508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a49b595280146a80800000000000000
+      internalID: -8474630446773463896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 141
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfc771bf9819b2d0800000000000000
+      internalID: -3262549380896927787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 152
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c337915476b13aa60800000000000000
+      internalID: 7684015519579075388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 146
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c5da5ba3c531230800000000000000
+      internalID: 3608329133679795311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 163
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cd7f9642d97c1c0800000000000000
+      internalID: -4483442124301804511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 125
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c89558eaf14c710800000000000000
+      internalID: 1712528592729639987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 139
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02d19e9bbb6da530800000000000000
+      internalID: 3867866108544537101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 144
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea42da8e65d64180800000000000000
+      internalID: -9131376523694945566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 119
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2663149fd7024690800000000000000
+      internalID: -7619518962714057172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 135
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbd63da73d944ce0800000000000000
+      internalID: -1421838719887418423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 135
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47d2029400f00df0800000000000000
+      internalID: -215908879693588659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 125
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590df2b553d41ae30800000000000000
+      internalID: 4512973193160413333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 143
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9309921a7b0464a0800000000000000
+      internalID: -6601138534892371042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 145
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde83143e92c60570800000000000000
+      internalID: 8432641337032150747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 134
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13479080d78c41320800000000000000
+      internalID: 2527865730192995377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_31
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 141
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab78c5c913708cd0800000000000000
+      internalID: -2557918033816814674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 136
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97df9a5242e9f6ba0800000000000000
+      internalID: -6093477892721083015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 137
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eec1e51c5f2e7d0800000000000000
+      internalID: -2890477799961989625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 113
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2baa3bbf1798f10800000000000000
+      internalID: 2272472812850164451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 127
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba5d3a4f2a4142d0800000000000000
+      internalID: -3296271885289039174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39939e886324e74a0800000000000000
+      internalID: -6593760002431174253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_37
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 115
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acf98ab4747fa4a0800000000000000
+      internalID: -6579912485870371673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_38
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 137
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d150259741b639e0800000000000000
+      internalID: -1641930093127249455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4b180c417f91750800000000000000
+      internalID: 6276319224218629295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 119
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7c0155e11550ae0800000000000000
+      internalID: -1583770503232829471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_41
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 111
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aef66f87a2d11240800000000000000
+      internalID: 4760817898214588066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_42
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 113
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c61f9c6667191d0800000000000000
+      internalID: -3345762864312783803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_43
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 94
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ab5742a2e9a27d0800000000000000
+      internalID: -2942365502695687611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_44
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 117
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa53cf05140b78fd0800000000000000
+      internalID: -2339707686817614422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_45
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 119
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd046bb012784690800000000000000
+      internalID: -7617713353508254261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weisha_46
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 106
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a4f88e91ef7cbf0800000000000000
+      internalID: -303995062594876927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      weisha_0: -3880177807376946097
+      weisha_1: -3080271942859206556
+      weisha_10: 5595630528366219133
+      weisha_11: -6680060514954056449
+      weisha_12: -4178753029233621413
+      weisha_13: -5210416433420845731
+      weisha_14: -6578382176618191357
+      weisha_15: -8750553482407337508
+      weisha_16: -8474630446773463896
+      weisha_17: -3262549380896927787
+      weisha_18: 7684015519579075388
+      weisha_19: 3608329133679795311
+      weisha_2: 3320177606613113693
+      weisha_20: -4483442124301804511
+      weisha_21: 1712528592729639987
+      weisha_22: 3867866108544537101
+      weisha_23: -9131376523694945566
+      weisha_24: -7619518962714057172
+      weisha_25: -1421838719887418423
+      weisha_26: -215908879693588659
+      weisha_27: 4512973193160413333
+      weisha_28: -6601138534892371042
+      weisha_29: 8432641337032150747
+      weisha_3: 1623654706424225722
+      weisha_30: 2527865730192995377
+      weisha_31: -2557918033816814674
+      weisha_32: -6093477892721083015
+      weisha_33: -2890477799961989625
+      weisha_34: 2272472812850164451
+      weisha_35: -3296271885289039174
+      weisha_36: -6593760002431174253
+      weisha_37: -6579912485870371673
+      weisha_38: -1641930093127249455
+      weisha_39: 6276319224218629295
+      weisha_4: 6758640708871967380
+      weisha_40: -1583770503232829471
+      weisha_41: 4760817898214588066
+      weisha_42: -3345762864312783803
+      weisha_43: -2942365502695687611
+      weisha_44: -2339707686817614422
+      weisha_45: -7617713353508254261
+      weisha_46: -303995062594876927
+      weisha_5: -499049410510363343
+      weisha_6: -8722794475500331280
+      weisha_7: 1267987800559662177
+      weisha_8: -1746600156378174909
+      weisha_9: 6997798580817953992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

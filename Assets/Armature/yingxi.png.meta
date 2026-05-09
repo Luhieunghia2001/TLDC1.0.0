@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: afde880c681c3014797ab3cdbe3c7568
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1507238639190790154
+    second: yingxi_0
+  - first:
+      213: 8140197841953270525
+    second: yingxi_1
+  - first:
+      213: 3294950772939502711
+    second: yingxi_2
+  - first:
+      213: 3830862431416120850
+    second: yingxi_3
+  - first:
+      213: 6301540326198608036
+    second: yingxi_4
+  - first:
+      213: -6087085842133052996
+    second: yingxi_5
+  - first:
+      213: -8010819119451400360
+    second: yingxi_6
+  - first:
+      213: -3737445383762273891
+    second: yingxi_7
+  - first:
+      213: -2855454972705679383
+    second: yingxi_8
+  - first:
+      213: -2554107007782689322
+    second: yingxi_9
+  - first:
+      213: 5190199863504316791
+    second: yingxi_10
+  - first:
+      213: 964245384666797122
+    second: yingxi_11
+  - first:
+      213: -664148673883841772
+    second: yingxi_12
+  - first:
+      213: 6678246949388530038
+    second: yingxi_13
+  - first:
+      213: -1186101539582322793
+    second: yingxi_14
+  - first:
+      213: 5145809782991669264
+    second: yingxi_15
+  - first:
+      213: 7494120237603587083
+    second: yingxi_16
+  - first:
+      213: -6162441708072993473
+    second: yingxi_17
+  - first:
+      213: -8403009000959380927
+    second: yingxi_18
+  - first:
+      213: 4894964112657956475
+    second: yingxi_19
+  - first:
+      213: -6335985991058309303
+    second: yingxi_20
+  - first:
+      213: -4548582366657153206
+    second: yingxi_21
+  - first:
+      213: 8242201342051444793
+    second: yingxi_22
+  - first:
+      213: 5514672346045644355
+    second: yingxi_23
+  - first:
+      213: -7236164474153047836
+    second: yingxi_24
+  - first:
+      213: -5212864130341132976
+    second: yingxi_25
+  - first:
+      213: -8512077529561822008
+    second: yingxi_26
+  - first:
+      213: 8269107298083777430
+    second: yingxi_27
+  - first:
+      213: -3859121373165810153
+    second: yingxi_28
+  - first:
+      213: 7302095849969333565
+    second: yingxi_29
+  - first:
+      213: -875242123774225305
+    second: yingxi_30
+  - first:
+      213: 1917620725784162136
+    second: yingxi_31
+  - first:
+      213: 8283978241756614229
+    second: yingxi_32
+  - first:
+      213: -5974952769048047005
+    second: yingxi_33
+  - first:
+      213: -6986428280722115487
+    second: yingxi_34
+  - first:
+      213: 1980656835843150678
+    second: yingxi_35
+  - first:
+      213: -3307708404505040651
+    second: yingxi_36
+  - first:
+      213: 6402344056574255018
+    second: yingxi_37
+  - first:
+      213: -2031446170764619398
+    second: yingxi_38
+  - first:
+      213: 1219813846091978092
+    second: yingxi_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yingxi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 303
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff2a4f7176351be0800000000000000
+      internalID: -1507238639190790154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 259
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa6030fcac7f070800000000000000
+      internalID: 8140197841953270525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 230
+        width: 29
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774357545440abd20800000000000000
+      internalID: 3294950772939502711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 291
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21672f7a515f92530800000000000000
+      internalID: 3830862431416120850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 283
+        width: 110
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a00ed82a81937750800000000000000
+      internalID: 6301540326198608036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 301
+        width: 91
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb199566da3568ba0800000000000000
+      internalID: -6087085842133052996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8571139347ad3d090800000000000000
+      internalID: -8010819119451400360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 252
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d991d6da93de12cc0800000000000000
+      internalID: -3737445383762273891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 177
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e751c7c4d26f58d0800000000000000
+      internalID: -2855454972705679383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 193
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5e6ca653dfd8cd0800000000000000
+      internalID: -2554107007782689322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 196
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779a479e64b470840800000000000000
+      internalID: 5190199863504316791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 157
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244df5d8110b16d00800000000000000
+      internalID: 964245384666797122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 174
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5b17cc4878c6f0800000000000000
+      internalID: -664148673883841772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 151
+        width: 34
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671b3a4b736edac50800000000000000
+      internalID: 6678246949388530038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 169
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d6a91fee1a8fe0800000000000000
+      internalID: -1186101539582322793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 208
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018c2f4ebb6996740800000000000000
+      internalID: 5145809782991669264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 132
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b048d6a86a6700860800000000000000
+      internalID: 7494120237603587083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 138
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3df141aaeb9a7aa0800000000000000
+      internalID: -6162441708072993473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 103
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142f76da5d3826b80800000000000000
+      internalID: -8403009000959380927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 115
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e33430de76ee340800000000000000
+      internalID: 4894964112657956475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_20
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 156
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f3e158f4e0218a0800000000000000
+      internalID: -6335985991058309303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_21
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 154
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a477bcbdf6030e0c0800000000000000
+      internalID: -4548582366657153206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_22
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 143
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9386938937e226270800000000000000
+      internalID: 8242201342051444793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 155
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e78bed74d088c40800000000000000
+      internalID: 5514672346045644355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 98
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e86ec5efbaf39b90800000000000000
+      internalID: -7236164474153047836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 109
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05524a041bf28a7b0800000000000000
+      internalID: -5212864130341132976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 96
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc02e5f5960fd980800000000000000
+      internalID: -8512077529561822008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 120
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bafd7a645c1c270800000000000000
+      internalID: 8269107298083777430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_28
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 104
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e855fbe85a17ac0800000000000000
+      internalID: -3859121373165810153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 106
+        width: 111
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35b645cc71465560800000000000000
+      internalID: 7302095849969333565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7649af7fce38ad3f0800000000000000
+      internalID: -875242123774225305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 66
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85faa4ed3e1cc9a10800000000000000
+      internalID: 1917620725784162136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 86
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ec7fa025a96f270800000000000000
+      internalID: 8283978241756614229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 91
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362972bfc14b41da0800000000000000
+      internalID: -5974952769048047005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_34
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 60
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164b0de8e783b0f90800000000000000
+      internalID: -6986428280722115487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 53
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6535162f5e4bc7b10800000000000000
+      internalID: 1980656835843150678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f827e82bb8a812d0800000000000000
+      internalID: -3307708404505040651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 68
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf11f59ff1b9d850800000000000000
+      internalID: 6402344056574255018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_38
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 70
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a715f33887adec3e0800000000000000
+      internalID: -2031446170764619398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yingxi_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 54
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c655a6cea36ade010800000000000000
+      internalID: 1219813846091978092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yingxi_0: -1507238639190790154
+      yingxi_1: 8140197841953270525
+      yingxi_10: 5190199863504316791
+      yingxi_11: 964245384666797122
+      yingxi_12: -664148673883841772
+      yingxi_13: 6678246949388530038
+      yingxi_14: -1186101539582322793
+      yingxi_15: 5145809782991669264
+      yingxi_16: 7494120237603587083
+      yingxi_17: -6162441708072993473
+      yingxi_18: -8403009000959380927
+      yingxi_19: 4894964112657956475
+      yingxi_2: 3294950772939502711
+      yingxi_20: -6335985991058309303
+      yingxi_21: -4548582366657153206
+      yingxi_22: 8242201342051444793
+      yingxi_23: 5514672346045644355
+      yingxi_24: -7236164474153047836
+      yingxi_25: -5212864130341132976
+      yingxi_26: -8512077529561822008
+      yingxi_27: 8269107298083777430
+      yingxi_28: -3859121373165810153
+      yingxi_29: 7302095849969333565
+      yingxi_3: 3830862431416120850
+      yingxi_30: -875242123774225305
+      yingxi_31: 1917620725784162136
+      yingxi_32: 8283978241756614229
+      yingxi_33: -5974952769048047005
+      yingxi_34: -6986428280722115487
+      yingxi_35: 1980656835843150678
+      yingxi_36: -3307708404505040651
+      yingxi_37: 6402344056574255018
+      yingxi_38: -2031446170764619398
+      yingxi_39: 1219813846091978092
+      yingxi_4: 6301540326198608036
+      yingxi_5: -6087085842133052996
+      yingxi_6: -8010819119451400360
+      yingxi_7: -3737445383762273891
+      yingxi_8: -2855454972705679383
+      yingxi_9: -2554107007782689322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

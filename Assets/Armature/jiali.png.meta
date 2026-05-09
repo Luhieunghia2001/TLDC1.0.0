@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 6c7ec1eb9c208a248ade19ea06e7d114
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 756309306831702366
+    second: jiali_0
+  - first:
+      213: -8024409987180217540
+    second: jiali_1
+  - first:
+      213: 6043369139895133391
+    second: jiali_2
+  - first:
+      213: 6122705689751497991
+    second: jiali_3
+  - first:
+      213: -8919471954236066856
+    second: jiali_4
+  - first:
+      213: 340026645007612177
+    second: jiali_5
+  - first:
+      213: 8403657130395247617
+    second: jiali_6
+  - first:
+      213: 7718983430575303305
+    second: jiali_7
+  - first:
+      213: 2454031323653730382
+    second: jiali_8
+  - first:
+      213: 2361909980724099953
+    second: jiali_9
+  - first:
+      213: 822432953565643313
+    second: jiali_10
+  - first:
+      213: -2636663140703418476
+    second: jiali_11
+  - first:
+      213: 6967679451629250228
+    second: jiali_12
+  - first:
+      213: 576336267113725283
+    second: jiali_13
+  - first:
+      213: 7569999552603874450
+    second: jiali_14
+  - first:
+      213: -2503183866737863161
+    second: jiali_15
+  - first:
+      213: 187675942905502016
+    second: jiali_16
+  - first:
+      213: -9026264423906958986
+    second: jiali_17
+  - first:
+      213: 6828158691871977995
+    second: jiali_18
+  - first:
+      213: -6579822481123652029
+    second: jiali_19
+  - first:
+      213: -2966174410940451623
+    second: jiali_20
+  - first:
+      213: -2398233616932328550
+    second: jiali_21
+  - first:
+      213: -4857818595622855818
+    second: jiali_22
+  - first:
+      213: 8370345723084651320
+    second: jiali_23
+  - first:
+      213: -1351221395558750847
+    second: jiali_24
+  - first:
+      213: 6541830404511307134
+    second: jiali_25
+  - first:
+      213: 1818732893042122736
+    second: jiali_26
+  - first:
+      213: -8272822017965678165
+    second: jiali_27
+  - first:
+      213: 2305698056972690353
+    second: jiali_28
+  - first:
+      213: -8199905577596470205
+    second: jiali_29
+  - first:
+      213: -5949787685763707201
+    second: jiali_30
+  - first:
+      213: 634701774124111963
+    second: jiali_31
+  - first:
+      213: 3392528745665691972
+    second: jiali_32
+  - first:
+      213: -902350284727596885
+    second: jiali_33
+  - first:
+      213: -9083479888024842829
+    second: jiali_34
+  - first:
+      213: -4715472658370472515
+    second: jiali_35
+  - first:
+      213: -78299587891464344
+    second: jiali_36
+  - first:
+      213: 2772805314427310232
+    second: jiali_37
+  - first:
+      213: -8563111217311168613
+    second: jiali_38
+  - first:
+      213: -5717781435028835123
+    second: jiali_39
+  - first:
+      213: -8546400328184832831
+    second: jiali_40
+  - first:
+      213: 8572441672912113897
+    second: jiali_41
+  - first:
+      213: 5187840540404834166
+    second: jiali_42
+  - first:
+      213: -9035965501422997163
+    second: jiali_43
+  - first:
+      213: 4897565428500928274
+    second: jiali_44
+  - first:
+      213: 8805130052319290360
+    second: jiali_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jiali_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 128
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e598606be43fe7a00800000000000000
+      internalID: 756309306831702366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 371
+        width: 110
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bb60eb1a193a090800000000000000
+      internalID: -8024409987180217540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 393
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4e10ea63c5ed350800000000000000
+      internalID: 6043369139895133391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 383
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70da6e5a26838f450800000000000000
+      internalID: 6122705689751497991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 478
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d333b7d38ba73480800000000000000
+      internalID: -8919471954236066856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 451
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119b8dd9e6408b400800000000000000
+      internalID: 340026645007612177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 422
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1042367b2a9cf9470800000000000000
+      internalID: 8403657130395247617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 398
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a219e78865f1b60800000000000000
+      internalID: 7718983430575303305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 321
+        width: 129
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40ff02ac787e0220800000000000000
+      internalID: 2454031323653730382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 278
+        width: 83
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b72801d9037c020800000000000000
+      internalID: 2361909980724099953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 346
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1320bd0f96ed96b00800000000000000
+      internalID: 822432953565643313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 344
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497c10ad7d0b86bd0800000000000000
+      internalID: -2636663140703418476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 372
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6662f7b8b22b060800000000000000
+      internalID: 6967679451629250228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 77
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dfc7808ce8ff700800000000000000
+      internalID: 576336267113725283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 286
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294e1da4c7a0e0960800000000000000
+      internalID: 7569999552603874450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 280
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706d99f1987e24dd0800000000000000
+      internalID: -2503183866737863161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 351
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049d4c59642ca9200800000000000000
+      internalID: 187675942905502016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 334
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671a74464544cb280800000000000000
+      internalID: -9026264423906958986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 323
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b027603372e72ce50800000000000000
+      internalID: 6828158691871977995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ece779056cfa4a0800000000000000
+      internalID: -6579822481123652029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_20
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 266
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d47a06b61806d6d0800000000000000
+      internalID: -2966174410940451623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 323
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b29565b33c7bed0800000000000000
+      internalID: -2398233616932328550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 218
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bdc90a9bf859cb0800000000000000
+      internalID: -4857818595622855818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 266
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bbbaf4611792470800000000000000
+      internalID: 8370345723084651320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 265
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18520d0cc4f7f3de0800000000000000
+      internalID: -1351221395558750847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 266
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e751fb1c71049ca50800000000000000
+      internalID: 6541830404511307134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 222
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff181f1eef6d3910800000000000000
+      internalID: 1818732893042122736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 247
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba12029b438013d80800000000000000
+      internalID: -8272822017965678165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 261
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b36a2daa2c7fff10800000000000000
+      internalID: 2305698056972690353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_29
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 266
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c3e977255143e80800000000000000
+      internalID: -8199905577596470205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 217
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe8f058f9b1e6da0800000000000000
+      internalID: -5949787685763707201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b585af896e9eec800800000000000000
+      internalID: 634701774124111963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 245
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44184b77beea41f20800000000000000
+      internalID: 3392528745665691972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 238
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c6d762353a73f0800000000000000
+      internalID: -902350284727596885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 233
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdcfdd0b2ff0f180800000000000000
+      internalID: -9083479888024842829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 202
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5d2c1d9964f8eb0800000000000000
+      internalID: -4715472658370472515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_36
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 224
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8677bad80f2d9eef0800000000000000
+      internalID: -78299587891464344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_37
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 224
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89051c51ebbfa7620800000000000000
+      internalID: 2772805314427310232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 190
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97410897b7b92980800000000000000
+      internalID: -8563111217311168613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 209
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc478c5341c56a0b0800000000000000
+      internalID: -5717781435028835123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 203
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccd24aae26156980800000000000000
+      internalID: -8546400328184832831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 203
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e09ea3684e67f670800000000000000
+      internalID: 8572441672912113897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 198
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f53323c79eef740800000000000000
+      internalID: 5187840540404834166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 160
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5517ff4404dc99280800000000000000
+      internalID: -9035965501422997163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217180e0fc5a7f340800000000000000
+      internalID: 4897565428500928274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiali_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 137
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ab99812b123a70800000000000000
+      internalID: 8805130052319290360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jiali_0: 756309306831702366
+      jiali_1: -8024409987180217540
+      jiali_10: 822432953565643313
+      jiali_11: -2636663140703418476
+      jiali_12: 6967679451629250228
+      jiali_13: 576336267113725283
+      jiali_14: 7569999552603874450
+      jiali_15: -2503183866737863161
+      jiali_16: 187675942905502016
+      jiali_17: -9026264423906958986
+      jiali_18: 6828158691871977995
+      jiali_19: -6579822481123652029
+      jiali_2: 6043369139895133391
+      jiali_20: -2966174410940451623
+      jiali_21: -2398233616932328550
+      jiali_22: -4857818595622855818
+      jiali_23: 8370345723084651320
+      jiali_24: -1351221395558750847
+      jiali_25: 6541830404511307134
+      jiali_26: 1818732893042122736
+      jiali_27: -8272822017965678165
+      jiali_28: 2305698056972690353
+      jiali_29: -8199905577596470205
+      jiali_3: 6122705689751497991
+      jiali_30: -5949787685763707201
+      jiali_31: 634701774124111963
+      jiali_32: 3392528745665691972
+      jiali_33: -902350284727596885
+      jiali_34: -9083479888024842829
+      jiali_35: -4715472658370472515
+      jiali_36: -78299587891464344
+      jiali_37: 2772805314427310232
+      jiali_38: -8563111217311168613
+      jiali_39: -5717781435028835123
+      jiali_4: -8919471954236066856
+      jiali_40: -8546400328184832831
+      jiali_41: 8572441672912113897
+      jiali_42: 5187840540404834166
+      jiali_43: -9035965501422997163
+      jiali_44: 4897565428500928274
+      jiali_45: 8805130052319290360
+      jiali_5: 340026645007612177
+      jiali_6: 8403657130395247617
+      jiali_7: 7718983430575303305
+      jiali_8: 2454031323653730382
+      jiali_9: 2361909980724099953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

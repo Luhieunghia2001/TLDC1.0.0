@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 798baad451f5ddc4291eb64b4d251a95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -722726485152633198
+    second: kelisidi_0
+  - first:
+      213: 2719681382915528493
+    second: kelisidi_1
+  - first:
+      213: -4370911306204039391
+    second: kelisidi_2
+  - first:
+      213: 3005369608796768341
+    second: kelisidi_3
+  - first:
+      213: -7205545168408402136
+    second: kelisidi_4
+  - first:
+      213: 7423515589377658053
+    second: kelisidi_5
+  - first:
+      213: -2666130407604955537
+    second: kelisidi_6
+  - first:
+      213: -8975248127808589869
+    second: kelisidi_7
+  - first:
+      213: -5098873706632098534
+    second: kelisidi_8
+  - first:
+      213: 2319674419193330190
+    second: kelisidi_9
+  - first:
+      213: 4514637343083713479
+    second: kelisidi_10
+  - first:
+      213: 4569674609551664203
+    second: kelisidi_11
+  - first:
+      213: -7030041121974046731
+    second: kelisidi_12
+  - first:
+      213: 6390356688868166849
+    second: kelisidi_13
+  - first:
+      213: 7831728351386385092
+    second: kelisidi_14
+  - first:
+      213: -2088892842881360859
+    second: kelisidi_15
+  - first:
+      213: -1270185698239644800
+    second: kelisidi_16
+  - first:
+      213: 6075336986282580791
+    second: kelisidi_17
+  - first:
+      213: 1172447766321061681
+    second: kelisidi_18
+  - first:
+      213: -6091106871196028285
+    second: kelisidi_19
+  - first:
+      213: 3300103152003400349
+    second: kelisidi_20
+  - first:
+      213: 3103617494884687809
+    second: kelisidi_21
+  - first:
+      213: 2064806561774359532
+    second: kelisidi_22
+  - first:
+      213: -8185445423298231311
+    second: kelisidi_23
+  - first:
+      213: 8160856220828144612
+    second: kelisidi_24
+  - first:
+      213: 4776986856352822539
+    second: kelisidi_25
+  - first:
+      213: -1318263448311218594
+    second: kelisidi_26
+  - first:
+      213: -1825531040510476517
+    second: kelisidi_27
+  - first:
+      213: 2673130917709150837
+    second: kelisidi_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kelisidi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 270
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ee5b6471c58f5f0800000000000000
+      internalID: -722726485152633198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 904
+        width: 233
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d275ceaeecf3eb520800000000000000
+      internalID: 2719681382915528493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 686
+        width: 135
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12738f833576753c0800000000000000
+      internalID: -4370911306204039391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 808
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558061f6cb735b920800000000000000
+      internalID: 3005369608796768341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 720
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8272cff88d2c00c90800000000000000
+      internalID: -7205545168408402136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 753
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0e69d810a50760800000000000000
+      internalID: 7423515589377658053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_6
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 710
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66d6d12580000bd0800000000000000
+      internalID: -2666130407604955537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 622
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfaaf27163817380800000000000000
+      internalID: -8975248127808589869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 624
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d4d99f0692d39b0800000000000000
+      internalID: -5098873706632098534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 637
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a34961893213020800000000000000
+      internalID: 2319674419193330190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 674
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d7347eb637ae30800000000000000
+      internalID: 4514637343083713479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 670
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44e271a8deba6f30800000000000000
+      internalID: 4569674609551664203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 549
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff2958a8d6407e90800000000000000
+      internalID: -7030041121974046731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 596
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc470c0d8b1fa850800000000000000
+      internalID: 6390356688868166849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_14
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 557
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cabdb9f073efac60800000000000000
+      internalID: 7831728351386385092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 607
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c533ed603c203e0800000000000000
+      internalID: -2088892842881360859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 138
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bf4a156d46f5ee0800000000000000
+      internalID: -1270185698239644800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 528
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b5a2eecceef4450800000000000000
+      internalID: 6075336986282580791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 522
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f5445180f554010800000000000000
+      internalID: 1172447766321061681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 556
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3827b6d929a087ba0800000000000000
+      internalID: -6091106871196028285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_20
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 555
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d924f4105525ccd20800000000000000
+      internalID: 3300103152003400349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 513
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf1a4dfaa3421b20800000000000000
+      internalID: 3103617494884687809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 490
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3d47cc0aaa7ac10800000000000000
+      internalID: 2064806561774359532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 499
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f346ff71c4776e80800000000000000
+      internalID: -8185445423298231311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 504
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e39f79ae7f214170800000000000000
+      internalID: 8160856220828144612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 483
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05be9d7c344b4240800000000000000
+      internalID: 4776986856352822539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_26
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 513
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e3703d06694bde0800000000000000
+      internalID: -1318263448311218594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 487
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f7ce3d0396aa6e0800000000000000
+      internalID: -1825531040510476517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelisidi_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 490
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57afa24286ed81520800000000000000
+      internalID: 2673130917709150837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kelisidi_0: -722726485152633198
+      kelisidi_1: 2719681382915528493
+      kelisidi_10: 4514637343083713479
+      kelisidi_11: 4569674609551664203
+      kelisidi_12: -7030041121974046731
+      kelisidi_13: 6390356688868166849
+      kelisidi_14: 7831728351386385092
+      kelisidi_15: -2088892842881360859
+      kelisidi_16: -1270185698239644800
+      kelisidi_17: 6075336986282580791
+      kelisidi_18: 1172447766321061681
+      kelisidi_19: -6091106871196028285
+      kelisidi_2: -4370911306204039391
+      kelisidi_20: 3300103152003400349
+      kelisidi_21: 3103617494884687809
+      kelisidi_22: 2064806561774359532
+      kelisidi_23: -8185445423298231311
+      kelisidi_24: 8160856220828144612
+      kelisidi_25: 4776986856352822539
+      kelisidi_26: -1318263448311218594
+      kelisidi_27: -1825531040510476517
+      kelisidi_28: 2673130917709150837
+      kelisidi_3: 3005369608796768341
+      kelisidi_4: -7205545168408402136
+      kelisidi_5: 7423515589377658053
+      kelisidi_6: -2666130407604955537
+      kelisidi_7: -8975248127808589869
+      kelisidi_8: -5098873706632098534
+      kelisidi_9: 2319674419193330190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: f486883f36a5c5440912f9dd1ccaf691
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4345115571897732696
+    second: beiling_0
+  - first:
+      213: 4089936160609856807
+    second: beiling_1
+  - first:
+      213: 311864640524301434
+    second: beiling_2
+  - first:
+      213: -4302637953516158875
+    second: beiling_3
+  - first:
+      213: -6454852765895462899
+    second: beiling_4
+  - first:
+      213: 8019775867078607659
+    second: beiling_5
+  - first:
+      213: -5962304856797111370
+    second: beiling_6
+  - first:
+      213: -6884384562042648495
+    second: beiling_7
+  - first:
+      213: -605296294286799661
+    second: beiling_8
+  - first:
+      213: 5106713424382493101
+    second: beiling_9
+  - first:
+      213: 4420948273663396482
+    second: beiling_10
+  - first:
+      213: 2623330240707310292
+    second: beiling_11
+  - first:
+      213: -5094557237307069891
+    second: beiling_12
+  - first:
+      213: -8743849912305316821
+    second: beiling_13
+  - first:
+      213: 4537815498283788945
+    second: beiling_14
+  - first:
+      213: -4089410991143884500
+    second: beiling_15
+  - first:
+      213: 1898726892894296068
+    second: beiling_16
+  - first:
+      213: -7431070411642112298
+    second: beiling_17
+  - first:
+      213: 258810436427578251
+    second: beiling_18
+  - first:
+      213: -8960902381713497479
+    second: beiling_19
+  - first:
+      213: -6971554413930279651
+    second: beiling_20
+  - first:
+      213: 1597994441742948316
+    second: beiling_21
+  - first:
+      213: -3209956029348642339
+    second: beiling_22
+  - first:
+      213: 7854160770590605153
+    second: beiling_23
+  - first:
+      213: -2736046777124738190
+    second: beiling_24
+  - first:
+      213: -7959637859763408375
+    second: beiling_25
+  - first:
+      213: 141864988502183809
+    second: beiling_26
+  - first:
+      213: -8263426171698724480
+    second: beiling_27
+  - first:
+      213: -7309936476314204714
+    second: beiling_28
+  - first:
+      213: -5928632288920450456
+    second: beiling_29
+  - first:
+      213: 2892614484321114638
+    second: beiling_30
+  - first:
+      213: 6563277463865257360
+    second: beiling_31
+  - first:
+      213: 3437328602525656772
+    second: beiling_32
+  - first:
+      213: 6681686599980758933
+    second: beiling_33
+  - first:
+      213: 42375002594843911
+    second: beiling_34
+  - first:
+      213: -4886896884844278414
+    second: beiling_35
+  - first:
+      213: -4786601221900009899
+    second: beiling_36
+  - first:
+      213: -3381551778488280224
+    second: beiling_37
+  - first:
+      213: -568415415285469132
+    second: beiling_38
+  - first:
+      213: 952405726000761784
+    second: beiling_39
+  - first:
+      213: 1875057528879385633
+    second: beiling_40
+  - first:
+      213: -7440885808977162502
+    second: beiling_41
+  - first:
+      213: -1150452801617338174
+    second: beiling_42
+  - first:
+      213: -4621407334949088037
+    second: beiling_43
+  - first:
+      213: 4886719814849269119
+    second: beiling_44
+  - first:
+      213: -8548198445128358343
+    second: beiling_45
+  - first:
+      213: 2818125286280269644
+    second: beiling_46
+  - first:
+      213: -5222028024709846192
+    second: beiling_47
+  - first:
+      213: -3032978393247009002
+    second: beiling_48
+  - first:
+      213: -2281939252016487149
+    second: beiling_49
+  - first:
+      213: 8745842224369618413
+    second: beiling_50
+  - first:
+      213: -9163092682293317928
+    second: beiling_51
+  - first:
+      213: -8589974253531518393
+    second: beiling_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beiling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 254
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e8bfa5793fc4c30800000000000000
+      internalID: 4345115571897732696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 905
+        width: 225
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dec27c44f52c830800000000000000
+      internalID: 4089936160609856807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 999
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74b47cfc37f35400800000000000000
+      internalID: 311864640524301434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 972
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5604e8fd395f944c0800000000000000
+      internalID: -4302637953516158875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 952
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d007a53db91cb66a0800000000000000
+      internalID: -6454852765895462899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 929
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23887719a7fb4f60800000000000000
+      internalID: 8019775867078607659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 791
+        width: 224
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb95088253a14da0800000000000000
+      internalID: -5962304856797111370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 902
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158c34247b0c570a0800000000000000
+      internalID: -6884384562042648495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 877
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dccc233a3e8997f0800000000000000
+      internalID: -605296294286799661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 852
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1890e8dc0bed640800000000000000
+      internalID: 5106713424382493101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 833
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a451e180d5a5d30800000000000000
+      internalID: 4420948273663396482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 146
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d236e574f0f76420800000000000000
+      internalID: 2623330240707310292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 695
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aaa6e4f2f7c49b0800000000000000
+      internalID: -5094557237307069891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 789
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c06b7e4da97a680800000000000000
+      internalID: -8743849912305316821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 807
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aa77f372f89fe30800000000000000
+      internalID: 4537815498283788945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 788
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c296a44ce5e7f37c0800000000000000
+      internalID: -4089410991143884500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 770
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40812789c02a95a10800000000000000
+      internalID: 1898726892894296068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 753
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6f72505d88fd890800000000000000
+      internalID: -7431070411642112298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 650
+        width: 145
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bfd6f78ba779300800000000000000
+      internalID: 258810436427578251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 678
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972e30fb2ca74a380800000000000000
+      internalID: -8960902381713497479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 691
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d01698230104f90800000000000000
+      internalID: -6971554413930279651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 739
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7132d6a773d2610800000000000000
+      internalID: 1597994441742948316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 687
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd10d069ff1f373d0800000000000000
+      internalID: -3209956029348642339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_23
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 595
+        width: 35
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f7cd39b959ffc60800000000000000
+      internalID: 7854160770590605153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 677
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ba0a0d3fb970ad0800000000000000
+      internalID: -2736046777124738190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 669
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9023d0cd98fa98190800000000000000
+      internalID: -7959637859763408375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 644
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fccb5947108f100800000000000000
+      internalID: 141864988502183809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 616
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0814b38ada9625d80800000000000000
+      internalID: -8263426171698724480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 659
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d50f962183ed8a90800000000000000
+      internalID: -7309936476314204714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 601
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a4cfe285449bda0800000000000000
+      internalID: -5928632288920450456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 639
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a1c1a3c81a42820800000000000000
+      internalID: 2892614484321114638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 666
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09de3046412751b50800000000000000
+      internalID: 6563277463865257360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 652
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6e4d9f628d3bf20800000000000000
+      internalID: 3437328602525656772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 634
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5973754cf8e1abc50800000000000000
+      internalID: 6681686599980758933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 634
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d950127db869000800000000000000
+      internalID: 42375002594843911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 626
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dc4e4dc214e2cb0800000000000000
+      internalID: -4886896884844278414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 635
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ef2379c83929db0800000000000000
+      internalID: -4786601221900009899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 614
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b9d9dd2905211d0800000000000000
+      internalID: -3381551778488280224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_38
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 640
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430bd0ff0359c18f0800000000000000
+      internalID: -568415415285469132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 615
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbc25436ff973d00800000000000000
+      internalID: 952405726000761784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 639
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c074653ea850a10800000000000000
+      internalID: 1875057528879385633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_41
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 578
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afecbadb7c9acb890800000000000000
+      internalID: -7440885808977162502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 621
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0eeb4b545c800f0800000000000000
+      internalID: -1150452801617338174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 625
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd499fd93867ddfb0800000000000000
+      internalID: -4621407334949088037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_44
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 621
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d04f8d7cd11d340800000000000000
+      internalID: 4886719814849269119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 608
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936e390fdc2be5980800000000000000
+      internalID: -8548198445128358343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 547
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f084d440efb1720800000000000000
+      internalID: 2818125286280269644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_47
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 605
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05be804dd21a787b0800000000000000
+      internalID: -5222028024709846192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 596
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617b3138832b8e5d0800000000000000
+      internalID: -3032978393247009002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 605
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315698c275ce450e0800000000000000
+      internalID: -2281939252016487149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 553
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedc9256a297f5970800000000000000
+      internalID: 8745842224369618413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 216
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deecebe0c726d080800000000000000
+      internalID: -9163092682293317928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beiling_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 433
+        width: 298
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aa0849de74ac880800000000000000
+      internalID: -8589974253531518393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      beiling_0: 4345115571897732696
+      beiling_1: 4089936160609856807
+      beiling_10: 4420948273663396482
+      beiling_11: 2623330240707310292
+      beiling_12: -5094557237307069891
+      beiling_13: -8743849912305316821
+      beiling_14: 4537815498283788945
+      beiling_15: -4089410991143884500
+      beiling_16: 1898726892894296068
+      beiling_17: -7431070411642112298
+      beiling_18: 258810436427578251
+      beiling_19: -8960902381713497479
+      beiling_2: 311864640524301434
+      beiling_20: -6971554413930279651
+      beiling_21: 1597994441742948316
+      beiling_22: -3209956029348642339
+      beiling_23: 7854160770590605153
+      beiling_24: -2736046777124738190
+      beiling_25: -7959637859763408375
+      beiling_26: 141864988502183809
+      beiling_27: -8263426171698724480
+      beiling_28: -7309936476314204714
+      beiling_29: -5928632288920450456
+      beiling_3: -4302637953516158875
+      beiling_30: 2892614484321114638
+      beiling_31: 6563277463865257360
+      beiling_32: 3437328602525656772
+      beiling_33: 6681686599980758933
+      beiling_34: 42375002594843911
+      beiling_35: -4886896884844278414
+      beiling_36: -4786601221900009899
+      beiling_37: -3381551778488280224
+      beiling_38: -568415415285469132
+      beiling_39: 952405726000761784
+      beiling_4: -6454852765895462899
+      beiling_40: 1875057528879385633
+      beiling_41: -7440885808977162502
+      beiling_42: -1150452801617338174
+      beiling_43: -4621407334949088037
+      beiling_44: 4886719814849269119
+      beiling_45: -8548198445128358343
+      beiling_46: 2818125286280269644
+      beiling_47: -5222028024709846192
+      beiling_48: -3032978393247009002
+      beiling_49: -2281939252016487149
+      beiling_5: 8019775867078607659
+      beiling_50: 8745842224369618413
+      beiling_51: -9163092682293317928
+      beiling_52: -8589974253531518393
+      beiling_6: -5962304856797111370
+      beiling_7: -6884384562042648495
+      beiling_8: -605296294286799661
+      beiling_9: 5106713424382493101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

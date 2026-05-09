@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 898e1be35a222a94ea9d0b371b9509d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7113265823797614077
+    second: haidi_0
+  - first:
+      213: -7902003457750975891
+    second: haidi_1
+  - first:
+      213: 8604158157281780507
+    second: haidi_2
+  - first:
+      213: 9061610085926416228
+    second: haidi_3
+  - first:
+      213: -8627566103834423597
+    second: haidi_4
+  - first:
+      213: 4376621374554565460
+    second: haidi_5
+  - first:
+      213: -6849457167340391976
+    second: haidi_6
+  - first:
+      213: 2718510945236537470
+    second: haidi_7
+  - first:
+      213: -383034669008197037
+    second: haidi_8
+  - first:
+      213: 2372999665779737390
+    second: haidi_9
+  - first:
+      213: 2385519691860821721
+    second: haidi_10
+  - first:
+      213: -5739859860407005235
+    second: haidi_11
+  - first:
+      213: -2815940114458771401
+    second: haidi_12
+  - first:
+      213: 712359539835326271
+    second: haidi_13
+  - first:
+      213: 8248001668129752361
+    second: haidi_14
+  - first:
+      213: 1562307913908647548
+    second: haidi_15
+  - first:
+      213: 8470892821757625288
+    second: haidi_16
+  - first:
+      213: 4600306239132075514
+    second: haidi_17
+  - first:
+      213: -9169001153976464973
+    second: haidi_18
+  - first:
+      213: 5548034012619986991
+    second: haidi_19
+  - first:
+      213: -1664617781066439780
+    second: haidi_20
+  - first:
+      213: -7505960045884082284
+    second: haidi_21
+  - first:
+      213: -6530984500656331732
+    second: haidi_22
+  - first:
+      213: 7642178710446377259
+    second: haidi_23
+  - first:
+      213: -115294657944008405
+    second: haidi_24
+  - first:
+      213: 5009229366249770327
+    second: haidi_25
+  - first:
+      213: -6370582374536910231
+    second: haidi_26
+  - first:
+      213: 4437628894407956868
+    second: haidi_27
+  - first:
+      213: -2819923220278094351
+    second: haidi_28
+  - first:
+      213: 7554738967114786117
+    second: haidi_29
+  - first:
+      213: 1544217714297766070
+    second: haidi_30
+  - first:
+      213: -7891971812480039880
+    second: haidi_31
+  - first:
+      213: -3812655998975589080
+    second: haidi_32
+  - first:
+      213: 5965563140769299965
+    second: haidi_33
+  - first:
+      213: 1534386519784992342
+    second: haidi_34
+  - first:
+      213: -4778787299863713978
+    second: haidi_35
+  - first:
+      213: -3987383670858331334
+    second: haidi_36
+  - first:
+      213: 3088224205033215613
+    second: haidi_37
+  - first:
+      213: -3376793075893580561
+    second: haidi_38
+  - first:
+      213: -2754470960815741767
+    second: haidi_39
+  - first:
+      213: 1415807751354902609
+    second: haidi_40
+  - first:
+      213: 4852213714341116144
+    second: haidi_41
+  - first:
+      213: -211257444509973407
+    second: haidi_42
+  - first:
+      213: -1928480820595807005
+    second: haidi_43
+  - first:
+      213: -3899846212744675366
+    second: haidi_44
+  - first:
+      213: -733983297470632954
+    second: haidi_45
+  - first:
+      213: -258711888342377527
+    second: haidi_46
+  - first:
+      213: 4634825690702501074
+    second: haidi_47
+  - first:
+      213: -1832332022423108233
+    second: haidi_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: haidi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 141
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5126c349567b260800000000000000
+      internalID: 7113265823797614077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 432
+        width: 168
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a38d6c8b1765290800000000000000
+      internalID: -7902003457750975891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 365
+        width: 87
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b136f0cd14c186770800000000000000
+      internalID: 8604158157281780507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 371
+        width: 90
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fadb8dc5e41cd70800000000000000
+      internalID: 9061610085926416228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 481
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de8fb0e65ab44880800000000000000
+      internalID: -8627566103834423597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 448
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45be4baa3f1ecbc30800000000000000
+      internalID: 4376621374554565460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 351
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d13c6c0ff6d1f0a0800000000000000
+      internalID: -6849457167340391976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 408
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70d5d82d471ab520800000000000000
+      internalID: 2718510945236537470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 420
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a6b197fff2faaf0800000000000000
+      internalID: -383034669008197037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 398
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e230ce29f969ee020800000000000000
+      internalID: 2372999665779737390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 392
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6401e45811b1120800000000000000
+      internalID: 2385519691860821721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 377
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfcae73edbe750b0800000000000000
+      internalID: -5739859860407005235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 382
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73089e8a265cbe8d0800000000000000
+      internalID: -2815940114458771401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 132
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fce3c2a3fc2e900800000000000000
+      internalID: 712359539835326271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_14
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 372
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92504bf31d9c67270800000000000000
+      internalID: 8248001668129752361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 285
+        width: 124
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c767e4e25ce6ea510800000000000000
+      internalID: 1562307913908647548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 310
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305430428ae8570800000000000000
+      internalID: 8470892821757625288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 315
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af50b79a62297df30800000000000000
+      internalID: 4600306239132075514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 305
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b90618a70a21c080800000000000000
+      internalID: -9169001153976464973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 308
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28dffb2a839efc40800000000000000
+      internalID: 5548034012619986991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 294
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c936cb892f616e8e0800000000000000
+      internalID: -1664617781066439780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_21
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 308
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497fdc64b1975d790800000000000000
+      internalID: -7505960045884082284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 289
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c242cc403384d55a0800000000000000
+      internalID: -6530984500656331732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 267
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2985321c097e0a60800000000000000
+      internalID: 7642178710446377259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 266
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b294fb49e14666ef0800000000000000
+      internalID: -115294657944008405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 270
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dc5cd819b548540800000000000000
+      internalID: 5009229366249770327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_26
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 276
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aec5945152797a0800000000000000
+      internalID: -6370582374536910231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 268
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4891238c7ff959d30800000000000000
+      internalID: 4437628894407956868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 269
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5d27195ce9dd8d0800000000000000
+      internalID: -2819923220278094351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 248
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545ada95013d7d860800000000000000
+      internalID: 7554738967114786117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 276
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0859c54d92e6510800000000000000
+      internalID: 1544217714297766070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_31
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 276
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8344bb333751a7290800000000000000
+      internalID: -7891971812480039880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 245
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8254c4ab199b61bc0800000000000000
+      internalID: -3812655998975589080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_33
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 244
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdb7b2d110f9c250800000000000000
+      internalID: 5965563140769299965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eaee3096c3b4510800000000000000
+      internalID: 1534386519784992342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 237
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647a97615465eadb0800000000000000
+      internalID: -4778787299863713978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 244
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bcb4b6da7f9a8c0800000000000000
+      internalID: -3987383670858331334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 242
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7694c76d839bda20800000000000000
+      internalID: 3088224205033215613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec4d57a6983321d0800000000000000
+      internalID: -3376793075893580561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 237
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4e274414726c9d0800000000000000
+      internalID: -2754470960815741767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_40
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 249
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158e0c906a5f5a310800000000000000
+      internalID: 1415807751354902609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 226
+        width: 95
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8b4914aa6865340800000000000000
+      internalID: 4852213714341116144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16483d73976711df0800000000000000
+      internalID: -211257444509973407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 227
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecab3449e8ac35e0800000000000000
+      internalID: -1928480820595807005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf73b22886f0e9c0800000000000000
+      internalID: -3899846212744675366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 229
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c613b641e50d5f0800000000000000
+      internalID: -733983297470632954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 225
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb9e2488eed86cf0800000000000000
+      internalID: -258711888342377527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 231
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d45d2ac865325040800000000000000
+      internalID: 4634825690702501074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haidi_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 221
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775c5e4dbbf3296e0800000000000000
+      internalID: -1832332022423108233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      haidi_0: 7113265823797614077
+      haidi_1: -7902003457750975891
+      haidi_10: 2385519691860821721
+      haidi_11: -5739859860407005235
+      haidi_12: -2815940114458771401
+      haidi_13: 712359539835326271
+      haidi_14: 8248001668129752361
+      haidi_15: 1562307913908647548
+      haidi_16: 8470892821757625288
+      haidi_17: 4600306239132075514
+      haidi_18: -9169001153976464973
+      haidi_19: 5548034012619986991
+      haidi_2: 8604158157281780507
+      haidi_20: -1664617781066439780
+      haidi_21: -7505960045884082284
+      haidi_22: -6530984500656331732
+      haidi_23: 7642178710446377259
+      haidi_24: -115294657944008405
+      haidi_25: 5009229366249770327
+      haidi_26: -6370582374536910231
+      haidi_27: 4437628894407956868
+      haidi_28: -2819923220278094351
+      haidi_29: 7554738967114786117
+      haidi_3: 9061610085926416228
+      haidi_30: 1544217714297766070
+      haidi_31: -7891971812480039880
+      haidi_32: -3812655998975589080
+      haidi_33: 5965563140769299965
+      haidi_34: 1534386519784992342
+      haidi_35: -4778787299863713978
+      haidi_36: -3987383670858331334
+      haidi_37: 3088224205033215613
+      haidi_38: -3376793075893580561
+      haidi_39: -2754470960815741767
+      haidi_4: -8627566103834423597
+      haidi_40: 1415807751354902609
+      haidi_41: 4852213714341116144
+      haidi_42: -211257444509973407
+      haidi_43: -1928480820595807005
+      haidi_44: -3899846212744675366
+      haidi_45: -733983297470632954
+      haidi_46: -258711888342377527
+      haidi_47: 4634825690702501074
+      haidi_48: -1832332022423108233
+      haidi_5: 4376621374554565460
+      haidi_6: -6849457167340391976
+      haidi_7: 2718510945236537470
+      haidi_8: -383034669008197037
+      haidi_9: 2372999665779737390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

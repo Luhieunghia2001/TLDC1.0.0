@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 010a96425d9a5bf4280bb422c59a2448
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2253947958924357987
+    second: yiwen_0
+  - first:
+      213: 2538615080305356596
+    second: yiwen_1
+  - first:
+      213: -8669429094140087915
+    second: yiwen_2
+  - first:
+      213: -2356369653185697968
+    second: yiwen_3
+  - first:
+      213: -1938021720366877050
+    second: yiwen_4
+  - first:
+      213: 4111365558739600443
+    second: yiwen_5
+  - first:
+      213: -3077766299316873618
+    second: yiwen_6
+  - first:
+      213: -1852090816469751179
+    second: yiwen_7
+  - first:
+      213: -1032985475119334377
+    second: yiwen_8
+  - first:
+      213: -279874755000757506
+    second: yiwen_9
+  - first:
+      213: -8751240659364091689
+    second: yiwen_10
+  - first:
+      213: 3742856868443155679
+    second: yiwen_11
+  - first:
+      213: -7329700992107031988
+    second: yiwen_12
+  - first:
+      213: 8994109872578995768
+    second: yiwen_13
+  - first:
+      213: -2745640610303411414
+    second: yiwen_14
+  - first:
+      213: -2263861306016007770
+    second: yiwen_15
+  - first:
+      213: -1320399079695800241
+    second: yiwen_16
+  - first:
+      213: -5741435939499559923
+    second: yiwen_17
+  - first:
+      213: 2564161806443399406
+    second: yiwen_18
+  - first:
+      213: -6118227104047413932
+    second: yiwen_19
+  - first:
+      213: 7436939456802201430
+    second: yiwen_20
+  - first:
+      213: 1527680413057509473
+    second: yiwen_21
+  - first:
+      213: 6267985076844364748
+    second: yiwen_22
+  - first:
+      213: -996716396526424274
+    second: yiwen_23
+  - first:
+      213: 4265431147325893035
+    second: yiwen_24
+  - first:
+      213: -1821462094837440668
+    second: yiwen_25
+  - first:
+      213: -4395471444784896484
+    second: yiwen_26
+  - first:
+      213: -192826848963747445
+    second: yiwen_27
+  - first:
+      213: 8875383013438510919
+    second: yiwen_28
+  - first:
+      213: -362089738717583472
+    second: yiwen_29
+  - first:
+      213: -1463194099403041855
+    second: yiwen_30
+  - first:
+      213: 3114799917362467156
+    second: yiwen_31
+  - first:
+      213: -6679607022327338326
+    second: yiwen_32
+  - first:
+      213: 497417095367202154
+    second: yiwen_33
+  - first:
+      213: 2192501895987885648
+    second: yiwen_34
+  - first:
+      213: 2590542936183340035
+    second: yiwen_35
+  - first:
+      213: -8264952497919061032
+    second: yiwen_36
+  - first:
+      213: -7977224140496726354
+    second: yiwen_37
+  - first:
+      213: -8966460694884592707
+    second: yiwen_38
+  - first:
+      213: -3854857347389279546
+    second: yiwen_39
+  - first:
+      213: -6730560490348547798
+    second: yiwen_40
+  - first:
+      213: -3456726239608313583
+    second: yiwen_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yiwen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 417
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36137e90ab1a74f10800000000000000
+      internalID: 2253947958924357987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 326
+        width: 193
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fec0327f8fa3320800000000000000
+      internalID: 2538615080305356596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 361
+        width: 177
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591f756eb2000b780800000000000000
+      internalID: -8669429094140087915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_3
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 307
+        width: 92
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0572b56f84e7c4fd0800000000000000
+      internalID: -2356369653185697968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 316
+        width: 92
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6867a8e6383ca15e0800000000000000
+      internalID: -1938021720366877050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 423
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34037651318e0930800000000000000
+      internalID: 4111365558739600443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_6
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 361
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e669c838bd39945d0800000000000000
+      internalID: -3077766299316873618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 197
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aae88173d0c46e0800000000000000
+      internalID: -1852090816469751179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 227
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cbf51fe291aa1f0800000000000000
+      internalID: -1032985475119334377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_9
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 196
+        width: 89
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef29496a46fad1cf0800000000000000
+      internalID: -279874755000757506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_10
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 184
+        width: 56
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8e5a28cf85d8680800000000000000
+      internalID: -8751240659364091689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_11
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 320
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc6fa8cd7c41f330800000000000000
+      internalID: 3742856868443155679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_12
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 291
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42d1a738cba74a90800000000000000
+      internalID: -7329700992107031988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_13
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 297
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836a7e9b64f71dc70800000000000000
+      internalID: 8994109872578995768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_14
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 290
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b7af5796685e9d0800000000000000
+      internalID: -2745640610303411414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_15
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 293
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9f92af2262590e0800000000000000
+      internalID: -2263861306016007770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_16
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 275
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48aaf468000dade0800000000000000
+      internalID: -1320399079695800241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_17
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 274
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04b775be625250b0800000000000000
+      internalID: -5741435939499559923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 247
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8cea3d39bb59320800000000000000
+      internalID: 2564161806443399406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_19
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 285
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45546185dd0b71ba0800000000000000
+      internalID: -6118227104047413932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_20
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 258
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f18ca8801553760800000000000000
+      internalID: 7436939456802201430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_21
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 258
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1686d9edd39633510800000000000000
+      internalID: 1527680413057509473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_22
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc302cad73b5cf650800000000000000
+      internalID: 6267985076844364748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_23
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 246
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f2c3bd7b3fa22f0800000000000000
+      internalID: -996716396526424274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_24
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 253
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba92f3e770bd13b30800000000000000
+      internalID: 4265431147325893035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_25
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 234
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f106110edd8b6e0800000000000000
+      internalID: -1821462094837440668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_26
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 253
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16293952062003c0800000000000000
+      internalID: -4395471444784896484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_27
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 220
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81ab54a001f25df0800000000000000
+      internalID: -192826848963747445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_28
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 227
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747d981b3d1bb2b70800000000000000
+      internalID: 8875383013438510919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_29
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 222
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097ace21d4999faf0800000000000000
+      internalID: -362089738717583472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_30
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 216
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c352ab08b0b1bbe0800000000000000
+      internalID: -1463194099403041855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_31
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 226
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4515ecc950ef93b20800000000000000
+      internalID: 3114799917362467156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_32
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 232
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa69f2adc44d43a0800000000000000
+      internalID: -6679607022327338326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_33
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 238
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65919a763e27e600800000000000000
+      internalID: 497417095367202154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_34
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 193
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0567ab7abd45d6e10800000000000000
+      internalID: 2192501895987885648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_35
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 203
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cfa9e331573f320800000000000000
+      internalID: 2590542936183340035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_36
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 213
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d39e042e7dfc4d80800000000000000
+      internalID: -8264952497919061032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_37
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 205
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6950cc8e43b4190800000000000000
+      internalID: -7977224140496726354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_38
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 210
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3d6ec118bb09380800000000000000
+      internalID: -8966460694884592707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_39
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 210
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2be0d9aabc08ac0800000000000000
+      internalID: -3854857347389279546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_40
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 200
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21fe71e4ee3892a0800000000000000
+      internalID: -6730560490348547798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yiwen_41
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 195
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119ef52bccd3700d0800000000000000
+      internalID: -3456726239608313583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yiwen_0: 2253947958924357987
+      yiwen_1: 2538615080305356596
+      yiwen_10: -8751240659364091689
+      yiwen_11: 3742856868443155679
+      yiwen_12: -7329700992107031988
+      yiwen_13: 8994109872578995768
+      yiwen_14: -2745640610303411414
+      yiwen_15: -2263861306016007770
+      yiwen_16: -1320399079695800241
+      yiwen_17: -5741435939499559923
+      yiwen_18: 2564161806443399406
+      yiwen_19: -6118227104047413932
+      yiwen_2: -8669429094140087915
+      yiwen_20: 7436939456802201430
+      yiwen_21: 1527680413057509473
+      yiwen_22: 6267985076844364748
+      yiwen_23: -996716396526424274
+      yiwen_24: 4265431147325893035
+      yiwen_25: -1821462094837440668
+      yiwen_26: -4395471444784896484
+      yiwen_27: -192826848963747445
+      yiwen_28: 8875383013438510919
+      yiwen_29: -362089738717583472
+      yiwen_3: -2356369653185697968
+      yiwen_30: -1463194099403041855
+      yiwen_31: 3114799917362467156
+      yiwen_32: -6679607022327338326
+      yiwen_33: 497417095367202154
+      yiwen_34: 2192501895987885648
+      yiwen_35: 2590542936183340035
+      yiwen_36: -8264952497919061032
+      yiwen_37: -7977224140496726354
+      yiwen_38: -8966460694884592707
+      yiwen_39: -3854857347389279546
+      yiwen_4: -1938021720366877050
+      yiwen_40: -6730560490348547798
+      yiwen_41: -3456726239608313583
+      yiwen_5: 4111365558739600443
+      yiwen_6: -3077766299316873618
+      yiwen_7: -1852090816469751179
+      yiwen_8: -1032985475119334377
+      yiwen_9: -279874755000757506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

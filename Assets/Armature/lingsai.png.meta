@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 2d941c62fb2e32f489078de6508291c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6791464930883668317
+    second: lingsai_0
+  - first:
+      213: -7354850826582573537
+    second: lingsai_1
+  - first:
+      213: 5638529053342325462
+    second: lingsai_2
+  - first:
+      213: 8474677816357456120
+    second: lingsai_3
+  - first:
+      213: 3858743451929905024
+    second: lingsai_4
+  - first:
+      213: 3076211503840207908
+    second: lingsai_5
+  - first:
+      213: 7196238445707079424
+    second: lingsai_6
+  - first:
+      213: 4376303775844566538
+    second: lingsai_7
+  - first:
+      213: -7315356637810690506
+    second: lingsai_8
+  - first:
+      213: 6107754003072496591
+    second: lingsai_9
+  - first:
+      213: 5727740874675898636
+    second: lingsai_10
+  - first:
+      213: -2012163430520501954
+    second: lingsai_11
+  - first:
+      213: -2012342160170126129
+    second: lingsai_12
+  - first:
+      213: 7343106989231915789
+    second: lingsai_13
+  - first:
+      213: 1192137327343192214
+    second: lingsai_14
+  - first:
+      213: 6573167095325499519
+    second: lingsai_15
+  - first:
+      213: -3856345242931106488
+    second: lingsai_16
+  - first:
+      213: -2512062303571141735
+    second: lingsai_17
+  - first:
+      213: 4639243069835184133
+    second: lingsai_18
+  - first:
+      213: -5690301774973232569
+    second: lingsai_19
+  - first:
+      213: -2289121025554626883
+    second: lingsai_20
+  - first:
+      213: -3045812145116659335
+    second: lingsai_21
+  - first:
+      213: 6143800687616841856
+    second: lingsai_22
+  - first:
+      213: 2615139180351158861
+    second: lingsai_23
+  - first:
+      213: 1512997294161330103
+    second: lingsai_24
+  - first:
+      213: -3027211750288870657
+    second: lingsai_25
+  - first:
+      213: 2056981840090633343
+    second: lingsai_26
+  - first:
+      213: 3510793774879108481
+    second: lingsai_27
+  - first:
+      213: 2489990484425560533
+    second: lingsai_28
+  - first:
+      213: -8568550360205584711
+    second: lingsai_29
+  - first:
+      213: -5687631193544157586
+    second: lingsai_30
+  - first:
+      213: 7555331765461379314
+    second: lingsai_31
+  - first:
+      213: -8439204486321178844
+    second: lingsai_32
+  - first:
+      213: 2619162698108931905
+    second: lingsai_33
+  - first:
+      213: 4446062339688343003
+    second: lingsai_34
+  - first:
+      213: 1001126703320930846
+    second: lingsai_35
+  - first:
+      213: 6897640652039413317
+    second: lingsai_36
+  - first:
+      213: 7057828757238943590
+    second: lingsai_37
+  - first:
+      213: 178282383705725774
+    second: lingsai_38
+  - first:
+      213: -7853462894976592323
+    second: lingsai_39
+  - first:
+      213: 978228405355354018
+    second: lingsai_40
+  - first:
+      213: 5666812434625215740
+    second: lingsai_41
+  - first:
+      213: 3709427353680493033
+    second: lingsai_42
+  - first:
+      213: -8818389225737192225
+    second: lingsai_43
+  - first:
+      213: -1776156611070425477
+    second: lingsai_44
+  - first:
+      213: 3819402432084999664
+    second: lingsai_45
+  - first:
+      213: -5454988824526906023
+    second: lingsai_46
+  - first:
+      213: 4624273929659786542
+    second: lingsai_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lingsai_0
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 283
+        width: 295
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6f72ac0aedfb1a0800000000000000
+      internalID: -6791464930883668317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_1
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 323
+        width: 206
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ebe8114225ee990800000000000000
+      internalID: -7354850826582573537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_2
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 292
+        width: 57
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da5030cc44104e40800000000000000
+      internalID: 5638529053342325462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 375
+        width: 104
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f88eddb29a1c9570800000000000000
+      internalID: 8474677816357456120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_4
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 429
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08785ab99b20d8530800000000000000
+      internalID: 3858743451929905024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_5
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 473
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424ad547016e0ba20800000000000000
+      internalID: 3076211503840207908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 442
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f21633dbc2ed360800000000000000
+      internalID: 7196238445707079424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 295
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a068a64f811cbbc30800000000000000
+      internalID: 4376303775844566538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_8
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 336
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6367ff575e1aa7a90800000000000000
+      internalID: -7315356637810690506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_9
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 334
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc33b90d7e913c450800000000000000
+      internalID: 6107754003072496591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 402
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09ca888af50d7f40800000000000000
+      internalID: 5727740874675898636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 225
+        width: 137
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e394bc5550c5314e0800000000000000
+      internalID: -2012163430520501954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_12
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 312
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc474889779b214e0800000000000000
+      internalID: -2012342160170126129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_13
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 293
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d034bd8b6e4f7e560800000000000000
+      internalID: 7343106989231915789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_14
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 323
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69846cf35925b8010800000000000000
+      internalID: 1192137327343192214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_15
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 300
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70a926a5a4983b50800000000000000
+      internalID: 6573167095325499519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_16
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 312
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84de2dfee628b7ac0800000000000000
+      internalID: -3856345242931106488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_17
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 299
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b1ef5f4ac532dd0800000000000000
+      internalID: -2512062303571141735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 281
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50808340ef6e16040800000000000000
+      internalID: 4639243069835184133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_19
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 287
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a12f52facf701b0800000000000000
+      internalID: -5690301774973232569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_20
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 306
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db640f73e886b30e0800000000000000
+      internalID: -2289121025554626883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_21
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 288
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97140cdcdf91bb5d0800000000000000
+      internalID: -3045812145116659335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_22
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d3349c2a234550800000000000000
+      internalID: 6143800687616841856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_23
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a790b9a37da4420800000000000000
+      internalID: 2615139180351158861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_24
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 271
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bffc98d50f3ff410800000000000000
+      internalID: 1512997294161330103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_25
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 264
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2b424b3fe2df5d0800000000000000
+      internalID: -3027211750288870657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_26
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 271
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f741800d51edb8c10800000000000000
+      internalID: 2056981840090633343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_27
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 291
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d62575658d8b030800000000000000
+      internalID: 3510793774879108481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 231
+        width: 149
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1d94e27293e8220800000000000000
+      internalID: 2489990484425560533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_29
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 200
+        width: 113
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b696e378d4661980800000000000000
+      internalID: -8568550360205584711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_30
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 272
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e669e5750997111b0800000000000000
+      internalID: -5687631193544157586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_31
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 271
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8ec88f53ee9d860800000000000000
+      internalID: 7555331765461379314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_32
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 275
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42771f58b3ce1ea80800000000000000
+      internalID: -8439204486321178844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_33
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 264
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f8cb5d892295420800000000000000
+      internalID: 2619162698108931905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_34
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 258
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5ad56442693bd30800000000000000
+      internalID: 4446062339688343003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_35
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 279
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a1a96be67b4ed00800000000000000
+      internalID: 1001126703320930846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_36
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 254
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e5a15b0a759bf50800000000000000
+      internalID: 6897640652039413317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_37
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 264
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f83c85cd172f160800000000000000
+      internalID: 7057828757238943590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_38
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 268
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b5d7622e2697200800000000000000
+      internalID: 178282383705725774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_39
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3695304b15e20390800000000000000
+      internalID: -7853462894976592323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_40
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 258
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a717624d8d539d00800000000000000
+      internalID: 978228405355354018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_41
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 252
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc3a9e92ef84ae40800000000000000
+      internalID: 5666812434625215740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_42
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 258
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e93e3856888a7330800000000000000
+      internalID: 3709427353680493033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_43
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 242
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc7dc498b9ce9580800000000000000
+      internalID: -8818389225737192225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 139
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b768fa309f2d957e0800000000000000
+      internalID: -1776156611070425477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_45
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 231
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd70b2a64e310530800000000000000
+      internalID: 3819402432084999664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_46
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d195cd09cfb44b0800000000000000
+      internalID: -5454988824526906023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lingsai_47
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 224
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25a87973a8bc2040800000000000000
+      internalID: 4624273929659786542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lingsai_0: -6791464930883668317
+      lingsai_1: -7354850826582573537
+      lingsai_10: 5727740874675898636
+      lingsai_11: -2012163430520501954
+      lingsai_12: -2012342160170126129
+      lingsai_13: 7343106989231915789
+      lingsai_14: 1192137327343192214
+      lingsai_15: 6573167095325499519
+      lingsai_16: -3856345242931106488
+      lingsai_17: -2512062303571141735
+      lingsai_18: 4639243069835184133
+      lingsai_19: -5690301774973232569
+      lingsai_2: 5638529053342325462
+      lingsai_20: -2289121025554626883
+      lingsai_21: -3045812145116659335
+      lingsai_22: 6143800687616841856
+      lingsai_23: 2615139180351158861
+      lingsai_24: 1512997294161330103
+      lingsai_25: -3027211750288870657
+      lingsai_26: 2056981840090633343
+      lingsai_27: 3510793774879108481
+      lingsai_28: 2489990484425560533
+      lingsai_29: -8568550360205584711
+      lingsai_3: 8474677816357456120
+      lingsai_30: -5687631193544157586
+      lingsai_31: 7555331765461379314
+      lingsai_32: -8439204486321178844
+      lingsai_33: 2619162698108931905
+      lingsai_34: 4446062339688343003
+      lingsai_35: 1001126703320930846
+      lingsai_36: 6897640652039413317
+      lingsai_37: 7057828757238943590
+      lingsai_38: 178282383705725774
+      lingsai_39: -7853462894976592323
+      lingsai_4: 3858743451929905024
+      lingsai_40: 978228405355354018
+      lingsai_41: 5666812434625215740
+      lingsai_42: 3709427353680493033
+      lingsai_43: -8818389225737192225
+      lingsai_44: -1776156611070425477
+      lingsai_45: 3819402432084999664
+      lingsai_46: -5454988824526906023
+      lingsai_47: 4624273929659786542
+      lingsai_5: 3076211503840207908
+      lingsai_6: 7196238445707079424
+      lingsai_7: 4376303775844566538
+      lingsai_8: -7315356637810690506
+      lingsai_9: 6107754003072496591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 9237305b4ab0783468cd4f4c48fb0898
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2138311907626860149
+    second: lanzhi_0
+  - first:
+      213: 7273122873205413708
+    second: lanzhi_1
+  - first:
+      213: -6199019836123491901
+    second: lanzhi_2
+  - first:
+      213: -8283464311981541940
+    second: lanzhi_3
+  - first:
+      213: 6657302425463432273
+    second: lanzhi_4
+  - first:
+      213: -6085247178120891888
+    second: lanzhi_5
+  - first:
+      213: -1833294525246969033
+    second: lanzhi_6
+  - first:
+      213: 3198190936621418424
+    second: lanzhi_7
+  - first:
+      213: 3290600146462473168
+    second: lanzhi_8
+  - first:
+      213: 8164120427683548702
+    second: lanzhi_9
+  - first:
+      213: 3242581020024821149
+    second: lanzhi_10
+  - first:
+      213: -997233739795861609
+    second: lanzhi_11
+  - first:
+      213: 7030463942563044013
+    second: lanzhi_12
+  - first:
+      213: 8302389636471594991
+    second: lanzhi_13
+  - first:
+      213: -7520065372443661480
+    second: lanzhi_14
+  - first:
+      213: 2538194436035285193
+    second: lanzhi_15
+  - first:
+      213: -6005270338622332624
+    second: lanzhi_16
+  - first:
+      213: -3052252754827904129
+    second: lanzhi_17
+  - first:
+      213: -8948519516015128402
+    second: lanzhi_18
+  - first:
+      213: 7305310507375404071
+    second: lanzhi_19
+  - first:
+      213: -7049021484511825759
+    second: lanzhi_20
+  - first:
+      213: 6548737218574603061
+    second: lanzhi_21
+  - first:
+      213: 3276080965914817789
+    second: lanzhi_22
+  - first:
+      213: -4998497139143021470
+    second: lanzhi_23
+  - first:
+      213: 1092697211934125698
+    second: lanzhi_24
+  - first:
+      213: 7956291862820171109
+    second: lanzhi_25
+  - first:
+      213: 5276660034563388087
+    second: lanzhi_26
+  - first:
+      213: -7088510310203184118
+    second: lanzhi_27
+  - first:
+      213: 6896331306359159638
+    second: lanzhi_28
+  - first:
+      213: -4726615757806276457
+    second: lanzhi_29
+  - first:
+      213: -8037441895590051198
+    second: lanzhi_30
+  - first:
+      213: 3761309742597204924
+    second: lanzhi_31
+  - first:
+      213: 6171366458774628713
+    second: lanzhi_32
+  - first:
+      213: 8227134858504044417
+    second: lanzhi_33
+  - first:
+      213: -7954713242044057810
+    second: lanzhi_34
+  - first:
+      213: 2237475031585411487
+    second: lanzhi_35
+  - first:
+      213: -6212282344912927936
+    second: lanzhi_36
+  - first:
+      213: 2955126687647066114
+    second: lanzhi_37
+  - first:
+      213: 2575899212490239266
+    second: lanzhi_38
+  - first:
+      213: 8179681672264217511
+    second: lanzhi_39
+  - first:
+      213: -1863457703978592824
+    second: lanzhi_40
+  - first:
+      213: 2308813388105869216
+    second: lanzhi_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lanzhi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901
+        width: 384
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e3619c95fccad10800000000000000
+      internalID: 2138311907626860149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667
+        width: 158
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c475d21f7b25fe460800000000000000
+      internalID: 7273122873205413708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 745
+        width: 148
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c152488d48a8f9a0800000000000000
+      internalID: -6199019836123491901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 747
+        width: 59
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5f6be88193b0d80800000000000000
+      internalID: -8283464311981541940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 893
+        width: 116
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1542818b84d736c50800000000000000
+      internalID: 6657302425463432273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 871
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012f7a9beebdc8ba0800000000000000
+      internalID: -6085247178120891888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 817
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b6cfda754de86e0800000000000000
+      internalID: -1833294525246969033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 878
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7813d46b1426c20800000000000000
+      internalID: 3198190936621418424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 818
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db7ebb166f8aad20800000000000000
+      internalID: 3290600146462473168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 845
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e869b0648cc4170800000000000000
+      internalID: 8164120427683548702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 666
+        width: 84
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95d00ef146fffc20800000000000000
+      internalID: 3242581020024821149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 802
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fee6d723d1922f0800000000000000
+      internalID: -997233739795861609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 759
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa99aee4b9319160800000000000000
+      internalID: 7030463942563044013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 723
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef16cce263083370800000000000000
+      internalID: 8302389636471594991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 730
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba7c3036c53a790800000000000000
+      internalID: -7520065372443661480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 681
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c091c2446a793320800000000000000
+      internalID: 2538194436035285193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 709
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031e93eb17ef8aca0800000000000000
+      internalID: -6005270338622332624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 727
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b76cf7a4834a5d0800000000000000
+      internalID: -3052252754827904129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 717
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0944659e870d380800000000000000
+      internalID: -8948519516015128402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_19
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 713
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7242a06833da16560800000000000000
+      internalID: 7305310507375404071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 671
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a07391ae48dc2e90800000000000000
+      internalID: -7049021484511825759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 682
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533d488bdc9c1ea50800000000000000
+      internalID: 6548737218574603061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 652
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df475c4f74af67d20800000000000000
+      internalID: 3276080965914817789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_23
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 668
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ce29ac555c1aab0800000000000000
+      internalID: -4998497139143021470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 682
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ea46c235a0a2f00800000000000000
+      internalID: 1092697211934125698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_25
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 682
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d2ab48b4d6a6e60800000000000000
+      internalID: 7956291862820171109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 149
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2b6a038567a3940800000000000000
+      internalID: 5276660034563388087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 582
+        width: 110
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c25aded6d80ad90800000000000000
+      internalID: -7088510310203184118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 655
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b71f8e8c0b4bf50800000000000000
+      internalID: 6896331306359159638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_29
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 571
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790713ec200b76eb0800000000000000
+      internalID: -4726615757806276457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_30
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 644
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282438e1e25457090800000000000000
+      internalID: -8037441895590051198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_31
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 649
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbe8b9584bd23430800000000000000
+      internalID: 3761309742597204924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 615
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969a502d81915a550800000000000000
+      internalID: 6171366458774628713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 605
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ffd588097ac2270800000000000000
+      internalID: 8227134858504044417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 480
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e273ed5c37e2b9190800000000000000
+      internalID: -7954713242044057810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_35
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 583
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f915473cfab1d0f10800000000000000
+      internalID: 2237475031585411487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 147
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043c8031f1a89c9a0800000000000000
+      internalID: -6212282344912927936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 531
+        width: 133
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208ea73c018b20920800000000000000
+      internalID: 2955126687647066114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 520
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d60b1afae6fb320800000000000000
+      internalID: 2575899212490239266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 513
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3f413a421148170800000000000000
+      internalID: 8179681672264217511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 471
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5146c571ba326e0800000000000000
+      internalID: -1863457703978592824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanzhi_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 475
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a767ba3b8d8a0020800000000000000
+      internalID: 2308813388105869216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lanzhi_0: 2138311907626860149
+      lanzhi_1: 7273122873205413708
+      lanzhi_10: 3242581020024821149
+      lanzhi_11: -997233739795861609
+      lanzhi_12: 7030463942563044013
+      lanzhi_13: 8302389636471594991
+      lanzhi_14: -7520065372443661480
+      lanzhi_15: 2538194436035285193
+      lanzhi_16: -6005270338622332624
+      lanzhi_17: -3052252754827904129
+      lanzhi_18: -8948519516015128402
+      lanzhi_19: 7305310507375404071
+      lanzhi_2: -6199019836123491901
+      lanzhi_20: -7049021484511825759
+      lanzhi_21: 6548737218574603061
+      lanzhi_22: 3276080965914817789
+      lanzhi_23: -4998497139143021470
+      lanzhi_24: 1092697211934125698
+      lanzhi_25: 7956291862820171109
+      lanzhi_26: 5276660034563388087
+      lanzhi_27: -7088510310203184118
+      lanzhi_28: 6896331306359159638
+      lanzhi_29: -4726615757806276457
+      lanzhi_3: -8283464311981541940
+      lanzhi_30: -8037441895590051198
+      lanzhi_31: 3761309742597204924
+      lanzhi_32: 6171366458774628713
+      lanzhi_33: 8227134858504044417
+      lanzhi_34: -7954713242044057810
+      lanzhi_35: 2237475031585411487
+      lanzhi_36: -6212282344912927936
+      lanzhi_37: 2955126687647066114
+      lanzhi_38: 2575899212490239266
+      lanzhi_39: 8179681672264217511
+      lanzhi_4: 6657302425463432273
+      lanzhi_40: -1863457703978592824
+      lanzhi_41: 2308813388105869216
+      lanzhi_5: -6085247178120891888
+      lanzhi_6: -1833294525246969033
+      lanzhi_7: 3198190936621418424
+      lanzhi_8: 3290600146462473168
+      lanzhi_9: 8164120427683548702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 9fe301ec4b6201b4aa57c0acba0a70d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7363004030778064366
+    second: hongzhizhu_0
+  - first:
+      213: -3152098139736231835
+    second: hongzhizhu_1
+  - first:
+      213: -5742024701389038079
+    second: hongzhizhu_2
+  - first:
+      213: 1661502534409335062
+    second: hongzhizhu_3
+  - first:
+      213: 7886601864852348676
+    second: hongzhizhu_4
+  - first:
+      213: 7413628695319550122
+    second: hongzhizhu_5
+  - first:
+      213: 9180428124600248350
+    second: hongzhizhu_6
+  - first:
+      213: -5348672054315740792
+    second: hongzhizhu_7
+  - first:
+      213: -1368027812329113558
+    second: hongzhizhu_8
+  - first:
+      213: -2351944692906918349
+    second: hongzhizhu_9
+  - first:
+      213: -7678624818736163184
+    second: hongzhizhu_10
+  - first:
+      213: 1810028160736249836
+    second: hongzhizhu_11
+  - first:
+      213: 8458745587099922019
+    second: hongzhizhu_12
+  - first:
+      213: 7672017203307767794
+    second: hongzhizhu_13
+  - first:
+      213: 7771072533185759371
+    second: hongzhizhu_14
+  - first:
+      213: -2563936470119363829
+    second: hongzhizhu_15
+  - first:
+      213: -241526250043845235
+    second: hongzhizhu_16
+  - first:
+      213: -2590793611517427455
+    second: hongzhizhu_17
+  - first:
+      213: -9073610668807186165
+    second: hongzhizhu_18
+  - first:
+      213: 2378004833994078041
+    second: hongzhizhu_19
+  - first:
+      213: -640054120977119642
+    second: hongzhizhu_20
+  - first:
+      213: 2955700758449107601
+    second: hongzhizhu_21
+  - first:
+      213: -3506425290976161417
+    second: hongzhizhu_22
+  - first:
+      213: 1538464297269724502
+    second: hongzhizhu_23
+  - first:
+      213: 2435779738742139850
+    second: hongzhizhu_24
+  - first:
+      213: 4326893286835877175
+    second: hongzhizhu_25
+  - first:
+      213: -6098036361990280823
+    second: hongzhizhu_26
+  - first:
+      213: -6421101601272422871
+    second: hongzhizhu_27
+  - first:
+      213: -4323247231302879224
+    second: hongzhizhu_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hongzhizhu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 305
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedbb46b725ae2660800000000000000
+      internalID: 7363004030778064366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 361
+        width: 166
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5603ad3417f7144d0800000000000000
+      internalID: -3152098139736231835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 433
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e1036e4fa3050b0800000000000000
+      internalID: -5742024701389038079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 353
+        width: 26
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61131e480c7de0710800000000000000
+      internalID: 1661502534409335062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 126
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f157f6c96d27d60800000000000000
+      internalID: 7886601864852348676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 302
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa81a21f40082e660800000000000000
+      internalID: 7413628695319550122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 295
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18adc44dbe676f70800000000000000
+      internalID: 9180428124600248350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 336
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8819376ea13b5c5b0800000000000000
+      internalID: -5348672054315740792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 336
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28b44be3f9c30de0800000000000000
+      internalID: -1368027812329113558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 290
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33efaef43c63c5fd0800000000000000
+      internalID: -2351944692906918349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_10
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 259
+        width: 43
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0969bb3196b007590800000000000000
+      internalID: -7678624818736163184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 277
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce74322b5038e1910800000000000000
+      internalID: 1810028160736249836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 313
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e6e7c8b40836570800000000000000
+      internalID: 8458745587099922019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f768d19ffa787a60800000000000000
+      internalID: 7672017203307767794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 249
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b880558cb4568db60800000000000000
+      internalID: 7771072533185759371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 255
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bcddf5d511b6cd0800000000000000
+      internalID: -2563936470119363829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 215
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85543eb72de5acf0800000000000000
+      internalID: -241526250043845235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 247
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101072bdfe6ab0cd0800000000000000
+      internalID: -2590793611517427455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 233
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b099d87bb2f041280800000000000000
+      internalID: -9073610668807186165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 234
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957f06c1cce500120800000000000000
+      internalID: 2378004833994078041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 239
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666422a0b221e17f0800000000000000
+      internalID: -640054120977119642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 224
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19236b90e22c40920800000000000000
+      internalID: 2955700758449107601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 231
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7719be396cca65fc0800000000000000
+      internalID: -3506425290976161417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65502629029b95510800000000000000
+      internalID: 1538464297269724502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 221
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acba1de54c0adc120800000000000000
+      internalID: 2435779738742139850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 206
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735ffdef4863c0c30800000000000000
+      internalID: 4326893286835877175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 230
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9896720dc3c6f5ba0800000000000000
+      internalID: -6098036361990280823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 208
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e17753d1aa3e6a0800000000000000
+      internalID: -6421101601272422871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongzhizhu_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 215
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80830067c8db004c0800000000000000
+      internalID: -4323247231302879224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hongzhizhu_0: 7363004030778064366
+      hongzhizhu_1: -3152098139736231835
+      hongzhizhu_10: -7678624818736163184
+      hongzhizhu_11: 1810028160736249836
+      hongzhizhu_12: 8458745587099922019
+      hongzhizhu_13: 7672017203307767794
+      hongzhizhu_14: 7771072533185759371
+      hongzhizhu_15: -2563936470119363829
+      hongzhizhu_16: -241526250043845235
+      hongzhizhu_17: -2590793611517427455
+      hongzhizhu_18: -9073610668807186165
+      hongzhizhu_19: 2378004833994078041
+      hongzhizhu_2: -5742024701389038079
+      hongzhizhu_20: -640054120977119642
+      hongzhizhu_21: 2955700758449107601
+      hongzhizhu_22: -3506425290976161417
+      hongzhizhu_23: 1538464297269724502
+      hongzhizhu_24: 2435779738742139850
+      hongzhizhu_25: 4326893286835877175
+      hongzhizhu_26: -6098036361990280823
+      hongzhizhu_27: -6421101601272422871
+      hongzhizhu_28: -4323247231302879224
+      hongzhizhu_3: 1661502534409335062
+      hongzhizhu_4: 7886601864852348676
+      hongzhizhu_5: 7413628695319550122
+      hongzhizhu_6: 9180428124600248350
+      hongzhizhu_7: -5348672054315740792
+      hongzhizhu_8: -1368027812329113558
+      hongzhizhu_9: -2351944692906918349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

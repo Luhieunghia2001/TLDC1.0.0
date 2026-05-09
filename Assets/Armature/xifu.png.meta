@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: d9cb4b65bbf1492479fa4dc02bbef396
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5462822432850647797
+    second: xifu_0
+  - first:
+      213: 4658822726752019419
+    second: xifu_1
+  - first:
+      213: 3069062328829737688
+    second: xifu_2
+  - first:
+      213: 2380034005986429317
+    second: xifu_3
+  - first:
+      213: -4160278540617583138
+    second: xifu_4
+  - first:
+      213: 6495614048203572157
+    second: xifu_5
+  - first:
+      213: -3084721501222865865
+    second: xifu_6
+  - first:
+      213: 5236492676994825562
+    second: xifu_7
+  - first:
+      213: -3420190096238501559
+    second: xifu_8
+  - first:
+      213: 6737582659009721444
+    second: xifu_9
+  - first:
+      213: 8578371214111630239
+    second: xifu_10
+  - first:
+      213: 3903517683821386144
+    second: xifu_11
+  - first:
+      213: 5628780297120049229
+    second: xifu_12
+  - first:
+      213: -7481192995056474762
+    second: xifu_13
+  - first:
+      213: 7342567315212627010
+    second: xifu_14
+  - first:
+      213: 7548956427097531895
+    second: xifu_15
+  - first:
+      213: 1641061239835836417
+    second: xifu_16
+  - first:
+      213: 9129585868083683936
+    second: xifu_17
+  - first:
+      213: -6923884592127670368
+    second: xifu_18
+  - first:
+      213: -1068233553084634056
+    second: xifu_19
+  - first:
+      213: 1571380525252347126
+    second: xifu_20
+  - first:
+      213: 560189964804373907
+    second: xifu_21
+  - first:
+      213: 4342055221959104881
+    second: xifu_22
+  - first:
+      213: -330526562006238547
+    second: xifu_23
+  - first:
+      213: 710489651016750370
+    second: xifu_24
+  - first:
+      213: -801560089573704502
+    second: xifu_25
+  - first:
+      213: -280371432720676033
+    second: xifu_26
+  - first:
+      213: 4537354045169897645
+    second: xifu_27
+  - first:
+      213: -3969283772340922843
+    second: xifu_28
+  - first:
+      213: 5167577291988692488
+    second: xifu_29
+  - first:
+      213: 7200839880331513643
+    second: xifu_30
+  - first:
+      213: -6479124911213041679
+    second: xifu_31
+  - first:
+      213: 575526920345057750
+    second: xifu_32
+  - first:
+      213: 6109606081998945415
+    second: xifu_33
+  - first:
+      213: -5899150539860843418
+    second: xifu_34
+  - first:
+      213: 3845755938514172426
+    second: xifu_35
+  - first:
+      213: -6663974810695482403
+    second: xifu_36
+  - first:
+      213: -837384981646320646
+    second: xifu_37
+  - first:
+      213: 7846078411826619
+    second: xifu_38
+  - first:
+      213: 3522599735026008793
+    second: xifu_39
+  - first:
+      213: -3954017707839105172
+    second: xifu_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xifu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 173
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa19153f08dfcb40800000000000000
+      internalID: 5462822432850647797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 397
+        width: 144
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd32293269677a040800000000000000
+      internalID: 4658822726752019419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 354
+        width: 103
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dafd6f6def779a20800000000000000
+      internalID: 3069062328829737688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 398
+        width: 43
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589cb288154970120800000000000000
+      internalID: 2380034005986429317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 283
+        width: 43
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5fecb95b8b346c0800000000000000
+      internalID: -4160278540617583138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db30635cf8e052a50800000000000000
+      internalID: 6495614048203572157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 291
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734f990632ed035d0800000000000000
+      internalID: -3084721501222865865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 304
+        width: 159
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5df5397852cba840800000000000000
+      internalID: 5236492676994825562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 214
+        width: 100
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94125697a3b0980d0800000000000000
+      internalID: -3420190096238501559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 352
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4643b1b2bb3b08d50800000000000000
+      internalID: 6737582659009721444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 268
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f936f884b2f7c0770800000000000000
+      internalID: 8578371214111630239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 245
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a911a6d6a41c2630800000000000000
+      internalID: 3903517683821386144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 223
+        width: 133
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48ee809bd17d1e40800000000000000
+      internalID: 5628780297120049229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 238
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675a489ab967d2890800000000000000
+      internalID: -7481192995056474762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_14
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 182
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c64a2121a06e560800000000000000
+      internalID: 7342567315212627010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 85
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5ec06dfd743c860800000000000000
+      internalID: 7548956427097531895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 212
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100c31fb08836c610800000000000000
+      internalID: 1641061239835836417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 220
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062ed85f9fdc2be70800000000000000
+      internalID: 9129585868083683936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 224
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a70e64d5ab69ef90800000000000000
+      internalID: -6923884592127670368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 216
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cac334e3fdc21f0800000000000000
+      internalID: -1068233553084634056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 205
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f402ae134aaec510800000000000000
+      internalID: 1571380525252347126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 161
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d37e21ec136c700800000000000000
+      internalID: 560189964804373907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 210
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179900c1834124c30800000000000000
+      internalID: 4342055221959104881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 142
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa79c2d7dbb96bf0800000000000000
+      internalID: -330526562006238547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 144
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225d171c29a2cd900800000000000000
+      internalID: 710489651016750370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 171
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc34da685940e4f0800000000000000
+      internalID: -801560089573704502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b448bdaabeb1cf0800000000000000
+      internalID: -280371432720676033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 168
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da09882d67be7fe30800000000000000
+      internalID: 4537354045169897645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 169
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52695e070754ae8c0800000000000000
+      internalID: -3969283772340922843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 140
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e6c560b2ce6b740800000000000000
+      internalID: 5167577291988692488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 151
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f40af28b58ee360800000000000000
+      internalID: 7200839880331513643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 143
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f723cb98368516a0800000000000000
+      internalID: -6479124911213041679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 142
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d977dd4faeacf700800000000000000
+      internalID: 575526920345057750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 103
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cfc1b8c5ea9c450800000000000000
+      internalID: 6109606081998945415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_34
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 138
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6646a0bc6d1022ea0800000000000000
+      internalID: -5899150539860843418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 104
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a7cff76aede5530800000000000000
+      internalID: 3845755938514172426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 82
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd34858873ec483a0800000000000000
+      internalID: -6663974810695482403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_37
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 72
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb59bcbbc20164f0800000000000000
+      internalID: -837384981646320646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 112
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5ed9c77ffdb1000800000000000000
+      internalID: 7846078411826619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d24c14abc9c2e030800000000000000
+      internalID: 3522599735026008793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xifu_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 86
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6755a018d18029c0800000000000000
+      internalID: -3954017707839105172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      xifu_0: 5462822432850647797
+      xifu_1: 4658822726752019419
+      xifu_10: 8578371214111630239
+      xifu_11: 3903517683821386144
+      xifu_12: 5628780297120049229
+      xifu_13: -7481192995056474762
+      xifu_14: 7342567315212627010
+      xifu_15: 7548956427097531895
+      xifu_16: 1641061239835836417
+      xifu_17: 9129585868083683936
+      xifu_18: -6923884592127670368
+      xifu_19: -1068233553084634056
+      xifu_2: 3069062328829737688
+      xifu_20: 1571380525252347126
+      xifu_21: 560189964804373907
+      xifu_22: 4342055221959104881
+      xifu_23: -330526562006238547
+      xifu_24: 710489651016750370
+      xifu_25: -801560089573704502
+      xifu_26: -280371432720676033
+      xifu_27: 4537354045169897645
+      xifu_28: -3969283772340922843
+      xifu_29: 5167577291988692488
+      xifu_3: 2380034005986429317
+      xifu_30: 7200839880331513643
+      xifu_31: -6479124911213041679
+      xifu_32: 575526920345057750
+      xifu_33: 6109606081998945415
+      xifu_34: -5899150539860843418
+      xifu_35: 3845755938514172426
+      xifu_36: -6663974810695482403
+      xifu_37: -837384981646320646
+      xifu_38: 7846078411826619
+      xifu_39: 3522599735026008793
+      xifu_4: -4160278540617583138
+      xifu_40: -3954017707839105172
+      xifu_5: 6495614048203572157
+      xifu_6: -3084721501222865865
+      xifu_7: 5236492676994825562
+      xifu_8: -3420190096238501559
+      xifu_9: 6737582659009721444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

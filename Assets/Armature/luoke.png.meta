@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 0a72a6fc660c50241a4425c83fe93756
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -908523713261377956
+    second: luoke_0
+  - first:
+      213: -4165354767594644768
+    second: luoke_1
+  - first:
+      213: -6542313688492476478
+    second: luoke_2
+  - first:
+      213: -8694626027541842423
+    second: luoke_3
+  - first:
+      213: -1993795506329906252
+    second: luoke_4
+  - first:
+      213: -1027317576548799765
+    second: luoke_5
+  - first:
+      213: 1589044485931783133
+    second: luoke_6
+  - first:
+      213: 1497073355935957751
+    second: luoke_7
+  - first:
+      213: -3429896428664954709
+    second: luoke_8
+  - first:
+      213: -4185665398416993554
+    second: luoke_9
+  - first:
+      213: -2588975231518579411
+    second: luoke_10
+  - first:
+      213: -3788198525823158076
+    second: luoke_11
+  - first:
+      213: 1310387422339240855
+    second: luoke_12
+  - first:
+      213: -7904388153954670701
+    second: luoke_13
+  - first:
+      213: -4353530443487390829
+    second: luoke_14
+  - first:
+      213: -874259261999047923
+    second: luoke_15
+  - first:
+      213: 2068015265222235211
+    second: luoke_16
+  - first:
+      213: -2103341370345001554
+    second: luoke_17
+  - first:
+      213: -6605700718755563977
+    second: luoke_18
+  - first:
+      213: 8842280340961844608
+    second: luoke_19
+  - first:
+      213: -7438112373684569811
+    second: luoke_20
+  - first:
+      213: -7296211932536156706
+    second: luoke_21
+  - first:
+      213: -8482752933063492996
+    second: luoke_22
+  - first:
+      213: -4014871404623414494
+    second: luoke_23
+  - first:
+      213: 6779862967276213745
+    second: luoke_24
+  - first:
+      213: -7083110024446317959
+    second: luoke_25
+  - first:
+      213: -6568709709019641457
+    second: luoke_26
+  - first:
+      213: 2165437672211139338
+    second: luoke_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: luoke_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 196
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5669011f764463f0800000000000000
+      internalID: -908523713261377956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 353
+        width: 167
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea9a0a68efa136c0800000000000000
+      internalID: -4165354767594644768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 378
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7fa3cec580535a0800000000000000
+      internalID: -6542313688492476478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 284
+        width: 137
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906b08da1bb765780800000000000000
+      internalID: -8694626027541842423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b39f62fc8d9454e0800000000000000
+      internalID: -1993795506329906252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 254
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea2b4a6b1c3eb1f0800000000000000
+      internalID: -1027317576548799765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 240
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3d1447a8b6d0610800000000000000
+      internalID: 1589044485931783133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 287
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2c34f094ca6c410800000000000000
+      internalID: 1497073355935957751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 230
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba06b09de5f8660d0800000000000000
+      internalID: -3429896428664954709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee216ba2f7789e5c0800000000000000
+      internalID: -4185665398416993554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 226
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25ec017ebc121cd0800000000000000
+      internalID: -2588975231518579411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 170
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8f6a1f28d9d6bc0800000000000000
+      internalID: -3788198525823158076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 162
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7939baafa6e6f2210800000000000000
+      internalID: 1310387422339240855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 168
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397e9bc6ad8fd4290800000000000000
+      internalID: -7904388153954670701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 186
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393d51da0272593c0800000000000000
+      internalID: -4353530443487390829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 212
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b93fe45d10ed3f0800000000000000
+      internalID: -874259261999047923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4418a94de013bc10800000000000000
+      internalID: 2068015265222235211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 129
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eade33bea2e6fc2e0800000000000000
+      internalID: -2103341370345001554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 115
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736380ed136d354a0800000000000000
+      internalID: -6605700718755563977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 122
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d53772f1716ba70800000000000000
+      internalID: 8842280340961844608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 128
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29f717743486c890800000000000000
+      internalID: -7438112373684569811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 107
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd473387e5aeba90800000000000000
+      internalID: -7296211932536156706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 95
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7af853a625374a80800000000000000
+      internalID: -8482752933063492996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 149
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b3c8caabf4848c0800000000000000
+      internalID: -4014871404623414494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 101
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5135e8279e61e50800000000000000
+      internalID: 6779862967276213745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 90
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a6edfe5fcb3bd90800000000000000
+      internalID: -7083110024446317959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_26
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 84
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f898939725147d4a0800000000000000
+      internalID: -6568709709019641457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luoke_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bc463071e2d0e10800000000000000
+      internalID: 2165437672211139338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      luoke_0: -908523713261377956
+      luoke_1: -4165354767594644768
+      luoke_10: -2588975231518579411
+      luoke_11: -3788198525823158076
+      luoke_12: 1310387422339240855
+      luoke_13: -7904388153954670701
+      luoke_14: -4353530443487390829
+      luoke_15: -874259261999047923
+      luoke_16: 2068015265222235211
+      luoke_17: -2103341370345001554
+      luoke_18: -6605700718755563977
+      luoke_19: 8842280340961844608
+      luoke_2: -6542313688492476478
+      luoke_20: -7438112373684569811
+      luoke_21: -7296211932536156706
+      luoke_22: -8482752933063492996
+      luoke_23: -4014871404623414494
+      luoke_24: 6779862967276213745
+      luoke_25: -7083110024446317959
+      luoke_26: -6568709709019641457
+      luoke_27: 2165437672211139338
+      luoke_3: -8694626027541842423
+      luoke_4: -1993795506329906252
+      luoke_5: -1027317576548799765
+      luoke_6: 1589044485931783133
+      luoke_7: 1497073355935957751
+      luoke_8: -3429896428664954709
+      luoke_9: -4185665398416993554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

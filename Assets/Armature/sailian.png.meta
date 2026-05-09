@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: e034eb2df2a8e1144a53aff5cdbb7f8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1594042578919256928
+    second: sailian_0
+  - first:
+      213: 5896135720153814168
+    second: sailian_1
+  - first:
+      213: 1170098833592748561
+    second: sailian_2
+  - first:
+      213: -7601327717246815394
+    second: sailian_3
+  - first:
+      213: -6495533770649042617
+    second: sailian_4
+  - first:
+      213: -5442604709942060102
+    second: sailian_5
+  - first:
+      213: 6871841769646950247
+    second: sailian_6
+  - first:
+      213: -8564789943334946740
+    second: sailian_7
+  - first:
+      213: 3052387049253017382
+    second: sailian_8
+  - first:
+      213: -2077707581783704635
+    second: sailian_9
+  - first:
+      213: -1609513203967352725
+    second: sailian_10
+  - first:
+      213: 8225242293371789847
+    second: sailian_11
+  - first:
+      213: 8880102886437507665
+    second: sailian_12
+  - first:
+      213: -2684506096129669218
+    second: sailian_13
+  - first:
+      213: -2492245556651669109
+    second: sailian_14
+  - first:
+      213: 5291590902733948135
+    second: sailian_15
+  - first:
+      213: -434372424709912463
+    second: sailian_16
+  - first:
+      213: 11822814758602931
+    second: sailian_17
+  - first:
+      213: -5243263617857428748
+    second: sailian_18
+  - first:
+      213: 5252432752697071603
+    second: sailian_19
+  - first:
+      213: 2239370719715936213
+    second: sailian_20
+  - first:
+      213: 6693498505206069816
+    second: sailian_21
+  - first:
+      213: 5697440885453547446
+    second: sailian_22
+  - first:
+      213: 416407970949032228
+    second: sailian_23
+  - first:
+      213: -2337607180439930070
+    second: sailian_24
+  - first:
+      213: -2178295389355401303
+    second: sailian_25
+  - first:
+      213: 19090319297019078
+    second: sailian_26
+  - first:
+      213: 1485701376214471156
+    second: sailian_27
+  - first:
+      213: -3236884854975615164
+    second: sailian_28
+  - first:
+      213: -9151724730940378615
+    second: sailian_29
+  - first:
+      213: 6141280217389946990
+    second: sailian_30
+  - first:
+      213: -970521955608513715
+    second: sailian_31
+  - first:
+      213: 3394461439594353823
+    second: sailian_32
+  - first:
+      213: -3641045393167891529
+    second: sailian_33
+  - first:
+      213: 8725715351239318047
+    second: sailian_34
+  - first:
+      213: -4037919724300185812
+    second: sailian_35
+  - first:
+      213: 1892725330580592431
+    second: sailian_36
+  - first:
+      213: 6697779469208120401
+    second: sailian_37
+  - first:
+      213: 5682981681447599762
+    second: sailian_38
+  - first:
+      213: 5197610381932005461
+    second: sailian_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sailian_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 177
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0637459a74d2f1610800000000000000
+      internalID: 1594042578919256928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 350
+        width: 64
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894924bc23843d150800000000000000
+      internalID: 5896135720153814168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 443
+        width: 137
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a056090b60d3010800000000000000
+      internalID: 1170098833592748561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 490
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e533c28f6b8a28690800000000000000
+      internalID: -7601327717246815394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 465
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74109ed437a3bd5a0800000000000000
+      internalID: -6495533770649042617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 325
+        width: 122
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb190b3adbf774b0800000000000000
+      internalID: -5442604709942060102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_6
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 449
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7678f705eafad5f50800000000000000
+      internalID: 6871841769646950247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 431
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48beabbce0c32980800000000000000
+      internalID: -8564789943334946740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 433
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6279abb59d14c5a20800000000000000
+      internalID: 3052387049253017382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 362
+        width: 115
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb75a866ff7a23e0800000000000000
+      internalID: -2077707581783704635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_10
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 385
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60a930c44cd9a9e0800000000000000
+      internalID: -1609513203967352725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712e1ff594ee52270800000000000000
+      internalID: 8225242293371789847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 271
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1525703c6867c3b70800000000000000
+      internalID: 8880102886437507665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 246
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9702debde7bebad0800000000000000
+      internalID: -2684506096129669218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 239
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b894bb6eed3c96dd0800000000000000
+      internalID: -2492245556651669109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 265
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e44526d3e18f6940800000000000000
+      internalID: 5291590902733948135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 304
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178c0f4c49cc8f9f0800000000000000
+      internalID: -434372424709912463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 284
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b88ee199c00a2000800000000000000
+      internalID: 11822814758602931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_18
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 277
+        width: 53
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2e0e1058f2c37b0800000000000000
+      internalID: -5243263617857428748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7d22f82c364e840800000000000000
+      internalID: 5252432752697071603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 255
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7441d0ec7d31f10800000000000000
+      internalID: 2239370719715936213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 258
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a7a634d6514ec50800000000000000
+      internalID: 6693498505206069816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 238
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7ee3a8c40611f40800000000000000
+      internalID: 5697440885453547446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 252
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429ee06e7d067c500800000000000000
+      internalID: 416407970949032228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 259
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bb97197a62f8fd0800000000000000
+      internalID: -2337607180439930070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_25
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 258
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af999d62e325c1e0800000000000000
+      internalID: -2178295389355401303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_26
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 210
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccf8545b82d34000800000000000000
+      internalID: 19090319297019078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 214
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f19293b7854e9410800000000000000
+      internalID: 1485701376214471156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 235
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f2658cf564413d0800000000000000
+      internalID: -3236884854975615164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 228
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902342a58da8ef080800000000000000
+      internalID: -9151724730940378615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 249
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6859afd1d53a3550800000000000000
+      internalID: 6141280217389946990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 232
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43bc356c630882f0800000000000000
+      internalID: -970521955608513715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 231
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9458c6d1bc8b1f20800000000000000
+      internalID: 3394461439594353823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 204
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3c7298188687dc0800000000000000
+      internalID: -3641045393167891529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 212
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1adac191e7f71970800000000000000
+      internalID: 8725715351239318047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 209
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f4b81976d66f7c0800000000000000
+      internalID: -4037919724300185812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_36
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 219
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27d3aaf8af444a10800000000000000
+      internalID: 1892725330580592431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_37
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 236
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ced0ed0fa43fc50800000000000000
+      internalID: 6697779469208120401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_38
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 217
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e7cb3cab10ede40800000000000000
+      internalID: 5682981681447599762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sailian_39
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 215
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55880ffaa1f912840800000000000000
+      internalID: 5197610381932005461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sailian_0: 1594042578919256928
+      sailian_1: 5896135720153814168
+      sailian_10: -1609513203967352725
+      sailian_11: 8225242293371789847
+      sailian_12: 8880102886437507665
+      sailian_13: -2684506096129669218
+      sailian_14: -2492245556651669109
+      sailian_15: 5291590902733948135
+      sailian_16: -434372424709912463
+      sailian_17: 11822814758602931
+      sailian_18: -5243263617857428748
+      sailian_19: 5252432752697071603
+      sailian_2: 1170098833592748561
+      sailian_20: 2239370719715936213
+      sailian_21: 6693498505206069816
+      sailian_22: 5697440885453547446
+      sailian_23: 416407970949032228
+      sailian_24: -2337607180439930070
+      sailian_25: -2178295389355401303
+      sailian_26: 19090319297019078
+      sailian_27: 1485701376214471156
+      sailian_28: -3236884854975615164
+      sailian_29: -9151724730940378615
+      sailian_3: -7601327717246815394
+      sailian_30: 6141280217389946990
+      sailian_31: -970521955608513715
+      sailian_32: 3394461439594353823
+      sailian_33: -3641045393167891529
+      sailian_34: 8725715351239318047
+      sailian_35: -4037919724300185812
+      sailian_36: 1892725330580592431
+      sailian_37: 6697779469208120401
+      sailian_38: 5682981681447599762
+      sailian_39: 5197610381932005461
+      sailian_4: -6495533770649042617
+      sailian_5: -5442604709942060102
+      sailian_6: 6871841769646950247
+      sailian_7: -8564789943334946740
+      sailian_8: 3052387049253017382
+      sailian_9: -2077707581783704635
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

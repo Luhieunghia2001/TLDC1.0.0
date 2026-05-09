@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: e4e27796cc8aef042b73fa2c302b1bea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6732304234101658669
+    second: duosilijia_0
+  - first:
+      213: -1330927828347801556
+    second: duosilijia_1
+  - first:
+      213: -606866288926231048
+    second: duosilijia_2
+  - first:
+      213: 7533804173462488941
+    second: duosilijia_3
+  - first:
+      213: -7915807242832367968
+    second: duosilijia_4
+  - first:
+      213: 4171163643689261018
+    second: duosilijia_5
+  - first:
+      213: 7967430346495922447
+    second: duosilijia_6
+  - first:
+      213: 3589465601498758395
+    second: duosilijia_7
+  - first:
+      213: 9100374397240976708
+    second: duosilijia_8
+  - first:
+      213: -4067669840555631680
+    second: duosilijia_9
+  - first:
+      213: -5598440592059853515
+    second: duosilijia_10
+  - first:
+      213: -697213291528955395
+    second: duosilijia_11
+  - first:
+      213: -1857526888297658193
+    second: duosilijia_12
+  - first:
+      213: -9088230354588290766
+    second: duosilijia_13
+  - first:
+      213: 3830298255751830859
+    second: duosilijia_14
+  - first:
+      213: -1078152022838657816
+    second: duosilijia_15
+  - first:
+      213: 300315280338702667
+    second: duosilijia_16
+  - first:
+      213: -844531380220182506
+    second: duosilijia_17
+  - first:
+      213: -5783621402515701357
+    second: duosilijia_18
+  - first:
+      213: 166786817175088198
+    second: duosilijia_19
+  - first:
+      213: -4054414330317719103
+    second: duosilijia_20
+  - first:
+      213: -8746750730275514197
+    second: duosilijia_21
+  - first:
+      213: 8847850625812803948
+    second: duosilijia_22
+  - first:
+      213: 4013175537310772489
+    second: duosilijia_23
+  - first:
+      213: -6275608607013281697
+    second: duosilijia_24
+  - first:
+      213: 4493012740742722904
+    second: duosilijia_25
+  - first:
+      213: 2546188119250616117
+    second: duosilijia_26
+  - first:
+      213: -8454543933838564579
+    second: duosilijia_27
+  - first:
+      213: -2301295790449320063
+    second: duosilijia_28
+  - first:
+      213: 3532495036665428262
+    second: duosilijia_29
+  - first:
+      213: -7157007753735994813
+    second: duosilijia_30
+  - first:
+      213: -8695379623493242850
+    second: duosilijia_31
+  - first:
+      213: -7221927551522018870
+    second: duosilijia_32
+  - first:
+      213: 1577976851052963848
+    second: duosilijia_33
+  - first:
+      213: 644564124674735681
+    second: duosilijia_34
+  - first:
+      213: -5684777182659267837
+    second: duosilijia_35
+  - first:
+      213: 7947442704694183775
+    second: duosilijia_36
+  - first:
+      213: -7560643454237381342
+    second: duosilijia_37
+  - first:
+      213: 6428715445318280664
+    second: duosilijia_38
+  - first:
+      213: -1489543940780197660
+    second: duosilijia_39
+  - first:
+      213: -8746106767924085959
+    second: duosilijia_40
+  - first:
+      213: 5007618977581006490
+    second: duosilijia_41
+  - first:
+      213: 9080646505381660891
+    second: duosilijia_42
+  - first:
+      213: -2101265601778136218
+    second: duosilijia_43
+  - first:
+      213: 723330475491567946
+    second: duosilijia_44
+  - first:
+      213: 1507115859323090586
+    second: duosilijia_45
+  - first:
+      213: 2327430736521047268
+    second: duosilijia_46
+  - first:
+      213: 6078214260743421657
+    second: duosilijia_47
+  - first:
+      213: 8892782239106200789
+    second: duosilijia_48
+  - first:
+      213: -2457844438974804520
+    second: duosilijia_49
+  - first:
+      213: 187113652089746139
+    second: duosilijia_50
+  - first:
+      213: -8316699012718370683
+    second: duosilijia_51
+  - first:
+      213: 2204796038459215314
+    second: duosilijia_52
+  - first:
+      213: 8220708311629339272
+    second: duosilijia_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duosilijia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 418
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db2386e7fc0292a0800000000000000
+      internalID: -6732304234101658669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 604
+        width: 420
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20b5a11138978de0800000000000000
+      internalID: -1330927828347801556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_2
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 878
+        width: 164
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f57466535af397f0800000000000000
+      internalID: -606866288926231048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_3
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 992
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67469edaf27d8860800000000000000
+      internalID: 7533804173462488941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_4
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 971
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae238c9047652290800000000000000
+      internalID: -7915807242832367968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_5
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 950
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad75f12fb33f2e930800000000000000
+      internalID: 4171163643689261018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 933
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f019e87dfaff19e60800000000000000
+      internalID: 7967430346495922447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_7
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 911
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc31de52f750d130800000000000000
+      internalID: 3589465601498758395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_8
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 902
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445ab966c460b4e70800000000000000
+      internalID: 9100374397240976708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_9
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 765
+        width: 166
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb9c1ad4dbbc87c0800000000000000
+      internalID: -4067669840555631680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_10
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 657
+        width: 166
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535152e71f75e42b0800000000000000
+      internalID: -5598440592059853515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 447
+        width: 228
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df95cb194300356f0800000000000000
+      internalID: -697213291528955395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 534
+        width: 164
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8084ef22db836e0800000000000000
+      internalID: -1857526888297658193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 576
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231b7ddd4ae10e180800000000000000
+      internalID: -9088230354588290766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_14
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 529
+        width: 114
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd2e548f3f72530800000000000000
+      internalID: 3830298255751830859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_15
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 516
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec35d09272a901f0800000000000000
+      internalID: -1078152022838657816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_16
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 587
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41d535082fea2400800000000000000
+      internalID: 300315280338702667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 79
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6104e482f2f9744f0800000000000000
+      internalID: -844531380220182506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 572
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39184b33af27cbfa0800000000000000
+      internalID: -5783621402515701357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 572
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c60fef9bb805200800000000000000
+      internalID: 166786817175088198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 520
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9b825d5a3dbb7c0800000000000000
+      internalID: -4054414330317719103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 563
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba81a079d8c4d9680800000000000000
+      internalID: -8746750730275514197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_22
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 571
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c613a492441e9ca70800000000000000
+      internalID: 8847850625812803948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 574
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d22b273e9a1b730800000000000000
+      internalID: 4013175537310772489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_24
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 499
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50e695b83f88e8a0800000000000000
+      internalID: -6275608607013281697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_25
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 555
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855364f58436a5e30800000000000000
+      internalID: 4493012740742722904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 531
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fb04baa90e55320800000000000000
+      internalID: 2546188119250616117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 519
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d136e95161d6baa80800000000000000
+      internalID: -8454543933838564579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 526
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f9a2fdba72010e0800000000000000
+      internalID: -2301295790449320063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 533
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629f5471581f50130800000000000000
+      internalID: 3532495036665428262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 531
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34289df0e533dac90800000000000000
+      internalID: -7157007753735994813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_31
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 462
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10f3827d4ec35780800000000000000
+      internalID: -8695379623493242850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_32
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 495
+        width: 90
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac96ce1c72f86cb90800000000000000
+      internalID: -7221927551522018870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_33
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 521
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8082dc6e59916e510800000000000000
+      internalID: 1577976851052963848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 508
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eb23608a3f1f800800000000000000
+      internalID: 644564124674735681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 510
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3033958854d9b11b0800000000000000
+      internalID: -5684777182659267837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_36
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 518
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f570116580dfa4e60800000000000000
+      internalID: 7947442704694183775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 523
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d6ccc16d2331790800000000000000
+      internalID: -7560643454237381342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 521
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5634003a2673950800000000000000
+      internalID: 6428715445318280664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_39
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 450
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8f5748da3145be0800000000000000
+      internalID: -1489543940780197660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_40
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 472
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bbe32cb369f9680800000000000000
+      internalID: -8746106767924085959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_41
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 477
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e7839bde2ae7540800000000000000
+      internalID: 5007618977581006490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 505
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd88a24a2efe40e70800000000000000
+      internalID: 9080646505381660891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_43
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 490
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b4443711ec6d2e0800000000000000
+      internalID: -2101265601778136218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_44
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 510
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49a3ee2c39c90a00800000000000000
+      internalID: 723330475491567946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_45
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 471
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a967f4693e95ae410800000000000000
+      internalID: 1507115859323090586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_46
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 491
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eca9a17ce1bc4020800000000000000
+      internalID: 2327430736521047268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 481
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de33589aa72a5450800000000000000
+      internalID: 6078214260743421657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 478
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4f3da9452896b70800000000000000
+      internalID: 8892782239106200789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 475
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddccb5418bf3edd0800000000000000
+      internalID: -2457844438974804520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_50
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 481
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd27f6d00e2c89200800000000000000
+      internalID: 187113652089746139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 483
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580641bcf46259c80800000000000000
+      internalID: -8316699012718370683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_52
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 472
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddcc82c052099e10800000000000000
+      internalID: 2204796038459215314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duosilijia_53
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 479
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a94cc77a2d51270800000000000000
+      internalID: 8220708311629339272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      duosilijia_0: -6732304234101658669
+      duosilijia_1: -1330927828347801556
+      duosilijia_10: -5598440592059853515
+      duosilijia_11: -697213291528955395
+      duosilijia_12: -1857526888297658193
+      duosilijia_13: -9088230354588290766
+      duosilijia_14: 3830298255751830859
+      duosilijia_15: -1078152022838657816
+      duosilijia_16: 300315280338702667
+      duosilijia_17: -844531380220182506
+      duosilijia_18: -5783621402515701357
+      duosilijia_19: 166786817175088198
+      duosilijia_2: -606866288926231048
+      duosilijia_20: -4054414330317719103
+      duosilijia_21: -8746750730275514197
+      duosilijia_22: 8847850625812803948
+      duosilijia_23: 4013175537310772489
+      duosilijia_24: -6275608607013281697
+      duosilijia_25: 4493012740742722904
+      duosilijia_26: 2546188119250616117
+      duosilijia_27: -8454543933838564579
+      duosilijia_28: -2301295790449320063
+      duosilijia_29: 3532495036665428262
+      duosilijia_3: 7533804173462488941
+      duosilijia_30: -7157007753735994813
+      duosilijia_31: -8695379623493242850
+      duosilijia_32: -7221927551522018870
+      duosilijia_33: 1577976851052963848
+      duosilijia_34: 644564124674735681
+      duosilijia_35: -5684777182659267837
+      duosilijia_36: 7947442704694183775
+      duosilijia_37: -7560643454237381342
+      duosilijia_38: 6428715445318280664
+      duosilijia_39: -1489543940780197660
+      duosilijia_4: -7915807242832367968
+      duosilijia_40: -8746106767924085959
+      duosilijia_41: 5007618977581006490
+      duosilijia_42: 9080646505381660891
+      duosilijia_43: -2101265601778136218
+      duosilijia_44: 723330475491567946
+      duosilijia_45: 1507115859323090586
+      duosilijia_46: 2327430736521047268
+      duosilijia_47: 6078214260743421657
+      duosilijia_48: 8892782239106200789
+      duosilijia_49: -2457844438974804520
+      duosilijia_5: 4171163643689261018
+      duosilijia_50: 187113652089746139
+      duosilijia_51: -8316699012718370683
+      duosilijia_52: 2204796038459215314
+      duosilijia_53: 8220708311629339272
+      duosilijia_6: 7967430346495922447
+      duosilijia_7: 3589465601498758395
+      duosilijia_8: 9100374397240976708
+      duosilijia_9: -4067669840555631680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

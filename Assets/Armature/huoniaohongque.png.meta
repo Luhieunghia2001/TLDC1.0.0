@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 52e3c97e07a1eb84ba0cbc77f6dae987
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5813397822152693412
+    second: huoniaohongque_0
+  - first:
+      213: 569413042445416367
+    second: huoniaohongque_1
+  - first:
+      213: -6446718083905686681
+    second: huoniaohongque_2
+  - first:
+      213: -5155547557872680433
+    second: huoniaohongque_3
+  - first:
+      213: 3152950475023473927
+    second: huoniaohongque_4
+  - first:
+      213: -4773021895308432440
+    second: huoniaohongque_5
+  - first:
+      213: 7067997878999070306
+    second: huoniaohongque_6
+  - first:
+      213: 8279081925507690489
+    second: huoniaohongque_7
+  - first:
+      213: 617534928881571456
+    second: huoniaohongque_8
+  - first:
+      213: 761529265306919363
+    second: huoniaohongque_9
+  - first:
+      213: -4094045161703069301
+    second: huoniaohongque_10
+  - first:
+      213: -222208035112453645
+    second: huoniaohongque_11
+  - first:
+      213: -7654741784468432745
+    second: huoniaohongque_12
+  - first:
+      213: -2735546200586268268
+    second: huoniaohongque_13
+  - first:
+      213: 3816255819343945298
+    second: huoniaohongque_14
+  - first:
+      213: 3289405168361511143
+    second: huoniaohongque_15
+  - first:
+      213: -7472548665879499495
+    second: huoniaohongque_16
+  - first:
+      213: -4075570480106647586
+    second: huoniaohongque_17
+  - first:
+      213: 2203276935964306765
+    second: huoniaohongque_18
+  - first:
+      213: 3007250850140060814
+    second: huoniaohongque_19
+  - first:
+      213: -6837417483178176905
+    second: huoniaohongque_20
+  - first:
+      213: 7522435345471995984
+    second: huoniaohongque_21
+  - first:
+      213: 6713492722609868163
+    second: huoniaohongque_22
+  - first:
+      213: -1832090710223934668
+    second: huoniaohongque_23
+  - first:
+      213: -1314248863650645277
+    second: huoniaohongque_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: huoniaohongque_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 136
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6d07fb4865da050800000000000000
+      internalID: 5813397822152693412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 140
+        width: 132
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7fe6d2526f6e700800000000000000
+      internalID: 569413042445416367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 134
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763f6b11f08a886a0800000000000000
+      internalID: -6446718083905686681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 155
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02cd56bfc0d378b0800000000000000
+      internalID: -5155547557872680433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 86
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d5c2280c781cb20800000000000000
+      internalID: 3152950475023473927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 117
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbaaf0ffd1d2cdb0800000000000000
+      internalID: -4773021895308432440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 96
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26634f28f92961260800000000000000
+      internalID: 7067997878999070306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 50
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff2e34952535e270800000000000000
+      internalID: 8279081925507690489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 67
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086d168febce19800800000000000000
+      internalID: 617534928881571456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 76
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1eea005de719a00800000000000000
+      internalID: 761529265306919363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89284add970f27c0800000000000000
+      internalID: -4094045161703069301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 69
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f972e828fe8aecf0800000000000000
+      internalID: -222208035112453645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7985b6157e4e4c590800000000000000
+      internalID: -7654741784468432745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 42
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491d26f5933690ad0800000000000000
+      internalID: -2735546200586268268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 46
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e5304c27016f430800000000000000
+      internalID: 3816255819343945298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e89586929056ad20800000000000000
+      internalID: 3289405168361511143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 28
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dee63649c2c4890800000000000000
+      internalID: -7472548665879499495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 39
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfcc2cdd3aa077c0800000000000000
+      internalID: -4075570480106647586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 20
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da6f523bc939e10800000000000000
+      internalID: 2203276935964306765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 14
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cf61117b6ebb920800000000000000
+      internalID: 3007250850140060814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 23
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e8e16760d9c11a0800000000000000
+      internalID: -6837417483178176905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 34
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05083b4571f056860800000000000000
+      internalID: 7522435345471995984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 30
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dc455cf0e1b2d50800000000000000
+      internalID: 6713492722609868163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 41
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b2fc4b43b1396e0800000000000000
+      internalID: -1832090710223934668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huoniaohongque_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 44
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea74a72f99d2cde0800000000000000
+      internalID: -1314248863650645277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      huoniaohongque_0: 5813397822152693412
+      huoniaohongque_1: 569413042445416367
+      huoniaohongque_10: -4094045161703069301
+      huoniaohongque_11: -222208035112453645
+      huoniaohongque_12: -7654741784468432745
+      huoniaohongque_13: -2735546200586268268
+      huoniaohongque_14: 3816255819343945298
+      huoniaohongque_15: 3289405168361511143
+      huoniaohongque_16: -7472548665879499495
+      huoniaohongque_17: -4075570480106647586
+      huoniaohongque_18: 2203276935964306765
+      huoniaohongque_19: 3007250850140060814
+      huoniaohongque_2: -6446718083905686681
+      huoniaohongque_20: -6837417483178176905
+      huoniaohongque_21: 7522435345471995984
+      huoniaohongque_22: 6713492722609868163
+      huoniaohongque_23: -1832090710223934668
+      huoniaohongque_24: -1314248863650645277
+      huoniaohongque_3: -5155547557872680433
+      huoniaohongque_4: 3152950475023473927
+      huoniaohongque_5: -4773021895308432440
+      huoniaohongque_6: 7067997878999070306
+      huoniaohongque_7: 8279081925507690489
+      huoniaohongque_8: 617534928881571456
+      huoniaohongque_9: 761529265306919363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

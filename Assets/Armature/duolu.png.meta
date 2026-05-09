@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: 526285f84e7f4c94fb5a90bfb5c66545
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1281779783112431731
+    second: duolu_0
+  - first:
+      213: -6802092588419998958
+    second: duolu_1
+  - first:
+      213: -8859282934205337000
+    second: duolu_2
+  - first:
+      213: -9206154082599888954
+    second: duolu_3
+  - first:
+      213: 3631968942809397032
+    second: duolu_4
+  - first:
+      213: -1108572939938161968
+    second: duolu_5
+  - first:
+      213: 5062925550040712685
+    second: duolu_6
+  - first:
+      213: -326677923509120869
+    second: duolu_7
+  - first:
+      213: 3096650746323496574
+    second: duolu_8
+  - first:
+      213: 4652462619324660498
+    second: duolu_9
+  - first:
+      213: 4799501518761772064
+    second: duolu_10
+  - first:
+      213: -7037721855791511428
+    second: duolu_11
+  - first:
+      213: -5605799600320842218
+    second: duolu_12
+  - first:
+      213: -7010544782798369474
+    second: duolu_13
+  - first:
+      213: 3418922972835782360
+    second: duolu_14
+  - first:
+      213: -4060549022507802950
+    second: duolu_15
+  - first:
+      213: 5415118345420831885
+    second: duolu_16
+  - first:
+      213: 2930776718091478416
+    second: duolu_17
+  - first:
+      213: 9198533212268919673
+    second: duolu_18
+  - first:
+      213: 5410183481082026897
+    second: duolu_19
+  - first:
+      213: 1162399480662711082
+    second: duolu_20
+  - first:
+      213: 2043089191445430013
+    second: duolu_21
+  - first:
+      213: 1324519951328255939
+    second: duolu_22
+  - first:
+      213: -5400902468013884955
+    second: duolu_23
+  - first:
+      213: 780244786213739288
+    second: duolu_24
+  - first:
+      213: -8448926159405006883
+    second: duolu_25
+  - first:
+      213: -1868505415907459736
+    second: duolu_26
+  - first:
+      213: -7203664447905600312
+    second: duolu_27
+  - first:
+      213: -7628070654954686258
+    second: duolu_28
+  - first:
+      213: 6288833157311993113
+    second: duolu_29
+  - first:
+      213: -2800947297367642598
+    second: duolu_30
+  - first:
+      213: 4621733056885646134
+    second: duolu_31
+  - first:
+      213: -6377937869007182072
+    second: duolu_32
+  - first:
+      213: 512972666743327840
+    second: duolu_33
+  - first:
+      213: -168056645259646281
+    second: duolu_34
+  - first:
+      213: 6072808704136640907
+    second: duolu_35
+  - first:
+      213: -8329564570124753948
+    second: duolu_36
+  - first:
+      213: 8581435400772807274
+    second: duolu_37
+  - first:
+      213: -2518296413007046547
+    second: duolu_38
+  - first:
+      213: -6125830850298291145
+    second: duolu_39
+  - first:
+      213: 6399970204792464564
+    second: duolu_40
+  - first:
+      213: -7235262292910921461
+    second: duolu_41
+  - first:
+      213: -1603851079826030025
+    second: duolu_42
+  - first:
+      213: -7086521003227050428
+    second: duolu_43
+  - first:
+      213: 6540260695120205899
+    second: duolu_44
+  - first:
+      213: 7875527497500688358
+    second: duolu_45
+  - first:
+      213: -8666632456171730562
+    second: duolu_46
+  - first:
+      213: -8910373798756421127
+    second: duolu_47
+  - first:
+      213: 7776501939848304405
+    second: duolu_48
+  - first:
+      213: 2691715809152995184
+    second: duolu_49
+  - first:
+      213: 1759190189941230405
+    second: duolu_50
+  - first:
+      213: -6652772057781481958
+    second: duolu_51
+  - first:
+      213: 3411368979813212715
+    second: duolu_52
+  - first:
+      213: -3983561375573279797
+    second: duolu_53
+  - first:
+      213: -2576496115709104143
+    second: duolu_54
+  - first:
+      213: -5829266808891567714
+    second: duolu_55
+  - first:
+      213: 7364924274735976228
+    second: duolu_56
+  - first:
+      213: 7555376544391141090
+    second: duolu_57
+  - first:
+      213: -3851284145387143349
+    second: duolu_58
+  - first:
+      213: 2610156519928621335
+    second: duolu_59
+  - first:
+      213: -392642916898952921
+    second: duolu_60
+  - first:
+      213: 7206461975600495089
+    second: duolu_61
+  - first:
+      213: -3600139205963168871
+    second: duolu_62
+  - first:
+      213: 2792108370839840070
+    second: duolu_63
+  - first:
+      213: -1046660171961059043
+    second: duolu_64
+  - first:
+      213: 1501770715392111127
+    second: duolu_65
+  - first:
+      213: -3124383133553477593
+    second: duolu_66
+  - first:
+      213: -5537783675581431086
+    second: duolu_67
+  - first:
+      213: -7741863331444439258
+    second: duolu_68
+  - first:
+      213: -3383265204266655317
+    second: duolu_69
+  - first:
+      213: 1349084933394288292
+    second: duolu_70
+  - first:
+      213: 71830747916217586
+    second: duolu_71
+  - first:
+      213: -3291799002173189880
+    second: duolu_72
+  - first:
+      213: -2774987381343904985
+    second: duolu_73
+  - first:
+      213: 803517909783634184
+    second: duolu_74
+  - first:
+      213: -5029944210714711753
+    second: duolu_75
+  - first:
+      213: -4646543834593449583
+    second: duolu_76
+  - first:
+      213: 5199479198973826742
+    second: duolu_77
+  - first:
+      213: 860381332550750236
+    second: duolu_78
+  - first:
+      213: 8949450605191405663
+    second: duolu_79
+  - first:
+      213: -4196522924694860696
+    second: duolu_80
+  - first:
+      213: -5000960995953850270
+    second: duolu_81
+  - first:
+      213: 3463356421695175101
+    second: duolu_82
+  - first:
+      213: -7157036193857961565
+    second: duolu_83
+  - first:
+      213: 9222891376187769609
+    second: duolu_84
+  - first:
+      213: -200592403660686523
+    second: duolu_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duolu_0
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1902
+        width: 62
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37891bcebebc9c110800000000000000
+      internalID: 1281779783112431731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_1
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1901
+        width: 62
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b98e174dc1a91a0800000000000000
+      internalID: -6802092588419998958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_2
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1902
+        width: 64
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852b20e1c118d0580800000000000000
+      internalID: -8859282934205337000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_3
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1907
+        width: 60
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c71f1f53ab2d3080800000000000000
+      internalID: -9206154082599888954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_4
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1946
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827b76fa288576230800000000000000
+      internalID: 3631968942809397032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_5
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1846
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da106bd8ce8d90f0800000000000000
+      internalID: -1108572939938161968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1789
+        width: 149
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de50d6696ff134640800000000000000
+      internalID: 5062925550040712685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_7
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1775
+        width: 147
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90d64dc828677bf0800000000000000
+      internalID: -326677923509120869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_8
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1751
+        width: 149
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e6f00727389fa20800000000000000
+      internalID: 3096650746323496574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_9
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1815
+        width: 148
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b31ab3a1ed09040800000000000000
+      internalID: 4652462619324660498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_10
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1804
+        width: 144
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0244eb4d3314b9240800000000000000
+      internalID: 4799501518761772064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_11
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1775
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c784b85724df45e90800000000000000
+      internalID: -7037721855791511428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_12
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 1784
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61679dcd6f23432b0800000000000000
+      internalID: -5605799600320842218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1740
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dc55bd9aa85be90800000000000000
+      internalID: -7010544782798369474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_14
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1739
+        width: 143
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de9c4e5454727f20800000000000000
+      internalID: 3418922972835782360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_15
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1752
+        width: 145
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abedc508d2806a7c0800000000000000
+      internalID: -4060549022507802950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_16
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1746
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c7283d17d562b40800000000000000
+      internalID: 5415118345420831885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_17
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 1761
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095e3dda5e53ca820800000000000000
+      internalID: 2930776718091478416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_18
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1722
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bfbeb7831c7af70800000000000000
+      internalID: 9198533212268919673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_19
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1696
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b949f2635d41b40800000000000000
+      internalID: 5410183481082026897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_20
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1713
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bdff34b2ca12010800000000000000
+      internalID: 1162399480662711082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1548
+        width: 63
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe7b8c7bc28a5c10800000000000000
+      internalID: 2043089191445430013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_22
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1549
+        width: 62
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf96dcc0e3a16210800000000000000
+      internalID: 1324519951328255939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_23
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1561
+        width: 64
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9708f02d32c05b0800000000000000
+      internalID: -5400902468013884955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_24
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1571
+        width: 65
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bde18cf7cf3da00800000000000000
+      internalID: 780244786213739288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_25
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1675
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb82f1c626fba80800000000000000
+      internalID: -8448926159405006883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_26
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1689
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d31f7593cb116e0800000000000000
+      internalID: -1868505415907459736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_27
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1693
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cce97de951770c90800000000000000
+      internalID: -7203664447905600312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_28
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1674
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec838d19726a32690800000000000000
+      internalID: -7628070654954686258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_29
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1656
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9159749df6c664750800000000000000
+      internalID: 6288833157311993113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_30
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1672
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eafc9e5490129d0800000000000000
+      internalID: -2800947297367642598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_31
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1655
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633695e6ab1b32040800000000000000
+      internalID: 4621733056885646134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1434
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807a056cc430d77a0800000000000000
+      internalID: -6377937869007182072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_33
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1416
+        width: 70
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c88bc2ce17e1700800000000000000
+      internalID: 512972666743327840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_34
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1425
+        width: 65
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baa72d1f51faadf0800000000000000
+      internalID: -168056645259646281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_35
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1428
+        width: 63
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89f6fe5753f64450800000000000000
+      internalID: 6072808704136640907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_36
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1481
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3e808c721776c80800000000000000
+      internalID: -8329564570124753948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_37
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1415
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a6606d702671770800000000000000
+      internalID: 8581435400772807274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 128
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68139f31c63d0dd0800000000000000
+      internalID: -2518296413007046547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_39
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1370
+        width: 143
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c57d53c4dacfaa0800000000000000
+      internalID: -6125830850298291145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_40
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1367
+        width: 126
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b42db52ef241d850800000000000000
+      internalID: 6399970204792464564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_41
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1377
+        width: 141
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b092446574f279b90800000000000000
+      internalID: -7235262292910921461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_42
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1406
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732c752c0f9fdb9e0800000000000000
+      internalID: -1603851079826030025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_43
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1407
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e8e4d81be97ad90800000000000000
+      internalID: -7086521003227050428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_44
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1373
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48d61f437ca3ca50800000000000000
+      internalID: 6540260695120205899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_45
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1375
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef795b588e7b4d60800000000000000
+      internalID: 7875527497500688358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_46
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1355
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79430be2bfe9b780800000000000000
+      internalID: -8666632456171730562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_47
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1315
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1fc2d3d3ef75480800000000000000
+      internalID: -8910373798756421127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_48
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1313
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5175bc7005fabeb60800000000000000
+      internalID: 7776501939848304405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_49
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1343
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f0ed06445ea5520800000000000000
+      internalID: 2691715809152995184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_50
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1226
+        width: 127
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b8ccb3826e96810800000000000000
+      internalID: 1759190189941230405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_51
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1231
+        width: 135
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e4a44bf0b9ca3a0800000000000000
+      internalID: -6652772057781481958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_52
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1287
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ad8f430e975f20800000000000000
+      internalID: 3411368979813212715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_53
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1298
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbfcf3e80c87b8c0800000000000000
+      internalID: -3983561375573279797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_54
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1287
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff2cf10f627e3cd0800000000000000
+      internalID: -2576496115709104143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_55
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1213
+        width: 136
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911b0bd8b84a1fa0800000000000000
+      internalID: -5829266808891567714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_56
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1232
+        width: 142
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f0a495b97753660800000000000000
+      internalID: 7364924274735976228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_57
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1258
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e690c0efe61ad860800000000000000
+      internalID: 7555376544391141090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_58
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1260
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ffa19897d7d8ac0800000000000000
+      internalID: -3851284145387143349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1131
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719e3829683293420800000000000000
+      internalID: 2610156519928621335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_60
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1112
+        width: 68
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7292aaee85d0d8af0800000000000000
+      internalID: -392642916898952921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_61
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1243
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9f60f3cfe720460800000000000000
+      internalID: 7206461975600495089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 996
+        width: 68
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993cb9e677cb90ec0800000000000000
+      internalID: -3600139205963168871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 986
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645ad4225cf8fb620800000000000000
+      internalID: 2792108370839840070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_64
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 996
+        width: 115
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1936b97e148971f0800000000000000
+      internalID: -1046660171961059043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_65
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 943
+        width: 166
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f709428c57d410800000000000000
+      internalID: 1501770715392111127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_66
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1089
+        width: 64
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728b25ef716f3a4d0800000000000000
+      internalID: -3124383133553477593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_67
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 975
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d203066617d523b0800000000000000
+      internalID: -5537783675581431086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_68
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1088
+        width: 64
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627c1a571506f8490800000000000000
+      internalID: -7741863331444439258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_69
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 977
+        width: 124
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba12fb6d83a3c01d0800000000000000
+      internalID: -3383265204266655317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_70
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 963
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae4cc26999e8b210800000000000000
+      internalID: 1349084933394288292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_71
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 973
+        width: 115
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc2f754fa13ff000800000000000000
+      internalID: 71830747916217586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_72
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 939
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8015b7b8f3e2152d0800000000000000
+      internalID: -3291799002173189880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_73
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 971
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b1ecedda34d79d0800000000000000
+      internalID: -2774987381343904985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_74
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1011
+        width: 128
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801615f184ba62b00800000000000000
+      internalID: 803517909783634184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_75
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 949
+        width: 138
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7392150e36c023ab0800000000000000
+      internalID: -5029944210714711753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_76
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 922
+        width: 101
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199a6c93009248fb0800000000000000
+      internalID: -4646543834593449583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_77
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 899
+        width: 93
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b61edf88c2482840800000000000000
+      internalID: 5199479198973826742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_78
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 753
+        width: 123
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1090127340b0fb00800000000000000
+      internalID: 860381332550750236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_79
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 705
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50a651c8e5d23c70800000000000000
+      internalID: 8949450605191405663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_80
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 770
+        width: 125
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c87c552a4f2c5c0800000000000000
+      internalID: -4196522924694860696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_81
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 747
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268469c6874099ab0800000000000000
+      internalID: -5000960995953850270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_82
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 747
+        width: 125
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db975bdd050501030800000000000000
+      internalID: 3463356421695175101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_83
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 724
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a18b7450891dac90800000000000000
+      internalID: -7157036193857961565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_84
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 682
+        width: 98
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9038fa777da4eff70800000000000000
+      internalID: 9222891376187769609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duolu_85
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 703
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb92b854a573df0800000000000000
+      internalID: -200592403660686523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      duolu_0: 1281779783112431731
+      duolu_1: -6802092588419998958
+      duolu_10: 4799501518761772064
+      duolu_11: -7037721855791511428
+      duolu_12: -5605799600320842218
+      duolu_13: -7010544782798369474
+      duolu_14: 3418922972835782360
+      duolu_15: -4060549022507802950
+      duolu_16: 5415118345420831885
+      duolu_17: 2930776718091478416
+      duolu_18: 9198533212268919673
+      duolu_19: 5410183481082026897
+      duolu_2: -8859282934205337000
+      duolu_20: 1162399480662711082
+      duolu_21: 2043089191445430013
+      duolu_22: 1324519951328255939
+      duolu_23: -5400902468013884955
+      duolu_24: 780244786213739288
+      duolu_25: -8448926159405006883
+      duolu_26: -1868505415907459736
+      duolu_27: -7203664447905600312
+      duolu_28: -7628070654954686258
+      duolu_29: 6288833157311993113
+      duolu_3: -9206154082599888954
+      duolu_30: -2800947297367642598
+      duolu_31: 4621733056885646134
+      duolu_32: -6377937869007182072
+      duolu_33: 512972666743327840
+      duolu_34: -168056645259646281
+      duolu_35: 6072808704136640907
+      duolu_36: -8329564570124753948
+      duolu_37: 8581435400772807274
+      duolu_38: -2518296413007046547
+      duolu_39: -6125830850298291145
+      duolu_4: 3631968942809397032
+      duolu_40: 6399970204792464564
+      duolu_41: -7235262292910921461
+      duolu_42: -1603851079826030025
+      duolu_43: -7086521003227050428
+      duolu_44: 6540260695120205899
+      duolu_45: 7875527497500688358
+      duolu_46: -8666632456171730562
+      duolu_47: -8910373798756421127
+      duolu_48: 7776501939848304405
+      duolu_49: 2691715809152995184
+      duolu_5: -1108572939938161968
+      duolu_50: 1759190189941230405
+      duolu_51: -6652772057781481958
+      duolu_52: 3411368979813212715
+      duolu_53: -3983561375573279797
+      duolu_54: -2576496115709104143
+      duolu_55: -5829266808891567714
+      duolu_56: 7364924274735976228
+      duolu_57: 7555376544391141090
+      duolu_58: -3851284145387143349
+      duolu_59: 2610156519928621335
+      duolu_6: 5062925550040712685
+      duolu_60: -392642916898952921
+      duolu_61: 7206461975600495089
+      duolu_62: -3600139205963168871
+      duolu_63: 2792108370839840070
+      duolu_64: -1046660171961059043
+      duolu_65: 1501770715392111127
+      duolu_66: -3124383133553477593
+      duolu_67: -5537783675581431086
+      duolu_68: -7741863331444439258
+      duolu_69: -3383265204266655317
+      duolu_7: -326677923509120869
+      duolu_70: 1349084933394288292
+      duolu_71: 71830747916217586
+      duolu_72: -3291799002173189880
+      duolu_73: -2774987381343904985
+      duolu_74: 803517909783634184
+      duolu_75: -5029944210714711753
+      duolu_76: -4646543834593449583
+      duolu_77: 5199479198973826742
+      duolu_78: 860381332550750236
+      duolu_79: 8949450605191405663
+      duolu_8: 3096650746323496574
+      duolu_80: -4196522924694860696
+      duolu_81: -5000960995953850270
+      duolu_82: 3463356421695175101
+      duolu_83: -7157036193857961565
+      duolu_84: 9222891376187769609
+      duolu_85: -200592403660686523
+      duolu_9: 4652462619324660498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

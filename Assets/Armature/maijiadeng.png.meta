@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 1a887194cf63aca4dbfbca6ae205ee08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7660856584048832591
+    second: maijiadeng_0
+  - first:
+      213: -3006265998621420937
+    second: maijiadeng_1
+  - first:
+      213: 128490994926257042
+    second: maijiadeng_2
+  - first:
+      213: 1370495465061071871
+    second: maijiadeng_3
+  - first:
+      213: -2789021549050077963
+    second: maijiadeng_4
+  - first:
+      213: -8601522492504231359
+    second: maijiadeng_5
+  - first:
+      213: -7925300832708562243
+    second: maijiadeng_6
+  - first:
+      213: 8909005803297651380
+    second: maijiadeng_7
+  - first:
+      213: 584679055090808720
+    second: maijiadeng_8
+  - first:
+      213: 6414113614808993553
+    second: maijiadeng_9
+  - first:
+      213: -975485183921029006
+    second: maijiadeng_10
+  - first:
+      213: -3192900064320045484
+    second: maijiadeng_11
+  - first:
+      213: 3574955291515112684
+    second: maijiadeng_12
+  - first:
+      213: -5914581139165259540
+    second: maijiadeng_13
+  - first:
+      213: 1435876953079599100
+    second: maijiadeng_14
+  - first:
+      213: -6644460088902985741
+    second: maijiadeng_15
+  - first:
+      213: 6681637842656613028
+    second: maijiadeng_16
+  - first:
+      213: -4673243215345656096
+    second: maijiadeng_17
+  - first:
+      213: -9125916681496174425
+    second: maijiadeng_18
+  - first:
+      213: 7971664906950002795
+    second: maijiadeng_19
+  - first:
+      213: -5845389949435463975
+    second: maijiadeng_20
+  - first:
+      213: -5987200121990451323
+    second: maijiadeng_21
+  - first:
+      213: -8732414451043988252
+    second: maijiadeng_22
+  - first:
+      213: -8515219100609737309
+    second: maijiadeng_23
+  - first:
+      213: 2478678157693555791
+    second: maijiadeng_24
+  - first:
+      213: -6547691264205363410
+    second: maijiadeng_25
+  - first:
+      213: -5003226066775011999
+    second: maijiadeng_26
+  - first:
+      213: -4007687202987319916
+    second: maijiadeng_27
+  - first:
+      213: 7443897632248101706
+    second: maijiadeng_28
+  - first:
+      213: -6587031749720916074
+    second: maijiadeng_29
+  - first:
+      213: -6800431490003976941
+    second: maijiadeng_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maijiadeng_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 161
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf8e88968b2fa590800000000000000
+      internalID: -7660856584048832591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 108
+        width: 107
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772d5db80099746d0800000000000000
+      internalID: -3006265998621420937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 171
+        width: 140
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2938a6d01ed78c100800000000000000
+      internalID: 128490994926257042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 214
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbbf314d5af40310800000000000000
+      internalID: 1370495465061071871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 221
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcd5f19da76b49d0800000000000000
+      internalID: -2789021549050077963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 121
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142b0caadd041a880800000000000000
+      internalID: -8601522492504231359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 186
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db27c48f1eca30290800000000000000
+      internalID: -7925300832708562243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 127
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba337f739523ab70800000000000000
+      internalID: 8909005803297651380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 111
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0977c4ab0823d1800800000000000000
+      internalID: 584679055090808720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 126
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fcfa76952830950800000000000000
+      internalID: 6414113614808993553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 122
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2700bb0c4616672f0800000000000000
+      internalID: -975485183921029006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eb1e6ee4a80b3d0800000000000000
+      internalID: -3192900064320045484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec49ae85eacc9130800000000000000
+      internalID: 3574955291515112684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 47
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce854dc6acf2beda0800000000000000
+      internalID: -5914581139165259540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 69
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffca713b724de310800000000000000
+      internalID: 1435876953079599100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 36
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f75da4c0c22ac3a0800000000000000
+      internalID: -6644460088902985741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_16
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 71
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2da519732f9bc50800000000000000
+      internalID: 6681637842656613028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 80
+        width: 107
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee51583e0e452fb0800000000000000
+      internalID: -4673243215345656096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 17
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0eb9d112b3a5180800000000000000
+      internalID: -9125916681496174425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_19
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 45
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c3374ffa01ae60800000000000000
+      internalID: 7971664906950002795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6b24aafc001eea0800000000000000
+      internalID: -5845389949435463975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 52
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f6599e53139eca0800000000000000
+      internalID: -5987200121990451323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 22
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec0906b25b30d680800000000000000
+      internalID: -8732414451043988252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 15
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad0983f75dd3d980800000000000000
+      internalID: -8515219100609737309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 22
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4418ddd6a8066220800000000000000
+      internalID: 2478678157693555791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 23
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e276c128c7de125a0800000000000000
+      internalID: -6547691264205363410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 26
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d86e68668f09ab0800000000000000
+      internalID: -5003226066775011999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ddf07f8b5d168c0800000000000000
+      internalID: -4007687202987319916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bf48205790e4760800000000000000
+      internalID: 7443897632248101706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 18
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f3aa1f5892694a0800000000000000
+      internalID: -6587031749720916074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maijiadeng_30
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 23
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dbeee079300a1a0800000000000000
+      internalID: -6800431490003976941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      maijiadeng_0: -7660856584048832591
+      maijiadeng_1: -3006265998621420937
+      maijiadeng_10: -975485183921029006
+      maijiadeng_11: -3192900064320045484
+      maijiadeng_12: 3574955291515112684
+      maijiadeng_13: -5914581139165259540
+      maijiadeng_14: 1435876953079599100
+      maijiadeng_15: -6644460088902985741
+      maijiadeng_16: 6681637842656613028
+      maijiadeng_17: -4673243215345656096
+      maijiadeng_18: -9125916681496174425
+      maijiadeng_19: 7971664906950002795
+      maijiadeng_2: 128490994926257042
+      maijiadeng_20: -5845389949435463975
+      maijiadeng_21: -5987200121990451323
+      maijiadeng_22: -8732414451043988252
+      maijiadeng_23: -8515219100609737309
+      maijiadeng_24: 2478678157693555791
+      maijiadeng_25: -6547691264205363410
+      maijiadeng_26: -5003226066775011999
+      maijiadeng_27: -4007687202987319916
+      maijiadeng_28: 7443897632248101706
+      maijiadeng_29: -6587031749720916074
+      maijiadeng_3: 1370495465061071871
+      maijiadeng_30: -6800431490003976941
+      maijiadeng_4: -2789021549050077963
+      maijiadeng_5: -8601522492504231359
+      maijiadeng_6: -7925300832708562243
+      maijiadeng_7: 8909005803297651380
+      maijiadeng_8: 584679055090808720
+      maijiadeng_9: 6414113614808993553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

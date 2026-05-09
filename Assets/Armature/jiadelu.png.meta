@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: ef6a2b8860e06634082a90819fd239a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1664499111701674202
+    second: jiadelu_0
+  - first:
+      213: 7040739666243440312
+    second: jiadelu_1
+  - first:
+      213: -4631740422287170529
+    second: jiadelu_2
+  - first:
+      213: 7575496367802451855
+    second: jiadelu_3
+  - first:
+      213: 2828472374040165159
+    second: jiadelu_4
+  - first:
+      213: 3520387777733360133
+    second: jiadelu_5
+  - first:
+      213: 7846635116362963203
+    second: jiadelu_6
+  - first:
+      213: 2307348617863657481
+    second: jiadelu_7
+  - first:
+      213: 4472533969819237232
+    second: jiadelu_8
+  - first:
+      213: 22089227137350248
+    second: jiadelu_9
+  - first:
+      213: -8813903689631376578
+    second: jiadelu_10
+  - first:
+      213: 2524350704031369589
+    second: jiadelu_11
+  - first:
+      213: -5413787460546673653
+    second: jiadelu_12
+  - first:
+      213: 8932110422277366211
+    second: jiadelu_13
+  - first:
+      213: -7214031249919509206
+    second: jiadelu_14
+  - first:
+      213: -1408283442959233355
+    second: jiadelu_15
+  - first:
+      213: -2883001782949605399
+    second: jiadelu_16
+  - first:
+      213: 5640043320066242600
+    second: jiadelu_17
+  - first:
+      213: 289307255172455485
+    second: jiadelu_18
+  - first:
+      213: 1806496387003282881
+    second: jiadelu_19
+  - first:
+      213: 5280248976947879533
+    second: jiadelu_20
+  - first:
+      213: 947070765009084778
+    second: jiadelu_21
+  - first:
+      213: -8425231675281707242
+    second: jiadelu_22
+  - first:
+      213: -3810844778169872851
+    second: jiadelu_23
+  - first:
+      213: 6170720705463392743
+    second: jiadelu_24
+  - first:
+      213: -3022054524954927501
+    second: jiadelu_25
+  - first:
+      213: -7014207312284980590
+    second: jiadelu_26
+  - first:
+      213: -5046604911303752833
+    second: jiadelu_27
+  - first:
+      213: 3603675599162857778
+    second: jiadelu_28
+  - first:
+      213: -9068768777003885309
+    second: jiadelu_29
+  - first:
+      213: 547760569888915457
+    second: jiadelu_30
+  - first:
+      213: -7507801114261333895
+    second: jiadelu_31
+  - first:
+      213: -5965735414447205040
+    second: jiadelu_32
+  - first:
+      213: 7422096327491119342
+    second: jiadelu_33
+  - first:
+      213: -7258130334020395729
+    second: jiadelu_34
+  - first:
+      213: -1017861468806676786
+    second: jiadelu_35
+  - first:
+      213: 1715637916330525784
+    second: jiadelu_36
+  - first:
+      213: 5800482577949152456
+    second: jiadelu_37
+  - first:
+      213: -3652433083560877399
+    second: jiadelu_38
+  - first:
+      213: -4301146173980486159
+    second: jiadelu_39
+  - first:
+      213: -5217042675404187724
+    second: jiadelu_40
+  - first:
+      213: 6939705065413102890
+    second: jiadelu_41
+  - first:
+      213: -929572965005061954
+    second: jiadelu_42
+  - first:
+      213: 4597953177470661040
+    second: jiadelu_43
+  - first:
+      213: -3530706376823883968
+    second: jiadelu_44
+  - first:
+      213: -1174249912777637715
+    second: jiadelu_45
+  - first:
+      213: -2661500798418671278
+    second: jiadelu_46
+  - first:
+      213: 924594490637999186
+    second: jiadelu_47
+  - first:
+      213: -4421117060495305465
+    second: jiadelu_48
+  - first:
+      213: -8623969654726065621
+    second: jiadelu_49
+  - first:
+      213: 303631872110312272
+    second: jiadelu_50
+  - first:
+      213: -6213525722325562177
+    second: jiadelu_51
+  - first:
+      213: 6777336349138151222
+    second: jiadelu_52
+  - first:
+      213: 3828314156706758347
+    second: jiadelu_53
+  - first:
+      213: 2716396416401270103
+    second: jiadelu_54
+  - first:
+      213: 4418059783789136253
+    second: jiadelu_55
+  - first:
+      213: -857047068475487902
+    second: jiadelu_56
+  - first:
+      213: 2111826286630876010
+    second: jiadelu_57
+  - first:
+      213: -5471144109333028361
+    second: jiadelu_58
+  - first:
+      213: 3403652779669864787
+    second: jiadelu_59
+  - first:
+      213: 8134358992905182428
+    second: jiadelu_60
+  - first:
+      213: -8699245796998228883
+    second: jiadelu_61
+  - first:
+      213: 1201638585937075645
+    second: jiadelu_62
+  - first:
+      213: 3053970002946979588
+    second: jiadelu_63
+  - first:
+      213: 3654937369717911271
+    second: jiadelu_64
+  - first:
+      213: -6783637756520163277
+    second: jiadelu_65
+  - first:
+      213: 4013085362367012450
+    second: jiadelu_66
+  - first:
+      213: -1335711598931475643
+    second: jiadelu_67
+  - first:
+      213: -6297396827748676241
+    second: jiadelu_68
+  - first:
+      213: 7889845583507541290
+    second: jiadelu_69
+  - first:
+      213: -8477270337014654116
+    second: jiadelu_70
+  - first:
+      213: 8125754252916871691
+    second: jiadelu_71
+  - first:
+      213: -3138174966384432074
+    second: jiadelu_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jiadelu_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 828
+        width: 367
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627811670e286e8e0800000000000000
+      internalID: -1664499111701674202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 687
+        width: 215
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be417a4c6bb5b160800000000000000
+      internalID: 7040739666243440312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 713
+        width: 230
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1461cd30a0c8bfb0800000000000000
+      internalID: -4631740422287170529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 839
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8780205fc1912960800000000000000
+      internalID: 7575496367802451855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_4
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 978
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b7ba763a0c04720800000000000000
+      internalID: 2828472374040165159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_5
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 947
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a7c63380eead030800000000000000
+      internalID: 3520387777733360133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 931
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3099be8a019d4ec60800000000000000
+      internalID: 7846635116362963203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 262
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90870c4d759550020800000000000000
+      internalID: 2307348617863657481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 682
+        width: 67
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b71f4f2f1a11e30800000000000000
+      internalID: 4472533969819237232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 771
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a72e8f80a7e4000800000000000000
+      internalID: 22089227137350248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_10
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 689
+        width: 158
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b5407da49bea580800000000000000
+      internalID: -8813903689631376578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_11
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 793
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5790c4a379b480320800000000000000
+      internalID: 2524350704031369589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_12
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 747
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04c6a4fcfc5ed4b0800000000000000
+      internalID: -5413787460546673653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 724
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1286eca1b35fb70800000000000000
+      internalID: 8932110422277366211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 688
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dfafdbccc92eb90800000000000000
+      internalID: -7214031249919509206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_15
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 700
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bec9578ba5c47ce0800000000000000
+      internalID: -1408283442959233355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 630
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef887837258df7d0800000000000000
+      internalID: -2883001782949605399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 649
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828fc527485754e40800000000000000
+      internalID: 5640043320066242600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 537
+        width: 148
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c5f7f6a63d30400800000000000000
+      internalID: 289307255172455485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_19
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 572
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c57b5b84e6f11910800000000000000
+      internalID: 1806496387003282881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_20
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 564
+        width: 148
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e1994f776374940800000000000000
+      internalID: 5280248976947879533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_21
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 584
+        width: 72
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61268dc7dba42d00800000000000000
+      internalID: 947070765009084778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_22
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 540
+        width: 148
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fe67c1e60931b80800000000000000
+      internalID: -8425231675281707242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_23
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 662
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e480f6dd82d1bc0800000000000000
+      internalID: -3810844778169872851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 596
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e91b49a9cdc2a550800000000000000
+      internalID: 6170720705463392743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 613
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e133ccb618f06d0800000000000000
+      internalID: -3022054524954927501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 593
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6e42cc9788ae90800000000000000
+      internalID: -7014207312284980590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 605
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f738ffb329bd6f9b0800000000000000
+      internalID: -5046604911303752833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 227
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23958d54dd3d20230800000000000000
+      internalID: 3603675599162857778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 569
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d978088d2452280800000000000000
+      internalID: -9068768777003885309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 561
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100c13e06590a9700800000000000000
+      internalID: 547760569888915457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 572
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978db242aaeeec790800000000000000
+      internalID: -7507801114261333895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_32
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 512
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05518e59f33753da0800000000000000
+      internalID: -5965735414447205040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 569
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8e6d03945900760800000000000000
+      internalID: 7422096327491119342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 552
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d1a3b9ae0f54b90800000000000000
+      internalID: -7258130334020395729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 523
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece78311364dfd1f0800000000000000
+      internalID: -1017861468806676786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_36
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 551
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8548216589b2fc710800000000000000
+      internalID: 1715637916330525784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_37
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 468
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c450802c247f7050800000000000000
+      internalID: 5800482577949152456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_38
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 427
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a228704673ff4dc0800000000000000
+      internalID: -3652433083560877399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 534
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5dcdcd7524f44c0800000000000000
+      internalID: -4301146173980486159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_40
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 447
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7da7ae3575997b0800000000000000
+      internalID: -5217042675404187724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_41
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 516
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d4de52df8ce4060800000000000000
+      internalID: 6939705065413102890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_42
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 476
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0111c305e7913f0800000000000000
+      internalID: -929572965005061954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_43
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 516
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1740dcd063fcf30800000000000000
+      internalID: 4597953177470661040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_44
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 518
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047b43bb149600fc0800000000000000
+      internalID: -3530706376823883968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_45
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 423
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da00b5ffce934bfe0800000000000000
+      internalID: -1174249912777637715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_46
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 516
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25926d40023701bd0800000000000000
+      internalID: -2661500798418671278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_47
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 503
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cd2cf5ac1d4dc00800000000000000
+      internalID: 924594490637999186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_48
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 459
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70512c2257905a2c0800000000000000
+      internalID: -4421117060495305465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 499
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b220e407a41815880800000000000000
+      internalID: -8623969654726065621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_50
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 446
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b3f973497b63400800000000000000
+      internalID: 303631872110312272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_51
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 414
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc4806b64f15c9a0800000000000000
+      internalID: -6213525722325562177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_52
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 473
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637e8bd608fed0e50800000000000000
+      internalID: 6777336349138151222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_53
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 475
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcefa173177e02530800000000000000
+      internalID: 3828314156706758347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_54
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 444
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755edbc062492b520800000000000000
+      internalID: 2716396416401270103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_55
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 451
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79c03927f9105d30800000000000000
+      internalID: 4418059783789136253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_56
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 431
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2698ab76b382b14f0800000000000000
+      internalID: -857047068475487902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_57
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 394
+        width: 116
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6337f991d6be4d10800000000000000
+      internalID: 2111826286630876010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_58
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 433
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1eb308b679214b0800000000000000
+      internalID: -5471144109333028361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_59
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 399
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3514ef67b243c3f20800000000000000
+      internalID: 3403652779669864787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_60
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 375
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc1e97086c03e070800000000000000
+      internalID: 8134358992905182428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 414
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d645c18c902164780800000000000000
+      internalID: -8699245796998228883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_62
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 381
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd9e276de31da010800000000000000
+      internalID: 1201638585937075645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_63
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 381
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4077a5c7981e16a20800000000000000
+      internalID: 3053970002946979588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_64
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 361
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee265e4c22f8b230800000000000000
+      internalID: 3654937369717911271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_65
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 396
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33810b5d66dabd1a0800000000000000
+      internalID: -6783637756520163277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_66
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 360
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e9435ffd751b730800000000000000
+      internalID: 4013085362367012450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_67
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 365
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543025fa069967de0800000000000000
+      internalID: -1335711598931475643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_68
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 365
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d4e5043f62b98a0800000000000000
+      internalID: -6297396827748676241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_69
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 348
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dc6a981cc5e7d60800000000000000
+      internalID: 7889845583507541290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_70
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 372
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b19410b8faa5a80800000000000000
+      internalID: -8477270337014654116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_71
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 360
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02da31e07a74c070800000000000000
+      internalID: 8125754252916871691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiadelu_72
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 173
+        width: 295
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ce1adae76f274d0800000000000000
+      internalID: -3138174966384432074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jiadelu_0: -1664499111701674202
+      jiadelu_1: 7040739666243440312
+      jiadelu_10: -8813903689631376578
+      jiadelu_11: 2524350704031369589
+      jiadelu_12: -5413787460546673653
+      jiadelu_13: 8932110422277366211
+      jiadelu_14: -7214031249919509206
+      jiadelu_15: -1408283442959233355
+      jiadelu_16: -2883001782949605399
+      jiadelu_17: 5640043320066242600
+      jiadelu_18: 289307255172455485
+      jiadelu_19: 1806496387003282881
+      jiadelu_2: -4631740422287170529
+      jiadelu_20: 5280248976947879533
+      jiadelu_21: 947070765009084778
+      jiadelu_22: -8425231675281707242
+      jiadelu_23: -3810844778169872851
+      jiadelu_24: 6170720705463392743
+      jiadelu_25: -3022054524954927501
+      jiadelu_26: -7014207312284980590
+      jiadelu_27: -5046604911303752833
+      jiadelu_28: 3603675599162857778
+      jiadelu_29: -9068768777003885309
+      jiadelu_3: 7575496367802451855
+      jiadelu_30: 547760569888915457
+      jiadelu_31: -7507801114261333895
+      jiadelu_32: -5965735414447205040
+      jiadelu_33: 7422096327491119342
+      jiadelu_34: -7258130334020395729
+      jiadelu_35: -1017861468806676786
+      jiadelu_36: 1715637916330525784
+      jiadelu_37: 5800482577949152456
+      jiadelu_38: -3652433083560877399
+      jiadelu_39: -4301146173980486159
+      jiadelu_4: 2828472374040165159
+      jiadelu_40: -5217042675404187724
+      jiadelu_41: 6939705065413102890
+      jiadelu_42: -929572965005061954
+      jiadelu_43: 4597953177470661040
+      jiadelu_44: -3530706376823883968
+      jiadelu_45: -1174249912777637715
+      jiadelu_46: -2661500798418671278
+      jiadelu_47: 924594490637999186
+      jiadelu_48: -4421117060495305465
+      jiadelu_49: -8623969654726065621
+      jiadelu_5: 3520387777733360133
+      jiadelu_50: 303631872110312272
+      jiadelu_51: -6213525722325562177
+      jiadelu_52: 6777336349138151222
+      jiadelu_53: 3828314156706758347
+      jiadelu_54: 2716396416401270103
+      jiadelu_55: 4418059783789136253
+      jiadelu_56: -857047068475487902
+      jiadelu_57: 2111826286630876010
+      jiadelu_58: -5471144109333028361
+      jiadelu_59: 3403652779669864787
+      jiadelu_6: 7846635116362963203
+      jiadelu_60: 8134358992905182428
+      jiadelu_61: -8699245796998228883
+      jiadelu_62: 1201638585937075645
+      jiadelu_63: 3053970002946979588
+      jiadelu_64: 3654937369717911271
+      jiadelu_65: -6783637756520163277
+      jiadelu_66: 4013085362367012450
+      jiadelu_67: -1335711598931475643
+      jiadelu_68: -6297396827748676241
+      jiadelu_69: 7889845583507541290
+      jiadelu_7: 2307348617863657481
+      jiadelu_70: -8477270337014654116
+      jiadelu_71: 8125754252916871691
+      jiadelu_72: -3138174966384432074
+      jiadelu_8: 4472533969819237232
+      jiadelu_9: 22089227137350248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

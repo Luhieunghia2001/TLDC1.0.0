@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 89ff05ad20251ee4b913f1ae23000ea2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4746223247844080290
+    second: tianpingzuo_0
+  - first:
+      213: 323022439975777687
+    second: tianpingzuo_1
+  - first:
+      213: -5864990267679469819
+    second: tianpingzuo_2
+  - first:
+      213: 2380616548765458660
+    second: tianpingzuo_3
+  - first:
+      213: 3730404498937557109
+    second: tianpingzuo_4
+  - first:
+      213: -4243664768267071623
+    second: tianpingzuo_5
+  - first:
+      213: -4847250723067573710
+    second: tianpingzuo_6
+  - first:
+      213: -4394041872853370188
+    second: tianpingzuo_7
+  - first:
+      213: 5826330489894364001
+    second: tianpingzuo_8
+  - first:
+      213: -6704652284750571804
+    second: tianpingzuo_9
+  - first:
+      213: -8139239495754485697
+    second: tianpingzuo_10
+  - first:
+      213: -878416459254618486
+    second: tianpingzuo_11
+  - first:
+      213: -1730733702316739963
+    second: tianpingzuo_12
+  - first:
+      213: 5703879800747604450
+    second: tianpingzuo_13
+  - first:
+      213: -7568735951089461266
+    second: tianpingzuo_14
+  - first:
+      213: 1101183059200149986
+    second: tianpingzuo_15
+  - first:
+      213: -2412451227111709310
+    second: tianpingzuo_16
+  - first:
+      213: 8425373153739554088
+    second: tianpingzuo_17
+  - first:
+      213: -8345078204674725405
+    second: tianpingzuo_18
+  - first:
+      213: 1728270126628769965
+    second: tianpingzuo_19
+  - first:
+      213: -5264140167496468352
+    second: tianpingzuo_20
+  - first:
+      213: -4763650264502856115
+    second: tianpingzuo_21
+  - first:
+      213: -7313109015266896658
+    second: tianpingzuo_22
+  - first:
+      213: 249111177941905020
+    second: tianpingzuo_23
+  - first:
+      213: -4595471050742052478
+    second: tianpingzuo_24
+  - first:
+      213: 1784689001165914012
+    second: tianpingzuo_25
+  - first:
+      213: 2790291887773033221
+    second: tianpingzuo_26
+  - first:
+      213: -7737362074327521829
+    second: tianpingzuo_27
+  - first:
+      213: -1649061672493932233
+    second: tianpingzuo_28
+  - first:
+      213: -7725958376014440431
+    second: tianpingzuo_29
+  - first:
+      213: -2501588692631266983
+    second: tianpingzuo_30
+  - first:
+      213: -8119593795945401566
+    second: tianpingzuo_31
+  - first:
+      213: 6139667509972701422
+    second: tianpingzuo_32
+  - first:
+      213: 1185332141507983925
+    second: tianpingzuo_33
+  - first:
+      213: -4434345112496833965
+    second: tianpingzuo_34
+  - first:
+      213: 3951084127448817884
+    second: tianpingzuo_35
+  - first:
+      213: -369054458348628763
+    second: tianpingzuo_36
+  - first:
+      213: -5319875776047497695
+    second: tianpingzuo_37
+  - first:
+      213: 4564960595413554686
+    second: tianpingzuo_38
+  - first:
+      213: -5551173878777305884
+    second: tianpingzuo_39
+  - first:
+      213: -1280669181980852177
+    second: tianpingzuo_40
+  - first:
+      213: 7494668100438027946
+    second: tianpingzuo_41
+  - first:
+      213: 1347994114375677246
+    second: tianpingzuo_42
+  - first:
+      213: 1655553764838264220
+    second: tianpingzuo_43
+  - first:
+      213: 3831358599402081649
+    second: tianpingzuo_44
+  - first:
+      213: 8461475864091517348
+    second: tianpingzuo_45
+  - first:
+      213: -5457806608947698178
+    second: tianpingzuo_46
+  - first:
+      213: -7661358024753309940
+    second: tianpingzuo_47
+  - first:
+      213: 6380652157523930908
+    second: tianpingzuo_48
+  - first:
+      213: 2863109140289338696
+    second: tianpingzuo_49
+  - first:
+      213: 961213647635801971
+    second: tianpingzuo_50
+  - first:
+      213: -2495831775849987715
+    second: tianpingzuo_51
+  - first:
+      213: 8455930384892022614
+    second: tianpingzuo_52
+  - first:
+      213: -254250304819667915
+    second: tianpingzuo_53
+  - first:
+      213: -3169455402383918675
+    second: tianpingzuo_54
+  - first:
+      213: -2038617637757174804
+    second: tianpingzuo_55
+  - first:
+      213: 1225628351109432712
+    second: tianpingzuo_56
+  - first:
+      213: -6414876688517200858
+    second: tianpingzuo_57
+  - first:
+      213: -4770954612371910188
+    second: tianpingzuo_58
+  - first:
+      213: -4689760251764772879
+    second: tianpingzuo_59
+  - first:
+      213: -4502320542678594166
+    second: tianpingzuo_60
+  - first:
+      213: 7203274251714672032
+    second: tianpingzuo_61
+  - first:
+      213: 5864547809098654291
+    second: tianpingzuo_62
+  - first:
+      213: -7174254923015151419
+    second: tianpingzuo_63
+  - first:
+      213: -1834366613967900232
+    second: tianpingzuo_64
+  - first:
+      213: 7087736460320740608
+    second: tianpingzuo_65
+  - first:
+      213: 8444567775724644796
+    second: tianpingzuo_66
+  - first:
+      213: 7571978376322089144
+    second: tianpingzuo_67
+  - first:
+      213: -6503412259334231162
+    second: tianpingzuo_68
+  - first:
+      213: 8992904041306486147
+    second: tianpingzuo_69
+  - first:
+      213: 4281309010101553031
+    second: tianpingzuo_70
+  - first:
+      213: -6728379999962084571
+    second: tianpingzuo_71
+  - first:
+      213: 7947240329291701563
+    second: tianpingzuo_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tianpingzuo_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 608
+        width: 779
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa7278b5e8fdd140800000000000000
+      internalID: 4746223247844080290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_1
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 608
+        width: 618
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7957c3d923b9b7400800000000000000
+      internalID: 323022439975777687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_2
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 544
+        width: 529
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f87d3fc6e5b9ea0800000000000000
+      internalID: -5864990267679469819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 690
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0e4975326a90120800000000000000
+      internalID: 2380616548765458660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 399
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57031b3902f05c330800000000000000
+      internalID: 3730404498937557109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 467
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fc99d80697b15c0800000000000000
+      internalID: -4243664768267071623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_6
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 400
+        width: 104
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a4d42362b1bbcb0800000000000000
+      internalID: -4847250723067573710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 399
+        width: 109
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baf160823a3503c0800000000000000
+      internalID: -4394041872853370188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_8
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 535
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1636e2a16b84bd050800000000000000
+      internalID: 5826330489894364001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_9
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 398
+        width: 125
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e65ee0154a44f2a0800000000000000
+      internalID: -6704652284750571804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_10
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 398
+        width: 124
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3079b95dcc9b0f80800000000000000
+      internalID: -8139239495754485697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_11
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 465
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86a54562ec3fc3f0800000000000000
+      internalID: -878416459254618486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_12
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 537
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5823d981ed23bf7e0800000000000000
+      internalID: -1730733702316739963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_13
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 483
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e936155570482f40800000000000000
+      internalID: 5703879800747604450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_14
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 335
+        width: 109
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7959cd0c276f690800000000000000
+      internalID: -7568735951089461266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_15
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 487
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e98d447820384f00800000000000000
+      internalID: 1101183059200149986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_16
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 370
+        width: 176
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2852d020460458ed0800000000000000
+      internalID: -2412451227111709310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_17
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 497
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d32c86e30fce470800000000000000
+      internalID: 8425373153739554088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_18
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 462
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e922834693503c80800000000000000
+      internalID: -8345078204674725405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_19
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 500
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da090adf58c0cf710800000000000000
+      internalID: 1728270126628769965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_20
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 362
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088f184886402f6b0800000000000000
+      internalID: -5264140167496468352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_21
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 403
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469c16c25d14edb0800000000000000
+      internalID: -4763650264502856115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_22
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 379
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee45f4dd81e928a90800000000000000
+      internalID: -7313109015266896658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_23
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 333
+        width: 116
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e6ec6eb45057300800000000000000
+      internalID: 249111177941905020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_24
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 460
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cdec5d6b9930c0800000000000000
+      internalID: -4595471050742052478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_25
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 455
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f7a0dd03d74c810800000000000000
+      internalID: 1784689001165914012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_26
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 454
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503ad5630bb19b620800000000000000
+      internalID: 2790291887773033221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_27
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 437
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5e02d003e5f9490800000000000000
+      internalID: -7737362074327521829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_28
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 336
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731a94e552b5d19e0800000000000000
+      internalID: -1649061672493932233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_29
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 342
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11894387ac1e7c490800000000000000
+      internalID: -7725958376014440431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_30
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 272
+        width: 118
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95954998652984dd0800000000000000
+      internalID: -2501588692631266983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_31
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 336
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22375384678615f80800000000000000
+      internalID: -8119593795945401566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_32
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 332
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee01eea221b743550800000000000000
+      internalID: 6139667509972701422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_33
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 377
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53abf637d45237010800000000000000
+      internalID: 1185332141507983925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_34
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 378
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35af2264d9a0672c0800000000000000
+      internalID: -4434345112496833965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_35
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 339
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd06546841215d630800000000000000
+      internalID: 3951084127448817884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_36
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 378
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e41b5becead0eaf0800000000000000
+      internalID: -369054458348628763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_37
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 381
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ebb77ea210c26b0800000000000000
+      internalID: -5319875776047497695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_38
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 340
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5d74fa97ff95f30800000000000000
+      internalID: 4564960595413554686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_39
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 357
+        width: 142
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e42d05c4c446f2b0800000000000000
+      internalID: -5551173878777305884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_40
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 345
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20cd3d0a262a3ee0800000000000000
+      internalID: -1280669181980852177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_41
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 348
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae6f0ccde8620860800000000000000
+      internalID: 7494668100438027946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_42
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 305
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35fdaa418905b210800000000000000
+      internalID: 1347994114375677246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_43
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 359
+        width: 115
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dcebba065b9f610800000000000000
+      internalID: 1655553764838264220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_44
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 363
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dcf74c858bb2530800000000000000
+      internalID: 3831358599402081649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_45
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 311
+        width: 152
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a167b2b7733d6570800000000000000
+      internalID: 8461475864091517348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_46
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 264
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5a4ec4ec9f144b0800000000000000
+      internalID: -5457806608947698178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_47
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 269
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c079d75d7736da590800000000000000
+      internalID: -7661358024753309940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_48
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 325
+        width: 118
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f2b84c451ac8850800000000000000
+      internalID: 6380652157523930908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_49
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 337
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dbe1cf79ecbb720800000000000000
+      internalID: 2863109140289338696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_50
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 320
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377e69448bae65d00800000000000000
+      internalID: 961213647635801971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_51
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 338
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71445d29360d5dd0800000000000000
+      internalID: -2495831775849987715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_52
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 278
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fcbe432ef795570800000000000000
+      internalID: 8455930384892022614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_53
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 279
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c5031e1b8b87cf0800000000000000
+      internalID: -254250304819667915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_54
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 288
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9b671aa15d304d0800000000000000
+      internalID: -3169455402383918675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_55
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 265
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb33ac3f0065b3e0800000000000000
+      internalID: -2038617637757174804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_56
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 267
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885868edd7e420110800000000000000
+      internalID: 1225628351109432712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_57
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 321
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6248ff6a3a7c9f6a0800000000000000
+      internalID: -6414876688517200858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_58
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 293
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d19f02ce0a2acdb0800000000000000
+      internalID: -4770954612371910188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_59
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 277
+        width: 103
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff60dff5ef9aeeb0800000000000000
+      internalID: -4689760251764772879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_60
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 300
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dc2bc125b8481c0800000000000000
+      internalID: -4502320542678594166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_61
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 267
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5bb2174cb27f360800000000000000
+      internalID: 7203274251714672032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_62
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 309
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352ee91292f036150800000000000000
+      internalID: 5864547809098654291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_63
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 309
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0a599882def6c90800000000000000
+      internalID: -7174254923015151419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_64
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 292
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b17b9298450b86e0800000000000000
+      internalID: -1834366613967900232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_65
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 280
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005900b12c2bc5260800000000000000
+      internalID: 7087736460320740608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_66
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 275
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb927c996a1213570800000000000000
+      internalID: 8444567775724644796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_67
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 283
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b00e971732151960800000000000000
+      internalID: 7571978376322089144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_68
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 274
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b6676b10d3fb5a0800000000000000
+      internalID: -6503412259334231162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_69
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 273
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3857f3144963dcc70800000000000000
+      internalID: 8992904041306486147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_70
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 301
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78748c08cd34a6b30800000000000000
+      internalID: 4281309010101553031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_71
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 274
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bca6cd90eff92a0800000000000000
+      internalID: -6728379999962084571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tianpingzuo_72
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 288
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d171429f44a4e60800000000000000
+      internalID: 7947240329291701563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tianpingzuo_0: 4746223247844080290
+      tianpingzuo_1: 323022439975777687
+      tianpingzuo_10: -8139239495754485697
+      tianpingzuo_11: -878416459254618486
+      tianpingzuo_12: -1730733702316739963
+      tianpingzuo_13: 5703879800747604450
+      tianpingzuo_14: -7568735951089461266
+      tianpingzuo_15: 1101183059200149986
+      tianpingzuo_16: -2412451227111709310
+      tianpingzuo_17: 8425373153739554088
+      tianpingzuo_18: -8345078204674725405
+      tianpingzuo_19: 1728270126628769965
+      tianpingzuo_2: -5864990267679469819
+      tianpingzuo_20: -5264140167496468352
+      tianpingzuo_21: -4763650264502856115
+      tianpingzuo_22: -7313109015266896658
+      tianpingzuo_23: 249111177941905020
+      tianpingzuo_24: -4595471050742052478
+      tianpingzuo_25: 1784689001165914012
+      tianpingzuo_26: 2790291887773033221
+      tianpingzuo_27: -7737362074327521829
+      tianpingzuo_28: -1649061672493932233
+      tianpingzuo_29: -7725958376014440431
+      tianpingzuo_3: 2380616548765458660
+      tianpingzuo_30: -2501588692631266983
+      tianpingzuo_31: -8119593795945401566
+      tianpingzuo_32: 6139667509972701422
+      tianpingzuo_33: 1185332141507983925
+      tianpingzuo_34: -4434345112496833965
+      tianpingzuo_35: 3951084127448817884
+      tianpingzuo_36: -369054458348628763
+      tianpingzuo_37: -5319875776047497695
+      tianpingzuo_38: 4564960595413554686
+      tianpingzuo_39: -5551173878777305884
+      tianpingzuo_4: 3730404498937557109
+      tianpingzuo_40: -1280669181980852177
+      tianpingzuo_41: 7494668100438027946
+      tianpingzuo_42: 1347994114375677246
+      tianpingzuo_43: 1655553764838264220
+      tianpingzuo_44: 3831358599402081649
+      tianpingzuo_45: 8461475864091517348
+      tianpingzuo_46: -5457806608947698178
+      tianpingzuo_47: -7661358024753309940
+      tianpingzuo_48: 6380652157523930908
+      tianpingzuo_49: 2863109140289338696
+      tianpingzuo_5: -4243664768267071623
+      tianpingzuo_50: 961213647635801971
+      tianpingzuo_51: -2495831775849987715
+      tianpingzuo_52: 8455930384892022614
+      tianpingzuo_53: -254250304819667915
+      tianpingzuo_54: -3169455402383918675
+      tianpingzuo_55: -2038617637757174804
+      tianpingzuo_56: 1225628351109432712
+      tianpingzuo_57: -6414876688517200858
+      tianpingzuo_58: -4770954612371910188
+      tianpingzuo_59: -4689760251764772879
+      tianpingzuo_6: -4847250723067573710
+      tianpingzuo_60: -4502320542678594166
+      tianpingzuo_61: 7203274251714672032
+      tianpingzuo_62: 5864547809098654291
+      tianpingzuo_63: -7174254923015151419
+      tianpingzuo_64: -1834366613967900232
+      tianpingzuo_65: 7087736460320740608
+      tianpingzuo_66: 8444567775724644796
+      tianpingzuo_67: 7571978376322089144
+      tianpingzuo_68: -6503412259334231162
+      tianpingzuo_69: 8992904041306486147
+      tianpingzuo_7: -4394041872853370188
+      tianpingzuo_70: 4281309010101553031
+      tianpingzuo_71: -6728379999962084571
+      tianpingzuo_72: 7947240329291701563
+      tianpingzuo_8: 5826330489894364001
+      tianpingzuo_9: -6704652284750571804
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

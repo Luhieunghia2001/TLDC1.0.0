@@ -1,0 +1,3289 @@
+fileFormatVersion: 2
+guid: 9917e56f0581a104884dbe16eab97007
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7274912795403521701
+    second: nianshou_0
+  - first:
+      213: 7391800239884436752
+    second: nianshou_1
+  - first:
+      213: 6513576483489898598
+    second: nianshou_2
+  - first:
+      213: -7903803443986467480
+    second: nianshou_3
+  - first:
+      213: 5673006596591097307
+    second: nianshou_4
+  - first:
+      213: 2892341349407974279
+    second: nianshou_5
+  - first:
+      213: -9213651338672130480
+    second: nianshou_6
+  - first:
+      213: 6439466488180607045
+    second: nianshou_7
+  - first:
+      213: 401772885415377870
+    second: nianshou_8
+  - first:
+      213: -4910259215858202561
+    second: nianshou_9
+  - first:
+      213: -7242562726870542165
+    second: nianshou_10
+  - first:
+      213: -7456360109232124335
+    second: nianshou_11
+  - first:
+      213: -6639034533582387954
+    second: nianshou_12
+  - first:
+      213: -4630347137676036805
+    second: nianshou_13
+  - first:
+      213: 937431898762650726
+    second: nianshou_14
+  - first:
+      213: -2853967568223885199
+    second: nianshou_15
+  - first:
+      213: 2080263309323265714
+    second: nianshou_16
+  - first:
+      213: -8389822933750585551
+    second: nianshou_17
+  - first:
+      213: -2964313628583973399
+    second: nianshou_18
+  - first:
+      213: -3657251819580560921
+    second: nianshou_19
+  - first:
+      213: -8069291909790929436
+    second: nianshou_20
+  - first:
+      213: -6286724189584721085
+    second: nianshou_21
+  - first:
+      213: -6560098769181447024
+    second: nianshou_22
+  - first:
+      213: -2757107545522745349
+    second: nianshou_23
+  - first:
+      213: -4866894784122403650
+    second: nianshou_24
+  - first:
+      213: 9135198342209065749
+    second: nianshou_25
+  - first:
+      213: 1227444422042487828
+    second: nianshou_26
+  - first:
+      213: 1894361909645454230
+    second: nianshou_27
+  - first:
+      213: 3787768425697458193
+    second: nianshou_28
+  - first:
+      213: -2423251686534389756
+    second: nianshou_29
+  - first:
+      213: -5508721180689099571
+    second: nianshou_30
+  - first:
+      213: 2423478476129788514
+    second: nianshou_31
+  - first:
+      213: -1316262424982773823
+    second: nianshou_32
+  - first:
+      213: 5158115817672170127
+    second: nianshou_33
+  - first:
+      213: -8019181122382953758
+    second: nianshou_34
+  - first:
+      213: -2305875187661720913
+    second: nianshou_35
+  - first:
+      213: -5175924447556184895
+    second: nianshou_36
+  - first:
+      213: 1034730577095328724
+    second: nianshou_37
+  - first:
+      213: -5261129498693578459
+    second: nianshou_38
+  - first:
+      213: 5665325548004534472
+    second: nianshou_39
+  - first:
+      213: 1321083818994602510
+    second: nianshou_40
+  - first:
+      213: -8866227580543024843
+    second: nianshou_41
+  - first:
+      213: 4124037127376204774
+    second: nianshou_42
+  - first:
+      213: -4789894349759277280
+    second: nianshou_43
+  - first:
+      213: -5520487888235194574
+    second: nianshou_44
+  - first:
+      213: 5973140675848836025
+    second: nianshou_45
+  - first:
+      213: -2907747406414020003
+    second: nianshou_46
+  - first:
+      213: 7912075690691195839
+    second: nianshou_47
+  - first:
+      213: -2810981230821113248
+    second: nianshou_48
+  - first:
+      213: 2041620546504469120
+    second: nianshou_49
+  - first:
+      213: 2653082878575818445
+    second: nianshou_50
+  - first:
+      213: -6997453229995382209
+    second: nianshou_51
+  - first:
+      213: 3752230372412422258
+    second: nianshou_52
+  - first:
+      213: 3031126364274751063
+    second: nianshou_53
+  - first:
+      213: 8068381671910461744
+    second: nianshou_54
+  - first:
+      213: -9216234274713243996
+    second: nianshou_55
+  - first:
+      213: 5768622022060993863
+    second: nianshou_56
+  - first:
+      213: -6404542774889514120
+    second: nianshou_57
+  - first:
+      213: 1489587440862910833
+    second: nianshou_58
+  - first:
+      213: -2296654666550922563
+    second: nianshou_59
+  - first:
+      213: 6635154503541455325
+    second: nianshou_60
+  - first:
+      213: 9081968773207711573
+    second: nianshou_61
+  - first:
+      213: 1929017010696634027
+    second: nianshou_62
+  - first:
+      213: 3348413243192511600
+    second: nianshou_63
+  - first:
+      213: 5018425405429816588
+    second: nianshou_64
+  - first:
+      213: 5914389958343202215
+    second: nianshou_65
+  - first:
+      213: -4885093188402039918
+    second: nianshou_66
+  - first:
+      213: 3628066451480131916
+    second: nianshou_67
+  - first:
+      213: 8278726451306474509
+    second: nianshou_68
+  - first:
+      213: -8103775711148231453
+    second: nianshou_69
+  - first:
+      213: 6548883956166219298
+    second: nianshou_70
+  - first:
+      213: 843320464715089454
+    second: nianshou_71
+  - first:
+      213: -847737820543430389
+    second: nianshou_72
+  - first:
+      213: -974830781390299264
+    second: nianshou_73
+  - first:
+      213: 5670852028614350855
+    second: nianshou_74
+  - first:
+      213: -333384619305641982
+    second: nianshou_75
+  - first:
+      213: -6745846565751462435
+    second: nianshou_76
+  - first:
+      213: -5982389641193042855
+    second: nianshou_77
+  - first:
+      213: 2498951676453879345
+    second: nianshou_78
+  - first:
+      213: -2801171436626873681
+    second: nianshou_79
+  - first:
+      213: -175078087032605110
+    second: nianshou_80
+  - first:
+      213: -3770079539056857853
+    second: nianshou_81
+  - first:
+      213: -5201015096836055163
+    second: nianshou_82
+  - first:
+      213: -3117567575297179400
+    second: nianshou_83
+  - first:
+      213: 7309441754277532268
+    second: nianshou_84
+  - first:
+      213: 6840377287097061357
+    second: nianshou_85
+  - first:
+      213: -750397343411977506
+    second: nianshou_86
+  - first:
+      213: 2404749738996465277
+    second: nianshou_87
+  - first:
+      213: 2435500917593918435
+    second: nianshou_88
+  - first:
+      213: -8779034521295010226
+    second: nianshou_89
+  - first:
+      213: 7117992335087351380
+    second: nianshou_90
+  - first:
+      213: 8663286488876248938
+    second: nianshou_91
+  - first:
+      213: 625933114184046902
+    second: nianshou_92
+  - first:
+      213: -5752728633703745034
+    second: nianshou_93
+  - first:
+      213: -5421421827156665028
+    second: nianshou_94
+  - first:
+      213: 426527946454197300
+    second: nianshou_95
+  - first:
+      213: -1520437705924394506
+    second: nianshou_96
+  - first:
+      213: 7259505688263657488
+    second: nianshou_97
+  - first:
+      213: 5155593042618408070
+    second: nianshou_98
+  - first:
+      213: -9007597596614481399
+    second: nianshou_99
+  - first:
+      213: 974422003215849383
+    second: nianshou_100
+  - first:
+      213: -2302286038202927280
+    second: nianshou_101
+  - first:
+      213: 7740001600430873835
+    second: nianshou_102
+  - first:
+      213: 8983495992533855979
+    second: nianshou_103
+  - first:
+      213: 4174291020371744115
+    second: nianshou_104
+  - first:
+      213: 392951765745439516
+    second: nianshou_105
+  - first:
+      213: -8682627130571340503
+    second: nianshou_106
+  - first:
+      213: 7739905980942391449
+    second: nianshou_107
+  - first:
+      213: 2677402637264265746
+    second: nianshou_108
+  - first:
+      213: 8911602576571558973
+    second: nianshou_109
+  - first:
+      213: 8161282220127528679
+    second: nianshou_110
+  - first:
+      213: 8825965165989413702
+    second: nianshou_111
+  - first:
+      213: 3704631774406429670
+    second: nianshou_112
+  - first:
+      213: 2608279033718166199
+    second: nianshou_113
+  - first:
+      213: -8394648758659234834
+    second: nianshou_114
+  - first:
+      213: -5071125267945146020
+    second: nianshou_115
+  - first:
+      213: 6733508216109423315
+    second: nianshou_116
+  - first:
+      213: 6124815546003432234
+    second: nianshou_117
+  - first:
+      213: -9194318864312039080
+    second: nianshou_118
+  - first:
+      213: 5598718428294647215
+    second: nianshou_119
+  - first:
+      213: -8652208125296613410
+    second: nianshou_120
+  - first:
+      213: 3039700016150897957
+    second: nianshou_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nianshou_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 738
+        width: 145
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae88fda4aea5f460800000000000000
+      internalID: 7274912795403521701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 738
+        width: 153
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01585fc9723f49660800000000000000
+      internalID: 7391800239884436752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 738
+        width: 143
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660e0c32d4fd46a50800000000000000
+      internalID: 6513576483489898598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 738
+        width: 141
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8657da2d4ac005290800000000000000
+      internalID: -7903803443986467480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_4
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 737
+        width: 143
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5924651719abe40800000000000000
+      internalID: 5673006596591097307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_5
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 738
+        width: 147
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783e2ac0229a32820800000000000000
+      internalID: 2892341349407974279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_6
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 949
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056352a6ce8822080800000000000000
+      internalID: -9213651338672130480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_7
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 884
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548890b37a49d5950800000000000000
+      internalID: 6439466488180607045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_8
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 822
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb31938f42639500800000000000000
+      internalID: 401772885415377870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_9
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 767
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f380fa342414bdbb0800000000000000
+      internalID: -4910259215858202561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 157
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba89569929f3d7b90800000000000000
+      internalID: -7242562726870542165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 615
+        width: 153
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e83d37cffa58890800000000000000
+      internalID: -7456360109232124335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 691
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05454e44496dd3a0800000000000000
+      internalID: -6639034533582387954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 634
+        width: 152
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35b2189fc3bdbfb0800000000000000
+      internalID: -4630347137676036805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 633
+        width: 143
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6642ede585d620d00800000000000000
+      internalID: 937431898762650726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_15
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 679
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178a78f1e9ba468d0800000000000000
+      internalID: -2853967568223885199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_16
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 571
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6ed7745749edc10800000000000000
+      internalID: 2080263309323265714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_17
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 637
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137ee513e7c519b80800000000000000
+      internalID: -8389822933750585551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_18
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 621
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed276dd574acd6d0800000000000000
+      internalID: -2964313628583973399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_19
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 660
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9efb7d8d4de3dc0800000000000000
+      internalID: -3657251819580560921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_20
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 656
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed6affc2cd140090800000000000000
+      internalID: -8069291909790929436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_21
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 710
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b72f678a111c8a0800000000000000
+      internalID: -6286724189584721085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 578
+        width: 156
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c66732de8d5f4a0800000000000000
+      internalID: -6560098769181447024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 533
+        width: 111
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff419d8b49ccb9d0800000000000000
+      internalID: -2757107545522745349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_24
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 591
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4ce21daf0557cb0800000000000000
+      internalID: -4866894784122403650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_25
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 630
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513db1ced7eb6ce70800000000000000
+      internalID: 9135198342209065749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_26
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 586
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c8065d232c80110800000000000000
+      internalID: 1227444422042487828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_27
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 548
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ba27cbe102a4a10800000000000000
+      internalID: 1894361909645454230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_28
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 590
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1183321905bd09430800000000000000
+      internalID: 3787768425697458193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_29
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 611
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40060c61e61ee5ed0800000000000000
+      internalID: -2423251686534389756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 520
+        width: 111
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc41b5ac5471d83b0800000000000000
+      internalID: -5508721180689099571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 567
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262658a75dce1a120800000000000000
+      internalID: 2423478476129788514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_32
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 524
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf15bf5c42bbbde0800000000000000
+      internalID: -1316262424982773823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 485
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a5caed10f459740800000000000000
+      internalID: 5158115817672170127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_34
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 519
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e288d2b14526b090800000000000000
+      internalID: -8019181122382953758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_35
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 552
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2390fdbb2efffd0800000000000000
+      internalID: -2305875187661720913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_36
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 544
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4572f532c6b28b0800000000000000
+      internalID: -5175924447556184895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 485
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d380064af91c5e00800000000000000
+      internalID: 1034730577095328724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_38
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 517
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5215a097896bcf6b0800000000000000
+      internalID: -5261129498693578459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_39
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 512
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c861c9d1974f9e40800000000000000
+      internalID: 5665325548004534472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_40
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 565
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0290b5ebbe655210800000000000000
+      internalID: 1321083818994602510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 110
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53146f3adf4d4f480800000000000000
+      internalID: -8866227580543024843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 515
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3f7c1dae58b3930800000000000000
+      internalID: 4124037127376204774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_43
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 489
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02792f28770e68db0800000000000000
+      internalID: -4789894349759277280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_44
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 434
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23715e2b3894363b0800000000000000
+      internalID: -5520487888235194574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_45
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 512
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b318613ccbd4e250800000000000000
+      internalID: 5973140675848836025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_46
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 512
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d520128c32b95a7d0800000000000000
+      internalID: -2907747406414020003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_47
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 452
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3f6a3bbe65dcd60800000000000000
+      internalID: 7912075690691195839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_48
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 524
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0620e9ab6736df8d0800000000000000
+      internalID: -2810981230821113248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_49
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 493
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aa980f11b455c10800000000000000
+      internalID: 2041620546504469120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 481
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6be2942d4a1d420800000000000000
+      internalID: 2653082878575818445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 424
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a27b58c5d04ee90800000000000000
+      internalID: -6997453229995382209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_52
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 463
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278f21fb4a9921430800000000000000
+      internalID: 3752230372412422258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 404
+        width: 106
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756fae36e59b01a20800000000000000
+      internalID: 3031126364274751063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_54
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 466
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031de7ae166a8ff60800000000000000
+      internalID: 8068381671910461744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_55
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 482
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeefe0c1cb591080800000000000000
+      internalID: -9216234274713243996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_56
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 485
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74de0746a234e0050800000000000000
+      internalID: 5768622022060993863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_57
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 459
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b7ae9674e7e17a0800000000000000
+      internalID: -6404542774889514120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_58
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 415
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1795482a2e31ca410800000000000000
+      internalID: 1489587440862910833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_59
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 439
+        width: 112
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db23d7cbfb4a020e0800000000000000
+      internalID: -2296654666550922563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_60
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 440
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9fb6dcdddc41c50800000000000000
+      internalID: 6635154503541455325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_61
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 464
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f5c3c1b72a90e70800000000000000
+      internalID: 9081968773207711573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 109
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae324830ce35ca10800000000000000
+      internalID: 1929017010696634027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_63
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 446
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c04b1aa14f77e20800000000000000
+      internalID: 3348413243192511600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 451
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d9076415705a540800000000000000
+      internalID: 5018425405429816588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_65
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 432
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a51f22d452241250800000000000000
+      internalID: 5914389958343202215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 398
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293bd92a0a9a43cb0800000000000000
+      internalID: -4885093188402039918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_67
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 457
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c493cfd173b795230800000000000000
+      internalID: 3628066451480131916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_68
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 438
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ca0ca48d1f3e270800000000000000
+      internalID: 8278726451306474509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_69
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 431
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e432952dea998f80800000000000000
+      internalID: -8103775711148231453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_70
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 428
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226da8ab24f42ea50800000000000000
+      internalID: 6548883956166219298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_71
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 445
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26092b9e7314bb00800000000000000
+      internalID: 843320464715089454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_72
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 419
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0158d791fa3c34f0800000000000000
+      internalID: -847737820543430389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_73
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 437
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f5d17b194b872f0800000000000000
+      internalID: -974830781390299264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_74
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 421
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7089c53efd9e2be40800000000000000
+      internalID: 5670852028614350855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_75
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 349
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20855b084749f5bf0800000000000000
+      internalID: -333384619305641982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_76
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 358
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5681b1a40f162a0800000000000000
+      internalID: -6745846565751462435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_77
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 369
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c46b041584afca0800000000000000
+      internalID: -5982389641193042855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_78
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 425
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e76e94f4f0ea220800000000000000
+      internalID: 2498951676453879345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa272ec6b6d3029d0800000000000000
+      internalID: -2801171436626873681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_80
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 340
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46777e486ff19df0800000000000000
+      internalID: -175078087032605110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_81
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 374
+        width: 140
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d2c8b42acfdabc0800000000000000
+      internalID: -3770079539056857853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_82
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 333
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f94a9535842d7b0800000000000000
+      internalID: -5201015096836055163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_83
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 315
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0c22fcecc2cb4d0800000000000000
+      internalID: -3117567575297179400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_84
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 356
+        width: 99
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62de166c8a507560800000000000000
+      internalID: 7309441754277532268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_85
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 310
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def021796e6edee50800000000000000
+      internalID: 6840377287097061357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_86
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 384
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed24889879d0695f0800000000000000
+      internalID: -750397343411977506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_87
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 350
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ef89e85236f5120800000000000000
+      internalID: 2404749738996465277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_88
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 383
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebc2534e23acc120800000000000000
+      internalID: 2435500917593918435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_89
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 356
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46c15fbd9a9a2680800000000000000
+      internalID: -8779034521295010226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_90
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 357
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456b5d6e05038c260800000000000000
+      internalID: 7117992335087351380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_91
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 325
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fe8ec592d2a3870800000000000000
+      internalID: 8663286488876248938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_92
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 298
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639181cd9d2cfa800800000000000000
+      internalID: 625933114184046902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_93
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 295
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9bed279c33a20b0800000000000000
+      internalID: -5752728633703745034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_94
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 306
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d17c6729d33c4b0800000000000000
+      internalID: -5421421827156665028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_95
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 364
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434ed2f48e45be500800000000000000
+      internalID: 426527946454197300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_96
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 324
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1444b46f156eae0800000000000000
+      internalID: -1520437705924394506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_97
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 339
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01802e106f1feb460800000000000000
+      internalID: 7259505688263657488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_98
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 326
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cdeb78e885c8740800000000000000
+      internalID: 5155593042618408070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_99
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 293
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aa12ec5b59ef280800000000000000
+      internalID: -9007597596614481399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_100
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 292
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7510336a7d58d00800000000000000
+      internalID: 974422003215849383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_101
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 301
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057b299db03ac00e0800000000000000
+      internalID: -2302286038202927280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_102
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 338
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec13a282720a6b60800000000000000
+      internalID: 7740001600430873835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_103
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 311
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee2024320acbac70800000000000000
+      internalID: 8983495992533855979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3755c52119f0ee930800000000000000
+      internalID: 4174291020371744115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_105
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 312
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c139e1b8c8b047500800000000000000
+      internalID: 392951765745439516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_106
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 284
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925402590ac118780800000000000000
+      internalID: -8682627130571340503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 280
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9981efc5b7ba96b60800000000000000
+      internalID: 7739905980942391449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_108
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 314
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212a4da538b082520800000000000000
+      internalID: 2677402637264265746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_109
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 295
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ce004e35f5cab70800000000000000
+      internalID: 8911602576571558973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6a96a50f2b24170800000000000000
+      internalID: 8161282220127528679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_111
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 279
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64345c67e802c7a70800000000000000
+      internalID: 8825965165989413702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_112
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 258
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebce1988fe796330800000000000000
+      internalID: 3704631774406429670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_113
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 61
+        width: 192
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2dedf36f7723420800000000000000
+      internalID: 2608279033718166199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_114
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 276
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee341f54e67308b80800000000000000
+      internalID: -8394648758659234834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_115
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 260
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c593f90df6ebf99b0800000000000000
+      internalID: -5071125267945146020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_116
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 257
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da50610c0a327d50800000000000000
+      internalID: 6733508216109423315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_117
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 252
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a232356d947bff450800000000000000
+      internalID: 6124815546003432234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_118
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 264
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859020dd4b7376080800000000000000
+      internalID: -9194318864312039080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_119
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 256
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad8feb4fb4a2bd40800000000000000
+      internalID: 5598718428294647215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 200
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed762f82d8e2de780800000000000000
+      internalID: -8652208125296613410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nianshou_121
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 113
+        width: 195
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5256c664f0f2f2a20800000000000000
+      internalID: 3039700016150897957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nianshou_0: 7274912795403521701
+      nianshou_1: 7391800239884436752
+      nianshou_10: -7242562726870542165
+      nianshou_100: 974422003215849383
+      nianshou_101: -2302286038202927280
+      nianshou_102: 7740001600430873835
+      nianshou_103: 8983495992533855979
+      nianshou_104: 4174291020371744115
+      nianshou_105: 392951765745439516
+      nianshou_106: -8682627130571340503
+      nianshou_107: 7739905980942391449
+      nianshou_108: 2677402637264265746
+      nianshou_109: 8911602576571558973
+      nianshou_11: -7456360109232124335
+      nianshou_110: 8161282220127528679
+      nianshou_111: 8825965165989413702
+      nianshou_112: 3704631774406429670
+      nianshou_113: 2608279033718166199
+      nianshou_114: -8394648758659234834
+      nianshou_115: -5071125267945146020
+      nianshou_116: 6733508216109423315
+      nianshou_117: 6124815546003432234
+      nianshou_118: -9194318864312039080
+      nianshou_119: 5598718428294647215
+      nianshou_12: -6639034533582387954
+      nianshou_120: -8652208125296613410
+      nianshou_121: 3039700016150897957
+      nianshou_13: -4630347137676036805
+      nianshou_14: 937431898762650726
+      nianshou_15: -2853967568223885199
+      nianshou_16: 2080263309323265714
+      nianshou_17: -8389822933750585551
+      nianshou_18: -2964313628583973399
+      nianshou_19: -3657251819580560921
+      nianshou_2: 6513576483489898598
+      nianshou_20: -8069291909790929436
+      nianshou_21: -6286724189584721085
+      nianshou_22: -6560098769181447024
+      nianshou_23: -2757107545522745349
+      nianshou_24: -4866894784122403650
+      nianshou_25: 9135198342209065749
+      nianshou_26: 1227444422042487828
+      nianshou_27: 1894361909645454230
+      nianshou_28: 3787768425697458193
+      nianshou_29: -2423251686534389756
+      nianshou_3: -7903803443986467480
+      nianshou_30: -5508721180689099571
+      nianshou_31: 2423478476129788514
+      nianshou_32: -1316262424982773823
+      nianshou_33: 5158115817672170127
+      nianshou_34: -8019181122382953758
+      nianshou_35: -2305875187661720913
+      nianshou_36: -5175924447556184895
+      nianshou_37: 1034730577095328724
+      nianshou_38: -5261129498693578459
+      nianshou_39: 5665325548004534472
+      nianshou_4: 5673006596591097307
+      nianshou_40: 1321083818994602510
+      nianshou_41: -8866227580543024843
+      nianshou_42: 4124037127376204774
+      nianshou_43: -4789894349759277280
+      nianshou_44: -5520487888235194574
+      nianshou_45: 5973140675848836025
+      nianshou_46: -2907747406414020003
+      nianshou_47: 7912075690691195839
+      nianshou_48: -2810981230821113248
+      nianshou_49: 2041620546504469120
+      nianshou_5: 2892341349407974279
+      nianshou_50: 2653082878575818445
+      nianshou_51: -6997453229995382209
+      nianshou_52: 3752230372412422258
+      nianshou_53: 3031126364274751063
+      nianshou_54: 8068381671910461744
+      nianshou_55: -9216234274713243996
+      nianshou_56: 5768622022060993863
+      nianshou_57: -6404542774889514120
+      nianshou_58: 1489587440862910833
+      nianshou_59: -2296654666550922563
+      nianshou_6: -9213651338672130480
+      nianshou_60: 6635154503541455325
+      nianshou_61: 9081968773207711573
+      nianshou_62: 1929017010696634027
+      nianshou_63: 3348413243192511600
+      nianshou_64: 5018425405429816588
+      nianshou_65: 5914389958343202215
+      nianshou_66: -4885093188402039918
+      nianshou_67: 3628066451480131916
+      nianshou_68: 8278726451306474509
+      nianshou_69: -8103775711148231453
+      nianshou_7: 6439466488180607045
+      nianshou_70: 6548883956166219298
+      nianshou_71: 843320464715089454
+      nianshou_72: -847737820543430389
+      nianshou_73: -974830781390299264
+      nianshou_74: 5670852028614350855
+      nianshou_75: -333384619305641982
+      nianshou_76: -6745846565751462435
+      nianshou_77: -5982389641193042855
+      nianshou_78: 2498951676453879345
+      nianshou_79: -2801171436626873681
+      nianshou_8: 401772885415377870
+      nianshou_80: -175078087032605110
+      nianshou_81: -3770079539056857853
+      nianshou_82: -5201015096836055163
+      nianshou_83: -3117567575297179400
+      nianshou_84: 7309441754277532268
+      nianshou_85: 6840377287097061357
+      nianshou_86: -750397343411977506
+      nianshou_87: 2404749738996465277
+      nianshou_88: 2435500917593918435
+      nianshou_89: -8779034521295010226
+      nianshou_9: -4910259215858202561
+      nianshou_90: 7117992335087351380
+      nianshou_91: 8663286488876248938
+      nianshou_92: 625933114184046902
+      nianshou_93: -5752728633703745034
+      nianshou_94: -5421421827156665028
+      nianshou_95: 426527946454197300
+      nianshou_96: -1520437705924394506
+      nianshou_97: 7259505688263657488
+      nianshou_98: 5155593042618408070
+      nianshou_99: -9007597596614481399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

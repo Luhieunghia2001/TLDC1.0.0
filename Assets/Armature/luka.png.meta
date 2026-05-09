@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: c55e8f5b4b91e7e4080eb7dff47d8a39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8842209638325350227
+    second: luka_0
+  - first:
+      213: 768354762075687586
+    second: luka_1
+  - first:
+      213: 560106957584873610
+    second: luka_2
+  - first:
+      213: -4850701703464730838
+    second: luka_3
+  - first:
+      213: -3051201116331296367
+    second: luka_4
+  - first:
+      213: -3477299426618358394
+    second: luka_5
+  - first:
+      213: -64896231110334375
+    second: luka_6
+  - first:
+      213: -970854365530906818
+    second: luka_7
+  - first:
+      213: -1141885896054660508
+    second: luka_8
+  - first:
+      213: -5244483216391923268
+    second: luka_9
+  - first:
+      213: -2577891261706492110
+    second: luka_10
+  - first:
+      213: -8415123049159196585
+    second: luka_11
+  - first:
+      213: -3549748363518132400
+    second: luka_12
+  - first:
+      213: -1113547218993864670
+    second: luka_13
+  - first:
+      213: -8532146554950681539
+    second: luka_14
+  - first:
+      213: 1285749173350205405
+    second: luka_15
+  - first:
+      213: -936580194789693121
+    second: luka_16
+  - first:
+      213: -3154785777313817331
+    second: luka_17
+  - first:
+      213: 433500345161989376
+    second: luka_18
+  - first:
+      213: 6833947504149286692
+    second: luka_19
+  - first:
+      213: 1229624809804885683
+    second: luka_20
+  - first:
+      213: 2709649847075422391
+    second: luka_21
+  - first:
+      213: 1852836802646027775
+    second: luka_22
+  - first:
+      213: -3786877581155092053
+    second: luka_23
+  - first:
+      213: 5311878617649753573
+    second: luka_24
+  - first:
+      213: -6378047949394772198
+    second: luka_25
+  - first:
+      213: -4592275571897706987
+    second: luka_26
+  - first:
+      213: 3402935466525170965
+    second: luka_27
+  - first:
+      213: -4512705487526468174
+    second: luka_28
+  - first:
+      213: -2001775279098355774
+    second: luka_29
+  - first:
+      213: 8938030839514192187
+    second: luka_30
+  - first:
+      213: 5182689385753459542
+    second: luka_31
+  - first:
+      213: -4979667233368223027
+    second: luka_32
+  - first:
+      213: -2642954938708621853
+    second: luka_33
+  - first:
+      213: 5483958143072903027
+    second: luka_34
+  - first:
+      213: 4455163166755483204
+    second: luka_35
+  - first:
+      213: -1659263676520618526
+    second: luka_36
+  - first:
+      213: -966876881589039170
+    second: luka_37
+  - first:
+      213: 3143386241841482803
+    second: luka_38
+  - first:
+      213: 6396049263097392973
+    second: luka_39
+  - first:
+      213: -270515837981547199
+    second: luka_40
+  - first:
+      213: 5629102241465679593
+    second: luka_41
+  - first:
+      213: 1399111787159805195
+    second: luka_42
+  - first:
+      213: -1375094491032375262
+    second: luka_43
+  - first:
+      213: -1704158205074148531
+    second: luka_44
+  - first:
+      213: 1477614611620781091
+    second: luka_45
+  - first:
+      213: -1564811003209459761
+    second: luka_46
+  - first:
+      213: 6960363684186305082
+    second: luka_47
+  - first:
+      213: 1197245542101852575
+    second: luka_48
+  - first:
+      213: -6632001639096989645
+    second: luka_49
+  - first:
+      213: 4199000962622222900
+    second: luka_50
+  - first:
+      213: -307053674477890910
+    second: luka_51
+  - first:
+      213: 3327119925332674213
+    second: luka_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: luka_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 757
+        width: 261
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da015169e292a4580800000000000000
+      internalID: -8842209638325350227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 757
+        width: 255
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa400fc59eb9aa00800000000000000
+      internalID: 768354762075687586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 757
+        width: 249
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8832137f46e5c700800000000000000
+      internalID: 560106957584873610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 871
+        width: 157
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f3a953088deacb0800000000000000
+      internalID: -4850701703464730838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_4
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 925
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1993cca20c4f7a5d0800000000000000
+      internalID: -3051201116331296367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_5
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 833
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6854eb258962ebfc0800000000000000
+      internalID: -3477299426618358394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_6
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 799
+        width: 111
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958286db831791ff0800000000000000
+      internalID: -64896231110334375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_7
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 817
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f94ed2915d682f0800000000000000
+      internalID: -970854365530906818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_8
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 778
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46222a7d3d43720f0800000000000000
+      internalID: -1141885896054660508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_9
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 746
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb916781d4ad737b0800000000000000
+      internalID: -5244483216391923268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_10
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 784
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237a6644e8d793cd0800000000000000
+      internalID: -2577891261706492110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_11
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 789
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7500aa90c2a773b80800000000000000
+      internalID: -8415123049159196585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_12
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 759
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f3a76bba2ccbec0800000000000000
+      internalID: -3549748363518132400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 489
+        width: 242
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2202f3344b2eb80f0800000000000000
+      internalID: -1113547218993864670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 620
+        width: 164
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c779cd9e9b79980800000000000000
+      internalID: -8532146554950681539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 741
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd78acb9f06e7d110800000000000000
+      internalID: 1285749173350205405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 743
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39e4e966499003f0800000000000000
+      internalID: -936580194789693121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_17
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 726
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d51c0ec03f734d0800000000000000
+      internalID: -3154785777313817331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_18
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 630
+        width: 158
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00db363644a140600800000000000000
+      internalID: 433500345161989376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_19
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 740
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f4c761c0f07de50800000000000000
+      internalID: 6833947504149286692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_20
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 747
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be6d6bef31801110800000000000000
+      internalID: 1229624809804885683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_21
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 723
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b04f98fd2c9a9520800000000000000
+      internalID: 2709649847075422391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_22
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 745
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdac78514996b910800000000000000
+      internalID: 1852836802646027775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_23
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 748
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba93c5757ee427bc0800000000000000
+      internalID: -3786877581155092053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_24
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 726
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eda10f857597b940800000000000000
+      internalID: 5311878617649753573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 730
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f7aefae2f9c77a0800000000000000
+      internalID: -6378047949394772198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_26
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 705
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5165552c2b5f440c0800000000000000
+      internalID: -4592275571897706987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 727
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d9fcbf6c7a93f20800000000000000
+      internalID: 3402935466525170965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_28
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 729
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b56708b446af51c0800000000000000
+      internalID: -4512705487526468174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_29
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 714
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf1f215df34834e0800000000000000
+      internalID: -2001775279098355774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_30
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 702
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39dabc51b34a0c70800000000000000
+      internalID: 8938030839514192187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_31
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 704
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bb50b898c9ce740800000000000000
+      internalID: 5182689385753459542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_32
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 727
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc25f6fd80ba4eab0800000000000000
+      internalID: -4979667233368223027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_33
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 665
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e588e87c76525bd0800000000000000
+      internalID: -2642954938708621853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 689
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f98f830eeea1c40800000000000000
+      internalID: 5483958143072903027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_35
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 712
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e6dd2bb4be3dd30800000000000000
+      internalID: 4455163166755483204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_36
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 696
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5a7443a7c19f8e0800000000000000
+      internalID: -1659263676520618526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_37
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 650
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf09535996f492f0800000000000000
+      internalID: -966876881589039170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_38
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 699
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ccfc0f12d8f9b20800000000000000
+      internalID: 3143386241841482803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_39
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 695
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fa1d4cae453c850800000000000000
+      internalID: 6396049263097392973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_40
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 691
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1452ef2574fee3cf0800000000000000
+      internalID: -270515837981547199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_41
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 703
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eebae21aa69e1e40800000000000000
+      internalID: 5629102241465679593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_42
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 704
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dd8b2f1c4aa6310800000000000000
+      internalID: 1399111787159805195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_43
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 703
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2203b6198deaaece0800000000000000
+      internalID: -1375094491032375262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_44
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 616
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43fc79342d9958e0800000000000000
+      internalID: -1704158205074148531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_45
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 652
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c559819aa818410800000000000000
+      internalID: 1477614611620781091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_46
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 648
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7d31deeaca84ae0800000000000000
+      internalID: -1564811003209459761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_47
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 689
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a323477a4ed289060800000000000000
+      internalID: 6960363684186305082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_48
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 662
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91a6ed2a787d9010800000000000000
+      internalID: 1197245542101852575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_49
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 682
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338c0d7a5a566f3a0800000000000000
+      internalID: -6632001639096989645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_50
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 674
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432fe94d029d54a30800000000000000
+      internalID: 4199000962622222900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_51
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 618
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a254c55f402dbbf0800000000000000
+      internalID: -307053674477890910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luka_52
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 665
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6049ab1fd4c2e20800000000000000
+      internalID: 3327119925332674213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      luka_0: -8842209638325350227
+      luka_1: 768354762075687586
+      luka_10: -2577891261706492110
+      luka_11: -8415123049159196585
+      luka_12: -3549748363518132400
+      luka_13: -1113547218993864670
+      luka_14: -8532146554950681539
+      luka_15: 1285749173350205405
+      luka_16: -936580194789693121
+      luka_17: -3154785777313817331
+      luka_18: 433500345161989376
+      luka_19: 6833947504149286692
+      luka_2: 560106957584873610
+      luka_20: 1229624809804885683
+      luka_21: 2709649847075422391
+      luka_22: 1852836802646027775
+      luka_23: -3786877581155092053
+      luka_24: 5311878617649753573
+      luka_25: -6378047949394772198
+      luka_26: -4592275571897706987
+      luka_27: 3402935466525170965
+      luka_28: -4512705487526468174
+      luka_29: -2001775279098355774
+      luka_3: -4850701703464730838
+      luka_30: 8938030839514192187
+      luka_31: 5182689385753459542
+      luka_32: -4979667233368223027
+      luka_33: -2642954938708621853
+      luka_34: 5483958143072903027
+      luka_35: 4455163166755483204
+      luka_36: -1659263676520618526
+      luka_37: -966876881589039170
+      luka_38: 3143386241841482803
+      luka_39: 6396049263097392973
+      luka_4: -3051201116331296367
+      luka_40: -270515837981547199
+      luka_41: 5629102241465679593
+      luka_42: 1399111787159805195
+      luka_43: -1375094491032375262
+      luka_44: -1704158205074148531
+      luka_45: 1477614611620781091
+      luka_46: -1564811003209459761
+      luka_47: 6960363684186305082
+      luka_48: 1197245542101852575
+      luka_49: -6632001639096989645
+      luka_5: -3477299426618358394
+      luka_50: 4199000962622222900
+      luka_51: -307053674477890910
+      luka_52: 3327119925332674213
+      luka_6: -64896231110334375
+      luka_7: -970854365530906818
+      luka_8: -1141885896054660508
+      luka_9: -5244483216391923268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

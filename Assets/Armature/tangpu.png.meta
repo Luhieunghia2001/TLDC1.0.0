@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 10a2e97a938564e41abd0839220f75c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5050120116765458141
+    second: tangpu_0
+  - first:
+      213: 8729209584017231722
+    second: tangpu_1
+  - first:
+      213: -1519600856456838003
+    second: tangpu_2
+  - first:
+      213: -5603040052613480499
+    second: tangpu_3
+  - first:
+      213: 3139016095337721156
+    second: tangpu_4
+  - first:
+      213: 8485937881800388958
+    second: tangpu_5
+  - first:
+      213: -5620911964183286401
+    second: tangpu_6
+  - first:
+      213: -9108236437523167347
+    second: tangpu_7
+  - first:
+      213: -5054933785811581686
+    second: tangpu_8
+  - first:
+      213: 5677829332260519192
+    second: tangpu_9
+  - first:
+      213: 3289734448334543035
+    second: tangpu_10
+  - first:
+      213: -1306766880114878826
+    second: tangpu_11
+  - first:
+      213: -2797573219185458989
+    second: tangpu_12
+  - first:
+      213: -2277788913075583361
+    second: tangpu_13
+  - first:
+      213: -8095769474640680992
+    second: tangpu_14
+  - first:
+      213: 8951373255059272024
+    second: tangpu_15
+  - first:
+      213: -2628268974320117595
+    second: tangpu_16
+  - first:
+      213: -5115539407597890667
+    second: tangpu_17
+  - first:
+      213: 2257981298229458531
+    second: tangpu_18
+  - first:
+      213: 582007694573215889
+    second: tangpu_19
+  - first:
+      213: -3833409374074708161
+    second: tangpu_20
+  - first:
+      213: 7299938346205917036
+    second: tangpu_21
+  - first:
+      213: 6641022601510199336
+    second: tangpu_22
+  - first:
+      213: -1255775907110063832
+    second: tangpu_23
+  - first:
+      213: -8270584600326879230
+    second: tangpu_24
+  - first:
+      213: -1323384848452694162
+    second: tangpu_25
+  - first:
+      213: 4286716552769904252
+    second: tangpu_26
+  - first:
+      213: 8946040679481404703
+    second: tangpu_27
+  - first:
+      213: 8359784232893644845
+    second: tangpu_28
+  - first:
+      213: -6607793047181879213
+    second: tangpu_29
+  - first:
+      213: 5782164275211863663
+    second: tangpu_30
+  - first:
+      213: 1928483045988143108
+    second: tangpu_31
+  - first:
+      213: 2826607273256928135
+    second: tangpu_32
+  - first:
+      213: -1797225224871203629
+    second: tangpu_33
+  - first:
+      213: 5401388735757780860
+    second: tangpu_34
+  - first:
+      213: -841680301984740763
+    second: tangpu_35
+  - first:
+      213: 9055213363722942253
+    second: tangpu_36
+  - first:
+      213: 2146420551297220410
+    second: tangpu_37
+  - first:
+      213: -6222270237635677971
+    second: tangpu_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tangpu_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 503
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddefbd05d71a51640800000000000000
+      internalID: 5050120116765458141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 392
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f48490ed1642970800000000000000
+      internalID: 8729209584017231722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 427
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84c28e721b49eae0800000000000000
+      internalID: -1519600856456838003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 480
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfffa122c00e32b0800000000000000
+      internalID: -5603040052613480499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 280
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44da6dae186009b20800000000000000
+      internalID: 3139016095337721156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 454
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e513eb60b8b14c570800000000000000
+      internalID: 8485937881800388958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 440
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dac1579528ef1b0800000000000000
+      internalID: -5620911964183286401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 344
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d878923b73b099180800000000000000
+      internalID: -9108236437523167347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_8
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 410
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a058495018449d9b0800000000000000
+      internalID: -5054933785811581686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_9
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 411
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d7eacf1b3bbce40800000000000000
+      internalID: 5677829332260519192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 424
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8985e0d0c77ad20800000000000000
+      internalID: 3289734448334543035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 394
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d182327e6ddde0800000000000000
+      internalID: -1306766880114878826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 383
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d00e45baf50d29d0800000000000000
+      internalID: -2797573219185458989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_13
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 397
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f768ec24d0ba360e0800000000000000
+      internalID: -2277788913075583361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 297
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e767985e8c06af80800000000000000
+      internalID: -8095769474640680992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 333
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8517dbf8c8aa93c70800000000000000
+      internalID: 8951373255059272024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_16
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 383
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a818730b43868bd0800000000000000
+      internalID: -2628268974320117595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_17
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 371
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5939d971304f109b0800000000000000
+      internalID: -5115539407597890667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 369
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36631760706f55f10800000000000000
+      internalID: 2257981298229458531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_19
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 284
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190a4932ae4b31800800000000000000
+      internalID: 582007694573215889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 283
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fdf9b0c7efccac0800000000000000
+      internalID: -3833409374074708161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_21
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 335
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f2bd7cf379e4560800000000000000
+      internalID: 7299938346205917036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 303
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8202b54ded6a92c50800000000000000
+      internalID: 6641022601510199336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 308
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821f5334776929ee0800000000000000
+      internalID: -1255775907110063832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 258
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20843bc102bf83d80800000000000000
+      internalID: -8270584600326879230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 232
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fc7deed7462ade0800000000000000
+      internalID: -1323384848452694162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_26
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 295
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e13a42ef97d7b30800000000000000
+      internalID: 4286716552769904252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1deeae8998b62c70800000000000000
+      internalID: 8946040679481404703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_28
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 252
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d208980c77be30470800000000000000
+      internalID: 8359784232893644845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 242
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3589d61bb376c44a0800000000000000
+      internalID: -6607793047181879213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 243
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6605f8e5cf5e3050800000000000000
+      internalID: 5782164275211863663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 243
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4009c7fdc1953ca10800000000000000
+      internalID: 1928483045988143108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_32
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 271
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783c30ac6502a3720800000000000000
+      internalID: 2826607273256928135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_33
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 250
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc2e2a1e29fe07e0800000000000000
+      internalID: -1797225224871203629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_34
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 272
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7783a8ff6695fa40800000000000000
+      internalID: 5401388735757780860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 222
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a81c98930c154f0800000000000000
+      internalID: -841680301984740763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 236
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d277316e3949aad70800000000000000
+      internalID: 9055213363722942253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 249
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f3ba28e1e99cd10800000000000000
+      internalID: 2146420551297220410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tangpu_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 239
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de07d359f2e06a9a0800000000000000
+      internalID: -6222270237635677971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tangpu_0: 5050120116765458141
+      tangpu_1: 8729209584017231722
+      tangpu_10: 3289734448334543035
+      tangpu_11: -1306766880114878826
+      tangpu_12: -2797573219185458989
+      tangpu_13: -2277788913075583361
+      tangpu_14: -8095769474640680992
+      tangpu_15: 8951373255059272024
+      tangpu_16: -2628268974320117595
+      tangpu_17: -5115539407597890667
+      tangpu_18: 2257981298229458531
+      tangpu_19: 582007694573215889
+      tangpu_2: -1519600856456838003
+      tangpu_20: -3833409374074708161
+      tangpu_21: 7299938346205917036
+      tangpu_22: 6641022601510199336
+      tangpu_23: -1255775907110063832
+      tangpu_24: -8270584600326879230
+      tangpu_25: -1323384848452694162
+      tangpu_26: 4286716552769904252
+      tangpu_27: 8946040679481404703
+      tangpu_28: 8359784232893644845
+      tangpu_29: -6607793047181879213
+      tangpu_3: -5603040052613480499
+      tangpu_30: 5782164275211863663
+      tangpu_31: 1928483045988143108
+      tangpu_32: 2826607273256928135
+      tangpu_33: -1797225224871203629
+      tangpu_34: 5401388735757780860
+      tangpu_35: -841680301984740763
+      tangpu_36: 9055213363722942253
+      tangpu_37: 2146420551297220410
+      tangpu_38: -6222270237635677971
+      tangpu_4: 3139016095337721156
+      tangpu_5: 8485937881800388958
+      tangpu_6: -5620911964183286401
+      tangpu_7: -9108236437523167347
+      tangpu_8: -5054933785811581686
+      tangpu_9: 5677829332260519192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: c38bbf2828255384fa33384ccbf93435
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1705614419016737663
+    second: suoluo_0
+  - first:
+      213: 2560282282375264073
+    second: suoluo_1
+  - first:
+      213: -5573314627749317900
+    second: suoluo_2
+  - first:
+      213: -3756400421036980735
+    second: suoluo_3
+  - first:
+      213: -6633218132504815976
+    second: suoluo_4
+  - first:
+      213: -855614824544249556
+    second: suoluo_5
+  - first:
+      213: 664827340985497094
+    second: suoluo_6
+  - first:
+      213: -1545300904239164255
+    second: suoluo_7
+  - first:
+      213: 8764226718145115330
+    second: suoluo_8
+  - first:
+      213: 8105426135683070942
+    second: suoluo_9
+  - first:
+      213: -8095411742538892591
+    second: suoluo_10
+  - first:
+      213: -899310405037839795
+    second: suoluo_11
+  - first:
+      213: -558496642772432458
+    second: suoluo_12
+  - first:
+      213: -7589965325318003122
+    second: suoluo_13
+  - first:
+      213: -3146074670140931651
+    second: suoluo_14
+  - first:
+      213: 5176422463575738014
+    second: suoluo_15
+  - first:
+      213: -5985197940286539973
+    second: suoluo_16
+  - first:
+      213: 6957087286684589428
+    second: suoluo_17
+  - first:
+      213: -5590724581216553061
+    second: suoluo_18
+  - first:
+      213: 3803859902245199235
+    second: suoluo_19
+  - first:
+      213: -4224683870308488549
+    second: suoluo_20
+  - first:
+      213: -5611639587779224653
+    second: suoluo_21
+  - first:
+      213: 1463037670733964522
+    second: suoluo_22
+  - first:
+      213: -4295148492315172379
+    second: suoluo_23
+  - first:
+      213: 117687254144836421
+    second: suoluo_24
+  - first:
+      213: 2426001977295759821
+    second: suoluo_25
+  - first:
+      213: -2263382277738157854
+    second: suoluo_26
+  - first:
+      213: -4064976611822057122
+    second: suoluo_27
+  - first:
+      213: -8845598836790795393
+    second: suoluo_28
+  - first:
+      213: -5485943515454823096
+    second: suoluo_29
+  - first:
+      213: -3286647178846393269
+    second: suoluo_30
+  - first:
+      213: 5758305715345981166
+    second: suoluo_31
+  - first:
+      213: -5857709436089586174
+    second: suoluo_32
+  - first:
+      213: -4099407686608135162
+    second: suoluo_33
+  - first:
+      213: -3836571073597084084
+    second: suoluo_34
+  - first:
+      213: -8721751481041268264
+    second: suoluo_35
+  - first:
+      213: 6913842795198517169
+    second: suoluo_36
+  - first:
+      213: -8884055276532064010
+    second: suoluo_37
+  - first:
+      213: 2696845694096223206
+    second: suoluo_38
+  - first:
+      213: -824455765529746525
+    second: suoluo_39
+  - first:
+      213: 197140987639839560
+    second: suoluo_40
+  - first:
+      213: -1206754957591797149
+    second: suoluo_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: suoluo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 183
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73e641074f8ba710800000000000000
+      internalID: 1705614419016737663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 345
+        width: 175
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94734bdbb23f78320800000000000000
+      internalID: 2560282282375264073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 350
+        width: 100
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2738fefdb97a2b0800000000000000
+      internalID: -5573314627749317900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 449
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10686f528b59edbc0800000000000000
+      internalID: -3756400421036980735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 381
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896de56b04312f3a0800000000000000
+      internalID: -6633218132504815976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 151
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c295b7ea9de3024f0800000000000000
+      internalID: -855614824544249556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 304
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6067868b1f0f93900800000000000000
+      internalID: 664827340985497094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 278
+        width: 173
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a41cb3d30dfd8ae0800000000000000
+      internalID: -1545300904239164255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 253
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4f60ae3c9c0a970800000000000000
+      internalID: 8764226718145115330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_9
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 255
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb7e8240224c7070800000000000000
+      internalID: 8105426135683070942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_10
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 320
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da717759e157af80800000000000000
+      internalID: -8095411742538892591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 148
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a28ec83f10583f0800000000000000
+      internalID: -899310405037839795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 234
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b90d4f2342df38f0800000000000000
+      internalID: -558496642772432458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 267
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4663eeffb60ba690800000000000000
+      internalID: -7589965325318003122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 187
+        width: 119
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1456191c5e654d0800000000000000
+      internalID: -3146074670140931651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 250
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96c8c40ec856d740800000000000000
+      internalID: 5176422463575738014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 254
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3732da2f2e40fca0800000000000000
+      internalID: -5985197940286539973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 230
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d983ae60a8c8060800000000000000
+      internalID: 6957087286684589428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 207
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97fa834d91c962b0800000000000000
+      internalID: -5590724581216553061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 177
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d5da86d660ac430800000000000000
+      internalID: 3803859902245199235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 220
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa0fd3768ee55c0800000000000000
+      internalID: -4224683870308488549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_21
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 206
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb56e2d6837f12b0800000000000000
+      internalID: -5611639587779224653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4ec119201cd4410800000000000000
+      internalID: 1463037670733964522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 134
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1eff1f3319464c0800000000000000
+      internalID: -4295148492315172379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_24
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 204
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543e4e12feb12a100800000000000000
+      internalID: 117687254144836421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 209
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9eb11e1f3eaa120800000000000000
+      internalID: 2426001977295759821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 164
+        width: 97
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8a0807fc9d690e0800000000000000
+      internalID: -2263382277738157854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 139
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5943180f4d4697c0800000000000000
+      internalID: -4064976611822057122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_28
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 135
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73e97359be1e3580800000000000000
+      internalID: -8845598836790795393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 187
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845257f30730ed3b0800000000000000
+      internalID: -5485943515454823096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_30
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 180
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c22d2edcb7362d0800000000000000
+      internalID: -3286647178846393269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_31
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 176
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee7c4f0a8c99ef40800000000000000
+      internalID: 5758305715345981166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 128
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e2d68ad4c35bea0800000000000000
+      internalID: -5857709436089586174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 129
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c573abd6afb17c0800000000000000
+      internalID: -4099407686608135162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 137
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ee4b28fe2c1cac0800000000000000
+      internalID: -3836571073597084084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 131
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d15c41ec3d16f680800000000000000
+      internalID: -8721751481041268264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_36
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 126
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf83b02467e2ff50800000000000000
+      internalID: 6913842795198517169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_37
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 164
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f02f55bbce75b480800000000000000
+      internalID: -8884055276532064010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_38
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 127
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba5aacede1d6520800000000000000
+      internalID: 2696845694096223206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 102
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3a39279d1fe84f0800000000000000
+      internalID: -824455765529746525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_40
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 100
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b31fa0fa26cb200800000000000000
+      internalID: 197140987639839560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suoluo_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 99
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362accd72ceb04fe0800000000000000
+      internalID: -1206754957591797149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      suoluo_0: 1705614419016737663
+      suoluo_1: 2560282282375264073
+      suoluo_10: -8095411742538892591
+      suoluo_11: -899310405037839795
+      suoluo_12: -558496642772432458
+      suoluo_13: -7589965325318003122
+      suoluo_14: -3146074670140931651
+      suoluo_15: 5176422463575738014
+      suoluo_16: -5985197940286539973
+      suoluo_17: 6957087286684589428
+      suoluo_18: -5590724581216553061
+      suoluo_19: 3803859902245199235
+      suoluo_2: -5573314627749317900
+      suoluo_20: -4224683870308488549
+      suoluo_21: -5611639587779224653
+      suoluo_22: 1463037670733964522
+      suoluo_23: -4295148492315172379
+      suoluo_24: 117687254144836421
+      suoluo_25: 2426001977295759821
+      suoluo_26: -2263382277738157854
+      suoluo_27: -4064976611822057122
+      suoluo_28: -8845598836790795393
+      suoluo_29: -5485943515454823096
+      suoluo_3: -3756400421036980735
+      suoluo_30: -3286647178846393269
+      suoluo_31: 5758305715345981166
+      suoluo_32: -5857709436089586174
+      suoluo_33: -4099407686608135162
+      suoluo_34: -3836571073597084084
+      suoluo_35: -8721751481041268264
+      suoluo_36: 6913842795198517169
+      suoluo_37: -8884055276532064010
+      suoluo_38: 2696845694096223206
+      suoluo_39: -824455765529746525
+      suoluo_4: -6633218132504815976
+      suoluo_40: 197140987639839560
+      suoluo_41: -1206754957591797149
+      suoluo_5: -855614824544249556
+      suoluo_6: 664827340985497094
+      suoluo_7: -1545300904239164255
+      suoluo_8: 8764226718145115330
+      suoluo_9: 8105426135683070942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

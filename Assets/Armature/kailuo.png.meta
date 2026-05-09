@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: 2a82034e90878c043a57bc40c18776e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2348380718709249969
+    second: kailuo_0
+  - first:
+      213: -2310439377822073210
+    second: kailuo_1
+  - first:
+      213: -3343978108803985771
+    second: kailuo_2
+  - first:
+      213: -4101418999248519725
+    second: kailuo_3
+  - first:
+      213: 8345509642748096538
+    second: kailuo_4
+  - first:
+      213: 3791480574841468371
+    second: kailuo_5
+  - first:
+      213: -2099840600900337646
+    second: kailuo_6
+  - first:
+      213: 2217875382685253469
+    second: kailuo_7
+  - first:
+      213: -3047686020935730669
+    second: kailuo_8
+  - first:
+      213: 523763149819546512
+    second: kailuo_9
+  - first:
+      213: 4484129155728108200
+    second: kailuo_10
+  - first:
+      213: -5441548122098399480
+    second: kailuo_11
+  - first:
+      213: 8839861895896458391
+    second: kailuo_12
+  - first:
+      213: -3667345831835994281
+    second: kailuo_13
+  - first:
+      213: 2793698604985864258
+    second: kailuo_14
+  - first:
+      213: 1937470097160326897
+    second: kailuo_15
+  - first:
+      213: 4627274758932931165
+    second: kailuo_16
+  - first:
+      213: -4421940601655203169
+    second: kailuo_17
+  - first:
+      213: -1024221050478870266
+    second: kailuo_18
+  - first:
+      213: -2708827234120391990
+    second: kailuo_19
+  - first:
+      213: -6152334471835377352
+    second: kailuo_20
+  - first:
+      213: 101452061706516617
+    second: kailuo_21
+  - first:
+      213: 4150024465535217826
+    second: kailuo_22
+  - first:
+      213: 8494127740744816082
+    second: kailuo_23
+  - first:
+      213: 3583923089830922944
+    second: kailuo_24
+  - first:
+      213: 7583266274643630028
+    second: kailuo_25
+  - first:
+      213: -7279887154301840687
+    second: kailuo_26
+  - first:
+      213: -6760488236058120860
+    second: kailuo_27
+  - first:
+      213: -249130805779383169
+    second: kailuo_28
+  - first:
+      213: -2592555369148725547
+    second: kailuo_29
+  - first:
+      213: 8342379698458423552
+    second: kailuo_30
+  - first:
+      213: -1467420535991524312
+    second: kailuo_31
+  - first:
+      213: -1150461925065730224
+    second: kailuo_32
+  - first:
+      213: -6502033861460936396
+    second: kailuo_33
+  - first:
+      213: -4048547053113385415
+    second: kailuo_34
+  - first:
+      213: -4001648876724597596
+    second: kailuo_35
+  - first:
+      213: 4511399201609479460
+    second: kailuo_36
+  - first:
+      213: -4163181967510635909
+    second: kailuo_37
+  - first:
+      213: -8768966921283608783
+    second: kailuo_38
+  - first:
+      213: -8472688026876983236
+    second: kailuo_39
+  - first:
+      213: -2416369614235117951
+    second: kailuo_40
+  - first:
+      213: -3578969300256695724
+    second: kailuo_41
+  - first:
+      213: -6500701707029078718
+    second: kailuo_42
+  - first:
+      213: 733273154759163049
+    second: kailuo_43
+  - first:
+      213: 2549300806562897351
+    second: kailuo_44
+  - first:
+      213: -1518755626653677041
+    second: kailuo_45
+  - first:
+      213: 6836626920275563865
+    second: kailuo_46
+  - first:
+      213: -4292521547591815022
+    second: kailuo_47
+  - first:
+      213: 2008916503689076403
+    second: kailuo_48
+  - first:
+      213: 2659474632186685345
+    second: kailuo_49
+  - first:
+      213: -8415116639357438018
+    second: kailuo_50
+  - first:
+      213: 8414048550060291305
+    second: kailuo_51
+  - first:
+      213: 8424474744274464664
+    second: kailuo_52
+  - first:
+      213: -7435144082535976189
+    second: kailuo_53
+  - first:
+      213: 1888793723857130381
+    second: kailuo_54
+  - first:
+      213: -2875600924731319611
+    second: kailuo_55
+  - first:
+      213: -6622011196073815304
+    second: kailuo_56
+  - first:
+      213: 7062484939620798186
+    second: kailuo_57
+  - first:
+      213: 3567608186543670340
+    second: kailuo_58
+  - first:
+      213: -5581558605209005720
+    second: kailuo_59
+  - first:
+      213: -6061336799602904139
+    second: kailuo_60
+  - first:
+      213: -6882831817515299821
+    second: kailuo_61
+  - first:
+      213: -5984344010584029002
+    second: kailuo_62
+  - first:
+      213: 4743652327930270331
+    second: kailuo_63
+  - first:
+      213: 6770812090634944064
+    second: kailuo_64
+  - first:
+      213: 2571155769628906343
+    second: kailuo_65
+  - first:
+      213: -7961374949736279273
+    second: kailuo_66
+  - first:
+      213: 5119693326590273359
+    second: kailuo_67
+  - first:
+      213: -2083414127246013338
+    second: kailuo_68
+  - first:
+      213: 8822204265061239205
+    second: kailuo_69
+  - first:
+      213: 3501209553478882406
+    second: kailuo_70
+  - first:
+      213: -8086904319718695172
+    second: kailuo_71
+  - first:
+      213: 7876083675632057598
+    second: kailuo_72
+  - first:
+      213: 2360309475516201335
+    second: kailuo_73
+  - first:
+      213: 6040570172631331060
+    second: kailuo_74
+  - first:
+      213: 6200224514798611572
+    second: kailuo_75
+  - first:
+      213: 6580450759640082243
+    second: kailuo_76
+  - first:
+      213: -2598643735874755674
+    second: kailuo_77
+  - first:
+      213: 2163154977460817894
+    second: kailuo_78
+  - first:
+      213: 5797051204882732032
+    second: kailuo_79
+  - first:
+      213: -842960701458547871
+    second: kailuo_80
+  - first:
+      213: 8807250996423463703
+    second: kailuo_81
+  - first:
+      213: 669875842266298004
+    second: kailuo_82
+  - first:
+      213: -8335947066856165568
+    second: kailuo_83
+  - first:
+      213: 6055042651516282130
+    second: kailuo_84
+  - first:
+      213: 3932164956824056011
+    second: kailuo_85
+  - first:
+      213: 3251354955113675492
+    second: kailuo_86
+  - first:
+      213: 4630432843078135404
+    second: kailuo_87
+  - first:
+      213: 6527477222592156851
+    second: kailuo_88
+  - first:
+      213: 4896769185154728128
+    second: kailuo_89
+  - first:
+      213: -7456503737097934208
+    second: kailuo_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kailuo_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 813
+        width: 139
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4865f7bd20e86fd0800000000000000
+      internalID: -2348380718709249969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 823
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e37d980abafefd0800000000000000
+      internalID: -2310439377822073210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 815
+        width: 130
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e4e0090adc791d0800000000000000
+      internalID: -3343978108803985771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 822
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf0c28625d417c0800000000000000
+      internalID: -4101418999248519725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_4
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 822
+        width: 129
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10f89dbdc431d370800000000000000
+      internalID: 8345509642748096538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_5
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 828
+        width: 130
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d53834ae7b0e9430800000000000000
+      internalID: 3791480574841468371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_6
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 837
+        width: 137
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108462591edbd2e0800000000000000
+      internalID: -2099840600900337646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_7
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 847
+        width: 129
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fb905e8e977ce10800000000000000
+      internalID: 2217875382685253469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_8
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 851
+        width: 135
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ab33716b174b5d0800000000000000
+      internalID: -3047686020935730669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_9
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 951
+        width: 23
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b0f6b4fc7c44700800000000000000
+      internalID: 523763149819546512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_10
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 911
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa652e85b3da3e30800000000000000
+      internalID: 4484129155728108200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_11
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 882
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807812240dcbb74b0800000000000000
+      internalID: -5441548122098399480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_12
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 856
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7946b680f8f7daa70800000000000000
+      internalID: 8839861895896458391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_13
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 603
+        width: 170
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757f7e87568fa1dc0800000000000000
+      internalID: -3667345831835994281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_14
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 774
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240dfaf541635c620800000000000000
+      internalID: 2793698604985864258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_15
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 798
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fece28c9c643ea10800000000000000
+      internalID: 1937470097160326897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_16
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 831
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52245c70e1673040800000000000000
+      internalID: 4627274758932931165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_17
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 797
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ae674837c12a2c0800000000000000
+      internalID: -4421940601655203169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_18
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 574
+        width: 140
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601cab2916c39c1f0800000000000000
+      internalID: -1024221050478870266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_19
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 749
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2a9588bff486ad0800000000000000
+      internalID: -2708827234120391990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_20
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 816
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831acd2f4648e9aa0800000000000000
+      internalID: -6152334471835377352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 757
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9887fb3dc1e686100800000000000000
+      internalID: 101452061706516617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 629
+        width: 166
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0386d7349d79930800000000000000
+      internalID: 4150024465535217826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 729
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5d2e72d2431e570800000000000000
+      internalID: 8494127740744816082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 772
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca41bfcf07acb130800000000000000
+      internalID: 3583923089830922944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_25
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 781
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc75559bf7c2d3960800000000000000
+      internalID: 7583266274643630028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_26
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 675
+        width: 174
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2d8e22435a8fa90800000000000000
+      internalID: -7279887154301840687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_27
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 751
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d6c8594cbed22a0800000000000000
+      internalID: -6760488236058120860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_28
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 645
+        width: 153
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cb9e22ad8ea8cf0800000000000000
+      internalID: -249130805779383169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_29
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 747
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6cb51b0a4650cd0800000000000000
+      internalID: -2592555369148725547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_30
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 678
+        width: 217
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0017b0cc22616c370800000000000000
+      internalID: 8342379698458423552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_31
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 667
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824ac181ccca2abe0800000000000000
+      internalID: -1467420535991524312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_32
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 780
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05758dc79fcb800f0800000000000000
+      internalID: -1150461925065730224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_33
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 773
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4393f0af6a224c5a0800000000000000
+      internalID: -6502033861460936396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 650
+        width: 146
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ed8b2c7eba0d7c0800000000000000
+      internalID: -4048547053113385415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 752
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac4dfa5c894778c0800000000000000
+      internalID: -4001648876724597596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_36
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 644
+        width: 153
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425f9e3eba5bb9e30800000000000000
+      internalID: 4511399201609479460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_37
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 754
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a773bde086936c0800000000000000
+      internalID: -4163181967510635909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_38
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 751
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f5db98b0f5e4680800000000000000
+      internalID: -8768966921283608783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_39
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 764
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38ca493127fa6a80800000000000000
+      internalID: -8472688026876983236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_40
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 750
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186d77963a4577ed0800000000000000
+      internalID: -2416369614235117951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_41
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 741
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45adb243262f45ec0800000000000000
+      internalID: -3578969300256695724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_42
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 747
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d91c95d3ed8c5a0800000000000000
+      internalID: -6500701707029078718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_43
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 740
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acffb89c0c1d2a00800000000000000
+      internalID: 733273154759163049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_44
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 749
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd5cc8a39fe06320800000000000000
+      internalID: 2549300806562897351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_45
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 750
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a8ea4edcb4ceae0800000000000000
+      internalID: -1518755626653677041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_46
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 743
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955d5e446f390ee50800000000000000
+      internalID: 6836626920275563865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_47
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 712
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290741d2566ed64c0800000000000000
+      internalID: -4292521547591815022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_48
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 713
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be9ec99aea11eb10800000000000000
+      internalID: 2008916503689076403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_49
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 709
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a766a4661a58e420800000000000000
+      internalID: 2659474632186685345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_50
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 737
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7fe9f6000873b80800000000000000
+      internalID: -8415116639357438018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_51
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 697
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4fb35a394b4c470800000000000000
+      internalID: 8414048550060291305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_52
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 737
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89faab7252fb9e470800000000000000
+      internalID: 8424474744274464664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_53
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 742
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303789a99df01d890800000000000000
+      internalID: -7435144082535976189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_54
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 696
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83dd7472e7563a10800000000000000
+      internalID: 1888793723857130381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_55
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 703
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cada9dc130d718d0800000000000000
+      internalID: -2875600924731319611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_56
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 696
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25c5fe6e3e914a0800000000000000
+      internalID: -6622011196073815304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 698
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeec4a942acf20260800000000000000
+      internalID: 7062484939620798186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_58
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 707
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44406b06eb0b28130800000000000000
+      internalID: 3567608186543670340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_59
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 712
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8611e7b55025a82b0800000000000000
+      internalID: -5581558605209005720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_60
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 713
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b37aab8b4ec1eba0800000000000000
+      internalID: -6061336799602904139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_61
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 717
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c8e34cde44b70a0800000000000000
+      internalID: -6882831817515299821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_62
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 703
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8076b24d653fca0800000000000000
+      internalID: -5984344010584029002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_63
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 699
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b721d38c8a6d4d140800000000000000
+      internalID: 4743652327930270331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_64
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 706
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e373f19b1c6fd50800000000000000
+      internalID: 6770812090634944064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_65
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 685
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7635de6cc849ea320800000000000000
+      internalID: 2571155769628906343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_66
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 486
+        width: 131
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71396451aa3838190800000000000000
+      internalID: -7961374949736279273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 503
+        width: 133
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47e95a84fdcc0740800000000000000
+      internalID: 5119693326590273359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_68
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 508
+        width: 151
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c8871c3e93613e0800000000000000
+      internalID: -2083414127246013338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_69
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 508
+        width: 131
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a949ea7904ce6a70800000000000000
+      internalID: 8822204265061239205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_70
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 544
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6641057e98bc69030800000000000000
+      internalID: 3501209553478882406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_71
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 510
+        width: 150
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe58921e5b85cf80800000000000000
+      internalID: -8086904319718695172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_72
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 537
+        width: 149
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc3d4baf587d4d60800000000000000
+      internalID: 7876083675632057598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_73
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 583
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779b12866f081c020800000000000000
+      internalID: 2360309475516201335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_74
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 521
+        width: 151
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0b284519a64d350800000000000000
+      internalID: 6040570172631331060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_75
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 573
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c6d34985f9b0650800000000000000
+      internalID: 6200224514798611572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_76
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 470
+        width: 153
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347eb46e915725b50800000000000000
+      internalID: 6580450759640082243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_77
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 474
+        width: 153
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a324695a43cfebd0800000000000000
+      internalID: -2598643735874755674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 378
+        width: 125
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef8ba9bdf1150e10800000000000000
+      internalID: 2163154977460817894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 398
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00419c35b53437050800000000000000
+      internalID: 5797051204882732032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_80
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 371
+        width: 133
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bf2fd45b33d44f0800000000000000
+      internalID: -842960701458547871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_81
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 371
+        width: 143
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71396815e14a93a70800000000000000
+      internalID: 8807250996423463703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_82
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 384
+        width: 121
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496f5e58780eb4900800000000000000
+      internalID: 669875842266298004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_83
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 437
+        width: 117
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f2495fe44c05c80800000000000000
+      internalID: -8335947066856165568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_84
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 408
+        width: 154
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215a777e535d70450800000000000000
+      internalID: 6055042651516282130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_85
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 406
+        width: 149
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0bcb9d13bd19630800000000000000
+      internalID: 3932164956824056011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_86
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 381
+        width: 133
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eab142fa122f1d20800000000000000
+      internalID: 3251354955113675492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_87
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 400
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e69ff332a924040800000000000000
+      internalID: 4630432843078135404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_88
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 451
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b41f0c23f1469a50800000000000000
+      internalID: 6527477222592156851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_89
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 375
+        width: 110
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c00a3431a1d4f340800000000000000
+      internalID: 4896769185154728128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kailuo_90
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 368
+        width: 124
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aa7eb7b5d258890800000000000000
+      internalID: -7456503737097934208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kailuo_0: -2348380718709249969
+      kailuo_1: -2310439377822073210
+      kailuo_10: 4484129155728108200
+      kailuo_11: -5441548122098399480
+      kailuo_12: 8839861895896458391
+      kailuo_13: -3667345831835994281
+      kailuo_14: 2793698604985864258
+      kailuo_15: 1937470097160326897
+      kailuo_16: 4627274758932931165
+      kailuo_17: -4421940601655203169
+      kailuo_18: -1024221050478870266
+      kailuo_19: -2708827234120391990
+      kailuo_2: -3343978108803985771
+      kailuo_20: -6152334471835377352
+      kailuo_21: 101452061706516617
+      kailuo_22: 4150024465535217826
+      kailuo_23: 8494127740744816082
+      kailuo_24: 3583923089830922944
+      kailuo_25: 7583266274643630028
+      kailuo_26: -7279887154301840687
+      kailuo_27: -6760488236058120860
+      kailuo_28: -249130805779383169
+      kailuo_29: -2592555369148725547
+      kailuo_3: -4101418999248519725
+      kailuo_30: 8342379698458423552
+      kailuo_31: -1467420535991524312
+      kailuo_32: -1150461925065730224
+      kailuo_33: -6502033861460936396
+      kailuo_34: -4048547053113385415
+      kailuo_35: -4001648876724597596
+      kailuo_36: 4511399201609479460
+      kailuo_37: -4163181967510635909
+      kailuo_38: -8768966921283608783
+      kailuo_39: -8472688026876983236
+      kailuo_4: 8345509642748096538
+      kailuo_40: -2416369614235117951
+      kailuo_41: -3578969300256695724
+      kailuo_42: -6500701707029078718
+      kailuo_43: 733273154759163049
+      kailuo_44: 2549300806562897351
+      kailuo_45: -1518755626653677041
+      kailuo_46: 6836626920275563865
+      kailuo_47: -4292521547591815022
+      kailuo_48: 2008916503689076403
+      kailuo_49: 2659474632186685345
+      kailuo_5: 3791480574841468371
+      kailuo_50: -8415116639357438018
+      kailuo_51: 8414048550060291305
+      kailuo_52: 8424474744274464664
+      kailuo_53: -7435144082535976189
+      kailuo_54: 1888793723857130381
+      kailuo_55: -2875600924731319611
+      kailuo_56: -6622011196073815304
+      kailuo_57: 7062484939620798186
+      kailuo_58: 3567608186543670340
+      kailuo_59: -5581558605209005720
+      kailuo_6: -2099840600900337646
+      kailuo_60: -6061336799602904139
+      kailuo_61: -6882831817515299821
+      kailuo_62: -5984344010584029002
+      kailuo_63: 4743652327930270331
+      kailuo_64: 6770812090634944064
+      kailuo_65: 2571155769628906343
+      kailuo_66: -7961374949736279273
+      kailuo_67: 5119693326590273359
+      kailuo_68: -2083414127246013338
+      kailuo_69: 8822204265061239205
+      kailuo_7: 2217875382685253469
+      kailuo_70: 3501209553478882406
+      kailuo_71: -8086904319718695172
+      kailuo_72: 7876083675632057598
+      kailuo_73: 2360309475516201335
+      kailuo_74: 6040570172631331060
+      kailuo_75: 6200224514798611572
+      kailuo_76: 6580450759640082243
+      kailuo_77: -2598643735874755674
+      kailuo_78: 2163154977460817894
+      kailuo_79: 5797051204882732032
+      kailuo_8: -3047686020935730669
+      kailuo_80: -842960701458547871
+      kailuo_81: 8807250996423463703
+      kailuo_82: 669875842266298004
+      kailuo_83: -8335947066856165568
+      kailuo_84: 6055042651516282130
+      kailuo_85: 3932164956824056011
+      kailuo_86: 3251354955113675492
+      kailuo_87: 4630432843078135404
+      kailuo_88: 6527477222592156851
+      kailuo_89: 4896769185154728128
+      kailuo_9: 523763149819546512
+      kailuo_90: -7456503737097934208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
