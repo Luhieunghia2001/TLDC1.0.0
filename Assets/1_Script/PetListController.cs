@@ -4,9 +4,16 @@ using System.Threading.Tasks;
 
 public class PetListController : MonoBehaviour
 {
+    public static PetListController Instance { get; private set; }
+
     [Header("UI References")]
     [SerializeField] private GameObject petItemPrefab; // Kéo Prefab ô Pet vào đây
     [SerializeField] private Transform contentContainer; // Kéo Content của ScrollView vào đây
+
+    private void Awake()
+    {
+        Instance = this;
+    }
 
     private void OnEnable()
     {

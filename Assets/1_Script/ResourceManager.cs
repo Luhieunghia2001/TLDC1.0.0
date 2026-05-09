@@ -63,8 +63,12 @@ public class ResourceManager : MonoBehaviour
                 currentCharacter.energy = serverData.energy;
                 currentCharacter.stamina = serverData.stamina;
                 currentCharacter.lastRegenTime = serverData.lastRegenTime;
+                currentCharacter.gold = serverData.gold;
+                currentCharacter.diamond = serverData.diamond;
+                currentCharacter.level = serverData.level;
+                currentCharacter.currentExp = serverData.currentExp;
                 
-                Debug.Log($"<color=yellow>[Server Sync]</color> Energy: {currentCharacter.energy}, Stamina: {currentCharacter.stamina}");
+                Debug.Log($"<color=yellow>[Server Sync]</color> Gold: {currentCharacter.gold}, Energy: {currentCharacter.energy}");
             }
         }
         catch (Exception e)
