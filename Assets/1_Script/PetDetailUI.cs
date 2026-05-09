@@ -106,12 +106,12 @@ public class PetDetailUI : MonoBehaviour
         if (baseInfo == null) return;
 
         petNameTxt.text = pet.petName;
-        levelTxt.text = $"Level: {pet.level} | Sao: {pet.star} | Tầng: {pet.realm}";
+        levelTxt.text = $"Level: {pet.level}";
         
         int maxExp = pet.level * 100;
         expTxt.text = $"EXP: {pet.currentExp}/{maxExp}";
 
-        atkTypeTxt.text = (pet.petType.ToLower() == "physical") ? "Hệ: Vật Lý" : "Hệ: Ma Pháp";
+        atkTypeTxt.text = (pet.petType.ToLower() == "physical") ? "Tinh linh: Vật Lý" : "Tinh linh: Ma Pháp";
 
         // Yêu cầu máy tính (Client) Tính toán tức thời các chỉ số
         PetFinalStats finalStats = PetStatsCalculator.GetFinalStats(pet, baseInfo);
