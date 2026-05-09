@@ -5,17 +5,20 @@ using UnityEngine.UI;
 public class PetDetailUI : MonoBehaviour
 {
     public static PetDetailUI Instance { get; private set; }
-
-    [Header("UI References")]
-    [SerializeField] private GameObject panel;
+   
+    [Header("Global References")]
     [SerializeField] private TextMeshProUGUI petNameTxt;
-    [SerializeField] private TextMeshProUGUI levelTxt;
-    [SerializeField] private TextMeshProUGUI expTxt;
-    
-    [Header("Icon References")]
     [SerializeField] private Image elementImg;
     [SerializeField] private Image tierImg;
+
+    [Header("UI References")]
+    [SerializeField] private GameObject canvas;
+    [SerializeField] private GameObject statpanel;
+
+    [SerializeField] private TextMeshProUGUI levelTxt;
+    [SerializeField] private TextMeshProUGUI expTxt;
     [SerializeField] private TextMeshProUGUI atkTypeTxt;
+
 
     [Header("Icon Assets")]
     [SerializeField] private Sprite[] elementSprites;
@@ -35,17 +38,33 @@ public class PetDetailUI : MonoBehaviour
 
     [Header("Buttons")]
     [SerializeField] private Button closeBtn;
+    [SerializeField] private Button openStatsBtn; // Nút chuyển tab hoặc mở từ Home
+    [SerializeField] private Button openCanvasBtn; // Nút mở toàn bộ Canvas từ Home
+
+    private PetModel currentPet;
 
     private void Awake()
     {
         if (Instance == null) Instance = this;
-        panel.SetActive(false);
+        canvas.SetActive(false);
         closeBtn.onClick.AddListener(ClosePanel);
+
+        if (openStatsBtn != null)
+            openStatsBtn.onClick.AddListener(OpenWithFirstPet);
+
+        if (openCanvasBtn != null)
+            openCanvasBtn.onClick.AddListener(OpenWithFirstPet);
+    }
+
+    private void OnEnable()
+    {
+        // Khi quay lại bảng Stats, tự làm mới chỉ số
+        if (currentPet != null) Open(currentPet);
     }
 
     private void ClosePanel()
     {
-        panel.SetActive(false);
+        canvas.SetActive(false);
         ClearSpawnedPet();
     }
 
@@ -57,9 +76,23 @@ public class PetDetailUI : MonoBehaviour
         }
     }
 
+    public async void OpenWithFirstPet()
+    {
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        
+        var myPets = await PetManager.Instance.GetMyPets();
+        if (myPets != null && myPets.Count > 0)
+        {
+            Open(myPets[0]);
+        }
+        
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+    }
+
     public void Open(PetModel pet)
     {
-        panel.SetActive(true);
+        currentPet = pet;
+        canvas.SetActive(true);
         ClearSpawnedPet(); // Xóa con cũ
 
         petNameTxt.text = pet.petName;

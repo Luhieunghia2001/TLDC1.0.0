@@ -83,9 +83,10 @@ public class InventoryManager : MonoBehaviour
             await SupabaseManager.Instance.Client.Rpc("use_pet_exp_potion", parameters);
             Debug.Log($"Sử dụng thành công {potion.itemName} cho Pet!");
             
-            // Cập nhật lại UI Pet và UI Kho đồ
+            // Cập nhật lại UI Pet, UI Kho đồ và UI Nâng cấp
             if (PetListController.Instance != null) PetListController.Instance.RefreshPetList();
             if (InventoryUIController.Instance != null) InventoryUIController.Instance.RefreshInventory();
+            if (PetUpgradeUI.Instance != null) await PetUpgradeUI.Instance.RefreshUI();
         }
         catch (System.Exception e)
         {

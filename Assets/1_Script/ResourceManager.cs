@@ -28,7 +28,7 @@ public class ResourceManager : MonoBehaviour
     public void Initialize(CharacterModel character)
     {
         currentCharacter = character;
-        SyncWithServer(); // Đồng bộ ngay khi vào game
+        _ = SyncWithServer(); // Đồng bộ ngay khi vào game (Dùng _ để bỏ qua warning await)
     }
 
     private void Update()
@@ -41,7 +41,7 @@ public class ResourceManager : MonoBehaviour
         if (timer >= syncInterval)
         {
             timer = 0f;
-            SyncWithServer();
+            _ = SyncWithServer();
         }
     }
 
