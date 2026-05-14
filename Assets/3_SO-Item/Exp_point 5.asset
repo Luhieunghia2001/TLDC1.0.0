@@ -9,15 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8bd942516831cde41a6fa405e5a19a2b, type: 3}
+  m_Script: {fileID: 11500000, guid: 58c8cf54150556e428d14b6648bcacd5, type: 3}
   m_Name: Exp_point 5
   m_EditorClassIdentifier: Assembly-CSharp::ItemBaseSO
   itemID: 5
   itemName: Exp point 5
   type: 0
   icon: {fileID: -8913842996102246841, guid: 99bb708eeb11cd245b1e06ce7b2762ed, type: 3}
-  description: 'Exp point 5
-
-'
+  description: Exp point 1
   value: 500
   sellPrice: 500

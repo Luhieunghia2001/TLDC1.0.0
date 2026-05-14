@@ -9,13 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8bd942516831cde41a6fa405e5a19a2b, type: 3}
-  m_Name: metarial 1
+  m_Script: {fileID: 11500000, guid: 58c8cf54150556e428d14b6648bcacd5, type: 3}
+  m_Name: Metarial 1
   m_EditorClassIdentifier: Assembly-CSharp::ItemBaseSO
-  itemID: 7
+  itemID: m1
   itemName: Metarial 1
-  type: 1
+  type: 0
   icon: {fileID: -5434643231075287626, guid: ffba5df43572d194eb2f6cbe4040ced0, type: 3}
   description: Metarial 1
-  value: 600
-  sellPrice: 600
+  value: 0
+  sellPrice: 1

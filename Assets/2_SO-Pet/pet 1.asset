@@ -17,7 +17,7 @@ MonoBehaviour:
   element: 0
   attackType: 0
   defaultTier: 0
-  baseHP: 1200
+  baseHP: 12
   baseAtkPhy: 12
   baseAtkMag: 12
   baseDefPhy: 12

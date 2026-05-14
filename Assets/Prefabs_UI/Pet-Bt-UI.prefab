@@ -346,10 +346,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 2904857730709170117}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08caf71d69794ad42a7ab4af51f2e5d5, type: 3}
+  m_Script: {fileID: 11500000, guid: e5e477ce70730144cb62465f7f44d334, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PetUIItem
-  tierImg: {fileID: 5244447319794029182}
+  tierImg: {fileID: 7916928692174090760}
   iconImg: {fileID: 3922613166038093785}
   levelTxt: {fileID: 1464192083524607621}
   realmImg: {fileID: 4941140271596594818}
@@ -362,45 +362,16 @@ MonoBehaviour:
   - {fileID: 7526971015364733676}
   - {fileID: 4812722559439857573}
   tierSprites:
-  - {fileID: 788732826013815591, guid: 1a014f49a88932248adbe894f701a58a, type: 3}
-  - {fileID: -5185337000372085048, guid: d6f6a339cdbe64e419f94457d88f709f, type: 3}
-  - {fileID: 9118420093901451896, guid: 30e241c93f861ee419d26e73ffe9d5a1, type: 3}
-  - {fileID: -6358166297096010211, guid: 9e8b847f755c5154c85a0c0cc1ad77f0, type: 3}
-  - {fileID: 2398917436683336608, guid: d8b313250071120458174277e7f28c8e, type: 3}
-  - {fileID: 1801542142554964816, guid: 1f71cda570c27f7458b4308cc3fdabac, type: 3}
-  - {fileID: 8618446287908474718, guid: 6040f8425553b0a4780e0a735da21227, type: 3}
-  realmSprites:
-  - {fileID: -6869196517572596225, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -7339395886616381371, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -8977877881196668704, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -3305392866252945973, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: 1943868182327799765, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: 4712086828397519332, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: 6826112303149597745, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: 3750290749617057667, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -6945521459138105743, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -6001218186734808993, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: 861952857008026658, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -5001539716340380492, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: 2061818973580285394, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -1169150524898556795, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -7563932941361967757, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: 5887904033046641849, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -3606566981371320449, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -5514027442614866055, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: 42178595196899826, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: 9138755553557572538, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -5811320530311040384, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: 6229711149748536253, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -6492379442754237423, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -912138941, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -1746615660, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  - {fileID: -930540522, guid: 0b4204a9fa0be8a46bbde57f204b7702, type: 3}
-  starSprites:
-  - {fileID: -5102693202345210722, guid: 51effa709ece9ad4c9619ed3eb47bb02, type: 3}
-  - {fileID: -5459891941452634978, guid: a16f804c7fb372142a411807503c6f7d, type: 3}
-  - {fileID: -8050071520333910802, guid: f64af9dd1a9b11c4b805fcd9433e6aa3, type: 3}
-  - {fileID: -5019253449163443661, guid: 8be7d1a8d1eb9d6499b25c2369cd5c85, type: 3}
+  - {fileID: 2191654141553875605, guid: 67f8567584e404743bacf665a9495e07, type: 3}
+  - {fileID: 2138247417771490517, guid: d9f5da770d6596c4dac459d16a3fae6d, type: 3}
+  - {fileID: -5286358953562696008, guid: bbfb79ac4471d334983ec2a834b4447a, type: 3}
+  - {fileID: -5077228224339102067, guid: 7c8960d738c99744cbed7ecc8301f8f2, type: 3}
+  - {fileID: 3767415808146366959, guid: a13fb85c8503f7c4abedc87c076e6c36, type: 3}
+  - {fileID: 2880242634985487594, guid: 464adb89a5faf644a86b34f4bef9d2cc, type: 3}
+  - {fileID: 809913047267792638, guid: 0d329111d2358b346ae2cf07359a03ce, type: 3}
+  - {fileID: -7901363649663744692, guid: 415794aa28fbae74384e423448e08768, type: 3}
+  realmSprites: []
+  starSprites: []
 --- !u!1 &3064614019081631069
 GameObject:
   m_ObjectHideFlags: 0

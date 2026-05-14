@@ -317,9 +317,8 @@ MonoBehaviour:
   enemySpawnPoint: {fileID: 157775188}
   allyUI: {fileID: 1824112627}
   enemyUI: {fileID: 1297005309}
-  allyTeam:
-  - baseData: {fileID: 11400000, guid: a4d9cb5d8cc39e646ac3651d25104a44, type: 2}
-    currentHP: 0
+  flipAlly: 1
+  allyTeam: []
   enemyTeam:
   - baseData: {fileID: 11400000, guid: a7b5d13120877164bb90479979e46f7c, type: 2}
     currentHP: 0
