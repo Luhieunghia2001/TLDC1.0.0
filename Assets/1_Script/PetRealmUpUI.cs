@@ -42,23 +42,28 @@ public class PetRealmUpUI : MonoBehaviour
         if (Instance == null) Instance = this;
         realmUpBtn.onClick.AddListener(OnRealmUpClicked);
         
-        if (panel != null)
+        // Đăng ký sự kiện ngay trong Awake để không bỏ lỡ dữ liệu khi vừa SetActive
+        PetManager.Instance.OnPetSelected += OnPetChanged;
+        PetManager.Instance.OnPetStatsUpdated += OnPetChanged;
+    }
+
+    private void OnDestroy()
+    {
+        if (PetManager.Instance != null)
         {
-            var tracker = panel.AddComponent<EnableTracker>();
-            tracker.onEnableEvent += () => _ = RefreshUI();
+            PetManager.Instance.OnPetSelected -= OnPetChanged;
+            PetManager.Instance.OnPetStatsUpdated -= OnPetChanged;
         }
     }
 
-    private class EnableTracker : MonoBehaviour
+    private void OnEnable()
     {
-        public System.Action onEnableEvent;
-        private void OnEnable() { if (onEnableEvent != null) onEnableEvent.Invoke(); }
+        _ = RefreshUI();
     }
 
-    private void Start()
+    private void OnPetChanged(PetModel pet)
     {
-        PetManager.Instance.OnPetSelected += (p) => { if (panel != null && panel.activeInHierarchy) _ = RefreshUI(); };
-        PetManager.Instance.OnPetStatsUpdated += (p) => { if (panel != null && panel.activeInHierarchy) _ = RefreshUI(); };
+        if (panel != null && panel.activeInHierarchy) _ = RefreshUI();
     }
 
     public async Task RefreshUI()

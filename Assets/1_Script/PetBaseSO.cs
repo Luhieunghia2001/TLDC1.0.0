@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public enum PetTier { D, C, B, A, S, SS, SSS }
 public enum PetElement { Fire, Wind, Earth, Water }
@@ -29,4 +30,7 @@ public class PetBaseSO : ScriptableObject
     [Header("Progression Rules")]
     [Tooltip("Bảng quy tắc chi phí để Thăng sao/Thăng tầng cho Pet này")]
     public PetProgressionTableSO progressionTable;
+
+    [Header("Combat Skills")]
+    public List<PetSkillSO> skills;
 }

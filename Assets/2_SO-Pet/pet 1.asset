@@ -17,7 +17,7 @@ MonoBehaviour:
   element: 0
   attackType: 0
   defaultTier: 0
-  baseHP: 12
+  baseHP: 1200
   baseAtkPhy: 12
   baseAtkMag: 12
   baseDefPhy: 12
@@ -26,3 +26,5 @@ MonoBehaviour:
   icon: {fileID: -6340952189099933019, guid: 8943f3ab3d972754a88460c86414ecac, type: 3}
   petPrefab: {fileID: 3098258138955482143, guid: 20fba004be3c0604eb54052bf2a74029, type: 3}
   progressionTable: {fileID: 11400000, guid: f77117f1a70ae524d8a23c0c18c2955c, type: 2}
+  skills:
+  - {fileID: 11400000, guid: 20debcce9566f19438d87b3cc35768fc, type: 2}

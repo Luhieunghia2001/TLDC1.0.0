@@ -49,6 +49,114 @@ MonoBehaviour:
     hpMultiplier: 1.2
     atkMultiplier: 1.2
     defMultiplier: 1.2
+  - goldCost: 1
+    requiredItems:
+    - item: {fileID: 11400000, guid: fc5034843c17e734e9dd28e76040c828, type: 2}
+      quantity: 1
+    - item: {fileID: 11400000, guid: d5636200a713510499b3ece419848422, type: 2}
+      quantity: 2
+    bonusHP: 1
+    bonusAtk: 1
+    bonusDef: 1
+    hpMultiplier: 1.2
+    atkMultiplier: 1.2
+    defMultiplier: 1.2
+  - goldCost: 1
+    requiredItems:
+    - item: {fileID: 11400000, guid: fc5034843c17e734e9dd28e76040c828, type: 2}
+      quantity: 1
+    - item: {fileID: 11400000, guid: d5636200a713510499b3ece419848422, type: 2}
+      quantity: 2
+    bonusHP: 1
+    bonusAtk: 1
+    bonusDef: 1
+    hpMultiplier: 1.2
+    atkMultiplier: 1.2
+    defMultiplier: 1.2
+  - goldCost: 1
+    requiredItems:
+    - item: {fileID: 11400000, guid: fc5034843c17e734e9dd28e76040c828, type: 2}
+      quantity: 1
+    - item: {fileID: 11400000, guid: d5636200a713510499b3ece419848422, type: 2}
+      quantity: 2
+    bonusHP: 1
+    bonusAtk: 1
+    bonusDef: 1
+    hpMultiplier: 1.2
+    atkMultiplier: 1.2
+    defMultiplier: 1.2
+  - goldCost: 1
+    requiredItems:
+    - item: {fileID: 11400000, guid: fc5034843c17e734e9dd28e76040c828, type: 2}
+      quantity: 1
+    - item: {fileID: 11400000, guid: d5636200a713510499b3ece419848422, type: 2}
+      quantity: 2
+    bonusHP: 1
+    bonusAtk: 1
+    bonusDef: 1
+    hpMultiplier: 1.2
+    atkMultiplier: 1.2
+    defMultiplier: 1.2
+  - goldCost: 1
+    requiredItems:
+    - item: {fileID: 11400000, guid: fc5034843c17e734e9dd28e76040c828, type: 2}
+      quantity: 1
+    - item: {fileID: 11400000, guid: d5636200a713510499b3ece419848422, type: 2}
+      quantity: 2
+    bonusHP: 1
+    bonusAtk: 1
+    bonusDef: 1
+    hpMultiplier: 1.2
+    atkMultiplier: 1.2
+    defMultiplier: 1.2
+  - goldCost: 1
+    requiredItems:
+    - item: {fileID: 11400000, guid: fc5034843c17e734e9dd28e76040c828, type: 2}
+      quantity: 1
+    - item: {fileID: 11400000, guid: d5636200a713510499b3ece419848422, type: 2}
+      quantity: 2
+    bonusHP: 1
+    bonusAtk: 1
+    bonusDef: 1
+    hpMultiplier: 1.2
+    atkMultiplier: 1.2
+    defMultiplier: 1.2
+  - goldCost: 1
+    requiredItems:
+    - item: {fileID: 11400000, guid: fc5034843c17e734e9dd28e76040c828, type: 2}
+      quantity: 1
+    - item: {fileID: 11400000, guid: d5636200a713510499b3ece419848422, type: 2}
+      quantity: 2
+    bonusHP: 1
+    bonusAtk: 1
+    bonusDef: 1
+    hpMultiplier: 1.2
+    atkMultiplier: 1.2
+    defMultiplier: 1.2
+  - goldCost: 1
+    requiredItems:
+    - item: {fileID: 11400000, guid: fc5034843c17e734e9dd28e76040c828, type: 2}
+      quantity: 1
+    - item: {fileID: 11400000, guid: d5636200a713510499b3ece419848422, type: 2}
+      quantity: 2
+    bonusHP: 1
+    bonusAtk: 1
+    bonusDef: 1
+    hpMultiplier: 1.2
+    atkMultiplier: 1.2
+    defMultiplier: 1.2
+  - goldCost: 1
+    requiredItems:
+    - item: {fileID: 11400000, guid: fc5034843c17e734e9dd28e76040c828, type: 2}
+      quantity: 1
+    - item: {fileID: 11400000, guid: d5636200a713510499b3ece419848422, type: 2}
+      quantity: 2
+    bonusHP: 1
+    bonusAtk: 1
+    bonusDef: 1
+    hpMultiplier: 1.2
+    atkMultiplier: 1.2
+    defMultiplier: 1.2
   realmNodes:
   - goldCost: 1
     requiredItems:
