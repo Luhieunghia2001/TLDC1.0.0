@@ -17,7 +17,7 @@ public class PetBattleTest : MonoBehaviour
     [SerializeField] private int enemyCount = 3; // Số lượng quái bạn muốn xuất hiện
 
     [ContextMenu("Start Test Battle")]
-    public void StartTestBattle()
+    public async void StartTestBattle()
     {
         if (PetTeamSelectionUI.Instance == null)
         {
@@ -32,7 +32,43 @@ public class PetBattleTest : MonoBehaviour
             return;
         }
 
-        // Tạo danh sách kẻ địch dựa trên số lượng (enemyCount)
+        // 1. GỌI SERVER ĐỂ BẮT ĐẦU TRẬN (Bảo mật + Trừ Stamina)
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        try
+        {
+            var charData = ResourceManager.Instance.GetCharacterData();
+            if (charData == null) 
+            {
+                Debug.LogError("Chưa có dữ liệu nhân vật!");
+                if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+                return;
+            }
+
+            var parameters = new Dictionary<string, object> { { "p_character_id", charData.id } };
+            
+            // Gọi RPC start_battle để nhận về ID trận đấu
+            var response = await SupabaseManager.Instance.Client.Rpc<string>("start_battle", parameters);
+            
+            if (string.IsNullOrEmpty(response))
+            {
+                Debug.LogError("Không thể tạo trận đấu (Có thể hết Thể lực)!");
+                if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+                return;
+            }
+
+            // Lưu ID trận đấu vào kho để dùng lúc kết thúc
+            BattleDataStore.currentBattleLogId = response;
+            Debug.Log($"<color=cyan>[BATTLE]</color> Đã tạo trận đấu thành công: {response}");
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Lỗi khi bắt đầu trận: " + e.Message);
+            if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+            return;
+        }
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+
+        // 2. Tạo danh sách kẻ địch dựa trên số lượng (enemyCount)
         List<PetModel> enemies = new List<PetModel>();
         for (int i = 0; i < enemyCount; i++)
         {

@@ -9,20 +9,20 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b4e6431a0d44bef4781df309c0cf8f6e, type: 3}
+  m_Script: {fileID: 11500000, guid: c8d2caaf10867d244913d9a20393da70, type: 3}
   m_Name: pet 2
   m_EditorClassIdentifier: Assembly-CSharp::PetBaseSO
   petBaseID: 2
-  speciesName: name pet 2
-  element: 2
+  speciesName: 'Pet 2 '
+  element: 1
   attackType: 1
-  defaultTier: 4
-  baseHP: 1200
-  baseAtkPhy: 12
-  baseAtkMag: 12
-  baseDefPhy: 12
-  baseDefMag: 12
-  baseSpeed: 12
+  defaultTier: 1
+  baseHP: 100
+  baseAtkPhy: 10
+  baseAtkMag: 10
+  baseDefPhy: 10
+  baseDefMag: 10
+  baseSpeed: 10
   icon: {fileID: -6876029713378704129, guid: a3c771b1879f5c7449d794b55ccbbbde, type: 3}
   petPrefab: {fileID: 3098258138955482143, guid: 8d343307278bd5a4eb51c02fb34ac4ff, type: 3}
   progressionTable: {fileID: 11400000, guid: f77117f1a70ae524d8a23c0c18c2955c, type: 2}

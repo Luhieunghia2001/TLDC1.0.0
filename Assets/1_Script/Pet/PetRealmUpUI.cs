@@ -37,14 +37,31 @@ public class PetRealmUpUI : MonoBehaviour
 
     private ProgressionNode currentRealmNode;
 
+    private class EnableTracker : MonoBehaviour
+    {
+        public System.Action onEnableEvent;
+        private void OnEnable() { if (onEnableEvent != null) onEnableEvent.Invoke(); }
+    }
+
     private void Awake()
     {
         if (Instance == null) Instance = this;
         realmUpBtn.onClick.AddListener(OnRealmUpClicked);
         
-        // Đăng ký sự kiện ngay trong Awake để không bỏ lỡ dữ liệu khi vừa SetActive
+        if (panel != null)
+        {
+            var tracker = panel.AddComponent<EnableTracker>();
+            tracker.onEnableEvent += OnPanelOpened;
+            if (panel.activeInHierarchy) OnPanelOpened();
+        }
+
         PetManager.Instance.OnPetSelected += OnPetChanged;
         PetManager.Instance.OnPetStatsUpdated += OnPetChanged;
+    }
+
+    private void OnPanelOpened()
+    {
+        _ = RefreshUI();
     }
 
     private void OnDestroy()
@@ -54,11 +71,6 @@ public class PetRealmUpUI : MonoBehaviour
             PetManager.Instance.OnPetSelected -= OnPetChanged;
             PetManager.Instance.OnPetStatsUpdated -= OnPetChanged;
         }
-    }
-
-    private void OnEnable()
-    {
-        _ = RefreshUI();
     }
 
     private void OnPetChanged(PetModel pet)
@@ -74,63 +86,71 @@ public class PetRealmUpUI : MonoBehaviour
         var baseInfo = PetManager.Instance.GetPetBaseByID(pet.petBaseId);
         if (baseInfo == null || baseInfo.progressionTable == null) return;
 
-        // --- 1. Hiển thị thông tin Tầng ---
-        currentRealmTxt.text = "Tầng " + pet.realm;
-        currentRealmNode = baseInfo.progressionTable.GetRealmCost(pet.realm);
-        
-        // --- 2. Cập nhật Chỉ số Hiện Tại ---
-        PetFinalStats curStats = PetStatsCalculator.GetFinalStats(pet, baseInfo);
-        curHpTxt.text = curStats.HP.ToString();
-        curAtkPhyTxt.text = curStats.AtkPhy.ToString();
-        curAtkMagTxt.text = curStats.AtkMag.ToString();
-        curDefPhyTxt.text = curStats.DefPhy.ToString();
-        curDefMagTxt.text = curStats.DefMag.ToString();
-        curSpeedTxt.text = curStats.Speed.ToString();
-
-        if (currentRealmNode != null)
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        try
         {
-            nextRealmTxt.text = "Tầng " + (pet.realm + 1);
+            // --- 1. Hiển thị thông tin Tầng ---
+            currentRealmTxt.text = "Tầng " + pet.realm;
+            currentRealmNode = baseInfo.progressionTable.GetRealmCost(pet.realm);
             
-            // Giả lập PetModel mới với Tầng + 1 để tính xem trước chỉ số
-            PetModel fakeNextPet = new PetModel { 
-                id = pet.id,
-                petBaseId = pet.petBaseId,
-                level = pet.level,
-                star = pet.star,
-                realm = pet.realm + 1 // CỘNG 1 TẦNG
-            };
-            PetFinalStats nextStats = PetStatsCalculator.GetFinalStats(fakeNextPet, baseInfo);
-            
-            nextHpTxt.text = nextStats.HP.ToString();
-            nextAtkPhyTxt.text = nextStats.AtkPhy.ToString();
-            nextAtkMagTxt.text = nextStats.AtkMag.ToString();
-            nextDefPhyTxt.text = nextStats.DefPhy.ToString();
-            nextDefMagTxt.text = nextStats.DefMag.ToString();
-            nextSpeedTxt.text = nextStats.Speed.ToString();
+            // --- 2. Cập nhật Chỉ số Hiện Tại ---
+            PetFinalStats curStats = PetStatsCalculator.GetFinalStats(pet, baseInfo);
+            curHpTxt.text = curStats.HP.ToString();
+            curAtkPhyTxt.text = curStats.AtkPhy.ToString();
+            curAtkMagTxt.text = curStats.AtkMag.ToString();
+            curDefPhyTxt.text = curStats.DefPhy.ToString();
+            curDefMagTxt.text = curStats.DefMag.ToString();
+            curSpeedTxt.text = curStats.Speed.ToString();
 
-            // --- 3. Cập nhật ô Nguyên Liệu ---
-            await RenderRequirements(currentRealmNode, itemsContainer, realmUpBtn);
+            if (currentRealmNode != null)
+            {
+                nextRealmTxt.text = "Tầng " + (pet.realm + 1);
+                
+                // Giả lập PetModel mới với Tầng + 1 để tính xem trước chỉ số
+                PetModel fakeNextPet = new PetModel { 
+                    id = pet.id,
+                    petBaseId = pet.petBaseId,
+                    level = pet.level,
+                    star = pet.star,
+                    realm = pet.realm + 1 // CỘNG 1 TẦNG
+                };
+                PetFinalStats nextStats = PetStatsCalculator.GetFinalStats(fakeNextPet, baseInfo);
+                
+                nextHpTxt.text = nextStats.HP.ToString();
+                nextAtkPhyTxt.text = nextStats.AtkPhy.ToString();
+                nextAtkMagTxt.text = nextStats.AtkMag.ToString();
+                nextDefPhyTxt.text = nextStats.DefPhy.ToString();
+                nextDefMagTxt.text = nextStats.DefMag.ToString();
+                nextSpeedTxt.text = nextStats.Speed.ToString();
+
+                // --- 3. Cập nhật ô Nguyên Liệu ---
+                await RenderRequirements(currentRealmNode, itemsContainer, realmUpBtn);
+            }
+            else
+            {
+                // Đã Đạt MAX Tầng
+                nextRealmTxt.text = "MAX";
+                nextHpTxt.text = "MAX";
+                nextAtkPhyTxt.text = "MAX";
+                nextAtkMagTxt.text = "MAX";
+                nextDefPhyTxt.text = "MAX";
+                nextDefMagTxt.text = "MAX";
+                nextSpeedTxt.text = "MAX";
+                realmUpBtn.interactable = false;
+                ClearContainer(itemsContainer);
+            }
         }
-        else
+        finally
         {
-            // Đã Đạt MAX Tầng
-            nextRealmTxt.text = "MAX";
-            nextHpTxt.text = "MAX";
-            nextAtkPhyTxt.text = "MAX";
-            nextAtkMagTxt.text = "MAX";
-            nextDefPhyTxt.text = "MAX";
-            nextDefMagTxt.text = "MAX";
-            nextSpeedTxt.text = "MAX";
-            realmUpBtn.interactable = false;
-            ClearContainer(itemsContainer);
+            if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
         }
     }
 
     private async Task RenderRequirements(ProgressionNode node, Transform container, Button upgradeBtn)
     {
-        ClearContainer(container);
-
         var inventory = await InventoryManager.Instance.GetMyInventory();
+        ClearContainer(container);
+        
         bool canUpgrade = true;
 
         foreach (var req in node.requiredItems)

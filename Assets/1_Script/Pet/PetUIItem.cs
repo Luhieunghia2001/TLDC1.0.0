@@ -22,6 +22,38 @@ public class PetUIItem : MonoBehaviour
 
     private PetModel petData;
 
+    private void Start()
+    {
+        if (PetManager.Instance != null)
+        {
+            PetManager.Instance.OnPetStatsUpdated += OnGlobalPetUpdated;
+        }
+    }
+
+    private void OnDestroy()
+    {
+        if (PetManager.Instance != null)
+        {
+            PetManager.Instance.OnPetStatsUpdated -= OnGlobalPetUpdated;
+        }
+    }
+
+    private void OnGlobalPetUpdated(PetModel updatedPet)
+    {
+        // Nếu UI này đang hiển thị đúng con Pet vừa được nâng cấp
+        if (petData != null && petData.id == updatedPet.id)
+        {
+            // Cập nhật lại data mới nhất để không bị lỗi "chỉ số ảo" khi click vào
+            this.petData = updatedPet;
+            
+            // Cập nhật lại giao diện (Level, Sao, Tầng)
+            if (levelTxt != null) levelTxt.text = "" + petData.level;
+            SetTierImage(petData.tier);
+            SetRealmImage(petData.realm);
+            SetStarImages(petData.star);
+        }
+    }
+
     public void Setup(PetModel pet, System.Action customAction = null)
     {
         this.petData = pet;

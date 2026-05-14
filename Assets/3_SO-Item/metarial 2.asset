@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 58c8cf54150556e428d14b6648bcacd5, type: 3}
-  m_Name: Metarial 2
+  m_Name: metarial 2
   m_EditorClassIdentifier: Assembly-CSharp::ItemBaseSO
   itemID: m2
   itemName: Metarial 2
-  type: 0
+  type: 1
   icon: {fileID: 4808244930049875026, guid: 041d38ce1c3841349b2816b140957ef1, type: 3}
   description: Metarial 1
   value: 0

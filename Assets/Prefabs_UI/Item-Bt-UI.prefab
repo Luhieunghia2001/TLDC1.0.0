@@ -151,7 +151,7 @@ GameObject:
   - component: {fileID: 7715035248087837031}
   - component: {fileID: 7516449758501183857}
   - component: {fileID: 2487669872428892215}
-  - component: {fileID: 7378938855394480497}
+  - component: {fileID: 4415034082923105641}
   m_Layer: 5
   m_Name: Item-Bt-UI
   m_TagString: Untagged
@@ -177,7 +177,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7715035248087837031
 CanvasRenderer:
@@ -261,7 +261,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &7378938855394480497
+--- !u!114 &4415034082923105641
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -270,7 +270,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6477854697835721425}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0ac20bd69d352214b95c7a213b61d6b0, type: 3}
+  m_Script: {fileID: 11500000, guid: 7f847e6fbb8fd374a806543d1770b1c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InventoryUIItem
   iconImg: {fileID: 7516449758501183857}

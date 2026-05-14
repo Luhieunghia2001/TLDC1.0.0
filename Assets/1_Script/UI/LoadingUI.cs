@@ -18,13 +18,21 @@ public class LoadingUI : MonoBehaviour
         Hide(); // Mặc định ẩn đi
     }
 
+    private int loadCount = 0;
+
     public void Show()
     {
+        loadCount++;
         if (loadingPanel != null) loadingPanel.SetActive(true);
     }
 
     public void Hide()
     {
-        if (loadingPanel != null) loadingPanel.SetActive(false);
+        loadCount--;
+        if (loadCount <= 0)
+        {
+            loadCount = 0;
+            if (loadingPanel != null) loadingPanel.SetActive(false);
+        }
     }
 }

@@ -9,13 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6dffdb80d3269d4690cc55478eb2d1a, type: 3}
+  m_Script: {fileID: 11500000, guid: 9320ffdd30d1b0a46abd2052141e7fe7, type: 3}
   m_Name: 1
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillSO
   skillID: 1
-  skillName: 1
-  description: 1
-  icon: {fileID: 1794265583386230571, guid: d2b259143adc76a4f92bf3297e84d87c, type: 3}
+  skillName: 'skill '
+  description: 'skill '
+  icon: {fileID: -1689994448250163828, guid: 9899ac5d47eead342b50ec0a2438a2b5, type: 3}
   skillType: 0
   trigger: 0
   effectType: 0
@@ -24,5 +24,6 @@ MonoBehaviour:
   scaleFromMaxHP: 0
   cooldownTurns: 0
   priority: 0
+  effects: []
   animationTrigger: Attack
   vfxPrefab: {fileID: 0}

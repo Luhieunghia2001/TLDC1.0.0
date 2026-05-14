@@ -112,7 +112,31 @@ public class BattleManager : MonoBehaviour
             activeAllyData.ReduceCooldowns();
             activeEnemyData.ReduceCooldowns();
         }
+
         Debug.Log("<color=cyan>TRẬN ĐẤU KẾT THÚC!</color>");
+        await HandleBattleEnd();
+    }
+
+    private async Task HandleBattleEnd()
+    {
+        bool playerWon = enemyTeam.TrueForAll(p => p.isDead);
+        
+        if (playerWon)
+        {
+            Debug.Log("<color=green>BẠN ĐÃ CHIẾN THẮNG!</color>");
+            // Nhận thưởng bảo mật từ Server
+            if (ResourceManager.Instance != null && !string.IsNullOrEmpty(BattleDataStore.currentBattleLogId))
+            {
+                await ResourceManager.Instance.ClaimBattleReward(BattleDataStore.currentBattleLogId);
+            }
+        }
+        else
+        {
+            Debug.Log("<color=red>BẠN ĐÃ THẤT BẠI!</color>");
+        }
+
+        await WaitForSecondsScaled(2.0f); // Chờ 2 giây để xem kết quả
+        UnityEngine.SceneManagement.SceneManager.LoadScene("MainGame");
     }
 
     private async Task ExecuteTurn(BattlePet attacker, BattlePet defender)

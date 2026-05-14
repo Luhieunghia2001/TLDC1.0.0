@@ -44,14 +44,31 @@ public class PetStarUpUI : MonoBehaviour
 
     private ProgressionNode currentStarNode;
 
+    private class EnableTracker : MonoBehaviour
+    {
+        public System.Action onEnableEvent;
+        private void OnEnable() { if (onEnableEvent != null) onEnableEvent.Invoke(); }
+    }
+
     private void Awake()
     {
         if (Instance == null) Instance = this;
         starUpBtn.onClick.AddListener(OnStarUpClicked);
         
-        // Đăng ký sự kiện ngay trong Awake để không bỏ lỡ dữ liệu khi vừa SetActive
+        if (panel != null)
+        {
+            var tracker = panel.AddComponent<EnableTracker>();
+            tracker.onEnableEvent += OnPanelOpened;
+            if (panel.activeInHierarchy) OnPanelOpened();
+        }
+
         PetManager.Instance.OnPetSelected += OnPetChanged;
         PetManager.Instance.OnPetStatsUpdated += OnPetChanged;
+    }
+
+    private void OnPanelOpened()
+    {
+        _ = RefreshUI();
     }
 
     private void OnDestroy()
@@ -61,11 +78,6 @@ public class PetStarUpUI : MonoBehaviour
             PetManager.Instance.OnPetSelected -= OnPetChanged;
             PetManager.Instance.OnPetStatsUpdated -= OnPetChanged;
         }
-    }
-
-    private void OnEnable()
-    {
-        _ = RefreshUI();
     }
 
     private void OnPetChanged(PetModel pet)
@@ -81,55 +93,63 @@ public class PetStarUpUI : MonoBehaviour
         var baseInfo = PetManager.Instance.GetPetBaseByID(pet.petBaseId);
         if (baseInfo == null || baseInfo.progressionTable == null) return;
 
-        // --- 1. Cập nhật Dãy Sao ---
-        DrawStars(currentStars, pet.star);
-        
-        currentStarNode = baseInfo.progressionTable.GetStarCost(pet.star);
-        
-        // --- 2. Cập nhật Chỉ số Hiện Tại ---
-        PetFinalStats curStats = PetStatsCalculator.GetFinalStats(pet, baseInfo);
-        curHpTxt.text = curStats.HP.ToString();
-        curAtkPhyTxt.text = curStats.AtkPhy.ToString();
-        curAtkMagTxt.text = curStats.AtkMag.ToString();
-        curDefPhyTxt.text = curStats.DefPhy.ToString();
-        curDefMagTxt.text = curStats.DefMag.ToString();
-        curSpeedTxt.text = curStats.Speed.ToString();
-
-        if (currentStarNode != null)
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        try
         {
-            // Có thể nâng cấp
-            DrawStars(nextStars, pet.star + 1);
+            // --- 1. Cập nhật Dãy Sao ---
+            DrawStars(currentStars, pet.star);
             
-            // Tự tạo một Pet ảo có số sao +1 để đưa vào máy tính (Calculator) mượn xem trước chỉ số
-            PetModel fakeNextPet = new PetModel { 
-                level = pet.level,
-                star = pet.star + 1,
-                realm = pet.realm 
-            };
-            PetFinalStats nextStats = PetStatsCalculator.GetFinalStats(fakeNextPet, baseInfo);
+            currentStarNode = baseInfo.progressionTable.GetStarCost(pet.star);
             
-            nextHpTxt.text = nextStats.HP.ToString();
-            nextAtkPhyTxt.text = nextStats.AtkPhy.ToString();
-            nextAtkMagTxt.text = nextStats.AtkMag.ToString();
-            nextDefPhyTxt.text = nextStats.DefPhy.ToString();
-            nextDefMagTxt.text = nextStats.DefMag.ToString();
-            nextSpeedTxt.text = nextStats.Speed.ToString();
+            // --- 2. Cập nhật Chỉ số Hiện Tại ---
+            PetFinalStats curStats = PetStatsCalculator.GetFinalStats(pet, baseInfo);
+            curHpTxt.text = curStats.HP.ToString();
+            curAtkPhyTxt.text = curStats.AtkPhy.ToString();
+            curAtkMagTxt.text = curStats.AtkMag.ToString();
+            curDefPhyTxt.text = curStats.DefPhy.ToString();
+            curDefMagTxt.text = curStats.DefMag.ToString();
+            curSpeedTxt.text = curStats.Speed.ToString();
 
-            // --- 3. Cập nhật ô Nguyên Liệu ---
-            await RenderRequirements(currentStarNode, itemsContainer, starUpBtn);
+            if (currentStarNode != null)
+            {
+                // Có thể nâng cấp
+                DrawStars(nextStars, pet.star + 1);
+                
+                // Tự tạo một Pet ảo có số sao +1 để đưa vào máy tính (Calculator) mượn xem trước chỉ số
+                PetModel fakeNextPet = new PetModel { 
+                    level = pet.level,
+                    star = pet.star + 1,
+                    realm = pet.realm 
+                };
+                PetFinalStats nextStats = PetStatsCalculator.GetFinalStats(fakeNextPet, baseInfo);
+                
+                nextHpTxt.text = nextStats.HP.ToString();
+                nextAtkPhyTxt.text = nextStats.AtkPhy.ToString();
+                nextAtkMagTxt.text = nextStats.AtkMag.ToString();
+                nextDefPhyTxt.text = nextStats.DefPhy.ToString();
+                nextDefMagTxt.text = nextStats.DefMag.ToString();
+                nextSpeedTxt.text = nextStats.Speed.ToString();
+
+                // --- 3. Cập nhật ô Nguyên Liệu ---
+                await RenderRequirements(currentStarNode, itemsContainer, starUpBtn);
+            }
+            else
+            {
+                // Đã Đạt MAX Sao
+                DrawStars(nextStars, pet.star); 
+                nextHpTxt.text = "MAX";
+                nextAtkPhyTxt.text = "MAX";
+                nextAtkMagTxt.text = "MAX";
+                nextDefPhyTxt.text = "MAX";
+                nextDefMagTxt.text = "MAX";
+                nextSpeedTxt.text = "MAX";
+                starUpBtn.interactable = false;
+                ClearContainer(itemsContainer);
+            }
         }
-        else
+        finally
         {
-            // Đã Đạt MAX Sao
-            DrawStars(nextStars, pet.star); 
-            nextHpTxt.text = "MAX";
-            nextAtkPhyTxt.text = "MAX";
-            nextAtkMagTxt.text = "MAX";
-            nextDefPhyTxt.text = "MAX";
-            nextDefMagTxt.text = "MAX";
-            nextSpeedTxt.text = "MAX";
-            starUpBtn.interactable = false;
-            ClearContainer(itemsContainer);
+            if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
         }
     }
 
@@ -164,9 +184,9 @@ public class PetStarUpUI : MonoBehaviour
 
     private async Task RenderRequirements(ProgressionNode node, Transform container, Button upgradeBtn)
     {
-        ClearContainer(container);
-
         var inventory = await InventoryManager.Instance.GetMyInventory();
+        ClearContainer(container);
+        
         bool canUpgrade = true;
 
         foreach (var req in node.requiredItems)

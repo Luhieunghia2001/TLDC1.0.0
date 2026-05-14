@@ -76,11 +76,11 @@ public class InventoryManager : MonoBehaviour
             var parameters = new Dictionary<string, object>
             {
                 { "p_pet_id", petID },
-                { "p_item_id", potion.itemID },
-                { "p_exp_amount", potion.value }
+                { "p_item_id", potion.itemID }
+                // XÓA: Không gửi p_exp_amount lên nữa, Server tự tra cứu
             };
 
-            await SupabaseManager.Instance.Client.Rpc("use_pet_exp_potion", parameters);
+            await SupabaseManager.Instance.Client.Rpc("use_pet_exp_potion_secure", parameters);
             Debug.Log($"Sử dụng thành công {potion.itemName} cho Pet!");
             
             // Cập nhật lại UI Pet, UI Kho đồ và UI Nâng cấp
@@ -104,12 +104,12 @@ public class InventoryManager : MonoBehaviour
             var parameters = new Dictionary<string, object>
             {
                 { "p_item_id", itemID },
-                { "p_qty", qty },
-                { "p_price_per_unit", pricePerUnit }
+                { "p_qty", qty }
+                // XÓA: Không gửi p_price_per_unit lên nữa
             };
 
-            await SupabaseManager.Instance.Client.Rpc("sell_item", parameters);
-            Debug.Log($"Bán thành công {qty} vật phẩm. Nhận được {qty * pricePerUnit} Vàng!");
+            await SupabaseManager.Instance.Client.Rpc("sell_item_secure", parameters);
+            Debug.Log($"Đã gửi lệnh bán {qty} vật phẩm lên Server!");
             
             // Cập nhật lại UI Kho đồ
             if (InventoryUIController.Instance != null) InventoryUIController.Instance.RefreshInventory();

@@ -77,6 +77,31 @@ public class ResourceManager : MonoBehaviour
         }
     }
 
-    // Khi người chơi thực hiện hành động tốn Energy, bạn cũng nên gọi một SQL Function khác
-    // để trừ tiền trên Server thay vì trừ ở Client.
+    // Nhận thưởng sau trận đấu (Bảo mật)
+    public async Task ClaimBattleReward(string battleLogId)
+    {
+        if (currentCharacter == null || string.IsNullOrEmpty(battleLogId)) return;
+
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        try
+        {
+            var parameters = new Dictionary<string, object>
+            {
+                { "p_character_id", currentCharacter.id },
+                { "p_battle_log_id", battleLogId }
+            };
+
+            // Gọi hàm claim_reward trên server để kiểm tra và cộng tiền
+            await SupabaseManager.Instance.Client.Rpc("claim_reward", parameters);
+            Debug.Log("<color=green>Nhận thưởng thành công từ Server!</color>");
+            
+            // Sau khi nhận thưởng, đồng bộ lại dữ liệu mới nhất
+            await SyncWithServer();
+        }
+        catch (Exception e)
+        {
+            Debug.LogError("Lỗi khi nhận thưởng bảo mật: " + e.Message);
+        }
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+    }
 }

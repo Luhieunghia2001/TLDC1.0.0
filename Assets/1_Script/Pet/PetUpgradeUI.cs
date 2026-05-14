@@ -27,9 +27,9 @@ public class PetUpgradeUI : MonoBehaviour
         
         if (panel != null)
         {
-            panel.SetActive(false);
             var tracker = panel.AddComponent<EnableTracker>();
             tracker.onEnableEvent += OnPanelOpened;
+            if (panel.activeInHierarchy) OnPanelOpened();
         }
 
         quickUpgradeBtn.onClick.AddListener(OnQuickUpgrade);
@@ -88,25 +88,32 @@ public class PetUpgradeUI : MonoBehaviour
         
         int currentRefresh = ++refreshId;
 
-        UpdateTexts(targetPet);
-
-        var myPets = await PetManager.Instance.GetMyPets();
-        if (currentRefresh != refreshId) return;
-
-        var latestPet = myPets.Find(x => x.id == targetPet.id);
-        if (latestPet != null) 
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        try
         {
-            PetManager.Instance.NotifyPetStatsUpdated(latestPet); // Broadcast để UI khác cũng biết
-            // Chữ sẽ được tự động cập nhật vì sự kiện OnPetStatsUpdated gọi lại OnPetChanged
+            UpdateTexts(targetPet);
+
+            var myPets = await PetManager.Instance.GetMyPets();
+            if (currentRefresh != refreshId) return;
+
+            var latestPet = myPets.Find(x => x.id == targetPet.id);
+            if (latestPet != null) 
+            {
+                PetManager.Instance.NotifyPetStatsUpdated(latestPet); // Broadcast để UI khác cũng biết
+            }
+
+            // 2. Cập nhật số lượng từng loại bình EXP trong túi
+            var inventory = await InventoryManager.Instance.GetMyInventory();
+            foreach (var slot in expItemSlots)
+            {
+                var itemData = inventory.Find(x => x.itemId == slot.GetItemID());
+                int quantity = (itemData != null) ? itemData.quantity : 0;
+                slot.UpdateQuantity(quantity);
+            }
         }
-
-        // 2. Cập nhật số lượng từng loại bình EXP trong túi
-        var inventory = await InventoryManager.Instance.GetMyInventory();
-        foreach (var slot in expItemSlots)
+        finally
         {
-            var itemData = inventory.Find(x => x.itemId == slot.GetItemID());
-            int quantity = (itemData != null) ? itemData.quantity : 0;
-            slot.UpdateQuantity(quantity);
+            if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
         }
     }
 
