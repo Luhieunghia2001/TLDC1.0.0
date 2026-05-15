@@ -72,6 +72,10 @@ public class BattleManager : MonoBehaviour
             allyModel = SpawnPetModel(activeAllyData, allySpawnPoint, flipAlly);
             enemyModel = SpawnPetModel(activeEnemyData, enemySpawnPoint, false);
             
+            // Kích hoạt kỹ năng lúc vào trận (OnWaveStart)
+            await TriggerSkills(activeAllyData, activeEnemyData, SkillTrigger.OnWaveStart);
+            await TriggerSkills(activeEnemyData, activeAllyData, SkillTrigger.OnWaveStart);
+
             await WaitForSecondsScaled(1.0f); 
             await BattleLoop();
         }
@@ -96,13 +100,23 @@ public class BattleManager : MonoBehaviour
     {
         while (!isBattleEnded)
         {
+            await WaitForSecondsScaled(1.0f); 
+
             BattlePet first = activeAllyData.stats.Speed >= activeEnemyData.stats.Speed ? activeAllyData : activeEnemyData;
             BattlePet second = (first == activeAllyData) ? activeEnemyData : activeAllyData;
+
+            // 1. Kích hoạt OnTurnStart cho cả 2 bên (hoặc bên nhanh hơn trước)
+            await TriggerSkills(first, second, SkillTrigger.OnTurnStart);
+            if (isBattleEnded) break;
 
             await ExecuteTurn(first, second);
             if (isBattleEnded) break;
 
             await WaitForSecondsScaled(1.0f); 
+
+            // 2. Kích hoạt OnTurnStart cho bên thứ hai
+            await TriggerSkills(second, first, SkillTrigger.OnTurnStart);
+            if (isBattleEnded) break;
 
             await ExecuteTurn(second, first);
             if (isBattleEnded) break;
@@ -164,21 +178,32 @@ public class BattleManager : MonoBehaviour
 
         await WaitForSecondsScaled(1.0f); 
 
+        // 1. Kích hoạt OnAttack (Trước khi thực hiện đòn đánh)
+        await TriggerSkills(attacker, defender, SkillTrigger.OnAttack);
+        
         // 2. GIAI ĐOẠN THỰC THI LOGIC (Skill Effects)
+        Debug.Log($"<color=yellow>[BATTLE]</color> {attacker.petData.petName} sử dụng kỹ năng: <b>{skill.skillName}</b>");
+
         if (skill.effects != null && skill.effects.Count > 0)
         {
             foreach (var effect in skill.effects)
             {
+                if (effect == null) continue;
+                Debug.Log($"   <color=grey>-> Thực thi Effect:</color> {effect.name} ({effect.GetType().Name})");
                 effect.Execute(attacker, defender);
             }
         }
         else
         {
             // FALLBACK: Nếu chưa gán Effect mới thì dùng logic Damage cũ
+            Debug.Log($"   <color=grey>-> Không có Effect, sử dụng đòn đánh thường dự phòng.</color>");
             int damage = CalculateDamage(attacker, defender, skill);
             defender.currentHP -= damage;
             if (defender.currentHP < 0) defender.currentHP = 0;
         }
+
+        // 3. Kích hoạt OnAttacked (Khi bị trúng đòn)
+        await TriggerSkills(defender, attacker, SkillTrigger.OnAttacked);
 
         // Cập nhật UI sau khi thực thi logic
         if (defenderUI != null)
@@ -278,6 +303,10 @@ public class BattleManager : MonoBehaviour
                 enemyUI.Setup(activeEnemyData);
                 enemyModel = SpawnPetModel(activeEnemyData, enemySpawnPoint, false);
             }
+
+            // Kích hoạt OnWaveStart khi Pet mới xuất hiện
+            await TriggerSkills(isAlly ? activeAllyData : activeEnemyData, isAlly ? activeEnemyData : activeAllyData, SkillTrigger.OnWaveStart);
+
             await WaitForSecondsScaled(1.0f); 
             return true;
         }
@@ -286,6 +315,33 @@ public class BattleManager : MonoBehaviour
             isBattleEnded = true;
             return false;
         }
+    }
+
+    private async Task TriggerSkills(BattlePet attacker, BattlePet defender, SkillTrigger triggerType)
+    {
+        if (attacker == null || attacker.baseData.skills == null) return;
+
+        foreach (var skill in attacker.baseData.skills)
+        {
+            if (skill.trigger == triggerType)
+            {
+                Debug.Log($"<color=orange>[TRIGGER]</color> {attacker.petData.petName} kích hoạt nội tại: <b>{skill.skillName}</b> ({triggerType})");
+                
+                // Thực thi các hiệu ứng của skill nội tại
+                if (skill.effects != null)
+                {
+                    foreach (var effect in skill.effects)
+                    {
+                        if (effect != null) effect.Execute(attacker, defender);
+                    }
+                }
+
+                // Cập nhật UI nếu có thay đổi máu (ví dụ từ hiệu ứng phản đam hoặc hồi máu)
+                if (allyUI != null) allyUI.UpdateHPUI();
+                if (enemyUI != null) enemyUI.UpdateHPUI();
+            }
+        }
+        await Task.Yield();
     }
 
     // HÀM CHỜ THEO TỐC ĐỘ GAME

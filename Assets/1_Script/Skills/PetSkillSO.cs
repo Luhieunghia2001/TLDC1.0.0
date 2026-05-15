@@ -22,12 +22,15 @@ public enum SkillEffectType
     Shield          // Tạo giáp
 }
 
+public enum SkillTier { D, C, B, A, S, SS, SSS }
+
 [CreateAssetMenu(fileName = "New Skill", menuName = "Pet System/Skill")]
 public class PetSkillSO : ScriptableObject
 {
     [Header("Thông tin cơ bản")]
     public string skillID;
     public string skillName;
+    public SkillTier tier = SkillTier.C;
     [TextArea] public string description;
     public Sprite icon;
 

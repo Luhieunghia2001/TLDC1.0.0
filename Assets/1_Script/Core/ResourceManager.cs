@@ -82,6 +82,8 @@ public class ResourceManager : MonoBehaviour
     {
         if (currentCharacter == null || string.IsNullOrEmpty(battleLogId)) return;
 
+        Debug.Log($"<color=cyan>[REWARD]</color> Char: {currentCharacter.id} | Battle: {battleLogId}");
+
         if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
         try
         {

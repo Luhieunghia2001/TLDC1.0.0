@@ -78,8 +78,12 @@ public class PetRealmUpUI : MonoBehaviour
         if (panel != null && panel.activeInHierarchy) _ = RefreshUI();
     }
 
+    private int refreshId = 0;
+
     public async Task RefreshUI()
     {
+        int currentRefresh = ++refreshId;
+
         var pet = PetManager.Instance.CurrentPet;
         if (pet == null) return;
 
@@ -124,7 +128,7 @@ public class PetRealmUpUI : MonoBehaviour
                 nextSpeedTxt.text = nextStats.Speed.ToString();
 
                 // --- 3. Cập nhật ô Nguyên Liệu ---
-                await RenderRequirements(currentRealmNode, itemsContainer, realmUpBtn);
+                await RenderRequirements(currentRealmNode, itemsContainer, realmUpBtn, currentRefresh);
             }
             else
             {
@@ -146,9 +150,12 @@ public class PetRealmUpUI : MonoBehaviour
         }
     }
 
-    private async Task RenderRequirements(ProgressionNode node, Transform container, Button upgradeBtn)
+    private async Task RenderRequirements(ProgressionNode node, Transform container, Button upgradeBtn, int currentRefresh)
     {
         var inventory = await InventoryManager.Instance.GetMyInventory();
+
+        if (currentRefresh != refreshId) return;
+
         ClearContainer(container);
         
         bool canUpgrade = true;

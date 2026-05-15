@@ -85,8 +85,12 @@ public class PetStarUpUI : MonoBehaviour
         if (panel != null && panel.activeInHierarchy) _ = RefreshUI();
     }
 
+    private int refreshId = 0;
+
     public async Task RefreshUI()
     {
+        int currentRefresh = ++refreshId;
+
         var pet = PetManager.Instance.CurrentPet;
         if (pet == null) return;
 
@@ -131,7 +135,7 @@ public class PetStarUpUI : MonoBehaviour
                 nextSpeedTxt.text = nextStats.Speed.ToString();
 
                 // --- 3. Cập nhật ô Nguyên Liệu ---
-                await RenderRequirements(currentStarNode, itemsContainer, starUpBtn);
+                await RenderRequirements(currentStarNode, itemsContainer, starUpBtn, currentRefresh);
             }
             else
             {
@@ -182,9 +186,12 @@ public class PetStarUpUI : MonoBehaviour
         }
     }
 
-    private async Task RenderRequirements(ProgressionNode node, Transform container, Button upgradeBtn)
+    private async Task RenderRequirements(ProgressionNode node, Transform container, Button upgradeBtn, int currentRefresh)
     {
         var inventory = await InventoryManager.Instance.GetMyInventory();
+        
+        if (currentRefresh != refreshId) return;
+
         ClearContainer(container);
         
         bool canUpgrade = true;

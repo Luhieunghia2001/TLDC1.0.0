@@ -11,6 +11,24 @@ public class PetUIItem : MonoBehaviour
     [SerializeField] private Image realmImg;
     [SerializeField] private Button clickBtn; 
     [SerializeField] private GameObject content; // Chứa Icon, Level, Sao...
+    [SerializeField] private GameObject selectedOverlay; // UI đè lên khi Pet đã được chọn (VD: dấu tick hoặc màu tối)
+
+
+
+    public void SetSelected(bool isSelected)
+    {
+        if (selectedOverlay != null)
+        {
+            selectedOverlay.SetActive(isSelected);
+        }
+
+        // Thêm hiệu ứng làm mờ toàn bộ Item nếu đã được chọn (Nếu có CanvasGroup ở gốc)
+        var cg = GetComponent<CanvasGroup>();
+        if (cg != null)
+        {
+            cg.alpha = isSelected ? 0.6f : 1.0f;
+        }
+    }
 
     [Header("Star UI (5 images)")]
     [SerializeField] private Image[] starImgs;
@@ -20,13 +38,38 @@ public class PetUIItem : MonoBehaviour
     [SerializeField] private Sprite[] realmSprites;
     [SerializeField] private Sprite[] starSprites;
 
+    [Header("Settings")]
+    [SerializeField] private bool isBattleSelectionMode = false; // Đánh dấu nếu dùng cho danh sách chọn Pet ra trận
+
     private PetModel petData;
+    private System.Action customClickAction;
 
     private void Start()
     {
         if (PetManager.Instance != null)
         {
             PetManager.Instance.OnPetStatsUpdated += OnGlobalPetUpdated;
+        }
+
+        if (clickBtn != null)
+        {
+            // Xóa toàn bộ để tránh bị chồng chéo Listener từ Inspector hoặc code cũ
+            clickBtn.onClick.RemoveAllListeners();
+            clickBtn.onClick.AddListener(HandleButtonClick);
+        }
+    }
+
+    private void HandleButtonClick()
+    {
+        if (isBattleSelectionMode)
+        {
+            // Chế độ chọn Pet Battle: Chỉ gọi action thêm/xóa, tuyệt đối không hiện Stats
+            customClickAction?.Invoke();
+        }
+        else
+        {
+            // Chế độ xem danh sách bình thường: Hiện bảng thông số chi tiết
+            OnShowDetail();
         }
     }
 
@@ -54,11 +97,13 @@ public class PetUIItem : MonoBehaviour
         }
     }
 
-    public void Setup(PetModel pet, System.Action customAction = null)
+    public void Setup(PetModel pet, bool isSelected = false, System.Action customAction = null)
     {
         this.petData = pet;
+        this.customClickAction = customAction;
 
         if (content != null) content.SetActive(true);
+        SetSelected(isSelected);
 
         // 1. Icon & Level
         var baseInfo = PetManager.Instance.GetPetBaseByID(pet.petBaseId);
@@ -70,35 +115,23 @@ public class PetUIItem : MonoBehaviour
         SetRealmImage(pet.realm);
         SetStarImages(pet.star);
 
-        // 3. Gán sự kiện Click
+        // 3. Đảm bảo Raycast Target bật để có thể nhấn
         if (clickBtn != null)
         {
             var img = clickBtn.GetComponent<Image>();
             if (img != null) img.raycastTarget = true;
-
-            clickBtn.onClick.RemoveAllListeners();
-            if (customAction != null)
-            {
-                clickBtn.onClick.AddListener(() => customAction.Invoke());
-            }
-            else
-            {
-                clickBtn.onClick.AddListener(OnShowDetail);
-            }
         }
     }
 
     public void SetEmpty(bool isEmpty, System.Action onEmptyClick = null)
     {
         if (content != null) content.SetActive(!isEmpty);
+        if (selectedOverlay != null) selectedOverlay.SetActive(false); // Ô trống thì luôn ẩn overlay
         
-        if (isEmpty && clickBtn != null)
+        if (isEmpty)
         {
-            clickBtn.onClick.RemoveAllListeners();
-            if (onEmptyClick != null)
-            {
-                clickBtn.onClick.AddListener(() => onEmptyClick.Invoke());
-            }
+            this.petData = null;
+            this.customClickAction = onEmptyClick;
         }
     }
 
@@ -145,6 +178,12 @@ public class PetUIItem : MonoBehaviour
 
     private void OnShowDetail()
     {
-        if (PetDetailUI.Instance != null) PetDetailUI.Instance.Open(petData);
+        // Tuyệt đối không hiện chi tiết nếu đang ở chế độ chọn Pet ra trận
+        if (isBattleSelectionMode) return;
+
+        if (PetDetailUI.Instance != null && petData != null) 
+        {
+            PetDetailUI.Instance.Open(petData);
+        }
     }
 }

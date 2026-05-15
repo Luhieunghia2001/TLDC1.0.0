@@ -17,12 +17,12 @@ MonoBehaviour:
   element: 1
   attackType: 1
   defaultTier: 1
-  baseHP: 100
-  baseAtkPhy: 10
-  baseAtkMag: 10
-  baseDefPhy: 10
-  baseDefMag: 10
-  baseSpeed: 10
+  baseHP: 10000
+  baseAtkPhy: 1
+  baseAtkMag: 1
+  baseDefPhy: 1
+  baseDefMag: 1
+  baseSpeed: 1
   icon: {fileID: -6876029713378704129, guid: a3c771b1879f5c7449d794b55ccbbbde, type: 3}
   petPrefab: {fileID: 3098258138955482143, guid: 8d343307278bd5a4eb51c02fb34ac4ff, type: 3}
   progressionTable: {fileID: 11400000, guid: f77117f1a70ae524d8a23c0c18c2955c, type: 2}

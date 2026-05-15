@@ -10,6 +10,7 @@ public class BattlePet
     public int currentHP;
     public bool isDead => currentHP <= 0;
     public Dictionary<string, int> cooldownDict = new Dictionary<string, int>();
+    public Dictionary<string, int> stackDict = new Dictionary<string, int>();
 
     public BattlePet(PetModel data, PetBaseSO baseData)
     {

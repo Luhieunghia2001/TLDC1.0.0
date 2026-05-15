@@ -54,8 +54,12 @@ public class PetProgressionUI : MonoBehaviour
         PetManager.Instance.OnPetStatsUpdated += (p) => { if (panel != null && panel.activeInHierarchy) _ = RefreshUI(); };
     }
 
+    private int refreshId = 0;
+
     public async Task RefreshUI()
     {
+        int currentRefresh = ++refreshId;
+
         var pet = PetManager.Instance.CurrentPet;
         if (pet == null) return;
 
@@ -69,7 +73,7 @@ public class PetProgressionUI : MonoBehaviour
         if (currentStarNode != null)
         {
             nextStarTxt.text = (pet.star + 1).ToString() + " Sao";
-            await RenderRequirements(currentStarNode, starItemsContainer, starUpBtn);
+            await RenderRequirements(currentStarNode, starItemsContainer, starUpBtn, currentRefresh);
         }
         else
         {
@@ -78,6 +82,9 @@ public class PetProgressionUI : MonoBehaviour
             ClearContainer(starItemsContainer);
         }
 
+        // Kiểm tra lại sau khi await RenderRequirements (Star)
+        if (currentRefresh != refreshId) return;
+
         // --- Cập nhật giao diện THĂNG TẦNG ---
         currentRealmTxt.text = "Tầng " + pet.realm.ToString();
         currentRealmNode = baseInfo.progressionTable.GetRealmCost(pet.realm);
@@ -85,7 +92,7 @@ public class PetProgressionUI : MonoBehaviour
         if (currentRealmNode != null)
         {
             nextRealmTxt.text = "Tầng " + (pet.realm + 1).ToString();
-            await RenderRequirements(currentRealmNode, realmItemsContainer, realmUpBtn);
+            await RenderRequirements(currentRealmNode, realmItemsContainer, realmUpBtn, currentRefresh);
         }
         else
         {
@@ -95,11 +102,15 @@ public class PetProgressionUI : MonoBehaviour
         }
     }
 
-    private async Task RenderRequirements(ProgressionNode node, Transform container, Button upgradeBtn)
+    private async Task RenderRequirements(ProgressionNode node, Transform container, Button upgradeBtn, int currentRefresh)
     {
+        var inventory = await InventoryManager.Instance.GetMyInventory();
+        
+        // Nếu có yêu cầu mới hơn thì dừng lại
+        if (currentRefresh != refreshId) return;
+
         ClearContainer(container);
 
-        var inventory = await InventoryManager.Instance.GetMyInventory();
         bool canUpgrade = true;
 
         foreach (var req in node.requiredItems)

@@ -26,14 +26,11 @@ public class PetBattleTest : MonoBehaviour
         }
 
         List<PetModel> allies = PetTeamSelectionUI.Instance.GetSelectedTeam();
-        if (allies == null || allies.Count == 0)
-        {
-            Debug.LogWarning("Hãy chọn Pet cho người chơi trước!");
-            return;
-        }
-
-        // 1. GỌI SERVER ĐỂ BẮT ĐẦU TRẬN (Bảo mật + Trừ Stamina)
         if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+
+        // Xóa ID cũ để đảm bảo không bị nhận trùng quà của trận trước
+        BattleDataStore.currentBattleLogId = null;
+
         try
         {
             var charData = ResourceManager.Instance.GetCharacterData();

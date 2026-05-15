@@ -21,15 +21,13 @@ public class PetListController : MonoBehaviour
         RefreshPetList();
     }
 
+    private int refreshId = 0;
+
     public async void RefreshPetList()
     {
-        // 1. Xóa các ô cũ đang hiện có (nếu có)
-        foreach (Transform child in contentContainer)
-        {
-            Destroy(child.gameObject);
-        }
+        int currentRefresh = ++refreshId;
 
-        // 2. Lấy danh sách Pet mới nhất từ Server
+        // 1. Lấy danh sách Pet mới nhất từ Server
         if (PetManager.Instance == null)
         {
             Debug.LogError("Lỗi: PetManager.Instance chưa được khởi tạo!");
@@ -37,7 +35,16 @@ public class PetListController : MonoBehaviour
         }
         List<PetModel> myPets = await PetManager.Instance.GetMyPets();
 
-        // 3. Sinh ra các ô Pet mới
+        // 2. Kiểm tra nếu có yêu cầu Refresh mới hơn thì bỏ qua yêu cầu này
+        if (currentRefresh != refreshId) return;
+
+        // 3. Xóa các ô cũ đang hiện có
+        foreach (Transform child in contentContainer)
+        {
+            Destroy(child.gameObject);
+        }
+
+        // 4. Sinh ra các ô Pet mới
         foreach (var pet in myPets)
         {
             GameObject newItem = Instantiate(petItemPrefab, contentContainer);

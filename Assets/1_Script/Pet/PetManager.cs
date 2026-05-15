@@ -49,6 +49,10 @@ public class PetManager : MonoBehaviour
     // --- GLOBAL STATE & EVENTS (Observer Pattern) ---
     public PetModel CurrentPet { get; private set; }
     
+    // Đội hình Pet hiện tại (Dùng chung cho toàn game)
+    public List<PetModel> SelectedTeam = new List<PetModel>();
+    public const int MAX_TEAM_SIZE = 5;
+
     // Sự kiện bắn ra khi người dùng chọn một con Pet MỚI
     public event System.Action<PetModel> OnPetSelected; 
     
