@@ -12,6 +12,17 @@ public class BattlePet
     public Dictionary<string, int> cooldownDict = new Dictionary<string, int>();
     public Dictionary<string, int> stackDict = new Dictionary<string, int>();
 
+    public void Heal(int amount)
+    {
+        currentHP += amount;
+    }
+
+    public void TakeDamage(int amount)
+    {
+        currentHP -= amount;
+        if (currentHP < 0) currentHP = 0;
+    }
+
     public BattlePet(PetModel data, PetBaseSO baseData)
     {
         this.petData = data;

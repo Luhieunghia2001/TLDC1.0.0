@@ -15,9 +15,12 @@ public class StackingBuffEffect : SkillEffect
     public float defMagAddPerStack = 0f;
     public float speedAddPerStack = 0f;
 
+    [Header("Cài đặt")]
+    public bool targetSelf = true;
+
     public override void Execute(BattlePet user, BattlePet target)
     {
-        BattlePet recipient = target != null ? target : user;
+        BattlePet recipient = targetSelf ? user : target;
         if (recipient == null) return;
 
         // Khởi tạo stack nếu chưa có

@@ -27,6 +27,12 @@ public class BattleManager : MonoBehaviour
     private GameObject enemyModel;
     private bool isBattleEnded = false;
 
+    private void OnDestroy()
+    {
+        // Khi Scene bị đóng hoặc Object bị hủy, dừng ngay lập tức mọi logic chiến đấu
+        isBattleEnded = true;
+    }
+
     private void Awake()
     {
         if (Instance == null) Instance = this;
@@ -198,8 +204,7 @@ public class BattleManager : MonoBehaviour
             // FALLBACK: Nếu chưa gán Effect mới thì dùng logic Damage cũ
             Debug.Log($"   <color=grey>-> Không có Effect, sử dụng đòn đánh thường dự phòng.</color>");
             int damage = CalculateDamage(attacker, defender, skill);
-            defender.currentHP -= damage;
-            if (defender.currentHP < 0) defender.currentHP = 0;
+            defender.TakeDamage(damage);
         }
 
         // 3. Kích hoạt OnAttacked (Khi bị trúng đòn)
@@ -323,7 +328,8 @@ public class BattleManager : MonoBehaviour
 
         foreach (var skill in attacker.baseData.skills)
         {
-            if (skill.trigger == triggerType)
+            // CHỈ kích hoạt các kỹ năng Bị động (Passive) dựa trên Trigger
+            if (skill.skillType == SkillType.Passive && skill.trigger == triggerType)
             {
                 Debug.Log($"<color=orange>[TRIGGER]</color> {attacker.petData.petName} kích hoạt nội tại: <b>{skill.skillName}</b> ({triggerType})");
                 
@@ -348,7 +354,7 @@ public class BattleManager : MonoBehaviour
     private async Task WaitForSecondsScaled(float seconds)
     {
         float elapsed = 0f;
-        while (elapsed < seconds)
+        while (elapsed < seconds && !isBattleEnded)
         {
             if (Time.timeScale > 0)
             {

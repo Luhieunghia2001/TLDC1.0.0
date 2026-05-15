@@ -5,8 +5,10 @@ using TMPro;
 public class BattleUnit : MonoBehaviour
 {
     [Header("UI References")]
-    [SerializeField] private Slider hpSlider;
-    [SerializeField] private TMP_Text nameTxt; // Dùng TMP_Text để nhận cả UGUI và TextMeshPro thường
+    [SerializeField] private Image hpFillImage; 
+    [SerializeField] private Image hpBackImage; // Thanh nền (hiện màu của lớp máu bên dưới)
+    [SerializeField] private Sprite[] hpBarSprites;
+    [SerializeField] private TMP_Text nameTxt; 
     [SerializeField] private TMP_Text levelTxt;
 
     [Header("Damage Text Prefab")]
@@ -27,10 +29,42 @@ public class BattleUnit : MonoBehaviour
 
     public void UpdateHPUI()
     {
-        if (hpSlider != null && battlePet != null)
+        if (hpFillImage != null && battlePet != null && hpBarSprites.Length > 0)
         {
-            float targetValue = (float)battlePet.currentHP / battlePet.stats.HP;
-            hpSlider.value = targetValue; 
+            if (battlePet.currentHP <= 0)
+            {
+                hpFillImage.fillAmount = 0;
+                if (hpBackImage != null) hpBackImage.gameObject.SetActive(false);
+                return;
+            }
+
+            // 1. Tính toán lớp máu hiện tại
+            // Layer 0: 1-100%, Layer 1: 101-200%, v.v.
+            int layerIndex = (battlePet.currentHP - 1) / battlePet.stats.HP;
+            
+            // 2. Tính toán phần trăm của thanh hiện tại
+            float currentLayerHP = battlePet.currentHP - (layerIndex * battlePet.stats.HP);
+            float fillAmount = currentLayerHP / battlePet.stats.HP;
+
+            // 3. Cập nhật Sprite và Fill
+            // Dùng toán tử % để lặp lại danh sách Sprite nếu máu quá nhiều
+            hpFillImage.sprite = hpBarSprites[layerIndex % hpBarSprites.Length];
+            hpFillImage.fillAmount = fillAmount;
+
+            // 4. Cập nhật thanh nền (màu của lớp dưới)
+            if (hpBackImage != null)
+            {
+                if (layerIndex > 0)
+                {
+                    hpBackImage.gameObject.SetActive(true);
+                    hpBackImage.sprite = hpBarSprites[(layerIndex - 1) % hpBarSprites.Length];
+                }
+                else
+                {
+                    // Nếu là lớp cuối cùng (Layer 0) thì tắt nền hoặc để màu đen/xám
+                    hpBackImage.gameObject.SetActive(false);
+                }
+            }
         }
     }
 

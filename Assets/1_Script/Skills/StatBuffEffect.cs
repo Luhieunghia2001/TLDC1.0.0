@@ -10,9 +10,12 @@ public class StatBuffEffect : SkillEffect
     public float defMagAddPercent = 0f;
     public float speedAddPercent = 0f;
 
+    [Header("Cài đặt")]
+    public bool targetSelf = true;
+
     public override void Execute(BattlePet user, BattlePet target)
     {
-        BattlePet recipient = target != null ? target : user;
+        BattlePet recipient = targetSelf ? user : target;
         if (recipient == null) return;
 
         // Tăng chỉ số trực tiếp vào stats hiện tại trong trận đấu

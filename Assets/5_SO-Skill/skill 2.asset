@@ -17,8 +17,8 @@ MonoBehaviour:
   tier: 3
   description: 'skill '
   icon: {fileID: -1689994448250163828, guid: 9899ac5d47eead342b50ec0a2438a2b5, type: 3}
-  skillType: 0
-  trigger: 0
+  skillType: 1
+  trigger: 6
   effectType: 0
   procChance: 100
   valueScale: 1

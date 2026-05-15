@@ -7,31 +7,31 @@ public class OncePerBattleEffect : SkillEffect
     public float maxHpPercent = 0.5f; 
     public float currentHpPercent = 0f; 
     
-    [Header("Định danh")]
-    [Tooltip("Dùng key này để đảm bảo mỗi Skill chỉ kích hoạt 1 lần duy nhất trên 1 mục tiêu")]
+    [Header("Cài đặt")]
     public string uniqueEffectKey = "FirstStrike50"; 
+    public bool targetSelf = false;
 
     public override void Execute(BattlePet user, BattlePet target)
     {
-        if (target == null) return;
+        BattlePet recipient = targetSelf ? user : target;
+        if (recipient == null) return;
 
         // Nếu mục tiêu đã bị dính key này rồi thì bỏ qua
-        if (target.stackDict.ContainsKey(uniqueEffectKey)) 
+        if (recipient.stackDict.ContainsKey(uniqueEffectKey)) 
         {
             return;
         }
 
         // Tính sát thương
-        float damage = (target.stats.HP * maxHpPercent) + (target.currentHP * currentHpPercent);
+        float damage = (recipient.stats.HP * maxHpPercent) + (recipient.currentHP * currentHpPercent);
         int finalDamage = Mathf.RoundToInt(damage);
 
         // Gây sát thương chuẩn
-        target.currentHP -= finalDamage;
-        if (target.currentHP < 0) target.currentHP = 0;
+        recipient.TakeDamage(finalDamage);
 
         // Đánh dấu đã sử dụng
-        target.stackDict[uniqueEffectKey] = 1;
+        recipient.stackDict[uniqueEffectKey] = 1;
 
-        Debug.Log($"[ONCE] {target.petData.petName} bị giảm {finalDamage} máu! (Chỉ 1 lần duy nhất)");
+        Debug.Log($"[ONCE] {recipient.petData.petName} bị giảm {finalDamage} máu! (Chỉ 1 lần duy nhất)");
     }
 }

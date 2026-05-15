@@ -16585,7 +16585,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PetBattleTest
   battleSceneName: BattleScene
   enemyPetBaseID: 2
-  enemyLevel: 10
+  enemyLevel: 100
   enemyCount: 3
 --- !u!4 &1325145054
 Transform:

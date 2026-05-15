@@ -5,6 +5,7 @@ public enum SkillType { Active, Passive }
 
 public enum SkillTrigger
 {
+    None,           // Không dùng trigger tự động (Dành cho chiêu Active)
     OnTurnStart,    // Bắt đầu lượt của mình
     OnAttack,       // Khi mình tấn công (Chủ động)
     OnAttacked,     // Khi bị kẻ địch tấn công (Bị động)

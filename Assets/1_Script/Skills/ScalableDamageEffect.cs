@@ -17,12 +17,13 @@ public class ScalableDamageEffect : SkillEffect
     public float targetCurrentHpMult = 0f;
 
     [Header("Cài đặt")]
-    [Tooltip("Nếu true, sát thương sẽ là sát thương chuẩn (bỏ qua phòng thủ kẻ địch)")]
     public bool isTrueDamage = false;
+    public bool targetSelf = false;
 
     public override void Execute(BattlePet user, BattlePet target)
     {
-        if (user == null || target == null) return;
+        BattlePet recipient = targetSelf ? user : target;
+        if (user == null || recipient == null) return;
 
         // 1. Tính toán tổng lực tấn công dựa trên các hệ số gán vào
         float totalPower = (user.stats.AtkPhy * atkPhyMult)
@@ -32,8 +33,8 @@ public class ScalableDamageEffect : SkillEffect
                          + (user.stats.Speed * speedMult)
                          + (user.stats.HP * userMaxHpMult)
                          + (user.currentHP * userCurrentHpMult)
-                         + (target.stats.HP * targetMaxHpMult)
-                         + (target.currentHP * targetCurrentHpMult);
+                         + (recipient.stats.HP * targetMaxHpMult)
+                         + (recipient.currentHP * targetCurrentHpMult);
 
         int finalDamage = 0;
 
@@ -45,14 +46,13 @@ public class ScalableDamageEffect : SkillEffect
         else
         {
             // Sát thương thông thường: Trừ đi phòng thủ tương ứng của kẻ địch
-            float targetDef = (target.stats.DefPhy + target.stats.DefMag) / 2f;
+            float targetDef = (recipient.stats.DefPhy + recipient.stats.DefMag) / 2f;
             finalDamage = Mathf.RoundToInt(Mathf.Max(1, totalPower - (targetDef * 0.5f)));
         }
 
         // 2. Trừ máu mục tiêu
-        target.currentHP -= finalDamage;
-        if (target.currentHP < 0) target.currentHP = 0;
+        recipient.TakeDamage(finalDamage);
 
-        Debug.Log($"[Scalable Damage] {user.petData.petName} gây {finalDamage} sát thương.");
+        Debug.Log($"[Scalable Damage] {user.petData.petName} gây {finalDamage} sát thương lên {recipient.petData.petName}.");
     }
 }

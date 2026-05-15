@@ -19,6 +19,7 @@ MonoBehaviour:
   speedMult: 0.2
   userMaxHpMult: 0.2
   userCurrentHpMult: 0.2
-  targetMaxHpMult: 0.2
-  targetCurrentHpMult: 0.2
+  targetMaxHpMult: 0
+  targetCurrentHpMult: 0
   isTrueDamage: 0
+  targetSelf: 1
