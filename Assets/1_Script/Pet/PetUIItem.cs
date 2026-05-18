@@ -11,12 +11,22 @@ public class PetUIItem : MonoBehaviour
     [SerializeField] private Image realmImg;
     [SerializeField] private Button clickBtn; 
     [SerializeField] private GameObject content; // Chứa Icon, Level, Sao...
-    [SerializeField] private GameObject selectedOverlay; // UI đè lên khi Pet đã được chọn (VD: dấu tick hoặc màu tối)
+    [SerializeField] private GameObject selectedOverlay; // UI overlay khi Pet được chọn
+    [SerializeField] private GameObject petDead;
+
+    public void SetDead(bool isDead)
+    {
+        if (petDead != null)
+        {
+            petDead.gameObject.SetActive(isDead);
+        }
+    }
 
 
 
     public void SetSelected(bool isSelected)
     {
+        // Đánh dấu chọn (ví dụ: dấu tick hoặc màu nền)
         if (selectedOverlay != null)
         {
             selectedOverlay.SetActive(isSelected);
@@ -103,6 +113,8 @@ public class PetUIItem : MonoBehaviour
         this.customClickAction = customAction;
 
         if (content != null) content.SetActive(true);
+        // Đảm bảo khi khởi tạo UI, hình ảnh dead được tắt
+        SetDead(false);
         SetSelected(isSelected);
 
         // 1. Icon & Level
@@ -126,7 +138,10 @@ public class PetUIItem : MonoBehaviour
     public void SetEmpty(bool isEmpty, System.Action onEmptyClick = null)
     {
         if (content != null) content.SetActive(!isEmpty);
-        if (selectedOverlay != null) selectedOverlay.SetActive(false); // Ô trống thì luôn ẩn overlay
+        // Khi là ô trống, luôn tắt dead overlay
+        if (petDead != null) petDead.gameObject.SetActive(false);
+        if (selectedOverlay != null) selectedOverlay.SetActive(false);
+
         
         if (isEmpty)
         {

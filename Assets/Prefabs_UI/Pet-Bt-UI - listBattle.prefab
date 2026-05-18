@@ -305,7 +305,7 @@ GameObject:
   - component: {fileID: 2519377050786615902}
   - component: {fileID: 3584139471112312048}
   m_Layer: 5
-  m_Name: Pet-Bt-UI - battle
+  m_Name: Pet-Bt-UI - listBattle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -431,7 +431,8 @@ MonoBehaviour:
   realmImg: {fileID: 4941140271596594818}
   clickBtn: {fileID: 2519377050786615902}
   content: {fileID: 5338321030342516807}
-  selectedOverlay: {fileID: 1673518084165896645}
+  selectedOverlay: {fileID: 0}
+  petDead: {fileID: 1673518084165896645}
   starImgs:
   - {fileID: 6933144132638881980}
   - {fileID: 5573154993305528014}
@@ -658,14 +659,14 @@ RectTransform:
   m_GameObject: {fileID: 4013839092210612901}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.61419785, y: 0.61419785, z: 0.61419785}
+  m_LocalScale: {x: 0.65613043, y: 0.65613043, z: 0.65613043}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2803298721153956545}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0.00000057312946}
+  m_AnchoredPosition: {x: 0, y: -0.000000048487}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3574130954916841134
@@ -696,7 +697,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1036939248245001567, guid: 8094f8c8a7e39004394ca255e0410a33, type: 3}
+  m_Sprite: {fileID: 2578921895353423002, guid: 2e1fff5320ba5384789bd1697085c591, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

@@ -72,8 +72,8 @@ public class BattleManager : MonoBehaviour
 
         if (activeAllyData != null && activeEnemyData != null)
         {
-            if (allyUI != null) allyUI.Setup(activeAllyData);
-            if (enemyUI != null) enemyUI.Setup(activeEnemyData);
+            if (allyUI != null) allyUI.Setup(activeAllyData, allyTeam);
+            if (enemyUI != null) enemyUI.Setup(activeEnemyData, enemyTeam);
             
             allyModel = SpawnPetModel(activeAllyData, allySpawnPoint, flipAlly);
             enemyModel = SpawnPetModel(activeEnemyData, enemySpawnPoint, false);
@@ -299,13 +299,13 @@ public class BattleManager : MonoBehaviour
             if (isAlly)
             {
                 activeAllyData = nextPetData;
-                allyUI.Setup(activeAllyData);
+                allyUI.Setup(activeAllyData, allyTeam);
                 allyModel = SpawnPetModel(activeAllyData, allySpawnPoint, flipAlly);
             }
             else
             {
                 activeEnemyData = nextPetData;
-                enemyUI.Setup(activeEnemyData);
+                enemyUI.Setup(activeEnemyData, enemyTeam);
                 enemyModel = SpawnPetModel(activeEnemyData, enemySpawnPoint, false);
             }
 
