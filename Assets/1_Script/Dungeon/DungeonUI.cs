@@ -90,6 +90,14 @@ public class DungeonUI : MonoBehaviour
     {
         if (currentConfig == null) return;
 
+        // Lấy đội hình của người chơi
+        List<PetModel> playerTeam = PetManager.Instance.SelectedTeam;
+        if (playerTeam == null || playerTeam.Count == 0)
+        {
+            Debug.LogWarning("[DungeonUI] Người chơi chưa chọn đội hình để chiến đấu!");
+            return;
+        }
+
         // Chuyển đổi dữ liệu từ Config sang PetModel để BattleManager hiểu
         List<PetModel> enemies = new List<PetModel>();
         foreach (var cfg in currentConfig.enemyTeam)
@@ -105,9 +113,11 @@ public class DungeonUI : MonoBehaviour
             });
         }
 
-        // Đưa vào Store và chuyển scene
+        // Đưa đội hình người chơi và kẻ địch vào BattleDataStore
+        BattleDataStore.selectedAllies = playerTeam;
         BattleDataStore.selectedEnemies = enemies;
-        // Ví dụ: UnityEngine.SceneManagement.SceneManager.LoadScene("BattleScene");
-        Debug.Log($"Bắt đầu ải {currentConfig.dungeonName} với {enemies.Count} kẻ địch.");
+        
+        Debug.Log($"[DungeonUI] Bắt đầu ải {currentConfig.dungeonName} với {playerTeam.Count} đồng minh và {enemies.Count} kẻ địch. Chuyển sang BattleScene.");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("BattleScene");
     }
 }

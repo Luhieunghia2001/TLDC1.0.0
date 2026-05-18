@@ -15,17 +15,17 @@ MonoBehaviour:
   dungeonID: 1
   dungeonName: "K\xEDnh h\u1ED3 1-1"
   staminaCost: 10
-  recommendedPower: 10
+  maxDailyAttempts: 10
   enemyTeam:
-  - petBaseId: 1
+  - petBaseId: 2
     level: 100
     star: 1
     realm: 1
-  - petBaseId: 1
+  - petBaseId: 2
     level: 100
     star: 1
     realm: 1
-  - petBaseId: 1
+  - petBaseId: 2
     level: 100
     star: 1
     realm: 1
