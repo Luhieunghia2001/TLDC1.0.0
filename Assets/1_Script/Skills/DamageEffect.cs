@@ -22,4 +22,10 @@ public class DamageEffect : SkillEffect
 
         Debug.Log($"[SKILL] {user.petData.petName} gây {finalDamage} sát thương lên {recipient.petData.petName}");
     }
+
+    public override string GetDescription()
+    {
+        string targetText = targetSelf ? "chính mình" : "kẻ địch";
+        return $"Gây {multiplier * 100}% sát thương lên {targetText}";
+    }
 }

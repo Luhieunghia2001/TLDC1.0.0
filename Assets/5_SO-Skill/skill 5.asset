@@ -13,17 +13,17 @@ MonoBehaviour:
   m_Name: skill 5
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillSO
   skillID: 5
-  skillName: skill 5
-  tier: 3
-  description: 'skill '
-  icon: {fileID: -1689994448250163828, guid: 9899ac5d47eead342b50ec0a2438a2b5, type: 3}
+  skillName: "T\u0103ng s\u1EE9c m\u1EA1nh"
+  tier: 6
+  description: 
+  icon: {fileID: 6020024211522887915, guid: 26d6e9dbab021d342838794488ee59e8, type: 3}
   skillType: 1
   trigger: 1
-  effectType: 0
+  effectType: 2
   procChance: 100
-  valueScale: 1
+  valueScale: 0.1
   scaleFromMaxHP: 0
-  cooldownTurns: 0
+  cooldownTurns: 3
   priority: 0
   effects:
   - {fileID: 11400000, guid: 1623407763b9f7740b59621dfc25e77f, type: 2}

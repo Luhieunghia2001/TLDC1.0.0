@@ -57,4 +57,89 @@ public class PetSkillSO : ScriptableObject
     [Header("Visuals")]
     public string animationTrigger = "Attack";
     public GameObject vfxPrefab;
+
+    // Tạo mô tả động dựa trên các chỉ số hiện tại
+    public string GetFormattedDescription()
+    {
+        if (string.IsNullOrEmpty(description))
+        {
+            return GenerateAutoDescription();
+        }
+        return description;
+    }
+
+    private string GenerateAutoDescription()
+    {
+        string desc = "";
+
+        // Thêm thông tin về trigger
+        if (trigger != SkillTrigger.None)
+        {
+            desc += $"Kích hoạt khi: {GetTriggerName(trigger)}\n";
+        }
+
+        // Thêm thông tin về hiệu ứng
+        desc += $"Hiệu ứng: {GetEffectTypeName(effectType)}\n";
+
+        // Thêm thông tin về tỷ lệ
+        if (procChance < 100)
+        {
+            desc += $"Tỷ lệ kích hoạt: {procChance}%\n";
+        }
+
+        // Thêm thông tin về giá trị
+        if (valueScale != 1.0f)
+        {
+            string scaleType = scaleFromMaxHP ? "% Max HP" : "% ATK";
+            desc += $"Sức mạnh: {valueScale * 100}{scaleType}\n";
+        }
+
+        // Thêm thông tin về hồi chiêu
+        if (cooldownTurns > 0)
+        {
+            desc += $"Hồi chiêu: {cooldownTurns} lượt\n";
+        }
+
+        // Thêm thông tin về các effects
+        if (effects != null && effects.Count > 0)
+        {
+            desc += $"\nHiệu ứng bổ sung ({effects.Count}):\n";
+            foreach (var effect in effects)
+            {
+                if (effect != null)
+                {
+                    desc += $"- {effect.GetDescription()}\n";
+                }
+            }
+        }
+
+        return desc.Trim();
+    }
+
+    private string GetTriggerName(SkillTrigger trigger)
+    {
+        switch (trigger)
+        {
+            case SkillTrigger.OnTurnStart: return "Bắt đầu lượt";
+            case SkillTrigger.OnAttack: return "Khi tấn công";
+            case SkillTrigger.OnAttacked: return "Khi bị tấn công";
+            case SkillTrigger.OnKill: return "Khi giết địch";
+            case SkillTrigger.OnDeath: return "Khi bị hạ gục";
+            case SkillTrigger.OnWaveStart: return "Bắt đầu trận đấu";
+            default: return "Không";
+        }
+    }
+
+    private string GetEffectTypeName(SkillEffectType type)
+    {
+        switch (type)
+        {
+            case SkillEffectType.Damage: return "Gây sát thương";
+            case SkillEffectType.Heal: return "Hồi máu";
+            case SkillEffectType.Buff: return "Tăng chỉ số";
+            case SkillEffectType.Debuff: return "Giảm chỉ số";
+            case SkillEffectType.Shield: return "Tạo giáp";
+            default: return "Không xác định";
+        }
+    }
 }

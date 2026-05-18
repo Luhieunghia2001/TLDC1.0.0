@@ -68,7 +68,7 @@ public class ResourceManager : MonoBehaviour
                 currentCharacter.level = serverData.level;
                 currentCharacter.currentExp = serverData.currentExp;
                 
-                Debug.Log($"<color=yellow>[Server Sync]</color> Gold: {currentCharacter.gold}, Energy: {currentCharacter.energy}");
+                //Debug.Log($"<color=yellow>[Server Sync]</color> Gold: {currentCharacter.gold}, Energy: {currentCharacter.energy}");
             }
         }
         catch (Exception e)

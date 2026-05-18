@@ -26,4 +26,28 @@ public class ScalableHealEffect : SkillEffect
 
         Debug.Log($"[HEAL] {recipient.petData.petName} được hồi {finalHeal} HP.");
     }
+
+    public override string GetDescription()
+    {
+        string desc = "Hồi máu: ";
+        var parts = new System.Collections.Generic.List<string>();
+        
+        if (maxHpMult > 0) parts.Add($"{maxHpMult * 100}% Max HP");
+        if (currentHpMult > 0) parts.Add($"{currentHpMult * 100}% HP hiện tại");
+        if (flatAmount > 0) parts.Add($"{flatAmount} HP");
+        
+        if (parts.Count > 0)
+        {
+            desc += string.Join(", ", parts);
+        }
+        else
+        {
+            desc += "Không có hệ số";
+        }
+        
+        string targetText = targetSelf ? "bản thân" : "mục tiêu";
+        desc += $" cho {targetText}";
+        
+        return desc;
+    }
 }

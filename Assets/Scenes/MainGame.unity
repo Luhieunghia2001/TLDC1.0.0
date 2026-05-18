@@ -173,6 +173,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillUIItem
   iconImg: {fileID: 910372939}
   tierImg: {fileID: 13241027}
+  skillButton: {fileID: 6900055}
   tierSprites:
   - {fileID: -249472323368738380, guid: 21cd5442ad2c38742acf5f92ab8e99bf, type: 3}
   - {fileID: -3425739769129926952, guid: bc0ba26a980a3d74e84e10980bb78edf, type: 3}
@@ -181,6 +182,8 @@ MonoBehaviour:
   - {fileID: 3960859825009107784, guid: 476a325bd7924b242a7f63c6cea0c3ce, type: 3}
   - {fileID: -4382227061891846107, guid: 82fb950ef60ed1d468e7a350ec773ccf, type: 3}
   - {fileID: 2745489325821867503, guid: 0c0b0c06d76654e419773f36e6f2480b, type: 3}
+  descriptionPanelPrefab: {fileID: 3396584134080275268, guid: 4e0709c7fcc9d4d42904b2fc1701ca9a, type: 3}
+  canvasTransform: {fileID: 814543918}
 --- !u!114 &6900055
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1024,6 +1027,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillUIItem
   iconImg: {fileID: 54482923}
   tierImg: {fileID: 771557700}
+  skillButton: {fileID: 54482922}
   tierSprites:
   - {fileID: 788732826013815591, guid: 1a014f49a88932248adbe894f701a58a, type: 3}
   - {fileID: -5185337000372085048, guid: d6f6a339cdbe64e419f94457d88f709f, type: 3}
@@ -1033,6 +1037,8 @@ MonoBehaviour:
   - {fileID: 1801542142554964816, guid: 1f71cda570c27f7458b4308cc3fdabac, type: 3}
   - {fileID: 8618446287908474718, guid: 6040f8425553b0a4780e0a735da21227, type: 3}
   - {fileID: 5397617130579730446, guid: 6576cb8774675854f82afeb0c5d6df96, type: 3}
+  descriptionPanelPrefab: {fileID: 3396584134080275268, guid: 4e0709c7fcc9d4d42904b2fc1701ca9a, type: 3}
+  canvasTransform: {fileID: 814543918}
 --- !u!114 &54482922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2119,6 +2125,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillUIItem
   iconImg: {fileID: 182030951}
   tierImg: {fileID: 998518353}
+  skillButton: {fileID: 182030950}
   tierSprites:
   - {fileID: -249472323368738380, guid: 21cd5442ad2c38742acf5f92ab8e99bf, type: 3}
   - {fileID: -3425739769129926952, guid: bc0ba26a980a3d74e84e10980bb78edf, type: 3}
@@ -2127,6 +2134,8 @@ MonoBehaviour:
   - {fileID: 3960859825009107784, guid: 476a325bd7924b242a7f63c6cea0c3ce, type: 3}
   - {fileID: -4382227061891846107, guid: 82fb950ef60ed1d468e7a350ec773ccf, type: 3}
   - {fileID: 2745489325821867503, guid: 0c0b0c06d76654e419773f36e6f2480b, type: 3}
+  descriptionPanelPrefab: {fileID: 3396584134080275268, guid: 4e0709c7fcc9d4d42904b2fc1701ca9a, type: 3}
+  canvasTransform: {fileID: 814543918}
 --- !u!114 &182030950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2384,6 +2393,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillUIItem
   iconImg: {fileID: 191914531}
   tierImg: {fileID: 72697649}
+  skillButton: {fileID: 191914530}
   tierSprites:
   - {fileID: 788732826013815591, guid: 1a014f49a88932248adbe894f701a58a, type: 3}
   - {fileID: -5185337000372085048, guid: d6f6a339cdbe64e419f94457d88f709f, type: 3}
@@ -2393,6 +2403,8 @@ MonoBehaviour:
   - {fileID: 1801542142554964816, guid: 1f71cda570c27f7458b4308cc3fdabac, type: 3}
   - {fileID: 8618446287908474718, guid: 6040f8425553b0a4780e0a735da21227, type: 3}
   - {fileID: 5397617130579730446, guid: 6576cb8774675854f82afeb0c5d6df96, type: 3}
+  descriptionPanelPrefab: {fileID: 3396584134080275268, guid: 4e0709c7fcc9d4d42904b2fc1701ca9a, type: 3}
+  canvasTransform: {fileID: 814543918}
 --- !u!114 &191914530
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3735,6 +3747,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillUIItem
   iconImg: {fileID: 329836623}
   tierImg: {fileID: 1957961011}
+  skillButton: {fileID: 329836622}
   tierSprites:
   - {fileID: -249472323368738380, guid: 21cd5442ad2c38742acf5f92ab8e99bf, type: 3}
   - {fileID: -3425739769129926952, guid: bc0ba26a980a3d74e84e10980bb78edf, type: 3}
@@ -3743,6 +3756,8 @@ MonoBehaviour:
   - {fileID: 3960859825009107784, guid: 476a325bd7924b242a7f63c6cea0c3ce, type: 3}
   - {fileID: -4382227061891846107, guid: 82fb950ef60ed1d468e7a350ec773ccf, type: 3}
   - {fileID: 2745489325821867503, guid: 0c0b0c06d76654e419773f36e6f2480b, type: 3}
+  descriptionPanelPrefab: {fileID: 3396584134080275268, guid: 4e0709c7fcc9d4d42904b2fc1701ca9a, type: 3}
+  canvasTransform: {fileID: 814543918}
 --- !u!114 &329836622
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10061,6 +10076,7 @@ RectTransform:
   - {fileID: 866777562}
   - {fileID: 812627381}
   - {fileID: 2120543455}
+  - {fileID: 1512624506}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -11110,6 +11126,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillUIItem
   iconImg: {fileID: 890277775}
   tierImg: {fileID: 479337361}
+  skillButton: {fileID: 890277774}
   tierSprites:
   - {fileID: -249472323368738380, guid: 21cd5442ad2c38742acf5f92ab8e99bf, type: 3}
   - {fileID: -3425739769129926952, guid: bc0ba26a980a3d74e84e10980bb78edf, type: 3}
@@ -11118,6 +11135,8 @@ MonoBehaviour:
   - {fileID: 3960859825009107784, guid: 476a325bd7924b242a7f63c6cea0c3ce, type: 3}
   - {fileID: -4382227061891846107, guid: 82fb950ef60ed1d468e7a350ec773ccf, type: 3}
   - {fileID: 2745489325821867503, guid: 0c0b0c06d76654e419773f36e6f2480b, type: 3}
+  descriptionPanelPrefab: {fileID: 3396584134080275268, guid: 4e0709c7fcc9d4d42904b2fc1701ca9a, type: 3}
+  canvasTransform: {fileID: 814543918}
 --- !u!114 &890277774
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11512,6 +11531,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillUIItem
   iconImg: {fileID: 927339855}
   tierImg: {fileID: 407706107}
+  skillButton: {fileID: 927339854}
   tierSprites:
   - {fileID: -249472323368738380, guid: 21cd5442ad2c38742acf5f92ab8e99bf, type: 3}
   - {fileID: -3425739769129926952, guid: bc0ba26a980a3d74e84e10980bb78edf, type: 3}
@@ -11520,6 +11540,8 @@ MonoBehaviour:
   - {fileID: 3960859825009107784, guid: 476a325bd7924b242a7f63c6cea0c3ce, type: 3}
   - {fileID: -4382227061891846107, guid: 82fb950ef60ed1d468e7a350ec773ccf, type: 3}
   - {fileID: 2745489325821867503, guid: 0c0b0c06d76654e419773f36e6f2480b, type: 3}
+  descriptionPanelPrefab: {fileID: 3396584134080275268, guid: 4e0709c7fcc9d4d42904b2fc1701ca9a, type: 3}
+  canvasTransform: {fileID: 814543918}
 --- !u!114 &927339854
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19099,6 +19121,151 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!1 &1512624505
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1512624506}
+  - component: {fileID: 1512624510}
+  - component: {fileID: 1512624509}
+  - component: {fileID: 1512624508}
+  - component: {fileID: 1512624507}
+  m_Layer: 5
+  m_Name: PhoBan
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1512624506
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512624505}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.5285916, y: 1.5285916, z: 1.5285916}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 814543918}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 693.2, y: -453.7}
+  m_SizeDelta: {x: 88.2307, y: 84.4457}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1512624507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512624505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d6f35925de647947953f6de8eeb0c87, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LoadDungeonScene
+--- !u!114 &1512624508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512624505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1512624509}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1512624507}
+        m_TargetAssemblyTypeName: LoadDungeonScene, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: PhoBan
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1512624509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512624505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -3668200965685403676, guid: 0a99644458e61dc4092476c70b5f2847, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1512624510
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512624505}
+  m_CullTransparentMesh: 1
 --- !u!1 &1516382569
 GameObject:
   m_ObjectHideFlags: 0
@@ -24928,6 +25095,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillUIItem
   iconImg: {fileID: 1861761924}
   tierImg: {fileID: 586280994}
+  skillButton: {fileID: 1861761923}
   tierSprites:
   - {fileID: -249472323368738380, guid: 21cd5442ad2c38742acf5f92ab8e99bf, type: 3}
   - {fileID: -3425739769129926952, guid: bc0ba26a980a3d74e84e10980bb78edf, type: 3}
@@ -24936,6 +25104,8 @@ MonoBehaviour:
   - {fileID: 3960859825009107784, guid: 476a325bd7924b242a7f63c6cea0c3ce, type: 3}
   - {fileID: -4382227061891846107, guid: 82fb950ef60ed1d468e7a350ec773ccf, type: 3}
   - {fileID: 2745489325821867503, guid: 0c0b0c06d76654e419773f36e6f2480b, type: 3}
+  descriptionPanelPrefab: {fileID: 3396584134080275268, guid: 4e0709c7fcc9d4d42904b2fc1701ca9a, type: 3}
+  canvasTransform: {fileID: 814543918}
 --- !u!114 &1861761923
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26721,6 +26891,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillUIItem
   iconImg: {fileID: 2033449587}
   tierImg: {fileID: 1010912170}
+  skillButton: {fileID: 2033449586}
   tierSprites:
   - {fileID: 788732826013815591, guid: 1a014f49a88932248adbe894f701a58a, type: 3}
   - {fileID: -5185337000372085048, guid: d6f6a339cdbe64e419f94457d88f709f, type: 3}
@@ -26730,6 +26901,8 @@ MonoBehaviour:
   - {fileID: 1801542142554964816, guid: 1f71cda570c27f7458b4308cc3fdabac, type: 3}
   - {fileID: 8618446287908474718, guid: 6040f8425553b0a4780e0a735da21227, type: 3}
   - {fileID: 5397617130579730446, guid: 6576cb8774675854f82afeb0c5d6df96, type: 3}
+  descriptionPanelPrefab: {fileID: 3396584134080275268, guid: 4e0709c7fcc9d4d42904b2fc1701ca9a, type: 3}
+  canvasTransform: {fileID: 814543918}
 --- !u!114 &2033449586
 MonoBehaviour:
   m_ObjectHideFlags: 0

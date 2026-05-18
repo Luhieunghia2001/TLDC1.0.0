@@ -27,4 +27,30 @@ public class StatBuffEffect : SkillEffect
 
         Debug.Log($"[BUFF] {recipient.petData.petName} đã được tăng chỉ số: Atk +{atkPhyAddPercent}%, Speed +{speedAddPercent}%...");
     }
+
+    public override string GetDescription()
+    {
+        string desc = "Tăng chỉ số: ";
+        var parts = new System.Collections.Generic.List<string>();
+        
+        if (atkPhyAddPercent > 0) parts.Add($"+{atkPhyAddPercent * 100}% ATK Phý");
+        if (atkMagAddPercent > 0) parts.Add($"+{atkMagAddPercent * 100}% ATK Phép");
+        if (defPhyAddPercent > 0) parts.Add($"+{defPhyAddPercent * 100}% DEF Phý");
+        if (defMagAddPercent > 0) parts.Add($"+{defMagAddPercent * 100}% DEF Phép");
+        if (speedAddPercent > 0) parts.Add($"+{speedAddPercent * 100}% Tốc độ");
+        
+        if (parts.Count > 0)
+        {
+            desc += string.Join(", ", parts);
+        }
+        else
+        {
+            desc += "Không có hệ số";
+        }
+        
+        string targetText = targetSelf ? "bản thân" : "mục tiêu";
+        desc += $" cho {targetText}";
+        
+        return desc;
+    }
 }

@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BattleScene.unity
     guid: 1278126d94749ad44a5b2f7fe7d2f89b
+  - enabled: 1
+    path: Assets/Scenes/PhoBan.unity
+    guid: ef3b9b07afa000345a777ef2ca0fc53e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

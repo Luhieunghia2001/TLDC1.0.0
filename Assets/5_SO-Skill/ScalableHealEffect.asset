@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f6de2fcfaf3fb34d85e19781261ead0, type: 3}
   m_Name: ScalableHealEffect
   m_EditorClassIdentifier: Assembly-CSharp::ScalableHealEffect
-  maxHpMult: 1
-  currentHpMult: 1
-  flatAmount: 1
+  maxHpMult: 0.2
+  currentHpMult: 0.2
+  flatAmount: 10000
+  targetSelf: 1

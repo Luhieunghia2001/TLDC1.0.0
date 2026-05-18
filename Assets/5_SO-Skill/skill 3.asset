@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: skill 3
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillSO
   skillID: 3
-  skillName: skill 3
-  tier: 3
-  description: 'skill '
+  skillName: "H\u1ED3i ph\u1EE5c"
+  tier: 4
+  description: 
   icon: {fileID: -1689994448250163828, guid: 9899ac5d47eead342b50ec0a2438a2b5, type: 3}
   skillType: 1
   trigger: 1
-  effectType: 0
+  effectType: 1
   procChance: 100
-  valueScale: 1
+  valueScale: 0.2
   scaleFromMaxHP: 0
   cooldownTurns: 0
   priority: 0

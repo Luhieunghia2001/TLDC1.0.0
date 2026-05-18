@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Normal Attack
   m_EditorClassIdentifier: Assembly-CSharp::PetSkillSO
   skillID: 1
-  skillName: 'skill '
+  skillName: "T\u1EA5n c\xF4ng c\u01A1 b\u1EA3n"
   tier: 1
-  description: 'skill '
+  description: 
   icon: {fileID: -1689994448250163828, guid: 9899ac5d47eead342b50ec0a2438a2b5, type: 3}
   skillType: 0
   trigger: 0

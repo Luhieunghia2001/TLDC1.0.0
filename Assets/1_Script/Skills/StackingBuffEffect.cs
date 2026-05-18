@@ -45,4 +45,30 @@ public class StackingBuffEffect : SkillEffect
             Debug.Log($"[STACK] {recipient.petData.petName} đã đạt giới hạn cộng dồn {stackKey}.");
         }
     }
+
+    public override string GetDescription()
+    {
+        string desc = $"Cộng dồn {stackKey} (tối đa {maxStacks} tầng): ";
+        var parts = new System.Collections.Generic.List<string>();
+        
+        if (atkPhyAddPerStack > 0) parts.Add($"+{atkPhyAddPerStack * 100}% ATK Phý/tầng");
+        if (atkMagAddPerStack > 0) parts.Add($"+{atkMagAddPerStack * 100}% ATK Phép/tầng");
+        if (defPhyAddPerStack > 0) parts.Add($"+{defPhyAddPerStack * 100}% DEF Phý/tầng");
+        if (defMagAddPerStack > 0) parts.Add($"+{defMagAddPerStack * 100}% DEF Phép/tầng");
+        if (speedAddPerStack > 0) parts.Add($"+{speedAddPerStack * 100}% Tốc độ/tầng");
+        
+        if (parts.Count > 0)
+        {
+            desc += string.Join(", ", parts);
+        }
+        else
+        {
+            desc += "Không có hệ số";
+        }
+        
+        string targetText = targetSelf ? "bản thân" : "mục tiêu";
+        desc += $" cho {targetText}";
+        
+        return desc;
+    }
 }

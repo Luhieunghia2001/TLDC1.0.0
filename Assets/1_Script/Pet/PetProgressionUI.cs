@@ -117,28 +117,15 @@ public class PetProgressionUI : MonoBehaviour
         {
             // Sinh ra Prefab nguyên liệu
             var go = Instantiate(reqItemPrefab, container);
-            
-            // Tìm component theo tên (Hoặc bạn có thể viết script riêng cho Prefab này)
-            var iconImg = go.transform.Find("Icon").GetComponent<Image>();
-            var qtyTxt = go.transform.Find("QtyTxt").GetComponent<TextMeshProUGUI>();
-
-            iconImg.sprite = req.item.icon;
-
-            // Kiểm tra số lượng trong túi
-            var invItem = inventory.Find(x => x.itemId == req.item.itemID);
-            int currentQty = invItem != null ? invItem.quantity : 0;
-
-            qtyTxt.text = $"{currentQty}/{req.quantity}";
-            
-            // Đổi màu chữ nếu thiếu đồ
-            if (currentQty < req.quantity)
+            if (go.TryGetComponent<RewardItemUI>(out var reqUI))
             {
-                qtyTxt.color = Color.red;
-                canUpgrade = false; // Thiếu 1 món cũng cấm bấm nút
-            }
-            else
-            {
-                qtyTxt.color = Color.green;
+                var invItem = inventory.Find(x => x.itemId == req.item.itemID);
+                int currentQty = invItem != null ? invItem.quantity : 0;
+                
+                Color textColor = currentQty < req.quantity ? Color.red : Color.green;
+                if (currentQty < req.quantity) canUpgrade = false;
+
+                reqUI.Setup(req.item.icon, $"{currentQty}/{req.quantity}", textColor);
             }
         }
 

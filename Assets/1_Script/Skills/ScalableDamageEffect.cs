@@ -55,4 +55,34 @@ public class ScalableDamageEffect : SkillEffect
 
         Debug.Log($"[Scalable Damage] {user.petData.petName} gây {finalDamage} sát thương lên {recipient.petData.petName}.");
     }
+
+    public override string GetDescription()
+    {
+        string desc = "Sát thương scalable: ";
+        var parts = new System.Collections.Generic.List<string>();
+        
+        if (atkPhyMult > 0) parts.Add($"{atkPhyMult * 100}% ATK Phý");
+        if (atkMagMult > 0) parts.Add($"{atkMagMult * 100}% ATK Phép");
+        if (defPhyMult > 0) parts.Add($"{defPhyMult * 100}% DEF Phý");
+        if (defMagMult > 0) parts.Add($"{defMagMult * 100}% DEF Phép");
+        if (speedMult > 0) parts.Add($"{speedMult * 100}% Tốc độ");
+        if (userMaxHpMult > 0) parts.Add($"{userMaxHpMult * 100}% Max HP bản thân");
+        if (targetMaxHpMult > 0) parts.Add($"{targetMaxHpMult * 100}% Max HP mục tiêu");
+        
+        if (parts.Count > 0)
+        {
+            desc += string.Join(", ", parts);
+        }
+        else
+        {
+            desc += "Không có hệ số";
+        }
+        
+        if (isTrueDamage) desc += " (Sát thương chuẩn)";
+        
+        string targetText = targetSelf ? "bản thân" : "mục tiêu";
+        desc += $" lên {targetText}";
+        
+        return desc;
+    }
 }
