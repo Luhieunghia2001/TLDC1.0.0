@@ -6775,6 +6775,7 @@ MonoBehaviour:
   starTier1Sprite: {fileID: -4301847804074262236, guid: f37b1efd304765c48b9cc25ce136d2c5, type: 3}
   starTier2Sprite: {fileID: -5459891941452634978, guid: a16f804c7fb372142a411807503c6f7d, type: 3}
   starTier3Sprite: {fileID: -8050071520333910802, guid: f64af9dd1a9b11c4b805fcd9433e6aa3, type: 3}
+  starTier4Sprite: {fileID: -5019253449163443661, guid: 8be7d1a8d1eb9d6499b25c2369cd5c85, type: 3}
   curHpTxt: {fileID: 1707053586}
   curAtkPhyTxt: {fileID: 2146802700}
   curAtkMagTxt: {fileID: 685079093}

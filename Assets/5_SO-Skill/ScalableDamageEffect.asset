@@ -22,4 +22,4 @@ MonoBehaviour:
   targetMaxHpMult: 0
   targetCurrentHpMult: 0
   isTrueDamage: 0
-  targetSelf: 1
+  targetSelf: 0

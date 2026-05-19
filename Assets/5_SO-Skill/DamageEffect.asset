@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: DamageEffect
   m_EditorClassIdentifier: Assembly-CSharp::DamageEffect
   multiplier: 1
+  targetSelf: 0

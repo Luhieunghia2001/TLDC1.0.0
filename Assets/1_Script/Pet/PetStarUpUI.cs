@@ -20,6 +20,8 @@ public class PetStarUpUI : MonoBehaviour
     [SerializeField] private Sprite starTier1Sprite;   // Sao bật 1 (1-5 sao, VD: Vàng)
     [SerializeField] private Sprite starTier2Sprite;   // Sao bật 2 (6-10 sao, VD: Đỏ hoặc Cầu vồng)
     [SerializeField] private Sprite starTier3Sprite;   // Sao bật 3 (11-15 sao, VD: Tím hoặc Kim cương)
+    [SerializeField] private Sprite starTier4Sprite;   // Sao bật 4 (16-20 sao, VD: Vàng kim hoặc Huyền thoại)
+
 
     [Header("Current Stats")]
     [SerializeField] private TextMeshProUGUI curHpTxt;
@@ -176,12 +178,19 @@ public class PetStarUpUI : MonoBehaviour
                 if (i < tier2Count) starImages[i].sprite = starTier2Sprite;
                 else starImages[i].sprite = starTier1Sprite;
             }
-            else 
+            else if (totalStars <= 15)
             {
                 // Bật 3: Từ 11 đến 15 sao, sao Bật 3 sẽ ĐÈ LÊN sao Bật 2
                 int tier3Count = totalStars - 10;
                 if (i < tier3Count) starImages[i].sprite = starTier3Sprite;
                 else starImages[i].sprite = starTier2Sprite;
+            }
+            else
+            {
+                // Bật 4: Từ 16 đến 20 sao, sao Bật 4 sẽ ĐÈ LÊN sao Bật 3
+                int tier4Count = totalStars - 15;
+                if (i < tier4Count) starImages[i].sprite = starTier4Sprite;
+                else starImages[i].sprite = starTier3Sprite;
             }
         }
     }
