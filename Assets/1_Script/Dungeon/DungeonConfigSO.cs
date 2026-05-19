@@ -24,7 +24,7 @@ public struct ItemReward
 {
     public ItemBaseSO item;
     public int quantity;
-    [Range(0, 10)] public int dropChance;
+    [Range(0, 100)] public int dropChance; // Chuyển sang thang điểm 100 (Phần trăm %)
 }
 
 [System.Serializable]

@@ -34,7 +34,7 @@ MonoBehaviour:
   potentialDrops:
   - item: {fileID: 11400000, guid: b001f93549878e94b81b655d89aba968, type: 2}
     quantity: 2
-    dropChance: 2
+    dropChance: 100
   - item: {fileID: 11400000, guid: e615137fe383c164aafd64999d0f7314, type: 2}
     quantity: 2
-    dropChance: 2
+    dropChance: 100

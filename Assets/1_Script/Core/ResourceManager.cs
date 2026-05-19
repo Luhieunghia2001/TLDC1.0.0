@@ -11,6 +11,9 @@ public class ResourceManager : MonoBehaviour
     public float syncInterval = 10f; // Cứ 10 giây đồng bộ với server 1 lần
 
     private CharacterModel currentCharacter;
+
+    // Sự kiện được kích hoạt khi dữ liệu nhân vật được cập nhật từ server
+    public event Action<CharacterModel> OnCharacterDataUpdated;
     private float timer = 0f;
 
     private void Awake()
@@ -59,14 +62,22 @@ public class ResourceManager : MonoBehaviour
             {
                 var serverData = response[0]; // Lấy phần tử đầu tiên trong danh sách
 
+                // Log kiểm tra dữ liệu trả về từ RPC sync_resources
+                Debug.Log($"<color=yellow>[ResourceManager Sync]</color> Server trả về cho ID {serverData.id}: " +
+                          $"EXP={serverData.current_exp}, Level={serverData.level}, Gold={serverData.gold}, " +
+                          $"Stamina={serverData.stamina}");
+
                 // Cập nhật dữ liệu từ Server về Client
                 currentCharacter.energy = serverData.energy;
                 currentCharacter.stamina = serverData.stamina;
-                currentCharacter.lastRegenTime = serverData.lastRegenTime;
+                currentCharacter.last_regen_time = serverData.last_regen_time;
                 currentCharacter.gold = serverData.gold;
                 currentCharacter.diamond = serverData.diamond;
                 currentCharacter.level = serverData.level;
-                currentCharacter.currentExp = serverData.currentExp;
+                currentCharacter.current_exp = serverData.current_exp;
+
+                // Kích hoạt sự kiện để các UI khác có thể cập nhật
+                OnCharacterDataUpdated?.Invoke(currentCharacter);
                 
                 //Debug.Log($"<color=yellow>[Server Sync]</color> Gold: {currentCharacter.gold}, Energy: {currentCharacter.energy}");
             }

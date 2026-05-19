@@ -72,15 +72,15 @@ public class CharacterSelectorController : MonoBehaviour
             var newCharacter = new CharacterModel
             {
                 id = userId,
-                characterName = characterName,
+                character_name = characterName,
                 gender = selectedGender,
                 level = 1,
-                currentExp = 0,
+                current_exp = 0,
                 gold = 1000,
                 diamond = 100,
                 energy = 240,
                 stamina = 120,
-                lastRegenTime = System.DateTime.UtcNow
+                last_regen_time = System.DateTime.UtcNow
             };
 
             await SupabaseManager.Instance.Client.From<CharacterModel>().Insert(newCharacter);

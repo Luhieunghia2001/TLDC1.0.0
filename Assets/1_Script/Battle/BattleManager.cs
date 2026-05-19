@@ -144,6 +144,13 @@ public class BattleManager : MonoBehaviour
         if (playerWon)
         {
             Debug.Log("<color=green>BẠN ĐÃ CHIẾN THẮNG!</color>");
+            
+            // Trao thưởng từ cấu hình phó bản (Vàng, EXP, Vật phẩm)
+            if (DungeonManager.Instance != null && BattleDataStore.currentDungeon != null)
+            {
+                await DungeonManager.Instance.CompleteBattle(BattleDataStore.currentDungeon, true);
+            }
+
             // Nhận thưởng bảo mật từ Server
             if (ResourceManager.Instance != null && !string.IsNullOrEmpty(BattleDataStore.currentBattleLogId))
             {
@@ -154,6 +161,9 @@ public class BattleManager : MonoBehaviour
         {
             Debug.Log("<color=red>BẠN ĐÃ THẤT BẠI!</color>");
         }
+
+        // Reset dữ liệu ải sau khi kết thúc
+        BattleDataStore.currentDungeon = null;
 
         await WaitForSecondsScaled(2.0f); // Chờ 2 giây để xem kết quả
         UnityEngine.SceneManagement.SceneManager.LoadScene("MainGame");

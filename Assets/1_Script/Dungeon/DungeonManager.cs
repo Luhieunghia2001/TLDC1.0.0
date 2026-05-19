@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 public class DungeonManager : MonoBehaviour
 {
@@ -86,17 +87,16 @@ public class DungeonManager : MonoBehaviour
         // SceneManager.LoadScene("BattleScene");
     }
 
-    public void CompleteBattle(DungeonConfigSO dungeon, bool victory)
+    public async Task CompleteBattle(DungeonConfigSO dungeon, bool victory)
     {
+        if (dungeon == null) return;
+
         if (victory)
         {
-            Debug.Log($"Hoàn thành phó bản {dungeon.dungeonName}!");
-            Debug.Log($"Nhận {dungeon.goldReward} vàng");
-
+            Debug.Log($"<color=green>[Dungeon]</color> Hoàn thành phó bản {dungeon.dungeonName}!");
             foreach (var reward in dungeon.potentialDrops)
             {
-                Debug.Log($"Nhận {reward.quantity}x {reward.item.itemName}");
-                // TODO: Thêm item vào inventory
+                if (reward.item == null) continue;
             }
         }
         else

@@ -86,7 +86,7 @@ public class DungeonUI : MonoBehaviour
         }
     }
 
-    private void OnStartBattle()
+    private async void OnStartBattle()
     {
         if (currentConfig == null) return;
 
@@ -95,6 +95,38 @@ public class DungeonUI : MonoBehaviour
         if (playerTeam == null || playerTeam.Count == 0)
         {
             Debug.LogWarning("[DungeonUI] Người chơi chưa chọn đội hình để chiến đấu!");
+            return;
+        }
+
+        // 1. Trừ stamina trên Server trước khi bắt đầu
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        try
+        {
+            var charData = ResourceManager.Instance.GetCharacterData();
+            var parameters = new Dictionary<string, object> { 
+                { "p_character_id", charData.id },
+                { "p_stamina_cost", currentConfig.staminaCost },
+                { "p_gold_reward", currentConfig.goldReward },
+                { "p_exp_reward", currentConfig.expReward }
+            };
+            
+            // Gọi RPC start_battle để trừ stamina và lấy mã trận đấu
+            var response = await SupabaseManager.Instance.Client.Rpc<string>("start_battle", parameters);
+            
+            if (string.IsNullOrEmpty(response))
+            {
+                Debug.LogWarning("[DungeonUI] Không đủ Stamina hoặc lỗi Server!");
+                if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+                return; 
+            }
+
+            BattleDataStore.currentBattleLogId = response;
+            await ResourceManager.Instance.SyncWithServer(); // Cập nhật UI ngay để thấy stamina giảm
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Lỗi khi trừ stamina: " + e.Message);
+            if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
             return;
         }
 
@@ -116,6 +148,9 @@ public class DungeonUI : MonoBehaviour
         // Đưa đội hình người chơi và kẻ địch vào BattleDataStore
         BattleDataStore.selectedAllies = playerTeam;
         BattleDataStore.selectedEnemies = enemies;
+        BattleDataStore.currentDungeon = currentConfig;
+
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
         
         Debug.Log($"[DungeonUI] Bắt đầu ải {currentConfig.dungeonName} với {playerTeam.Count} đồng minh và {enemies.Count} kẻ địch. Chuyển sang BattleScene.");
         UnityEngine.SceneManagement.SceneManager.LoadScene("BattleScene");

@@ -26,7 +26,7 @@ public class CharacterModel : BaseModel
     public string id { get; set; }
 
     [Column("character_name")]
-    public string characterName { get; set; }
+    public string character_name { get; set; }
 
     [Column("gender")]
     public string gender { get; set; }
@@ -35,7 +35,7 @@ public class CharacterModel : BaseModel
     public int level { get; set; }
 
     [Column("current_exp")]
-    public int currentExp { get; set; }
+    public int current_exp { get; set; }
 
     [Column("gold")]
     public int gold { get; set; }
@@ -50,7 +50,7 @@ public class CharacterModel : BaseModel
     public int stamina { get; set; }
 
     [Column("last_regen_time")]
-    public System.DateTime lastRegenTime { get; set; }
+    public System.DateTime last_regen_time { get; set; }
 }
 
 public class AuthManager : MonoBehaviour
@@ -116,9 +116,11 @@ public class AuthManager : MonoBehaviour
             Debug.Log("Chưa có nhân vật, chuyển đến scene CharacterSelector...");
             SceneManager.LoadScene("CharacterSelector");
         }
-        if (response != null)
+        else
         {
-            Debug.Log($"Chào mừng {response.characterName}! Vào Game!");
+            // Log kiểm tra dữ liệu ngay khi login
+            Debug.Log($"<color=green>[AuthManager]</color> Login thành công: {response.character_name}");
+            Debug.Log($"[AuthManager] Data từ DB: Level: {response.level}, EXP: {response.current_exp}, Vàng: {response.gold}");
             
             // Khởi tạo trình quản lý Resource
             if (ResourceManager.Instance != null)

@@ -18,29 +18,56 @@ public class MainUIController : MonoBehaviour
 
     private CharacterModel player;
 
-    private void Start()
+    private void OnEnable()
     {
-        // Lấy dữ liệu từ AuthManager hoặc ResourceManager
-        // Ở đây ta có thể tạo một hàm GetCurrentCharacter trong AuthManager để tiện lấy
-        InvokeRepeating(nameof(UpdateUI), 0f, 0.5f); // Cập nhật UI mỗi 0.5 giây
+        // Đăng ký lắng nghe sự kiện cập nhật dữ liệu nhân vật từ ResourceManager
+        if (ResourceManager.Instance != null)
+        {
+            ResourceManager.Instance.OnCharacterDataUpdated += UpdateUI;
+        }
+        // Cập nhật UI ngay lập tức khi panel được bật để hiển thị dữ liệu ban đầu
+        UpdateUI(ResourceManager.Instance.GetCharacterData());
     }
 
-    private void UpdateUI()
+    private void OnDisable()
     {
-        // Ở ResourceManager mình nên để currentCharacter là public để bên này truy cập được
-        var player = ResourceManager.Instance.GetCharacterData();
-        
-        if (player == null) return;
+        // Hủy đăng ký sự kiện khi panel bị tắt để tránh lỗi và rò rỉ bộ nhớ
+        if (ResourceManager.Instance != null)
+        {
+            ResourceManager.Instance.OnCharacterDataUpdated -= UpdateUI;
+        }
+    }
 
-        nameTxt.text = player.characterName;
-        levelTxt.text = "Lv. " + player.level;
-        expTxt.text = "EXP: " + player.currentExp;
+    // Xóa hàm Start() và InvokeRepeating vì chúng ta sẽ dùng sự kiện
+    // private void Start()
+    // {
+    //     // Lấy dữ liệu từ AuthManager hoặc ResourceManager
+    //     // Ở đây ta có thể tạo một hàm GetCurrentCharacter trong AuthManager để tiện lấy
+    //     InvokeRepeating(nameof(UpdateUI), 0f, 0.5f); // Cập nhật UI mỗi 0.5 giây
+    // }
+
+    // Hàm này sẽ được gọi mỗi khi ResourceManager kích hoạt sự kiện OnCharacterDataUpdated
+    // và nhận về CharacterModel mới nhất
+    private void UpdateUI(CharacterModel updatedPlayer)
+    {
+        if (updatedPlayer == null) return;
+
+        nameTxt.text = updatedPlayer.character_name;
+        levelTxt.text = "Lv. " + updatedPlayer.level;
+
+        // Hiển thị EXP dạng Hiện tại/Tổng cần để lên cấp tiếp theo
+        // Nếu Level 1 cần 100, Level 2 cần 200...
+        int expToNextLevel = updatedPlayer.level * 100;
+        if (expTxt != null && updatedPlayer != null)
+        {
+            expTxt.text = $"EXP: {updatedPlayer.current_exp:N0}/{expToNextLevel:N0}";
+        }
         
-        goldTxt.text = player.gold.ToString("N0"); // N0 để tự thêm dấu phẩy ngăn cách nghìn
-        diamondTxt.text = player.diamond.ToString("N0");
+        goldTxt.text = updatedPlayer.gold.ToString("N0"); 
+        diamondTxt.text = updatedPlayer.diamond.ToString("N0");
 
         // Hiển thị dạng Hiện tại/Tối đa
-        energyTxt.text = $"{player.energy}/240";
-        staminaTxt.text = $"{player.stamina}/120";
+        energyTxt.text = $"{updatedPlayer.energy}/240";
+        staminaTxt.text = $"{updatedPlayer.stamina}/120";
     }
 }

@@ -55,6 +55,10 @@ public class PetBattleTest : MonoBehaviour
 
             // Lưu ID trận đấu vào kho để dùng lúc kết thúc
             BattleDataStore.currentBattleLogId = response;
+            
+            // Cập nhật lại UI ngay lập tức để người chơi thấy Stamina bị trừ
+            if (ResourceManager.Instance != null) await ResourceManager.Instance.SyncWithServer();
+            
             Debug.Log($"<color=cyan>[BATTLE]</color> Đã tạo trận đấu thành công: {response}");
         }
         catch (System.Exception e)
