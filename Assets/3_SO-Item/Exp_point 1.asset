@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58c8cf54150556e428d14b6648bcacd5, type: 3}
   m_Name: Exp_point 1
   m_EditorClassIdentifier: Assembly-CSharp::ItemBaseSO
-  itemID: 2
-  itemName: Exp point 2
+  itemID: 1
+  itemName: Exp point 1
   type: 0
   icon: {fileID: -3685420508757462897, guid: 5e1ff9afc7008e54991cfb983a417f12, type: 3}
   description: Exp point 2

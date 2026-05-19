@@ -41,7 +41,13 @@ public class PetBattleTest : MonoBehaviour
                 return;
             }
 
-            var parameters = new Dictionary<string, object> { { "p_character_id", charData.id } };
+            var parameters = new Dictionary<string, object> { 
+                { "p_character_id", charData.id },
+                { "p_stamina_cost", 0 }, // Miễn phí stamina khi test
+                { "p_gold_reward", 0 },
+                { "p_exp_reward", 0 },
+                { "p_potential_items", new List<object>() } // Không rơi đồ khi test nhanh
+            };
             
             // Gọi RPC start_battle để nhận về ID trận đấu
             var response = await SupabaseManager.Instance.Client.Rpc<string>("start_battle", parameters);

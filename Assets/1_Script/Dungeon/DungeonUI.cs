@@ -103,11 +103,24 @@ public class DungeonUI : MonoBehaviour
         try
         {
             var charData = ResourceManager.Instance.GetCharacterData();
+            
+            // Chuẩn bị danh sách item tiềm năng để server "roll"
+            var potentialItems = new List<object>();
+            foreach (var drop in currentConfig.potentialDrops)
+            {
+                potentialItems.Add(new { 
+                    item_id = drop.item.itemID, 
+                    quantity = drop.quantity, 
+                    drop_chance = drop.dropChance 
+                });
+            }
+
             var parameters = new Dictionary<string, object> { 
                 { "p_character_id", charData.id },
                 { "p_stamina_cost", currentConfig.staminaCost },
                 { "p_gold_reward", currentConfig.goldReward },
-                { "p_exp_reward", currentConfig.expReward }
+                { "p_exp_reward", currentConfig.expReward },
+                { "p_potential_items", potentialItems }
             };
             
             // Gọi RPC start_battle để trừ stamina và lấy mã trận đấu
