@@ -1,6 +1,9 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 public class PetDetailUI : MonoBehaviour
 {
@@ -10,6 +13,7 @@ public class PetDetailUI : MonoBehaviour
     [SerializeField] private TextMeshProUGUI petNameTxt;
     [SerializeField] private Image elementImg;
     [SerializeField] private Image tierImg;
+    [SerializeField] private Image realmImg;
 
     [Header("UI References")]
     [SerializeField] private GameObject canvas;
@@ -23,6 +27,7 @@ public class PetDetailUI : MonoBehaviour
     [Header("Icon Assets")]
     [SerializeField] private Sprite[] elementSprites;
     [SerializeField] private Sprite[] tierSprites;
+    [SerializeField] private Sprite[] realmSprites;
 
     [Header("Stats Texts")]
     [SerializeField] private TextMeshProUGUI hpTxt;
@@ -31,6 +36,7 @@ public class PetDetailUI : MonoBehaviour
     [SerializeField] private TextMeshProUGUI defPhyTxt;
     [SerializeField] private TextMeshProUGUI defMagTxt;
     [SerializeField] private TextMeshProUGUI speedTxt;
+    [SerializeField] private TextMeshProUGUI combatPowerTxt;
 
     [Header("Spawn Pet Model")]
     [SerializeField] private Transform spawnPoint; // Vị trí để hiện con Pet (3D hoặc 2D)
@@ -39,6 +45,8 @@ public class PetDetailUI : MonoBehaviour
     [Header("Buttons")]
     [SerializeField] private Button closeBtn;
     [SerializeField] private Button openCanvasBtn; // Nút mở toàn bộ Canvas từ Home
+    [SerializeField] private Button quickEquipBtn;
+    [SerializeField] private Button unequipAllBtn;
 
     private void Awake()
     {
@@ -48,6 +56,12 @@ public class PetDetailUI : MonoBehaviour
 
         if (openCanvasBtn != null)
             openCanvasBtn.onClick.AddListener(OpenWithFirstPet);
+
+        if (quickEquipBtn != null)
+            quickEquipBtn.onClick.AddListener(OnQuickEquipClicked);
+
+        if (unequipAllBtn != null)
+            unequipAllBtn.onClick.AddListener(OnUnequipAllClicked);
 
         if (statpanel != null)
         {
@@ -113,6 +127,11 @@ public class PetDetailUI : MonoBehaviour
 
         atkTypeTxt.text = (pet.petType.ToLower() == "physical") ? "Tinh linh: Vật Lý" : "Tinh linh: Ma Pháp";
 
+        // Cập nhật icons (Element, Tier, Realm)
+        SetElementIcon(pet.element);
+        SetTierIcon(pet.tier);
+        SetRealmIcon(pet.realm);
+
         // Yêu cầu máy tính (Client) Tính toán tức thời các chỉ số
         PetFinalStats finalStats = PetStatsCalculator.GetFinalStats(pet, baseInfo);
 
@@ -122,6 +141,11 @@ public class PetDetailUI : MonoBehaviour
         defPhyTxt.text = "THỦ Vật Lý: " + finalStats.DefPhy;
         defMagTxt.text = "THỦ Ma Pháp: " + finalStats.DefMag;
         speedTxt.text = "Tốc Độ: " + finalStats.Speed;
+
+        // Tính và hiển thị Lực Chiến
+        int combatPower = PetStatsCalculator.CalculateCombatPower(finalStats);
+        if (combatPowerTxt != null)
+            combatPowerTxt.text = "Lực Chiến: " + combatPower;
     }
 
     private void ClosePanel()
@@ -167,6 +191,7 @@ public class PetDetailUI : MonoBehaviour
         {
             SetElementIcon(pet.element);
             SetTierIcon(pet.tier);
+            SetRealmIcon(pet.realm);
             
             ClearSpawnedPet();
             // Spawn con Pet mới
@@ -204,5 +229,133 @@ public class PetDetailUI : MonoBehaviour
             case "SSS": index = 6; break;
         }
         if (index < tierSprites.Length) tierImg.sprite = tierSprites[index];
+    }
+
+    private void SetRealmIcon(int realm)
+    {
+        if (realmImg == null || realmSprites == null || realmSprites.Length == 0) return;
+        int index = Mathf.Clamp(realm - 1, 0, realmSprites.Length - 1);
+        realmImg.sprite = realmSprites[index];
+    }
+
+    // ===== QUICK EQUIP ALL =====
+    private async void OnQuickEquipClicked()
+    {
+        var pet = PetManager.Instance.CurrentPet;
+        if (pet == null) return;
+        await QuickEquipAll(pet);
+    }
+
+    private async Task QuickEquipAll(PetModel pet)
+    {
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+
+        try
+        {
+            var inventory = await InventoryManager.Instance.GetMyInventory();
+
+            EquipmentSlot[] slots = { EquipmentSlot.Helmet, EquipmentSlot.Armor, EquipmentSlot.Weapon, EquipmentSlot.Boots, EquipmentSlot.Wings, EquipmentSlot.Amulet };
+
+            foreach (var slot in slots)
+            {
+                // Bỏ qua slot đã có trang bị
+                if (!string.IsNullOrEmpty(GetEquippedItemId(pet, slot))) continue;
+
+                // Tìm trang bị tốt nhất trong kho cho slot này
+                ItemBaseSO bestItem = null;
+                string bestInventoryItemId = null;
+                int bestTierValue = -1;
+
+                foreach (var invItem in inventory)
+                {
+                    if (invItem.quantity <= 0) continue;
+                    var baseInfo = InventoryManager.Instance.GetItemBaseByID(invItem.itemId);
+                    if (baseInfo == null) continue;
+                    if (baseInfo.type != ItemType.Equipment) continue;
+                    if (baseInfo.equipSlot != slot) continue;
+
+                    int tierVal = (int)baseInfo.tier;
+                    if (tierVal > bestTierValue)
+                    {
+                        bestTierValue = tierVal;
+                        bestItem = baseInfo;
+                        bestInventoryItemId = invItem.itemId;
+                    }
+                }
+
+                if (bestItem != null && bestInventoryItemId != null)
+                {
+                    await InventoryManager.Instance.EquipEquipment(pet.id, slot, bestInventoryItemId);
+                    // Refresh inventory sau mỗi lần equip để tránh mặc trùng
+                    inventory = await InventoryManager.Instance.GetMyInventory();
+                }
+            }
+
+            // Refresh lại Pet data sau khi mặc xong
+            var myPets = await PetManager.Instance.GetMyPets();
+            var latestPet = myPets.Find(x => x.id == pet.id);
+            if (latestPet != null)
+                PetManager.Instance.NotifyPetStatsUpdated(latestPet);
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Lỗi khi mặc nhanh trang bị: \n" + e.ToString());
+        }
+
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+    }
+
+    // ===== UNEQUIP ALL =====
+    private async void OnUnequipAllClicked()
+    {
+        var pet = PetManager.Instance.CurrentPet;
+        if (pet == null) return;
+        await UnequipAll(pet);
+    }
+
+    private async Task UnequipAll(PetModel pet)
+    {
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+
+        try
+        {
+            EquipmentSlot[] slots = { EquipmentSlot.Helmet, EquipmentSlot.Armor, EquipmentSlot.Weapon, EquipmentSlot.Boots, EquipmentSlot.Wings, EquipmentSlot.Amulet };
+
+            foreach (var slot in slots)
+            {
+                string equippedId = GetEquippedItemId(pet, slot);
+                if (!string.IsNullOrEmpty(equippedId))
+                {
+                    await InventoryManager.Instance.UnequipEquipment(pet.id, slot);
+                }
+            }
+
+            // Refresh lại Pet data sau khi tháo xong
+            var myPets = await PetManager.Instance.GetMyPets();
+            var latestPet = myPets.Find(x => x.id == pet.id);
+            if (latestPet != null)
+                PetManager.Instance.NotifyPetStatsUpdated(latestPet);
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Lỗi khi tháo hết trang bị: \n" + e.ToString());
+        }
+
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+    }
+
+    // ===== HELPER =====
+    private string GetEquippedItemId(PetModel pet, EquipmentSlot slot)
+    {
+        switch (slot)
+        {
+            case EquipmentSlot.Helmet: return pet.helmetId;
+            case EquipmentSlot.Armor: return pet.armorId;
+            case EquipmentSlot.Weapon: return pet.weaponId;
+            case EquipmentSlot.Boots: return pet.bootsId;
+            case EquipmentSlot.Wings: return pet.wingsId;
+            case EquipmentSlot.Amulet: return pet.amuletId;
+            default: return null;
+        }
     }
 }

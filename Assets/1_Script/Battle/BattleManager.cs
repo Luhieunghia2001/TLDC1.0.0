@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -17,6 +18,9 @@ public class BattleManager : MonoBehaviour
     [Header("Visual Settings")]
     [SerializeField] private bool flipAlly = true; 
 
+    [Header("Skip Battle UI")]
+    [SerializeField] private Button skipBattleBtn;
+
     [Header("Teams")]
     public List<BattlePet> allyTeam = new List<BattlePet>();
     public List<BattlePet> enemyTeam = new List<BattlePet>();
@@ -26,6 +30,7 @@ public class BattleManager : MonoBehaviour
     private GameObject allyModel;
     private GameObject enemyModel;
     private bool isBattleEnded = false;
+    private bool isSkippingVisuals = false;
 
     private void OnDestroy()
     {
@@ -40,11 +45,30 @@ public class BattleManager : MonoBehaviour
 
     private void Start()
     {
+        if (skipBattleBtn != null)
+        {
+            skipBattleBtn.onClick.RemoveAllListeners();
+            skipBattleBtn.onClick.AddListener(SkipBattle);
+        }
+
         if (BattleDataStore.selectedAllies != null && BattleDataStore.selectedAllies.Count > 0)
         {
             StartBattle(BattleDataStore.selectedAllies, BattleDataStore.selectedEnemies);
             BattleDataStore.selectedAllies = null;
             BattleDataStore.selectedEnemies = null;
+        }
+    }
+
+    public void SkipBattle()
+    {
+        if (isBattleEnded) return;
+
+        Debug.Log("<color=yellow>[BATTLE]</color> Người chơi chọn mô phỏng nhanh kết quả trận đấu.");
+        isSkippingVisuals = true;
+
+        if (skipBattleBtn != null)
+        {
+            skipBattleBtn.interactable = false;
         }
     }
 
@@ -180,22 +204,26 @@ public class BattleManager : MonoBehaviour
         GameObject defenderModel = (defender == activeAllyData) ? allyModel : enemyModel;
         BattleUnit defenderUI = (defender == activeAllyData) ? allyUI : enemyUI;
 
-        if (attackerModel != null)
+        if (!isSkippingVisuals)
         {
-            var anim = attackerModel.GetComponentInChildren<Animator>();
-            if (anim != null) anim.Play(skill.animationTrigger);
-        }
-        
-        if (defenderModel != null && skill.vfxPrefab != null)
-        {
-            GameObject vfx = Instantiate(skill.vfxPrefab, defenderModel.transform.position, Quaternion.identity);
-            Destroy(vfx, 2f);
+            if (attackerModel != null)
+            {
+                var anim = attackerModel.GetComponentInChildren<Animator>();
+                if (anim != null) anim.Play(skill.animationTrigger);
+            }
+            
+            if (defenderModel != null && skill.vfxPrefab != null)
+            {
+                GameObject vfx = Instantiate(skill.vfxPrefab, defenderModel.transform.position, Quaternion.identity);
+                Destroy(vfx, 2f);
+            }
         }
 
         await WaitForSecondsScaled(1.0f); 
 
         // 1. Kích hoạt OnAttack (Trước khi thực hiện đòn đánh)
         await TriggerSkills(attacker, defender, SkillTrigger.OnAttack);
+        if (isBattleEnded) return;
         
         // 2. GIAI ĐOẠN THỰC THI LOGIC (Skill Effects)
         Debug.Log($"<color=yellow>[BATTLE]</color> {attacker.petData.petName} sử dụng kỹ năng: <b>{skill.skillName}</b>");
@@ -219,17 +247,16 @@ public class BattleManager : MonoBehaviour
 
         // 3. Kích hoạt OnAttacked (Khi bị trúng đòn)
         await TriggerSkills(defender, attacker, SkillTrigger.OnAttacked);
+        if (isBattleEnded) return;
 
         // Cập nhật UI sau khi thực thi logic
-        if (defenderUI != null)
+        if (!isSkippingVisuals && defenderUI != null)
         {
             defenderUI.UpdateHPUI();
-            // Lấy damage từ logic (đây là phần demo, bạn có thể truyền damage ra từ Effect nếu muốn chi tiết hơn)
-            // Hiện tại tôi vẫn dùng CalculateDamage để hiện số cho đẹp
             defenderUI.ShowDamageText(CalculateDamage(attacker, defender, skill)); 
         }
 
-        if (defenderModel != null) 
+        if (!isSkippingVisuals && defenderModel != null) 
         {
             StartCoroutine(ShakeObject(defenderModel));
             var anim = defenderModel.GetComponentInChildren<Animator>();
@@ -238,15 +265,18 @@ public class BattleManager : MonoBehaviour
 
         await WaitForSecondsScaled(0.5f); 
 
-        if (attackerModel != null)
+        if (!isSkippingVisuals)
         {
-            var anim = attackerModel.GetComponentInChildren<Animator>();
-            if (anim != null) anim.Play("Idle");
-        }
-        if (defenderModel != null && !defender.isDead)
-        {
-            var anim = defenderModel.GetComponentInChildren<Animator>();
-            if (anim != null) anim.Play("Idle");
+            if (attackerModel != null)
+            {
+                var anim = attackerModel.GetComponentInChildren<Animator>();
+                if (anim != null) anim.Play("Idle");
+            }
+            if (defenderModel != null && !defender.isDead)
+            {
+                var anim = defenderModel.GetComponentInChildren<Animator>();
+                if (anim != null) anim.Play("Idle");
+            }
         }
 
         if (defender.isDead)
@@ -309,14 +339,20 @@ public class BattleManager : MonoBehaviour
             if (isAlly)
             {
                 activeAllyData = nextPetData;
-                allyUI.Setup(activeAllyData, allyTeam);
-                allyModel = SpawnPetModel(activeAllyData, allySpawnPoint, flipAlly);
+                if (!isSkippingVisuals)
+                {
+                    allyUI.Setup(activeAllyData, allyTeam);
+                    allyModel = SpawnPetModel(activeAllyData, allySpawnPoint, flipAlly);
+                }
             }
             else
             {
                 activeEnemyData = nextPetData;
-                enemyUI.Setup(activeEnemyData, enemyTeam);
-                enemyModel = SpawnPetModel(activeEnemyData, enemySpawnPoint, false);
+                if (!isSkippingVisuals)
+                {
+                    enemyUI.Setup(activeEnemyData, enemyTeam);
+                    enemyModel = SpawnPetModel(activeEnemyData, enemySpawnPoint, false);
+                }
             }
 
             // Kích hoạt OnWaveStart khi Pet mới xuất hiện
@@ -353,18 +389,25 @@ public class BattleManager : MonoBehaviour
                 }
 
                 // Cập nhật UI nếu có thay đổi máu (ví dụ từ hiệu ứng phản đam hoặc hồi máu)
-                if (allyUI != null) allyUI.UpdateHPUI();
-                if (enemyUI != null) enemyUI.UpdateHPUI();
+                if (!isSkippingVisuals)
+                {
+                    if (allyUI != null) allyUI.UpdateHPUI();
+                    if (enemyUI != null) enemyUI.UpdateHPUI();
+                }
             }
         }
-        await Task.Yield();
+        if (!isSkippingVisuals)
+        {
+            await Task.Yield();
+        }
     }
 
     // HÀM CHỜ THEO TỐC ĐỘ GAME
     private async Task WaitForSecondsScaled(float seconds)
     {
+        if (isSkippingVisuals) return;
         float elapsed = 0f;
-        while (elapsed < seconds && !isBattleEnded)
+        while (elapsed < seconds && !isBattleEnded && !isSkippingVisuals)
         {
             if (Time.timeScale > 0)
             {

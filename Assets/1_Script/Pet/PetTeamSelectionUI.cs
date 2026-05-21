@@ -17,7 +17,18 @@ public class PetTeamSelectionUI : MonoBehaviour
     [SerializeField] private Transform allPetsContainer;
     [SerializeField] private PetUIItem petItemPrefab;
 
+    [Header("Filter Buttons (Optional)")]
+    [SerializeField] private Button filterAllBtn;
+    [SerializeField] private Button filterFireBtn;
+    [SerializeField] private Button filterWaterBtn;
+    [SerializeField] private Button filterEarthBtn;
+    [SerializeField] private Button filterWindBtn;
+    [SerializeField] private Color activeBtnColor = Color.white;
+    [SerializeField] private Color inactiveBtnColor = new Color(0.7f, 0.7f, 0.7f, 1.0f);
+
     private List<PetModel> selectedTeam => PetManager.Instance.SelectedTeam;
+    private List<PetModel> cachedMyPets = new List<PetModel>();
+    private string currentFilter = "all"; // "all", "fire", "water", "earth", "wind"
 
     private void Awake()
     {
@@ -31,6 +42,15 @@ public class PetTeamSelectionUI : MonoBehaviour
             // Lắng nghe sự kiện cập nhật Pet từ Server (Level Up, Star Up, Realm Up)
             PetManager.Instance.OnPetStatsUpdated += HandleGlobalPetUpdate;
         }
+
+        // Tự động đăng ký sự kiện click cho các nút bộ lọc nếu được gán
+        if (filterAllBtn != null) filterAllBtn.onClick.AddListener(() => SetFilter("all"));
+        if (filterFireBtn != null) filterFireBtn.onClick.AddListener(() => SetFilter("fire"));
+        if (filterWaterBtn != null) filterWaterBtn.onClick.AddListener(() => SetFilter("water"));
+        if (filterEarthBtn != null) filterEarthBtn.onClick.AddListener(() => SetFilter("earth"));
+        if (filterWindBtn != null) filterWindBtn.onClick.AddListener(() => SetFilter("wind"));
+
+        UpdateFilterButtonVisuals();
     }
 
     private void OnDestroy()
@@ -57,6 +77,20 @@ public class PetTeamSelectionUI : MonoBehaviour
             }
         }
 
+        // Cập nhật dữ liệu mới nhất trong danh sách cache
+        if (cachedMyPets != null)
+        {
+            for (int i = 0; i < cachedMyPets.Count; i++)
+            {
+                if (cachedMyPets[i] != null && cachedMyPets[i].id == updatedPet.id)
+                {
+                    cachedMyPets[i] = updatedPet;
+                    UpdatePetsDisplay();
+                    break;
+                }
+            }
+        }
+
         // Nếu Pet này nằm trong đội hình, vẽ lại giao diện ngay
         if (isChanged)
         {
@@ -66,6 +100,10 @@ public class PetTeamSelectionUI : MonoBehaviour
 
     private async void OnEnable()
     {
+        // Reset bộ lọc về "all" mỗi lần mở lại giao diện
+        currentFilter = "all";
+        UpdateFilterButtonVisuals();
+
         // 1. Luôn cập nhật giao diện đội hình ngay lập tức (dữ liệu local)
         UpdateTeamVisuals();
         
@@ -105,37 +143,13 @@ public class PetTeamSelectionUI : MonoBehaviour
             // Kiểm tra nếu có yêu cầu mới hơn hoặc Panel đã bị đóng trong lúc đợi await
             if (currentRefresh != refreshId || !gameObject.activeInHierarchy) return;
 
-            // 3. Xóa danh sách cũ và vẽ mới
-            ClearAllPetsContainer();
+            // Lưu danh sách lấy từ server vào cache
+            cachedMyPets = myPets ?? new List<PetModel>();
 
-            if (myPets == null) return;
-
-            // 4. Lấy tập hợp các ID Pet đang trong đội
-            HashSet<string> selectedIds = new HashSet<string>();
-            foreach (var p in selectedTeam)
-            {
-                if (p != null && !string.IsNullOrEmpty(p.id))
-                    selectedIds.Add(p.id.Trim().ToLower());
-            }
-
-            // 5. Sinh ra các ô Pet mới
-            int displayedCount = 0;
-            foreach (var pet in myPets)
-            {
-                if (pet == null || string.IsNullOrEmpty(pet.id)) continue;
-
-                string petId = pet.id.Trim().ToLower();
-                bool isSelected = selectedIds.Contains(petId);
-
-                var item = Instantiate(petItemPrefab, allPetsContainer);
-                if (item != null)
-                {
-                    item.Setup(pet, isSelected, () => AddToTeam(pet));
-                    displayedCount++;
-                }
-            }
+            // 3. Vẽ danh sách dựa theo bộ lọc
+            UpdatePetsDisplay();
             
-            // 6. Đồng bộ lại cả giao diện đội hình phía trên
+            // 4. Đồng bộ lại cả giao diện đội hình phía trên
             UpdateTeamVisuals();
         }
         catch (System.Exception e)
@@ -147,6 +161,72 @@ public class PetTeamSelectionUI : MonoBehaviour
             if (currentRefresh == refreshId && LoadingUI.Instance != null)
             {
                 LoadingUI.Instance.Hide();
+            }
+        }
+    }
+
+    public void SetFilter(string filter)
+    {
+        currentFilter = filter.ToLower();
+        UpdateFilterButtonVisuals();
+        UpdatePetsDisplay();
+    }
+
+    private void UpdateFilterButtonVisuals()
+    {
+        UpdateButtonColor(filterAllBtn, currentFilter == "all");
+        UpdateButtonColor(filterFireBtn, currentFilter == "fire");
+        UpdateButtonColor(filterWaterBtn, currentFilter == "water");
+        UpdateButtonColor(filterEarthBtn, currentFilter == "earth");
+        UpdateButtonColor(filterWindBtn, currentFilter == "wind");
+    }
+
+    private void UpdateButtonColor(Button btn, bool isActive)
+    {
+        if (btn == null) return;
+        var img = btn.GetComponent<Image>();
+        if (img != null)
+        {
+            img.color = isActive ? activeBtnColor : inactiveBtnColor;
+        }
+    }
+
+    private void UpdatePetsDisplay()
+    {
+        // 1. Xóa sạch danh sách hiển thị cũ
+        ClearAllPetsContainer();
+
+        if (cachedMyPets == null) return;
+
+        // 2. Lấy tập hợp các ID Pet đang trong đội hình để đánh dấu
+        HashSet<string> selectedIds = new HashSet<string>();
+        foreach (var p in selectedTeam)
+        {
+            if (p != null && !string.IsNullOrEmpty(p.id))
+                selectedIds.Add(p.id.Trim().ToLower());
+        }
+
+        // 3. Sinh các ô Pet phù hợp với bộ lọc
+        foreach (var pet in cachedMyPets)
+        {
+            if (pet == null || string.IsNullOrEmpty(pet.id)) continue;
+
+            // Kiểm tra bộ lọc hệ
+            if (currentFilter != "all")
+            {
+                if (string.IsNullOrEmpty(pet.element) || pet.element.ToLower() != currentFilter)
+                {
+                    continue;
+                }
+            }
+
+            string petId = pet.id.Trim().ToLower();
+            bool isSelected = selectedIds.Contains(petId);
+
+            var item = Instantiate(petItemPrefab, allPetsContainer);
+            if (item != null)
+            {
+                item.Setup(pet, isSelected, () => AddToTeam(pet));
             }
         }
     }

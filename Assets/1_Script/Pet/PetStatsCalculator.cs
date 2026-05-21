@@ -118,4 +118,9 @@ public static class PetStatsCalculator
 
         return stats;
     }
+
+    public static int CalculateCombatPower(PetFinalStats stats)
+    {
+        return Mathf.RoundToInt((stats.HP * 0.1f) + (stats.AtkPhy + stats.AtkMag) * 1.0f + (stats.DefPhy + stats.DefMag) * 0.8f + (stats.Speed * 1.5f));
+    }
 }
