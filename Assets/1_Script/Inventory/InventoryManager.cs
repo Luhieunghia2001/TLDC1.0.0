@@ -9,6 +9,17 @@ public class InventoryManager : MonoBehaviour
     [Header("Item Database")]
     [SerializeField] private List<ItemBaseSO> allItems;
 
+    [Header("Tier Sprites Database")]
+    [SerializeField] private Sprite[] tierSprites; // Mảng chứa Sprite Tier từ D đến SSS (7 phần tử)
+
+    public Sprite GetTierSprite(PetTier tier)
+    {
+        if (tierSprites == null || tierSprites.Length == 0) return null;
+        int index = (int)tier;
+        index = Mathf.Clamp(index, 0, tierSprites.Length - 1);
+        return tierSprites[index];
+    }
+
     private void Awake()
     {
         if (Instance == null)

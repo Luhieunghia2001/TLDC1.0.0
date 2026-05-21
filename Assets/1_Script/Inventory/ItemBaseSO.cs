@@ -16,6 +16,7 @@ public class ItemBaseSO : ScriptableObject
 
     [Header("Equipment Settings")]
     public EquipmentSlot equipSlot;
+    public PetTier tier;
     
     [Header("Flat Bonuses")]
     public int bonusHP;

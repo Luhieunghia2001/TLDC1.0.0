@@ -9,6 +9,7 @@ public class ItemDetailUI : MonoBehaviour
     [Header("Item Detail Panel")]
     [SerializeField] private GameObject detailPanel;
     [SerializeField] private Image iconImg;
+    [SerializeField] private Image tierImg; // Hiển thị khung/nhãn Tier của trang bị nếu có
     [SerializeField] private TextMeshProUGUI nameTxt;
     [SerializeField] private TextMeshProUGUI quantityTxt;
     [SerializeField] private TextMeshProUGUI descTxt;
@@ -73,6 +74,27 @@ public class ItemDetailUI : MonoBehaviour
         nameTxt.text = baseInfo.itemName;
         quantityTxt.text = "Số lượng: " + item.quantity;
         descTxt.text = baseInfo.description;
+
+        if (tierImg != null)
+        {
+            if (baseInfo.type == ItemType.Equipment && InventoryManager.Instance != null)
+            {
+                Sprite s = InventoryManager.Instance.GetTierSprite(baseInfo.tier);
+                if (s != null)
+                {
+                    tierImg.gameObject.SetActive(true);
+                    tierImg.sprite = s;
+                }
+                else
+                {
+                    tierImg.gameObject.SetActive(false);
+                }
+            }
+            else
+            {
+                tierImg.gameObject.SetActive(false);
+            }
+        }
     }
 
     private void OnSellClick()

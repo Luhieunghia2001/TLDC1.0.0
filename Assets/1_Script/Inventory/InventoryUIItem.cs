@@ -5,6 +5,7 @@ using UnityEngine.UI;
 public class InventoryUIItem : MonoBehaviour
 {
     [SerializeField] private Image iconImg;
+    [SerializeField] private Image tierImg; // Hiển thị khung/nhãn Tier của vật phẩm
     [SerializeField] private TextMeshProUGUI quantityTxt;
     [SerializeField] private Button clickBtn;
 
@@ -20,6 +21,27 @@ public class InventoryUIItem : MonoBehaviour
         {
             iconImg.sprite = baseInfo.icon;
             quantityTxt.text = itemData.quantity.ToString();
+
+            if (tierImg != null)
+            {
+                if (baseInfo.type == ItemType.Equipment && InventoryManager.Instance != null)
+                {
+                    Sprite s = InventoryManager.Instance.GetTierSprite(baseInfo.tier);
+                    if (s != null)
+                    {
+                        tierImg.gameObject.SetActive(true);
+                        tierImg.sprite = s;
+                    }
+                    else
+                    {
+                        tierImg.gameObject.SetActive(false);
+                    }
+                }
+                else
+                {
+                    tierImg.gameObject.SetActive(false);
+                }
+            }
         }
 
         clickBtn.onClick.RemoveAllListeners();

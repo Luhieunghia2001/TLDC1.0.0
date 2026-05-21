@@ -17,6 +17,7 @@ public class PetEquipmentSelectionUI : MonoBehaviour
     [Header("Equipped Item Section")]
     [SerializeField] private GameObject equippedSection;
     [SerializeField] private Image equippedIcon;
+    [SerializeField] private Image equippedTierImg; // Hiển thị khung/nhãn Tier của trang bị đang mặc
     [SerializeField] private TextMeshProUGUI equippedNameTxt;
     [SerializeField] private TextMeshProUGUI equippedStatsTxt;
     [SerializeField] private Button unequipBtn;
@@ -79,6 +80,7 @@ public class PetEquipmentSelectionUI : MonoBehaviour
         if (string.IsNullOrEmpty(equippedItemId))
         {
             equippedSection.SetActive(false);
+            if (equippedTierImg != null) equippedTierImg.gameObject.SetActive(false);
         }
         else
         {
@@ -89,6 +91,27 @@ public class PetEquipmentSelectionUI : MonoBehaviour
                 equippedIcon.sprite = itemBase.icon;
                 equippedNameTxt.text = itemBase.itemName;
                 equippedStatsTxt.text = GetStatsString(itemBase);
+
+                if (equippedTierImg != null)
+                {
+                    if (InventoryManager.Instance != null)
+                    {
+                        Sprite s = InventoryManager.Instance.GetTierSprite(itemBase.tier);
+                        if (s != null)
+                        {
+                            equippedTierImg.gameObject.SetActive(true);
+                            equippedTierImg.sprite = s;
+                        }
+                        else
+                        {
+                            equippedTierImg.gameObject.SetActive(false);
+                        }
+                    }
+                    else
+                    {
+                        equippedTierImg.gameObject.SetActive(false);
+                    }
+                }
             }
         }
 

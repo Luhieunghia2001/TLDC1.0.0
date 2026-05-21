@@ -21,6 +21,14 @@ public class PetEquipmentUI : MonoBehaviour
     [SerializeField] private Image wingsIcon;
     [SerializeField] private Image amuletIcon;
 
+    [Header("Slot Tier Images")]
+    [SerializeField] private Image helmetTierImg;
+    [SerializeField] private Image armorTierImg;
+    [SerializeField] private Image weaponTierImg;
+    [SerializeField] private Image bootsTierImg;
+    [SerializeField] private Image wingsTierImg;
+    [SerializeField] private Image amuletTierImg;
+
     [Header("Default Placeholder Sprites (Optional)")]
     [SerializeField] private Sprite defaultHelmetSprite;
     [SerializeField] private Sprite defaultArmorSprite;
@@ -74,15 +82,15 @@ public class PetEquipmentUI : MonoBehaviour
         var pet = PetManager.Instance.CurrentPet;
         if (pet == null) return;
 
-        UpdateSlotUI(pet.helmetId, helmetIcon, defaultHelmetSprite);
-        UpdateSlotUI(pet.armorId, armorIcon, defaultArmorSprite);
-        UpdateSlotUI(pet.weaponId, weaponIcon, defaultWeaponSprite);
-        UpdateSlotUI(pet.bootsId, bootsIcon, defaultBootsSprite);
-        UpdateSlotUI(pet.wingsId, wingsIcon, defaultWingsSprite);
-        UpdateSlotUI(pet.amuletId, amuletIcon, defaultAmuletSprite);
+        UpdateSlotUI(pet.helmetId, helmetIcon, defaultHelmetSprite, helmetTierImg);
+        UpdateSlotUI(pet.armorId, armorIcon, defaultArmorSprite, armorTierImg);
+        UpdateSlotUI(pet.weaponId, weaponIcon, defaultWeaponSprite, weaponTierImg);
+        UpdateSlotUI(pet.bootsId, bootsIcon, defaultBootsSprite, bootsTierImg);
+        UpdateSlotUI(pet.wingsId, wingsIcon, defaultWingsSprite, wingsTierImg);
+        UpdateSlotUI(pet.amuletId, amuletIcon, defaultAmuletSprite, amuletTierImg);
     }
 
-    private void UpdateSlotUI(string itemId, Image iconImage, Sprite defaultSprite)
+    private void UpdateSlotUI(string itemId, Image iconImage, Sprite defaultSprite, Image tierImage)
     {
         if (iconImage == null) return;
 
@@ -93,6 +101,11 @@ public class PetEquipmentUI : MonoBehaviour
             var color = iconImage.color;
             color.a = 0.5f;
             iconImage.color = color;
+
+            if (tierImage != null)
+            {
+                tierImage.gameObject.SetActive(false);
+            }
         }
         else
         {
@@ -103,6 +116,27 @@ public class PetEquipmentUI : MonoBehaviour
                 var color = iconImage.color;
                 color.a = 1.0f;
                 iconImage.color = color;
+
+                if (tierImage != null)
+                {
+                    if (InventoryManager.Instance != null)
+                    {
+                        Sprite s = InventoryManager.Instance.GetTierSprite(itemBase.tier);
+                        if (s != null)
+                        {
+                            tierImage.gameObject.SetActive(true);
+                            tierImage.sprite = s;
+                        }
+                        else
+                        {
+                            tierImage.gameObject.SetActive(false);
+                        }
+                    }
+                    else
+                    {
+                        tierImage.gameObject.SetActive(false);
+                    }
+                }
             }
             else
             {
@@ -110,6 +144,11 @@ public class PetEquipmentUI : MonoBehaviour
                 var color = iconImage.color;
                 color.a = 0.5f;
                 iconImage.color = color;
+
+                if (tierImage != null)
+                {
+                    tierImage.gameObject.SetActive(false);
+                }
             }
         }
     }
