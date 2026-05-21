@@ -1,0 +1,78 @@
+-- Example seed/upsert statements for item_templates.
+-- Replace the sample ids and values with the ids used by ItemBaseSO.itemID.
+
+INSERT INTO public.item_templates (
+    id,
+    name,
+    item_type,
+    sell_price,
+    effect_value,
+    description,
+    equip_slot,
+    tier,
+    bonus_hp,
+    bonus_atk_phy,
+    bonus_atk_mag,
+    bonus_def_phy,
+    bonus_def_mag,
+    bonus_speed,
+    percent_hp,
+    percent_atk,
+    percent_speed
+)
+VALUES
+    (
+        'wooden_sword',
+        'Wooden Sword',
+        'Equipment',
+        10,
+        0,
+        '',
+        'Weapon',
+        'D',
+        0,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ),
+    (
+        'exp_potion_small',
+        'Small EXP Potion',
+        'ExpPotion',
+        10,
+        100,
+        '',
+        NULL,
+        NULL,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    )
+ON CONFLICT (id) DO UPDATE SET
+    name = EXCLUDED.name,
+    item_type = EXCLUDED.item_type,
+    sell_price = EXCLUDED.sell_price,
+    effect_value = EXCLUDED.effect_value,
+    description = EXCLUDED.description,
+    equip_slot = EXCLUDED.equip_slot,
+    tier = EXCLUDED.tier,
+    bonus_hp = EXCLUDED.bonus_hp,
+    bonus_atk_phy = EXCLUDED.bonus_atk_phy,
+    bonus_atk_mag = EXCLUDED.bonus_atk_mag,
+    bonus_def_phy = EXCLUDED.bonus_def_phy,
+    bonus_def_mag = EXCLUDED.bonus_def_mag,
+    bonus_speed = EXCLUDED.bonus_speed,
+    percent_hp = EXCLUDED.percent_hp,
+    percent_atk = EXCLUDED.percent_atk,
+    percent_speed = EXCLUDED.percent_speed;

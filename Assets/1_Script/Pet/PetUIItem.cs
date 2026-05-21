@@ -120,7 +120,7 @@ public class PetUIItem : MonoBehaviour
         // 1. Icon & Level
         var baseInfo = PetManager.Instance.GetPetBaseByID(pet.petBaseId);
         if (baseInfo != null && iconImg != null) iconImg.sprite = baseInfo.icon;
-        if (levelTxt != null) levelTxt.text = "Lv." + pet.level;
+        if (levelTxt != null) levelTxt.text = "" + pet.level;
 
         // 2. Tier & Realm & Stars
         SetTierImage(pet.tier);

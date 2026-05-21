@@ -136,8 +136,10 @@ public class PetEquipmentSelectionUI : MonoBehaviour
                 {
                     allOptions.Add(new SelectionItemData
                     {
+                        inventoryId = invItem.id,
                         itemBase = baseInfo,
                         quantity = 1,
+                        enhancementLevel = invItem.enhancement_level,
                         equippedPetName = "Không"
                     });
                 }
@@ -182,7 +184,8 @@ public class PetEquipmentSelectionUI : MonoBehaviour
             if (newItem.TryGetComponent<PetEquipmentSelectionItemUI>(out var itemUI))
             {
                 itemUI.Setup(option.itemBase, option.quantity, option.equippedPetName, async () => {
-                    await InventoryManager.Instance.EquipEquipment(pet.id, currentSlot, option.itemBase.itemID);
+                    if (string.IsNullOrEmpty(option.inventoryId)) return;
+                    await InventoryManager.Instance.EquipEquipment(pet.id, currentSlot, option.inventoryId);
                     _ = RefreshUI();
                     if (PetEquipmentUI.Instance != null) PetEquipmentUI.Instance.RefreshUI();
                 });
@@ -220,7 +223,9 @@ public class PetEquipmentSelectionUI : MonoBehaviour
 
 public class SelectionItemData
 {
+    public string inventoryId;
     public ItemBaseSO itemBase;
     public int quantity;
+    public int enhancementLevel;
     public string equippedPetName;
 }

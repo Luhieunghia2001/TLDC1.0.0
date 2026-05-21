@@ -17,18 +17,18 @@ MonoBehaviour:
   staminaCost: 10
   maxDailyAttempts: 10
   enemyTeam:
-  - petBaseId: 2
-    level: 100
-    star: 1
-    realm: 1
-  - petBaseId: 2
-    level: 100
-    star: 1
-    realm: 1
-  - petBaseId: 2
-    level: 100
-    star: 1
-    realm: 1
+  - petBaseId: wolf_002
+    level: 10
+    star: 5
+    realm: 5
+  - petBaseId: wolf_002
+    level: 10
+    star: 5
+    realm: 5
+  - petBaseId: wolf_002
+    level: 10
+    star: 5
+    realm: 5
   goldReward: 100
   expReward: 100
   potentialDrops:

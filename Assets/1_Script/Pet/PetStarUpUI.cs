@@ -108,33 +108,18 @@ public class PetStarUpUI : MonoBehaviour
             currentStarNode = baseInfo.progressionTable.GetStarCost(pet.star);
             
             // --- 2. Cập nhật Chỉ số Hiện Tại ---
-            PetFinalStats curStats = PetStatsCalculator.GetFinalStats(pet, baseInfo);
-            curHpTxt.text = curStats.HP.ToString();
-            curAtkPhyTxt.text = curStats.AtkPhy.ToString();
-            curAtkMagTxt.text = curStats.AtkMag.ToString();
-            curDefPhyTxt.text = curStats.DefPhy.ToString();
-            curDefMagTxt.text = curStats.DefMag.ToString();
-            curSpeedTxt.text = curStats.Speed.ToString();
+            var curStats = await PetManager.Instance.GetPetFinalStatsFromServer(pet.id);
+            if (currentRefresh != refreshId) return;
+            SetStatsText(curStats, curHpTxt, curAtkPhyTxt, curAtkMagTxt, curDefPhyTxt, curDefMagTxt, curSpeedTxt);
 
             if (currentStarNode != null)
             {
                 // Có thể nâng cấp
                 DrawStars(nextStars, pet.star + 1);
                 
-                // Tự tạo một Pet ảo có số sao +1 để đưa vào máy tính (Calculator) mượn xem trước chỉ số
-                PetModel fakeNextPet = new PetModel { 
-                    level = pet.level,
-                    star = pet.star + 1,
-                    realm = pet.realm 
-                };
-                PetFinalStats nextStats = PetStatsCalculator.GetFinalStats(fakeNextPet, baseInfo);
-                
-                nextHpTxt.text = nextStats.HP.ToString();
-                nextAtkPhyTxt.text = nextStats.AtkPhy.ToString();
-                nextAtkMagTxt.text = nextStats.AtkMag.ToString();
-                nextDefPhyTxt.text = nextStats.DefPhy.ToString();
-                nextDefMagTxt.text = nextStats.DefMag.ToString();
-                nextSpeedTxt.text = nextStats.Speed.ToString();
+                var nextStats = await PetManager.Instance.GetPetFinalStatsPreviewFromServer(pet.id, pet.level, pet.star + 1, pet.realm);
+                if (currentRefresh != refreshId) return;
+                SetStatsText(nextStats, nextHpTxt, nextAtkPhyTxt, nextAtkMagTxt, nextDefPhyTxt, nextDefMagTxt, nextSpeedTxt);
 
                 // --- 3. Cập nhật ô Nguyên Liệu ---
                 await RenderRequirements(currentStarNode, itemsContainer, starUpBtn, currentRefresh);
@@ -193,6 +178,17 @@ public class PetStarUpUI : MonoBehaviour
                 else starImages[i].sprite = starTier3Sprite;
             }
         }
+    }
+
+    private void SetStatsText(PetServerStats stats, TextMeshProUGUI hp, TextMeshProUGUI atkPhy, TextMeshProUGUI atkMag, TextMeshProUGUI defPhy, TextMeshProUGUI defMag, TextMeshProUGUI speed)
+    {
+        if (stats == null) return;
+        hp.text = stats.hp.ToString();
+        atkPhy.text = stats.atk_phy.ToString();
+        atkMag.text = stats.atk_mag.ToString();
+        defPhy.text = stats.def_phy.ToString();
+        defMag.text = stats.def_mag.ToString();
+        speed.text = stats.speed.ToString();
     }
 
     private async Task RenderRequirements(ProgressionNode node, Transform container, Button upgradeBtn, int currentRefresh)

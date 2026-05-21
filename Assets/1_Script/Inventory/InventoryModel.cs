@@ -15,4 +15,7 @@ public class InventoryModel : BaseModel
 
     [Column("quantity")]
     public int quantity { get; set; }
+
+    [Column("enhancement_level")]
+    public int enhancement_level { get; set; }
 }

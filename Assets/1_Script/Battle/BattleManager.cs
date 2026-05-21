@@ -81,7 +81,20 @@ public class BattleManager : MonoBehaviour
         foreach (var p in allies)
         {
             var baseData = PetManager.Instance.GetPetBaseByID(p.petBaseId);
-            if (baseData != null) allyTeam.Add(new BattlePet(p, baseData));
+            if (baseData != null)
+            {
+                try
+                {
+                    var serverStats = await PetManager.Instance.GetPetFinalStatsFromServer(p.id);
+                    allyTeam.Add(serverStats != null
+                        ? new BattlePet(p, baseData, serverStats.ToFinalStats())
+                        : new BattlePet(p, baseData));
+                }
+                catch (System.Exception e)
+                {
+                    Debug.LogError("Lá»—i láº¥y battle stats tá»« server, há»§y pet nĂ y Ä‘á»ƒ trĂ¡nh tin stats client: " + e.ToString());
+                }
+            }
         }
 
         foreach (var p in enemies)

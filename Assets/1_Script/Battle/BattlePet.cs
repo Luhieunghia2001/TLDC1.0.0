@@ -32,6 +32,14 @@ public class BattlePet
         this.currentHP = stats.HP;
     }
 
+    public BattlePet(PetModel data, PetBaseSO baseData, PetFinalStats serverStats)
+    {
+        this.petData = data;
+        this.baseData = baseData;
+        this.stats = serverStats;
+        this.currentHP = stats.HP;
+    }
+
     public void ReduceCooldowns()
     {
         List<string> keys = new List<string>(cooldownDict.Keys);

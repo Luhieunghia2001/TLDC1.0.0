@@ -74,7 +74,7 @@ public class PetDetailUI : MonoBehaviour
     {
         // Đăng ký lắng nghe sự kiện từ Global State
         PetManager.Instance.OnPetSelected += HandlePetSelected;
-        PetManager.Instance.OnPetStatsUpdated += RefreshStatsUI;
+        PetManager.Instance.OnPetStatsUpdated += OnPetStatsUpdated;
     }
 
     private void OnDestroy()
@@ -82,7 +82,7 @@ public class PetDetailUI : MonoBehaviour
         if (PetManager.Instance != null)
         {
             PetManager.Instance.OnPetSelected -= HandlePetSelected;
-            PetManager.Instance.OnPetStatsUpdated -= RefreshStatsUI;
+            PetManager.Instance.OnPetStatsUpdated -= OnPetStatsUpdated;
         }
     }
 
@@ -102,6 +102,7 @@ public class PetDetailUI : MonoBehaviour
         int currentRefresh = ++statRefreshId;
 
         RefreshStatsUI(pet); // Cập nhật ngay bằng Local State
+        _ = RefreshStatsUIFromServer(pet);
 
         // Cập nhật ngầm từ Server
         var myPets = await PetManager.Instance.GetMyPets();
@@ -135,17 +136,48 @@ public class PetDetailUI : MonoBehaviour
         // Yêu cầu máy tính (Client) Tính toán tức thời các chỉ số
         PetFinalStats finalStats = PetStatsCalculator.GetFinalStats(pet, baseInfo);
 
-        hpTxt.text = "HP: " + finalStats.HP;
-        atkPhyTxt.text = "ATK Vật Lý: " + finalStats.AtkPhy;
-        atkMagTxt.text = "ATK Ma Pháp: " + finalStats.AtkMag;
-        defPhyTxt.text = "THỦ Vật Lý: " + finalStats.DefPhy;
-        defMagTxt.text = "THỦ Ma Pháp: " + finalStats.DefMag;
-        speedTxt.text = "Tốc Độ: " + finalStats.Speed;
+        hpTxt.text = "Sinh mệnh: " + finalStats.HP;
+        atkPhyTxt.text = "Công Vật lý: " + finalStats.AtkPhy;
+        atkMagTxt.text = "Công Ma pháp: " + finalStats.AtkMag;
+        defPhyTxt.text = "Thủ vật lý: " + finalStats.DefPhy;
+        defMagTxt.text = "Thủ ma pháp: " + finalStats.DefMag;
+        speedTxt.text = "Tốc độ: " + finalStats.Speed;
 
         // Tính và hiển thị Lực Chiến
         int combatPower = PetStatsCalculator.CalculateCombatPower(finalStats);
         if (combatPowerTxt != null)
-            combatPowerTxt.text = "Lực Chiến: " + combatPower;
+            combatPowerTxt.text = "" + combatPower;
+    }
+
+    private void OnPetStatsUpdated(PetModel pet)
+    {
+        RefreshStatsUI(pet);
+        _ = RefreshStatsUIFromServer(pet);
+    }
+
+    private async Task RefreshStatsUIFromServer(PetModel pet)
+    {
+        if (pet == null || PetManager.Instance == null) return;
+
+        try
+        {
+            var serverStats = await PetManager.Instance.GetPetFinalStatsFromServer(pet.id);
+            if (serverStats == null) return;
+
+            hpTxt.text = "Sinh mệnh: " + serverStats.hp;
+            atkPhyTxt.text = "Công Vật lý: " + serverStats.atk_phy;
+            atkMagTxt.text = "Công Ma pháp: " + serverStats.atk_mag;
+            defPhyTxt.text = "Thủ vật lý: " + serverStats.def_phy;
+            defMagTxt.text = "Thủ ma pháp: " + serverStats.def_mag;
+            speedTxt.text = "Tốc độ: " + serverStats.speed;
+
+            if (combatPowerTxt != null)
+                combatPowerTxt.text = "" + serverStats.combat_power;
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Lỗi lấy stats pet từ server: " + e.ToString());
+        }
     }
 
     private void ClosePanel()
@@ -183,7 +215,7 @@ public class PetDetailUI : MonoBehaviour
 
     private void HandlePetSelected(PetModel pet)
     {
-        RefreshStatsUI(pet);
+        OnPetStatsUpdated(pet);
 
         // 1. Hiển thị Icon và Model
         var baseInfo = PetManager.Instance.GetPetBaseByID(pet.petBaseId);
@@ -263,7 +295,7 @@ public class PetDetailUI : MonoBehaviour
 
                 // Tìm trang bị tốt nhất trong kho cho slot này
                 ItemBaseSO bestItem = null;
-                string bestInventoryItemId = null;
+                string bestInventoryId = null;
                 int bestTierValue = -1;
 
                 foreach (var invItem in inventory)
@@ -279,13 +311,13 @@ public class PetDetailUI : MonoBehaviour
                     {
                         bestTierValue = tierVal;
                         bestItem = baseInfo;
-                        bestInventoryItemId = invItem.itemId;
+                        bestInventoryId = invItem.id;
                     }
                 }
 
-                if (bestItem != null && bestInventoryItemId != null)
+                if (bestItem != null && bestInventoryId != null)
                 {
-                    await InventoryManager.Instance.EquipEquipment(pet.id, slot, bestInventoryItemId);
+                    await InventoryManager.Instance.EquipEquipment(pet.id, slot, bestInventoryId);
                     // Refresh inventory sau mỗi lần equip để tránh mặc trùng
                     inventory = await InventoryManager.Instance.GetMyInventory();
                 }

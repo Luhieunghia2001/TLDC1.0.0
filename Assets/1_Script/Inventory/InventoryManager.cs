@@ -216,7 +216,7 @@ public class InventoryManager : MonoBehaviour
         if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
     }
 
-    public async Task EquipEquipment(string petID, EquipmentSlot slot, string itemID)
+    public async Task EquipEquipment(string petID, EquipmentSlot slot, string inventoryId)
     {
         if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
         try
@@ -226,11 +226,11 @@ public class InventoryManager : MonoBehaviour
             {
                 { "p_pet_id", petID },
                 { "p_slot", slotStr },
-                { "p_item_id", itemID }
+                { "p_inventory_id", inventoryId }
             };
 
             await SupabaseManager.Instance.Client.Rpc("equip_pet_item", parameters);
-            Debug.Log($"Trang bị thành công {itemID} vào vị trí {slotStr}!");
+            Debug.Log($"Trang bị thành công inventory item {inventoryId} vào vị trí {slotStr}!");
 
             // Refresh UI
             if (PetListController.Instance != null) PetListController.Instance.RefreshPetList();
@@ -275,6 +275,36 @@ public class InventoryManager : MonoBehaviour
         catch (System.Exception e)
         {
             Debug.LogError("Lỗi khi tháo trang bị: \n" + e.ToString());
+        }
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+    }
+
+    public async Task EnhanceEquipment(string inventoryId, string itemID)
+    {
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        try
+        {
+            int playerLevel = ResourceManager.Instance.GetCharacterData().level;
+            int maxEnhanceLevel = Mathf.Min(100, playerLevel);
+
+            var parameters = new Dictionary<string, object>
+            {
+                { "p_inventory_id", inventoryId },
+                { "p_item_id", itemID },
+                { "p_max_level", maxEnhanceLevel }
+            };
+
+            await SupabaseManager.Instance.Client.Rpc("enhance_equipment", parameters);
+            Debug.Log($"Cường hóa trang bị {itemID} thành công!");
+            
+            // Cập nhật lại UI Kho đồ
+            if (InventoryUIController.Instance != null) InventoryUIController.Instance.RefreshInventory();
+            // Cập nhật lại các chỉ số Vàng trên màn hình chính
+            if (ResourceManager.Instance != null) await ResourceManager.Instance.SyncWithServer();
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Lỗi khi cường hóa trang bị: " + e.ToString());
         }
         if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
     }

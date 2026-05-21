@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8d2caaf10867d244913d9a20393da70, type: 3}
   m_Name: pet 2
   m_EditorClassIdentifier: Assembly-CSharp::PetBaseSO
-  petBaseID: 2
+  petBaseID: wolf_002
   speciesName: 'Pet 2 '
   element: 1
   attackType: 1

@@ -98,34 +98,18 @@ public class PetRealmUpUI : MonoBehaviour
             currentRealmNode = baseInfo.progressionTable.GetRealmCost(pet.realm);
             
             // --- 2. Cập nhật Chỉ số Hiện Tại ---
-            PetFinalStats curStats = PetStatsCalculator.GetFinalStats(pet, baseInfo);
-            curHpTxt.text = curStats.HP.ToString();
-            curAtkPhyTxt.text = curStats.AtkPhy.ToString();
-            curAtkMagTxt.text = curStats.AtkMag.ToString();
-            curDefPhyTxt.text = curStats.DefPhy.ToString();
-            curDefMagTxt.text = curStats.DefMag.ToString();
-            curSpeedTxt.text = curStats.Speed.ToString();
+            var curStats = await PetManager.Instance.GetPetFinalStatsFromServer(pet.id);
+            if (currentRefresh != refreshId) return;
+            SetStatsText(curStats, curHpTxt, curAtkPhyTxt, curAtkMagTxt, curDefPhyTxt, curDefMagTxt, curSpeedTxt);
 
             if (currentRealmNode != null)
             {
                 nextRealmTxt.text = "Tầng " + (pet.realm + 1);
                 
-                // Giả lập PetModel mới với Tầng + 1 để tính xem trước chỉ số
-                PetModel fakeNextPet = new PetModel { 
-                    id = pet.id,
-                    petBaseId = pet.petBaseId,
-                    level = pet.level,
-                    star = pet.star,
-                    realm = pet.realm + 1 // CỘNG 1 TẦNG
-                };
-                PetFinalStats nextStats = PetStatsCalculator.GetFinalStats(fakeNextPet, baseInfo);
+                var nextStats = await PetManager.Instance.GetPetFinalStatsPreviewFromServer(pet.id, pet.level, pet.star, pet.realm + 1);
+                if (currentRefresh != refreshId) return;
                 
-                nextHpTxt.text = nextStats.HP.ToString();
-                nextAtkPhyTxt.text = nextStats.AtkPhy.ToString();
-                nextAtkMagTxt.text = nextStats.AtkMag.ToString();
-                nextDefPhyTxt.text = nextStats.DefPhy.ToString();
-                nextDefMagTxt.text = nextStats.DefMag.ToString();
-                nextSpeedTxt.text = nextStats.Speed.ToString();
+                SetStatsText(nextStats, nextHpTxt, nextAtkPhyTxt, nextAtkMagTxt, nextDefPhyTxt, nextDefMagTxt, nextSpeedTxt);
 
                 // --- 3. Cập nhật ô Nguyên Liệu ---
                 await RenderRequirements(currentRealmNode, itemsContainer, realmUpBtn, currentRefresh);
@@ -178,6 +162,17 @@ public class PetRealmUpUI : MonoBehaviour
         // Tùy chọn: Có thể kiểm tra thêm điều kiện Vàng (goldCost) ở đây nếu game bạn xài Vàng
 
         upgradeBtn.interactable = canUpgrade;
+    }
+
+    private void SetStatsText(PetServerStats stats, TextMeshProUGUI hp, TextMeshProUGUI atkPhy, TextMeshProUGUI atkMag, TextMeshProUGUI defPhy, TextMeshProUGUI defMag, TextMeshProUGUI speed)
+    {
+        if (stats == null) return;
+        hp.text = stats.hp.ToString();
+        atkPhy.text = stats.atk_phy.ToString();
+        atkMag.text = stats.atk_mag.ToString();
+        defPhy.text = stats.def_phy.ToString();
+        defMag.text = stats.def_mag.ToString();
+        speed.text = stats.speed.ToString();
     }
 
     private void ClearContainer(Transform container)

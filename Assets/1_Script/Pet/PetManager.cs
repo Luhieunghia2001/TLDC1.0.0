@@ -3,6 +3,7 @@ using Postgrest.Attributes;
 using Postgrest.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Newtonsoft.Json.Linq;
 
 [Table("user_pets")]
 public class PetModel : BaseModel
@@ -44,20 +45,63 @@ public class PetModel : BaseModel
     [Column("helmet_id")]
     public string helmetId { get; set; }
 
+    [Column("helmet_enhancement_level")]
+    public int helmetEnhancementLevel { get; set; }
+
     [Column("armor_id")]
     public string armorId { get; set; }
+
+    [Column("armor_enhancement_level")]
+    public int armorEnhancementLevel { get; set; }
 
     [Column("weapon_id")]
     public string weaponId { get; set; }
 
+    [Column("weapon_enhancement_level")]
+    public int weaponEnhancementLevel { get; set; }
+
     [Column("boots_id")]
     public string bootsId { get; set; }
+
+    [Column("boots_enhancement_level")]
+    public int bootsEnhancementLevel { get; set; }
 
     [Column("wings_id")]
     public string wingsId { get; set; }
 
+    [Column("wings_enhancement_level")]
+    public int wingsEnhancementLevel { get; set; }
+
     [Column("amulet_id")]
     public string amuletId { get; set; }
+
+    [Column("amulet_enhancement_level")]
+    public int amuletEnhancementLevel { get; set; }
+}
+
+[System.Serializable]
+public class PetServerStats
+{
+    public int hp;
+    public int atk_phy;
+    public int atk_mag;
+    public int def_phy;
+    public int def_mag;
+    public int speed;
+    public int combat_power;
+
+    public PetFinalStats ToFinalStats()
+    {
+        return new PetFinalStats
+        {
+            HP = hp,
+            AtkPhy = atk_phy,
+            AtkMag = atk_mag,
+            DefPhy = def_phy,
+            DefMag = def_mag,
+            Speed = speed
+        };
+    }
 }
 
 public class PetManager : MonoBehaviour
@@ -139,6 +183,48 @@ public class PetManager : MonoBehaviour
             Debug.LogError("Lỗi lấy danh sách Pet: " + e.Message);
             return new List<PetModel>();
         }
+    }
+
+    public async Task<PetServerStats> GetPetFinalStatsFromServer(string petId)
+    {
+        var parameters = new Dictionary<string, object>
+        {
+            { "p_pet_id", petId }
+        };
+
+        return await GetPetStatsRpc("get_pet_final_stats", parameters);
+    }
+
+    public async Task<PetServerStats> GetPetFinalStatsPreviewFromServer(string petId, int level, int star, int realm)
+    {
+        var parameters = new Dictionary<string, object>
+        {
+            { "p_pet_id", petId },
+            { "p_level", level },
+            { "p_star", star },
+            { "p_realm", realm }
+        };
+
+        return await GetPetStatsRpc("get_pet_final_stats_preview", parameters);
+    }
+
+    private async Task<PetServerStats> GetPetStatsRpc(string rpcName, Dictionary<string, object> parameters)
+    {
+        var response = await SupabaseManager.Instance.Client.Rpc(rpcName, parameters);
+        var token = JToken.Parse(response.Content);
+        var row = token is JArray array ? array.First : token;
+        if (row == null) return null;
+
+        return new PetServerStats
+        {
+            hp = row.Value<int?>("hp") ?? 0,
+            atk_phy = row.Value<int?>("atk_phy") ?? 0,
+            atk_mag = row.Value<int?>("atk_mag") ?? 0,
+            def_phy = row.Value<int?>("def_phy") ?? 0,
+            def_mag = row.Value<int?>("def_mag") ?? 0,
+            speed = row.Value<int?>("speed") ?? 0,
+            combat_power = row.Value<int?>("combat_power") ?? 0
+        };
     }
 
     public async Task CreateNewPet(PetBaseSO baseData)

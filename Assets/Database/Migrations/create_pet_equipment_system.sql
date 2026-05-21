@@ -1,17 +1,53 @@
--- Add equipment columns to user_pets table
-ALTER TABLE user_pets 
+-- Equipment must be instance-based. Two swords with the same item_id can have
+-- different enhancement levels, so user_inventory must not force uniqueness by
+-- (user_id, item_id).
+ALTER TABLE public.user_inventory
+DROP CONSTRAINT IF EXISTS unique_user_item;
+
+DO $$
+DECLARE
+    r RECORD;
+BEGIN
+    FOR r IN
+        SELECT ui.id, ui.user_id, ui.item_id, ui.quantity, COALESCE(ui.enhancement_level, 0) AS enhancement_level
+        FROM public.user_inventory ui
+        JOIN public.item_templates it ON it.id = ui.item_id
+        WHERE lower(it.item_type) = 'equipment'
+          AND ui.quantity > 1
+    LOOP
+        UPDATE public.user_inventory
+        SET quantity = 1
+        WHERE id = r.id;
+
+        FOR i IN 1..(r.quantity - 1) LOOP
+            INSERT INTO public.user_inventory (user_id, item_id, quantity, enhancement_level)
+            VALUES (r.user_id, r.item_id, 1, r.enhancement_level);
+        END LOOP;
+    END LOOP;
+END;
+$$;
+
+ALTER TABLE public.user_pets
 ADD COLUMN IF NOT EXISTS helmet_id TEXT DEFAULT NULL,
 ADD COLUMN IF NOT EXISTS armor_id TEXT DEFAULT NULL,
 ADD COLUMN IF NOT EXISTS weapon_id TEXT DEFAULT NULL,
 ADD COLUMN IF NOT EXISTS boots_id TEXT DEFAULT NULL,
 ADD COLUMN IF NOT EXISTS wings_id TEXT DEFAULT NULL,
-ADD COLUMN IF NOT EXISTS amulet_id TEXT DEFAULT NULL;
+ADD COLUMN IF NOT EXISTS amulet_id TEXT DEFAULT NULL,
+ADD COLUMN IF NOT EXISTS helmet_enhancement_level INT DEFAULT 0,
+ADD COLUMN IF NOT EXISTS armor_enhancement_level INT DEFAULT 0,
+ADD COLUMN IF NOT EXISTS weapon_enhancement_level INT DEFAULT 0,
+ADD COLUMN IF NOT EXISTS boots_enhancement_level INT DEFAULT 0,
+ADD COLUMN IF NOT EXISTS wings_enhancement_level INT DEFAULT 0,
+ADD COLUMN IF NOT EXISTS amulet_enhancement_level INT DEFAULT 0;
 
--- Create equip_pet_item function
+DROP FUNCTION IF EXISTS public.equip_pet_item(UUID, TEXT, TEXT);
+DROP FUNCTION IF EXISTS public.equip_pet_item(UUID, TEXT, UUID);
+
 CREATE OR REPLACE FUNCTION public.equip_pet_item(
     p_pet_id UUID,
     p_slot TEXT,
-    p_item_id TEXT
+    p_inventory_id UUID
 )
 RETURNS VOID
 LANGUAGE plpgsql
@@ -19,102 +55,80 @@ SECURITY DEFINER
 AS $$
 DECLARE
     v_user_id UUID;
-    v_inventory_qty INT;
+    v_item_id TEXT;
+    v_equipped_level INT := 0;
+    v_item_type TEXT;
     v_old_item_id TEXT;
+    v_old_enhancement_level INT := 0;
     v_pet RECORD;
 BEGIN
-    -- 1. Xác thực người dùng
     v_user_id := auth.uid();
     IF v_user_id IS NULL THEN
-        RAISE EXCEPTION 'Vui lòng đăng nhập.';
+        RAISE EXCEPTION 'Please log in.';
     END IF;
 
-    -- 2. Xác thực Pet và lấy trang bị hiện tại
-    SELECT * INTO v_pet FROM user_pets 
+    SELECT * INTO v_pet
+    FROM public.user_pets
     WHERE id = p_pet_id AND user_id = v_user_id;
 
     IF NOT FOUND THEN
-        RAISE EXCEPTION 'Không tìm thấy Pet hoặc Pet không thuộc sở hữu của bạn.';
+        RAISE EXCEPTION 'Pet not found or does not belong to you.';
     END IF;
 
-    -- 3. Kiểm tra xem trang bị đang ở trong rương hay đang mặc trên pet khác của người chơi
-    SELECT quantity INTO v_inventory_qty 
-    FROM user_inventory 
-    WHERE user_id = v_user_id AND item_id = p_item_id;
+    SELECT ui.item_id, COALESCE(ui.enhancement_level, 0), it.item_type
+    INTO v_item_id, v_equipped_level, v_item_type
+    FROM public.user_inventory ui
+    LEFT JOIN public.item_templates it ON it.id = ui.item_id
+    WHERE ui.id = p_inventory_id
+      AND ui.user_id = v_user_id
+      AND ui.quantity > 0;
 
-    IF v_inventory_qty IS NOT NULL AND v_inventory_qty >= 1 THEN
-        -- Trường hợp A: Có trong rương -> Trừ 1 trang bị từ rương
-        UPDATE user_inventory 
-        SET quantity = quantity - 1 
-        WHERE user_id = v_user_id AND item_id = p_item_id;
-        
-        DELETE FROM user_inventory WHERE user_id = v_user_id AND quantity <= 0;
-    ELSE
-        -- Trường hợp B: Không có trong rương -> Kiểm tra xem có đang mặc trên pet khác không để gỡ
-        DECLARE
-            v_other_pet_id UUID;
-        BEGIN
-            SELECT id INTO v_other_pet_id FROM user_pets
-            WHERE user_id = v_user_id 
-              AND (helmet_id = p_item_id 
-                   OR armor_id = p_item_id 
-                   OR weapon_id = p_item_id 
-                   OR boots_id = p_item_id 
-                   OR wings_id = p_item_id 
-                   OR amulet_id = p_item_id)
-            LIMIT 1;
-
-            IF v_other_pet_id IS NOT NULL THEN
-                -- Gỡ trang bị từ pet khác bằng cách set NULL cho các slot tương ứng có ID này
-                UPDATE user_pets 
-                SET 
-                    helmet_id = CASE WHEN helmet_id = p_item_id THEN NULL ELSE helmet_id END,
-                    armor_id = CASE WHEN armor_id = p_item_id THEN NULL ELSE armor_id END,
-                    weapon_id = CASE WHEN weapon_id = p_item_id THEN NULL ELSE weapon_id END,
-                    boots_id = CASE WHEN boots_id = p_item_id THEN NULL ELSE boots_id END,
-                    wings_id = CASE WHEN wings_id = p_item_id THEN NULL ELSE wings_id END,
-                    amulet_id = CASE WHEN amulet_id = p_item_id THEN NULL ELSE amulet_id END
-                WHERE id = v_other_pet_id AND user_id = v_user_id;
-            ELSE
-                RAISE EXCEPTION 'Trang bị không tồn tại trong rương và cũng không được mặc bởi Pet nào của bạn.';
-            END IF;
-        END;
+    IF v_item_id IS NULL THEN
+        RAISE EXCEPTION 'Inventory equipment instance not found.';
     END IF;
 
-    -- 4. Xác định trang bị cũ trong slot và cập nhật trang bị mới
+    IF lower(COALESCE(v_item_type, '')) != 'equipment' THEN
+        RAISE EXCEPTION 'Only equipment can be equipped.';
+    END IF;
+
+    DELETE FROM public.user_inventory
+    WHERE id = p_inventory_id AND user_id = v_user_id;
+
     IF p_slot = 'helmet' THEN
         v_old_item_id := v_pet.helmet_id;
-        UPDATE user_pets SET helmet_id = p_item_id WHERE id = p_pet_id AND user_id = v_user_id;
+        v_old_enhancement_level := COALESCE(v_pet.helmet_enhancement_level, 0);
+        UPDATE public.user_pets SET helmet_id = v_item_id, helmet_enhancement_level = v_equipped_level WHERE id = p_pet_id AND user_id = v_user_id;
     ELSIF p_slot = 'armor' THEN
         v_old_item_id := v_pet.armor_id;
-        UPDATE user_pets SET armor_id = p_item_id WHERE id = p_pet_id AND user_id = v_user_id;
+        v_old_enhancement_level := COALESCE(v_pet.armor_enhancement_level, 0);
+        UPDATE public.user_pets SET armor_id = v_item_id, armor_enhancement_level = v_equipped_level WHERE id = p_pet_id AND user_id = v_user_id;
     ELSIF p_slot = 'weapon' THEN
         v_old_item_id := v_pet.weapon_id;
-        UPDATE user_pets SET weapon_id = p_item_id WHERE id = p_pet_id AND user_id = v_user_id;
+        v_old_enhancement_level := COALESCE(v_pet.weapon_enhancement_level, 0);
+        UPDATE public.user_pets SET weapon_id = v_item_id, weapon_enhancement_level = v_equipped_level WHERE id = p_pet_id AND user_id = v_user_id;
     ELSIF p_slot = 'boots' THEN
         v_old_item_id := v_pet.boots_id;
-        UPDATE user_pets SET boots_id = p_item_id WHERE id = p_pet_id AND user_id = v_user_id;
+        v_old_enhancement_level := COALESCE(v_pet.boots_enhancement_level, 0);
+        UPDATE public.user_pets SET boots_id = v_item_id, boots_enhancement_level = v_equipped_level WHERE id = p_pet_id AND user_id = v_user_id;
     ELSIF p_slot = 'wings' THEN
         v_old_item_id := v_pet.wings_id;
-        UPDATE user_pets SET wings_id = p_item_id WHERE id = p_pet_id AND user_id = v_user_id;
+        v_old_enhancement_level := COALESCE(v_pet.wings_enhancement_level, 0);
+        UPDATE public.user_pets SET wings_id = v_item_id, wings_enhancement_level = v_equipped_level WHERE id = p_pet_id AND user_id = v_user_id;
     ELSIF p_slot = 'amulet' THEN
         v_old_item_id := v_pet.amulet_id;
-        UPDATE user_pets SET amulet_id = p_item_id WHERE id = p_pet_id AND user_id = v_user_id;
+        v_old_enhancement_level := COALESCE(v_pet.amulet_enhancement_level, 0);
+        UPDATE public.user_pets SET amulet_id = v_item_id, amulet_enhancement_level = v_equipped_level WHERE id = p_pet_id AND user_id = v_user_id;
     ELSE
-        RAISE EXCEPTION 'Vị trí trang bị không hợp lệ: %', p_slot;
+        RAISE EXCEPTION 'Invalid equipment slot: %', p_slot;
     END IF;
 
-    -- 5. Nếu có trang bị cũ, trả lại rương đồ cho người chơi
     IF v_old_item_id IS NOT NULL AND v_old_item_id <> '' THEN
-        INSERT INTO user_inventory (user_id, item_id, quantity)
-        VALUES (v_user_id, v_old_item_id, 1)
-        ON CONFLICT (user_id, item_id) 
-        DO UPDATE SET quantity = user_inventory.quantity + 1;
+        INSERT INTO public.user_inventory (user_id, item_id, quantity, enhancement_level)
+        VALUES (v_user_id, v_old_item_id, 1, v_old_enhancement_level);
     END IF;
 END;
 $$;
 
--- Create unequip_pet_item function
 CREATE OR REPLACE FUNCTION public.unequip_pet_item(
     p_pet_id UUID,
     p_slot TEXT
@@ -126,55 +140,56 @@ AS $$
 DECLARE
     v_user_id UUID;
     v_equipped_item_id TEXT;
+    v_enhancement_level INT := 0;
     v_pet RECORD;
 BEGIN
-    -- 1. Xác thực người dùng
     v_user_id := auth.uid();
     IF v_user_id IS NULL THEN
-        RAISE EXCEPTION 'Vui lòng đăng nhập.';
+        RAISE EXCEPTION 'Please log in.';
     END IF;
 
-    -- 2. Xác thực Pet
-    SELECT * INTO v_pet FROM user_pets 
+    SELECT * INTO v_pet
+    FROM public.user_pets
     WHERE id = p_pet_id AND user_id = v_user_id;
 
     IF NOT FOUND THEN
-        RAISE EXCEPTION 'Không tìm thấy Pet hoặc Pet không thuộc sở hữu của bạn.';
+        RAISE EXCEPTION 'Pet not found or does not belong to you.';
     END IF;
 
-    -- 3. Xác định trang bị hiện tại trong slot và gỡ bỏ
     IF p_slot = 'helmet' THEN
         v_equipped_item_id := v_pet.helmet_id;
-        UPDATE user_pets SET helmet_id = NULL WHERE id = p_pet_id AND user_id = v_user_id;
+        v_enhancement_level := COALESCE(v_pet.helmet_enhancement_level, 0);
+        UPDATE public.user_pets SET helmet_id = NULL, helmet_enhancement_level = 0 WHERE id = p_pet_id AND user_id = v_user_id;
     ELSIF p_slot = 'armor' THEN
         v_equipped_item_id := v_pet.armor_id;
-        UPDATE user_pets SET armor_id = NULL WHERE id = p_pet_id AND user_id = v_user_id;
+        v_enhancement_level := COALESCE(v_pet.armor_enhancement_level, 0);
+        UPDATE public.user_pets SET armor_id = NULL, armor_enhancement_level = 0 WHERE id = p_pet_id AND user_id = v_user_id;
     ELSIF p_slot = 'weapon' THEN
         v_equipped_item_id := v_pet.weapon_id;
-        UPDATE user_pets SET weapon_id = NULL WHERE id = p_pet_id AND user_id = v_user_id;
+        v_enhancement_level := COALESCE(v_pet.weapon_enhancement_level, 0);
+        UPDATE public.user_pets SET weapon_id = NULL, weapon_enhancement_level = 0 WHERE id = p_pet_id AND user_id = v_user_id;
     ELSIF p_slot = 'boots' THEN
         v_equipped_item_id := v_pet.boots_id;
-        UPDATE user_pets SET boots_id = NULL WHERE id = p_pet_id AND user_id = v_user_id;
+        v_enhancement_level := COALESCE(v_pet.boots_enhancement_level, 0);
+        UPDATE public.user_pets SET boots_id = NULL, boots_enhancement_level = 0 WHERE id = p_pet_id AND user_id = v_user_id;
     ELSIF p_slot = 'wings' THEN
         v_equipped_item_id := v_pet.wings_id;
-        UPDATE user_pets SET wings_id = NULL WHERE id = p_pet_id AND user_id = v_user_id;
+        v_enhancement_level := COALESCE(v_pet.wings_enhancement_level, 0);
+        UPDATE public.user_pets SET wings_id = NULL, wings_enhancement_level = 0 WHERE id = p_pet_id AND user_id = v_user_id;
     ELSIF p_slot = 'amulet' THEN
         v_equipped_item_id := v_pet.amulet_id;
-        UPDATE user_pets SET amulet_id = NULL WHERE id = p_pet_id AND user_id = v_user_id;
+        v_enhancement_level := COALESCE(v_pet.amulet_enhancement_level, 0);
+        UPDATE public.user_pets SET amulet_id = NULL, amulet_enhancement_level = 0 WHERE id = p_pet_id AND user_id = v_user_id;
     ELSE
-        RAISE EXCEPTION 'Vị trí trang bị không hợp lệ: %', p_slot;
+        RAISE EXCEPTION 'Invalid equipment slot: %', p_slot;
     END IF;
 
-    -- 4. Nếu có trang bị, trả lại rương đồ
     IF v_equipped_item_id IS NOT NULL AND v_equipped_item_id <> '' THEN
-        INSERT INTO user_inventory (user_id, item_id, quantity)
-        VALUES (v_user_id, v_equipped_item_id, 1)
-        ON CONFLICT (user_id, item_id) 
-        DO UPDATE SET quantity = user_inventory.quantity + 1;
+        INSERT INTO public.user_inventory (user_id, item_id, quantity, enhancement_level)
+        VALUES (v_user_id, v_equipped_item_id, 1, v_enhancement_level);
     END IF;
 END;
 $$;
 
--- Grant execute permissions to authenticated users
-GRANT EXECUTE ON FUNCTION public.equip_pet_item(UUID, TEXT, TEXT) TO authenticated;
+GRANT EXECUTE ON FUNCTION public.equip_pet_item(UUID, TEXT, UUID) TO authenticated;
 GRANT EXECUTE ON FUNCTION public.unequip_pet_item(UUID, TEXT) TO authenticated;
