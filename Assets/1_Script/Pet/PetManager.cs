@@ -40,6 +40,24 @@ public class PetModel : BaseModel
 
     [Column("realm")]
     public int realm { get; set; } // Tầng hiện tại
+
+    [Column("helmet_id")]
+    public string helmetId { get; set; }
+
+    [Column("armor_id")]
+    public string armorId { get; set; }
+
+    [Column("weapon_id")]
+    public string weaponId { get; set; }
+
+    [Column("boots_id")]
+    public string bootsId { get; set; }
+
+    [Column("wings_id")]
+    public string wingsId { get; set; }
+
+    [Column("amulet_id")]
+    public string amuletId { get; set; }
 }
 
 public class PetManager : MonoBehaviour

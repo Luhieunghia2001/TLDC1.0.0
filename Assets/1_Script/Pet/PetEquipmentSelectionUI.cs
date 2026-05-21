@@ -1,0 +1,199 @@
+using UnityEngine;
+using TMPro;
+using UnityEngine.UI;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+public class PetEquipmentSelectionUI : MonoBehaviour
+{
+    public static PetEquipmentSelectionUI Instance { get; private set; }
+
+    [Header("Main Panel")]
+    [SerializeField] private GameObject panel;
+
+    [Header("UI Texts")]
+    [SerializeField] private TextMeshProUGUI slotTitleTxt;
+
+    [Header("Equipped Item Section")]
+    [SerializeField] private GameObject equippedSection;
+    [SerializeField] private Image equippedIcon;
+    [SerializeField] private TextMeshProUGUI equippedNameTxt;
+    [SerializeField] private TextMeshProUGUI equippedStatsTxt;
+    [SerializeField] private Button unequipBtn;
+
+    [Header("Available List Section")]
+    [SerializeField] private Transform listContainer;
+    [SerializeField] private GameObject selectionItemPrefab; // Item prefab in list
+
+    [Header("Close Button")]
+    [SerializeField] private Button closeBtn;
+
+    private EquipmentSlot currentSlot;
+
+    private void Awake()
+    {
+        if (Instance == null) Instance = this;
+        else Destroy(gameObject);
+
+        if (panel != null) panel.SetActive(false);
+
+        if (unequipBtn != null) unequipBtn.onClick.AddListener(OnUnequipClicked);
+        if (closeBtn != null) closeBtn.onClick.AddListener(ClosePanel);
+    }
+
+    public void Open(EquipmentSlot slot)
+    {
+        currentSlot = slot;
+        if (panel != null)
+        {
+            panel.SetActive(true);
+            _ = RefreshUI();
+        }
+    }
+
+    public void ClosePanel()
+    {
+        if (panel != null) panel.SetActive(false);
+    }
+
+    public async Task RefreshUI()
+    {
+        var pet = PetManager.Instance.CurrentPet;
+        if (pet == null) return;
+
+        // 1. Cập nhật Title dựa theo Slot
+        string slotTitle = "";
+        string equippedItemId = "";
+        switch (currentSlot)
+        {
+            case EquipmentSlot.Helmet: slotTitle = "CHỌN NÓN"; equippedItemId = pet.helmetId; break;
+            case EquipmentSlot.Armor: slotTitle = "CHỌN ÁO"; equippedItemId = pet.armorId; break;
+            case EquipmentSlot.Weapon: slotTitle = "CHỌN VŨ KHÍ"; equippedItemId = pet.weaponId; break;
+            case EquipmentSlot.Boots: slotTitle = "CHỌN GIÀY"; equippedItemId = pet.bootsId; break;
+            case EquipmentSlot.Wings: slotTitle = "CHỌN CÁNH"; equippedItemId = pet.wingsId; break;
+            case EquipmentSlot.Amulet: slotTitle = "CHỌN BỘI"; equippedItemId = pet.amuletId; break;
+        }
+        slotTitleTxt.text = slotTitle;
+
+        // 2. Hiển thị Trang bị đang mặc
+        if (string.IsNullOrEmpty(equippedItemId))
+        {
+            equippedSection.SetActive(false);
+        }
+        else
+        {
+            equippedSection.SetActive(true);
+            var itemBase = InventoryManager.Instance.GetItemBaseByID(equippedItemId);
+            if (itemBase != null)
+            {
+                equippedIcon.sprite = itemBase.icon;
+                equippedNameTxt.text = itemBase.itemName;
+                equippedStatsTxt.text = GetStatsString(itemBase);
+            }
+        }
+
+        // 3. Hiển thị danh sách trang bị tương thích trong kho + trang bị của Pet khác
+        foreach (Transform child in listContainer)
+        {
+            Destroy(child.gameObject);
+        }
+
+        var myPets = await PetManager.Instance.GetMyPets();
+        var inventory = await InventoryManager.Instance.GetMyInventory();
+        List<SelectionItemData> allOptions = new List<SelectionItemData>();
+
+        // A. Thêm các trang bị rảnh rỗi trong túi đồ (Không có Pet nào sử dụng)
+        foreach (var invItem in inventory)
+        {
+            var baseInfo = InventoryManager.Instance.GetItemBaseByID(invItem.itemId);
+            if (baseInfo != null && baseInfo.type == ItemType.Equipment && baseInfo.equipSlot == currentSlot)
+            {
+                allOptions.Add(new SelectionItemData
+                {
+                    itemBase = baseInfo,
+                    quantity = invItem.quantity,
+                    equippedPetName = "Không"
+                });
+            }
+        }
+
+        // B. Thêm các trang bị đang được mặc bởi các Pet KHÁC
+        foreach (var otherPet in myPets)
+        {
+            if (otherPet.id == pet.id) continue; // Bỏ qua chính Pet đang chọn
+
+            string otherEquipId = "";
+            switch (currentSlot)
+            {
+                case EquipmentSlot.Helmet: otherEquipId = otherPet.helmetId; break;
+                case EquipmentSlot.Armor: otherEquipId = otherPet.armorId; break;
+                case EquipmentSlot.Weapon: otherEquipId = otherPet.weaponId; break;
+                case EquipmentSlot.Boots: otherEquipId = otherPet.bootsId; break;
+                case EquipmentSlot.Wings: otherEquipId = otherPet.wingsId; break;
+                case EquipmentSlot.Amulet: otherEquipId = otherPet.amuletId; break;
+            }
+
+            if (!string.IsNullOrEmpty(otherEquipId))
+            {
+                var baseInfo = InventoryManager.Instance.GetItemBaseByID(otherEquipId);
+                if (baseInfo != null)
+                {
+                    allOptions.Add(new SelectionItemData
+                    {
+                        itemBase = baseInfo,
+                        quantity = 1,
+                        equippedPetName = otherPet.petName
+                    });
+                }
+            }
+        }
+
+        // Sinh ra các ô trang bị lựa chọn
+        foreach (var option in allOptions)
+        {
+            GameObject newItem = Instantiate(selectionItemPrefab, listContainer);
+            if (newItem.TryGetComponent<PetEquipmentSelectionItemUI>(out var itemUI))
+            {
+                itemUI.Setup(option.itemBase, option.quantity, option.equippedPetName, async () => {
+                    await InventoryManager.Instance.EquipEquipment(pet.id, currentSlot, option.itemBase.itemID);
+                    _ = RefreshUI();
+                    if (PetEquipmentUI.Instance != null) PetEquipmentUI.Instance.RefreshUI();
+                });
+            }
+        }
+    }
+
+    private async void OnUnequipClicked()
+    {
+        var pet = PetManager.Instance.CurrentPet;
+        if (pet == null) return;
+
+        await InventoryManager.Instance.UnequipEquipment(pet.id, currentSlot);
+        _ = RefreshUI();
+        if (PetEquipmentUI.Instance != null) PetEquipmentUI.Instance.RefreshUI();
+    }
+
+    public static string GetStatsString(ItemBaseSO item)
+    {
+        var parts = new List<string>();
+        if (item.bonusHP > 0) parts.Add($"+{item.bonusHP} HP");
+        if (item.bonusAtkPhy > 0) parts.Add($"+{item.bonusAtkPhy} ATK Vật Lý");
+        if (item.bonusAtkMag > 0) parts.Add($"+{item.bonusAtkMag} ATK Phép");
+        if (item.bonusDefPhy > 0) parts.Add($"+{item.bonusDefPhy} Giáp Vật Lý");
+        if (item.bonusDefMag > 0) parts.Add($"+{item.bonusDefMag} Kháng Phép");
+        if (item.bonusSpeed > 0) parts.Add($"+{item.bonusSpeed} Tốc Độ");
+
+        if (item.percentHP > 0) parts.Add($"+{item.percentHP * 100}% HP");
+        if (item.percentAtk > 0) parts.Add($"+{item.percentAtk * 100}% ATK");
+        if (item.percentSpeed > 0) parts.Add($"+{item.percentSpeed * 100}% Tốc Độ");
+
+        return string.Join("\n", parts);
+    }
+}
+
+public class SelectionItemData
+{
+    public ItemBaseSO itemBase;
+    public int quantity;
+    public string equippedPetName;
+}

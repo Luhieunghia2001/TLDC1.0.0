@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58c8cf54150556e428d14b6648bcacd5, type: 3}
+  m_Name: non 1
+  m_EditorClassIdentifier: Assembly-CSharp::ItemBaseSO
+  itemID: E1
+  itemName: "n\xF3n 1"
+  type: 2
+  icon: {fileID: -7355215197927332726, guid: 23e33bf6108bcf141b0f7d51b1b7cfab, type: 3}
+  description: "n\xF3n 1"
+  value: 0
+  sellPrice: 1
+  equipSlot: 1
+  bonusHP: 1
+  bonusAtkPhy: 1
+  bonusAtkMag: 1
+  bonusDefPhy: 1
+  bonusDefMag: 1
+  bonusSpeed: 1
+  percentHP: 1
+  percentAtk: 1
+  percentSpeed: 1

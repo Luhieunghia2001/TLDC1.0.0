@@ -44,8 +44,18 @@ public class InventoryTest : MonoBehaviour
 
         if (InventoryManager.Instance != null)
         {
+            var itemBase = InventoryManager.Instance.GetItemBaseByID(itemID);
+            if (itemBase == null)
+            {
+                Debug.LogWarning($"<color=orange>[UI Test]</color> Cảnh báo: ID '{itemID}' chưa được đăng ký trong ScriptableObject Database của InventoryManager! Bạn vẫn có thể thêm lên Database nhưng Unity sẽ không hiển thị được.");
+            }
+            else if (itemBase.type == ItemType.Equipment)
+            {
+                Debug.Log($"<color=cyan>[UI Test]</color> Phát hiện đây là Trang bị: {itemBase.itemName} (Vị trí: {itemBase.equipSlot})");
+            }
+
             await InventoryManager.Instance.AddItem(itemID, qty);
-            Debug.Log("<color=green>[UI Test]</color> Thành công!");
+            Debug.Log("<color=green>[UI Test]</color> Thêm vật phẩm thành công!");
         }
         else
         {
@@ -107,6 +117,26 @@ public class InventoryTest : MonoBehaviour
             {
                 Debug.Log($"- {item.itemId}: {item.quantity}");
             }
+        }
+    }
+
+    [ContextMenu("Add Test Equipment Set")]
+    public async void AddTestEquipmentSet()
+    {
+        if (InventoryManager.Instance != null)
+        {
+            string[] testIds = new string[] { "helmet_01", "armor_01", "weapon_01", "boots_01", "wings_01", "amulet_01" };
+            Debug.Log("<color=cyan>[UI Test]</color> Đang thêm bộ 6 trang bị test (helmet_01 -> amulet_01)...");
+            foreach (var id in testIds)
+            {
+                var itemBase = InventoryManager.Instance.GetItemBaseByID(id);
+                if (itemBase == null)
+                {
+                    Debug.LogWarning($"<color=orange>[UI Test]</color> Cảnh báo: Trang bị test '{id}' chưa được cấu hình SO trong InventoryManager!");
+                }
+                await InventoryManager.Instance.AddItem(id, 1);
+            }
+            Debug.Log("<color=green>[UI Test]</color> Đã thêm xong bộ trang bị test lên Database!");
         }
     }
 }

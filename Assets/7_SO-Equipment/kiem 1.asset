@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58c8cf54150556e428d14b6648bcacd5, type: 3}
+  m_Name: kiem 1
+  m_EditorClassIdentifier: Assembly-CSharp::ItemBaseSO
+  itemID: E2
+  itemName: "Ki\u1EBFm 1"
+  type: 2
+  icon: {fileID: -1638179556060190263, guid: 27ff318951c69064f8f47d8bf61c772b, type: 3}
+  description: "n\xF3n 1"
+  value: 0
+  sellPrice: 1
+  equipSlot: 3
+  bonusHP: 1
+  bonusAtkPhy: 1
+  bonusAtkMag: 1
+  bonusDefPhy: 1
+  bonusDefMag: 1
+  bonusSpeed: 1
+  percentHP: 1
+  percentAtk: 1
+  percentSpeed: 1

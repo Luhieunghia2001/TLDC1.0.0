@@ -62,10 +62,51 @@ public static class PetStatsCalculator
             }
         }
 
-        // 4. GEAR STATS: (Dành cho tương lai khi làm Trang Bị)
-        // Lấy danh sách trang bị của Pet này từ Database
-        // Quét vòng lặp qua từng món đồ và cộng thêm
-        // hp = (hp * Tổng_Percent_HP_TrangBị) + Tổng_Flat_HP_TrangBị;
+        // 4. GEAR STATS: Tính chỉ số trang bị
+        int flatHP = 0;
+        int flatAtkPhy = 0;
+        int flatAtkMag = 0;
+        int flatDefPhy = 0;
+        int flatDefMag = 0;
+        int flatSpeed = 0;
+
+        float pctHP = 0f;
+        float pctAtk = 0f;
+        float pctSpeed = 0f;
+
+        System.Action<string> applyEquip = (itemId) =>
+        {
+            if (string.IsNullOrEmpty(itemId)) return;
+            ItemBaseSO item = InventoryManager.Instance.GetItemBaseByID(itemId);
+            if (item == null) return;
+
+            flatHP += item.bonusHP;
+            flatAtkPhy += item.bonusAtkPhy;
+            flatAtkMag += item.bonusAtkMag;
+            flatDefPhy += item.bonusDefPhy;
+            flatDefMag += item.bonusDefMag;
+            flatSpeed += item.bonusSpeed;
+
+            pctHP += item.percentHP;
+            pctAtk += item.percentAtk;
+            pctSpeed += item.percentSpeed;
+        };
+
+        applyEquip(pet.helmetId);
+        applyEquip(pet.armorId);
+        applyEquip(pet.weaponId);
+        applyEquip(pet.bootsId);
+        applyEquip(pet.wingsId);
+        applyEquip(pet.amuletId);
+
+        // Áp dụng chỉ số cộng thêm từ trang bị theo chuẩn RPG chuyên nghiệp (miHoYo, Blizzard, Epic Seven...)
+        // Chỉ số % chỉ nhân vào Chỉ số gốc (Base Stats), sau đó mới cộng chỉ số Flat (Flat Stats)
+        hp = (hp * (1f + pctHP)) + flatHP;
+        atkP = (atkP * (1f + pctAtk)) + flatAtkPhy;
+        atkM = (atkM * (1f + pctAtk)) + flatAtkMag;
+        defP = defP + flatDefPhy;
+        defM = defM + flatDefMag;
+        spd = (spd * (1f + pctSpeed)) + flatSpeed;
 
         // Lưu kết quả cuối cùng
         stats.HP = Mathf.RoundToInt(hp);

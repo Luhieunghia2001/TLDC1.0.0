@@ -204,4 +204,67 @@ public class InventoryManager : MonoBehaviour
         }
         if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
     }
+
+    public async Task EquipEquipment(string petID, EquipmentSlot slot, string itemID)
+    {
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        try
+        {
+            string slotStr = slot.ToString().ToLower();
+            var parameters = new Dictionary<string, object>
+            {
+                { "p_pet_id", petID },
+                { "p_slot", slotStr },
+                { "p_item_id", itemID }
+            };
+
+            await SupabaseManager.Instance.Client.Rpc("equip_pet_item", parameters);
+            Debug.Log($"Trang bị thành công {itemID} vào vị trí {slotStr}!");
+
+            // Refresh UI
+            if (PetListController.Instance != null) PetListController.Instance.RefreshPetList();
+            if (InventoryUIController.Instance != null) InventoryUIController.Instance.RefreshInventory();
+            
+            // Force fetch myPets to update global state
+            var myPets = await PetManager.Instance.GetMyPets();
+            var latestPet = myPets.Find(x => x.id == petID);
+            if (latestPet != null) PetManager.Instance.NotifyPetStatsUpdated(latestPet);
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Lỗi khi mặc trang bị: \n" + e.ToString());
+        }
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+    }
+
+    public async Task UnequipEquipment(string petID, EquipmentSlot slot)
+    {
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
+        try
+        {
+            string slotStr = slot.ToString().ToLower();
+            var parameters = new Dictionary<string, object>
+            {
+                { "p_pet_id", petID },
+                { "p_slot", slotStr }
+            };
+
+            await SupabaseManager.Instance.Client.Rpc("unequip_pet_item", parameters);
+            Debug.Log($"Tháo trang bị thành công tại vị trí {slotStr}!");
+
+            // Refresh UI
+            if (PetListController.Instance != null) PetListController.Instance.RefreshPetList();
+            if (InventoryUIController.Instance != null) InventoryUIController.Instance.RefreshInventory();
+            
+            // Force fetch myPets to update global state
+            var myPets = await PetManager.Instance.GetMyPets();
+            var latestPet = myPets.Find(x => x.id == petID);
+            if (latestPet != null) PetManager.Instance.NotifyPetStatsUpdated(latestPet);
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Lỗi khi tháo trang bị: \n" + e.ToString());
+        }
+        if (LoadingUI.Instance != null) LoadingUI.Instance.Hide();
+    }
 }
