@@ -77,7 +77,6 @@ public class InventoryManager : MonoBehaviour
             }
             
             templateCache = response.Models.ToDictionary(x => x.id.Trim(), x => x, System.StringComparer.OrdinalIgnoreCase);
-            Debug.Log($"<color=green>[Inventory]</color> Đã tải {templateCache.Count} template trang bị từ CSDL.");
         }
         catch (System.Exception e)
         {
@@ -115,7 +114,6 @@ public class InventoryManager : MonoBehaviour
             };
 
             await SupabaseManager.Instance.Client.Rpc("add_item", parameters);
-            Debug.Log($"Đã thêm {qty} vật phẩm {itemID} vào kho!");
             
             // Cập nhật lại UI Kho đồ nếu đang mở
             if (InventoryUIController.Instance != null) InventoryUIController.Instance.RefreshInventory();
@@ -141,7 +139,6 @@ public class InventoryManager : MonoBehaviour
             };
 
             await SupabaseManager.Instance.Client.Rpc("use_pet_exp_potion_secure", parameters);
-            Debug.Log($"Sử dụng thành công {potion.itemName} cho Pet!");
             
             // Cập nhật lại UI Pet, UI Kho đồ và UI Nâng cấp
             if (PetListController.Instance != null) PetListController.Instance.RefreshPetList();
@@ -169,7 +166,6 @@ public class InventoryManager : MonoBehaviour
             };
 
             await SupabaseManager.Instance.Client.Rpc("sell_item_secure", parameters);
-            Debug.Log($"Đã gửi lệnh bán {qty} vật phẩm lên Server!");
             
             // Cập nhật lại UI Kho đồ
             if (InventoryUIController.Instance != null) InventoryUIController.Instance.RefreshInventory();
@@ -205,7 +201,6 @@ public class InventoryManager : MonoBehaviour
             };
 
             await SupabaseManager.Instance.Client.Rpc("pet_star_up", parameters);
-            Debug.Log("Thăng Sao Thành Công!");
             
             // Cập nhật lại UI
             if (PetListController.Instance != null) PetListController.Instance.RefreshPetList();
@@ -246,7 +241,6 @@ public class InventoryManager : MonoBehaviour
             };
 
             await SupabaseManager.Instance.Client.Rpc("pet_realm_up", parameters);
-            Debug.Log("Thăng Tầng Thành Công!");
             
             // Cập nhật lại UI
             if (PetListController.Instance != null) PetListController.Instance.RefreshPetList();
@@ -279,7 +273,6 @@ public class InventoryManager : MonoBehaviour
             };
 
             await SupabaseManager.Instance.Client.Rpc("equip_pet_item", parameters);
-            Debug.Log($"Trang bị thành công inventory item {inventoryId} vào vị trí {slotStr}!");
 
             // Refresh UI
             if (PetListController.Instance != null) PetListController.Instance.RefreshPetList();
@@ -310,7 +303,6 @@ public class InventoryManager : MonoBehaviour
             };
 
             await SupabaseManager.Instance.Client.Rpc("unequip_pet_item", parameters);
-            Debug.Log($"Tháo trang bị thành công tại vị trí {slotStr}!");
 
             // Refresh UI
             if (PetListController.Instance != null) PetListController.Instance.RefreshPetList();
@@ -344,7 +336,6 @@ public class InventoryManager : MonoBehaviour
             };
 
             await SupabaseManager.Instance.Client.Rpc("enhance_equipment", parameters);
-            Debug.Log($"Cường hóa trang bị {itemID} thành công!");
             
             // Cập nhật lại UI Kho đồ
             if (InventoryUIController.Instance != null) InventoryUIController.Instance.RefreshInventory();

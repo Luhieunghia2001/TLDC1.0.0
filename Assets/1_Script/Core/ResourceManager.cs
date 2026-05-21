@@ -62,11 +62,6 @@ public class ResourceManager : MonoBehaviour
             {
                 var serverData = response[0]; // Lấy phần tử đầu tiên trong danh sách
 
-                // Log kiểm tra dữ liệu trả về từ RPC sync_resources
-                Debug.Log($"<color=yellow>[ResourceManager Sync]</color> Server trả về cho ID {serverData.id}: " +
-                          $"EXP={serverData.current_exp}, Level={serverData.level}, Gold={serverData.gold}, " +
-                          $"Stamina={serverData.stamina}");
-
                 // Cập nhật dữ liệu từ Server về Client
                 currentCharacter.energy = serverData.energy;
                 currentCharacter.stamina = serverData.stamina;
@@ -78,8 +73,6 @@ public class ResourceManager : MonoBehaviour
 
                 // Kích hoạt sự kiện để các UI khác có thể cập nhật
                 OnCharacterDataUpdated?.Invoke(currentCharacter);
-                
-                //Debug.Log($"<color=yellow>[Server Sync]</color> Gold: {currentCharacter.gold}, Energy: {currentCharacter.energy}");
             }
         }
         catch (Exception e)
@@ -93,8 +86,6 @@ public class ResourceManager : MonoBehaviour
     {
         if (currentCharacter == null || string.IsNullOrEmpty(battleLogId)) return;
 
-        Debug.Log($"<color=cyan>[REWARD]</color> Char: {currentCharacter.id} | Battle: {battleLogId}");
-
         if (LoadingUI.Instance != null) LoadingUI.Instance.Show();
         try
         {
@@ -106,7 +97,6 @@ public class ResourceManager : MonoBehaviour
 
             // Gọi hàm claim_reward trên server để kiểm tra và cộng tiền
             await SupabaseManager.Instance.Client.Rpc("claim_reward", parameters);
-            Debug.Log("<color=green>Nhận thưởng thành công từ Server!</color>");
             
             // Sau khi nhận thưởng, đồng bộ lại dữ liệu mới nhất
             await SyncWithServer();
