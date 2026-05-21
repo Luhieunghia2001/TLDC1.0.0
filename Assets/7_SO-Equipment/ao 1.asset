@@ -20,6 +20,7 @@ MonoBehaviour:
   value: 0
   sellPrice: 1
   equipSlot: 2
+  tier: 1
   bonusHP: 1
   bonusAtkPhy: 1
   bonusAtkMag: 1

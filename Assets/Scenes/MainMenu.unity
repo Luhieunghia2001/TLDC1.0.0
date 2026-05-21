@@ -2149,7 +2149,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: cd259c00a78f7664998917014ee6e5be, type: 2}
   tierSprites:
   - {fileID: 788732826013815591, guid: 1a014f49a88932248adbe894f701a58a, type: 3}
-  - {fileID: 788732826013815591, guid: 1a014f49a88932248adbe894f701a58a, type: 3}
   - {fileID: -5185337000372085048, guid: d6f6a339cdbe64e419f94457d88f709f, type: 3}
   - {fileID: 9118420093901451896, guid: 30e241c93f861ee419d26e73ffe9d5a1, type: 3}
   - {fileID: -6358166297096010211, guid: 9e8b847f755c5154c85a0c0cc1ad77f0, type: 3}

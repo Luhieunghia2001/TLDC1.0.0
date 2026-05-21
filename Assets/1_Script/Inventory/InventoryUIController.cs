@@ -61,8 +61,20 @@ public class InventoryUIController : MonoBehaviour
             // Nếu vật phẩm khớp với Tab đang chọn và có BaseInfo thì mới hiện
             if (baseInfo != null && baseInfo.type == currentTab)
             {
-                GameObject newItem = Instantiate(itemPrefab, contentContainer);
-                newItem.GetComponent<InventoryUIItem>().Setup(item);
+                if (currentTab == ItemType.Equipment)
+                {
+                    // Đối với trang bị: Sinh ra nhiều ô độc lập tương ứng với số lượng trong kho
+                    for (int i = 0; i < item.quantity; i++)
+                    {
+                        GameObject newItem = Instantiate(itemPrefab, contentContainer);
+                        newItem.GetComponent<InventoryUIItem>().Setup(item);
+                    }
+                }
+                else
+                {
+                    GameObject newItem = Instantiate(itemPrefab, contentContainer);
+                    newItem.GetComponent<InventoryUIItem>().Setup(item);
+                }
             }
         }
     }

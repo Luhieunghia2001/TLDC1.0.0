@@ -131,12 +131,16 @@ public class PetEquipmentSelectionUI : MonoBehaviour
             var baseInfo = InventoryManager.Instance.GetItemBaseByID(invItem.itemId);
             if (baseInfo != null && baseInfo.type == ItemType.Equipment && baseInfo.equipSlot == currentSlot)
             {
-                allOptions.Add(new SelectionItemData
+                // Chia nhỏ trang bị có số lượng > 1 thành các lựa chọn độc lập (không cộng dồn)
+                for (int i = 0; i < invItem.quantity; i++)
                 {
-                    itemBase = baseInfo,
-                    quantity = invItem.quantity,
-                    equippedPetName = "Không"
-                });
+                    allOptions.Add(new SelectionItemData
+                    {
+                        itemBase = baseInfo,
+                        quantity = 1,
+                        equippedPetName = "Không"
+                    });
+                }
             }
         }
 

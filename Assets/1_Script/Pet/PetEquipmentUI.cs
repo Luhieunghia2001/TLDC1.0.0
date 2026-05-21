@@ -97,9 +97,8 @@ public class PetEquipmentUI : MonoBehaviour
         if (string.IsNullOrEmpty(itemId))
         {
             iconImage.sprite = defaultSprite;
-            // Cho icon hơi mờ/trong suốt nếu trống
             var color = iconImage.color;
-            color.a = 0.5f;
+            color.a = 1.0f; // Giữ nguyên độ rõ nét cho icon mặc định
             iconImage.color = color;
 
             if (tierImage != null)
@@ -142,7 +141,7 @@ public class PetEquipmentUI : MonoBehaviour
             {
                 iconImage.sprite = defaultSprite;
                 var color = iconImage.color;
-                color.a = 0.5f;
+                color.a = 1.0f; // Giữ nguyên độ rõ nét cho icon mặc định
                 iconImage.color = color;
 
                 if (tierImage != null)

@@ -20,7 +20,20 @@ public class InventoryUIItem : MonoBehaviour
         if (baseInfo != null)
         {
             iconImg.sprite = baseInfo.icon;
-            quantityTxt.text = itemData.quantity.ToString();
+            
+            // Nếu là trang bị, ẩn Text hiển thị số lượng đi
+            if (quantityTxt != null)
+            {
+                if (baseInfo.type == ItemType.Equipment)
+                {
+                    quantityTxt.gameObject.SetActive(false);
+                }
+                else
+                {
+                    quantityTxt.gameObject.SetActive(true);
+                    quantityTxt.text = itemData.quantity.ToString();
+                }
+            }
 
             if (tierImg != null)
             {

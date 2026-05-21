@@ -6,19 +6,13 @@ public class SkillDescriptionPanel : MonoBehaviour
 {
     [Header("UI References")]
     [SerializeField] private Image iconImg;
+    [SerializeField] private Image tierImg; // Hiển thị khung/nhãn Tier của Skill
     [SerializeField] private TextMeshProUGUI skillNameText;
-    [SerializeField] private TextMeshProUGUI tierText;
     [SerializeField] private TextMeshProUGUI descriptionText;
     [SerializeField] private TextMeshProUGUI statsText;
 
-    [Header("Tier Colors")]
-    [SerializeField] private Color tierDColor = Color.gray;
-    [SerializeField] private Color tierCColor = Color.white;
-    [SerializeField] private Color tierBColor = new Color(0.3f, 0.6f, 1f);
-    [SerializeField] private Color tierAColor = new Color(0.3f, 1f, 0.5f);
-    [SerializeField] private Color tierSColor = new Color(1f, 0.8f, 0.2f);
-    [SerializeField] private Color tierSSColor = new Color(1f, 0.4f, 0.4f);
-    [SerializeField] private Color tierSSSColor = new Color(1f, 0.2f, 0.8f);
+    [Header("Sprites Database")]
+    [SerializeField] private Sprite[] tierSprites; // Mảng chứa Sprite Tier từ D đến SSS (7 phần tử)
 
     private PetSkillSO currentSkill;
 
@@ -45,12 +39,8 @@ public class SkillDescriptionPanel : MonoBehaviour
             skillNameText.text = skill.skillName;
         }
 
-        // Hiển thị tier
-        if (tierText != null)
-        {
-            tierText.text = skill.tier.ToString();
-            tierText.color = GetTierColor(skill.tier);
-        }
+        // Hiển thị tier bằng Image
+        SetTierImage(skill.tier);
 
         // Hiển thị mô tả động
         if (descriptionText != null)
@@ -62,6 +52,23 @@ public class SkillDescriptionPanel : MonoBehaviour
         if (statsText != null)
         {
             statsText.text = GenerateStatsText(skill);
+        }
+    }
+
+    private void SetTierImage(SkillTier tier)
+    {
+        if (tierImg == null) return;
+
+        if (tierSprites != null && tierSprites.Length > 0)
+        {
+            int index = (int)tier;
+            index = Mathf.Clamp(index, 0, tierSprites.Length - 1);
+            tierImg.gameObject.SetActive(true);
+            tierImg.sprite = tierSprites[index];
+        }
+        else
+        {
+            tierImg.gameObject.SetActive(false);
         }
     }
 
@@ -106,26 +113,11 @@ public class SkillDescriptionPanel : MonoBehaviour
         return stats.Trim();
     }
 
-    private Color GetTierColor(SkillTier tier)
-    {
-        switch (tier)
-        {
-            case SkillTier.D: return tierDColor;
-            case SkillTier.C: return tierCColor;
-            case SkillTier.B: return tierBColor;
-            case SkillTier.A: return tierAColor;
-            case SkillTier.S: return tierSColor;
-            case SkillTier.SS: return tierSSColor;
-            case SkillTier.SSS: return tierSSSColor;
-            default: return Color.white;
-        }
-    }
-
     private void ClearPanel()
     {
         if (iconImg != null) iconImg.enabled = false;
         if (skillNameText != null) skillNameText.text = "";
-        if (tierText != null) tierText.text = "";
+        if (tierImg != null) tierImg.gameObject.SetActive(false);
         if (descriptionText != null) descriptionText.text = "";
         if (statsText != null) statsText.text = "";
     }
@@ -150,3 +142,4 @@ public class SkillDescriptionPanel : MonoBehaviour
     }
 #endif
 }
+
