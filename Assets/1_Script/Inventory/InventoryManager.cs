@@ -58,14 +58,6 @@ public class InventoryManager : MonoBehaviour
         // Sử dụng Trim() và so sánh an toàn để tránh lỗi ID có khoảng trắng hoặc sai hoa thường
         string cleanId = id.Trim();
         templateCache.TryGetValue(cleanId, out var template);
-        if (template == null)
-        {
-            Debug.LogWarning($"<color=red>[Inventory]</color> GetItemTemplateByID: Không tìm thấy template cho ID '{cleanId}' trong cache. Cache hiện có {templateCache.Count} mục.");
-        }
-        else
-        {
-            Debug.Log($"<color=green>[Inventory]</color> GetItemTemplateByID: Tìm thấy template cho ID '{cleanId}'.");
-        }
         return template;
     }
 
@@ -84,18 +76,8 @@ public class InventoryManager : MonoBehaviour
                 return;
             }
             
-            // Log raw IDs từ database trước khi xử lý
-            foreach (var model in response.Models)
-            {
-                Debug.Log($"<color=blue>[Inventory]</color> Raw DB Item ID: '{model.id}' (Length: {model.id.Length})");
-            }
-
             templateCache = response.Models.ToDictionary(x => x.id.Trim(), x => x, System.StringComparer.OrdinalIgnoreCase);
             Debug.Log($"<color=green>[Inventory]</color> Đã tải {templateCache.Count} template trang bị từ CSDL.");
-            foreach (var entry in templateCache)
-            {
-                Debug.Log($"<color=green>[Inventory]</color> Loaded Template ID: '{entry.Key}'");
-            }
         }
         catch (System.Exception e)
         {

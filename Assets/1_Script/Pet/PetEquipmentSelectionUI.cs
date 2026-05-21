@@ -131,7 +131,6 @@ public class PetEquipmentSelectionUI : MonoBehaviour
 
         var myPets = await PetManager.Instance.GetMyPets();
         var inventory = await InventoryManager.Instance.GetMyInventory();
-        Debug.Log($"<color=cyan>[SelectionUI]</color> Tổng đồ trong kho: {inventory.Count}. Đang lọc cho slot: {currentSlot}");
 
         List<SelectionItemData> allOptions = new List<SelectionItemData>();
 
@@ -145,10 +144,6 @@ public class PetEquipmentSelectionUI : MonoBehaviour
                 continue;
 
             var template = InventoryManager.Instance.GetItemTemplateByID(invItem.itemId);
-
-            // Lúc này mới Warning nếu tìm thấy SO nhưng không thấy Template trong DB
-            if (template == null) 
-                Debug.LogWarning($"[SelectionUI] Item {invItem.itemId} là Trang bị nhưng không tìm thấy Template trong DB! Hãy kiểm tra bảng item_templates.");
 
             // Vẫn thêm vào danh sách hiển thị dù template null
             for (int i = 0; i < invItem.quantity; i++)
