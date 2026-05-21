@@ -59,6 +59,9 @@ public class PetEquipmentSelectionUI : MonoBehaviour
 
     public async Task RefreshUI()
     {
+        // Đợi nạp xong templates từ CSDL trước khi xử lý logic bên dưới
+        await InventoryManager.Instance.LoadTask;
+
         var pet = PetManager.Instance.CurrentPet;
         if (pet == null) return;
 
@@ -86,17 +89,22 @@ public class PetEquipmentSelectionUI : MonoBehaviour
         {
             equippedSection.SetActive(true);
             var itemBase = InventoryManager.Instance.GetItemBaseByID(equippedItemId);
+            var itemTemplate = InventoryManager.Instance.GetItemTemplateByID(equippedItemId);
             if (itemBase != null)
             {
                 equippedIcon.sprite = itemBase.icon;
-                equippedNameTxt.text = itemBase.itemName;
-                equippedStatsTxt.text = GetStatsString(itemBase);
+                equippedNameTxt.text = itemTemplate != null ? itemTemplate.name : itemBase.itemName;
+                equippedStatsTxt.text = GetStatsString(itemTemplate);
 
                 if (equippedTierImg != null)
                 {
                     if (InventoryManager.Instance != null)
                     {
-                        Sprite s = InventoryManager.Instance.GetTierSprite(itemBase.tier);
+                        PetTier tierEnum = PetTier.D;
+                        if (itemTemplate != null) System.Enum.TryParse(itemTemplate.tier, true, out tierEnum);
+                        else tierEnum = itemBase.tier;
+
+                        Sprite s = InventoryManager.Instance.GetTierSprite(tierEnum);
                         if (s != null)
                         {
                             equippedTierImg.gameObject.SetActive(true);
@@ -123,26 +131,37 @@ public class PetEquipmentSelectionUI : MonoBehaviour
 
         var myPets = await PetManager.Instance.GetMyPets();
         var inventory = await InventoryManager.Instance.GetMyInventory();
+        Debug.Log($"<color=cyan>[SelectionUI]</color> Tổng đồ trong kho: {inventory.Count}. Đang lọc cho slot: {currentSlot}");
+
         List<SelectionItemData> allOptions = new List<SelectionItemData>();
 
         // A. Thêm các trang bị rảnh rỗi trong túi đồ (Không có Pet nào sử dụng)
         foreach (var invItem in inventory)
         {
             var baseInfo = InventoryManager.Instance.GetItemBaseByID(invItem.itemId);
-            if (baseInfo != null && baseInfo.type == ItemType.Equipment && baseInfo.equipSlot == currentSlot)
+            
+            // Chỉ xử lý nếu là Trang bị và đúng Slot
+            if (baseInfo == null || baseInfo.type != ItemType.Equipment || baseInfo.equipSlot != currentSlot)
+                continue;
+
+            var template = InventoryManager.Instance.GetItemTemplateByID(invItem.itemId);
+
+            // Lúc này mới Warning nếu tìm thấy SO nhưng không thấy Template trong DB
+            if (template == null) 
+                Debug.LogWarning($"[SelectionUI] Item {invItem.itemId} là Trang bị nhưng không tìm thấy Template trong DB! Hãy kiểm tra bảng item_templates.");
+
+            // Vẫn thêm vào danh sách hiển thị dù template null
+            for (int i = 0; i < invItem.quantity; i++)
             {
-                // Chia nhỏ trang bị có số lượng > 1 thành các lựa chọn độc lập (không cộng dồn)
-                for (int i = 0; i < invItem.quantity; i++)
+                allOptions.Add(new SelectionItemData
                 {
-                    allOptions.Add(new SelectionItemData
-                    {
-                        inventoryId = invItem.id,
-                        itemBase = baseInfo,
-                        quantity = 1,
-                        enhancementLevel = invItem.enhancement_level,
-                        equippedPetName = "Không"
-                    });
-                }
+                    inventoryId = invItem.id,
+                    itemBase = baseInfo,
+                    itemTemplate = template,
+                    quantity = 1,
+                    enhancementLevel = invItem.enhancement_level,
+                    equippedPetName = "Không"
+                });
             }
         }
 
@@ -165,11 +184,13 @@ public class PetEquipmentSelectionUI : MonoBehaviour
             if (!string.IsNullOrEmpty(otherEquipId))
             {
                 var baseInfo = InventoryManager.Instance.GetItemBaseByID(otherEquipId);
+                var template = InventoryManager.Instance.GetItemTemplateByID(otherEquipId);
                 if (baseInfo != null)
                 {
                     allOptions.Add(new SelectionItemData
                     {
                         itemBase = baseInfo,
+                        itemTemplate = template,
                         quantity = 1,
                         equippedPetName = otherPet.petName
                     });
@@ -183,7 +204,7 @@ public class PetEquipmentSelectionUI : MonoBehaviour
             GameObject newItem = Instantiate(selectionItemPrefab, listContainer);
             if (newItem.TryGetComponent<PetEquipmentSelectionItemUI>(out var itemUI))
             {
-                itemUI.Setup(option.itemBase, option.quantity, option.equippedPetName, async () => {
+                itemUI.Setup(option.itemBase, option.itemTemplate, option.quantity, option.equippedPetName, async () => {
                     if (string.IsNullOrEmpty(option.inventoryId)) return;
                     await InventoryManager.Instance.EquipEquipment(pet.id, currentSlot, option.inventoryId);
                     _ = RefreshUI();
@@ -203,19 +224,21 @@ public class PetEquipmentSelectionUI : MonoBehaviour
         if (PetEquipmentUI.Instance != null) PetEquipmentUI.Instance.RefreshUI();
     }
 
-    public static string GetStatsString(ItemBaseSO item)
+    public static string GetStatsString(ItemTemplateModel item)
     {
+        if (item == null) return "<color=red>Chưa có chỉ số trong CSDL</color>";
+
         var parts = new List<string>();
         if (item.bonusHP > 0) parts.Add($"+{item.bonusHP} HP");
-        if (item.bonusAtkPhy > 0) parts.Add($"+{item.bonusAtkPhy} ATK Vật Lý");
-        if (item.bonusAtkMag > 0) parts.Add($"+{item.bonusAtkMag} ATK Phép");
-        if (item.bonusDefPhy > 0) parts.Add($"+{item.bonusDefPhy} Giáp Vật Lý");
-        if (item.bonusDefMag > 0) parts.Add($"+{item.bonusDefMag} Kháng Phép");
+        if (item.bonusAtkPhy > 0) parts.Add($"+{item.bonusAtkPhy} Công Vật Lý");
+        if (item.bonusAtkMag > 0) parts.Add($"+{item.bonusAtkMag} Công Ma Pháp");
+        if (item.bonusDefPhy > 0) parts.Add($"+{item.bonusDefPhy} Thủ Vật Lý");
+        if (item.bonusDefMag > 0) parts.Add($"+{item.bonusDefMag} Thủ Ma Pháp");
         if (item.bonusSpeed > 0) parts.Add($"+{item.bonusSpeed} Tốc Độ");
 
-        if (item.percentHP > 0) parts.Add($"+{item.percentHP * 100}% HP");
-        if (item.percentAtk > 0) parts.Add($"+{item.percentAtk * 100}% ATK");
-        if (item.percentSpeed > 0) parts.Add($"+{item.percentSpeed * 100}% Tốc Độ");
+        if (item.percentHP > 0) parts.Add($"+{Mathf.RoundToInt(item.percentHP * 100)}% HP");
+        if (item.percentAtk > 0) parts.Add($"+{Mathf.RoundToInt(item.percentAtk * 100)}% ATK");
+        if (item.percentSpeed > 0) parts.Add($"+{Mathf.RoundToInt(item.percentSpeed * 100)}% Tốc Độ");
 
         return string.Join("\n", parts);
     }
@@ -225,6 +248,7 @@ public class SelectionItemData
 {
     public string inventoryId;
     public ItemBaseSO itemBase;
+    public ItemTemplateModel itemTemplate;
     public int quantity;
     public int enhancementLevel;
     public string equippedPetName;

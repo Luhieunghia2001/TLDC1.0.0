@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 public class InventoryManager : MonoBehaviour
@@ -8,6 +9,9 @@ public class InventoryManager : MonoBehaviour
 
     [Header("Item Database")]
     [SerializeField] private List<ItemBaseSO> allItems;
+
+    // Cache dữ liệu từ CSDL
+    private Dictionary<string, ItemTemplateModel> templateCache = new Dictionary<string, ItemTemplateModel>(System.StringComparer.OrdinalIgnoreCase);
 
     [Header("Tier Sprites Database")]
     [SerializeField] private Sprite[] tierSprites; // Mảng chứa Sprite Tier từ D đến SSS (7 phần tử)
@@ -30,10 +34,73 @@ public class InventoryManager : MonoBehaviour
         else Destroy(gameObject);
     }
 
+    private Task loadTemplatesTask = null;
+    // Property này đảm bảo tác vụ nạp template chỉ chạy 1 lần và có thể đợi từ bên ngoài
+    public Task LoadTask => loadTemplatesTask ??= LoadAllItemTemplates();
+
+    private async void Start()
+    {
+        // Kích hoạt nạp dữ liệu ngay khi bắt đầu game
+        await LoadTask;
+    }
+
     // Lấy thông tin mẫu của Item dựa trên ID
     public ItemBaseSO GetItemBaseByID(string id)
     {
         return allItems.Find(x => x.itemID == id);
+    }
+
+    // Lấy Stats từ Cache CSDL
+    public ItemTemplateModel GetItemTemplateByID(string id)
+    {
+        if (string.IsNullOrEmpty(id)) return null;
+        
+        // Sử dụng Trim() và so sánh an toàn để tránh lỗi ID có khoảng trắng hoặc sai hoa thường
+        string cleanId = id.Trim();
+        templateCache.TryGetValue(cleanId, out var template);
+        if (template == null)
+        {
+            Debug.LogWarning($"<color=red>[Inventory]</color> GetItemTemplateByID: Không tìm thấy template cho ID '{cleanId}' trong cache. Cache hiện có {templateCache.Count} mục.");
+        }
+        else
+        {
+            Debug.Log($"<color=green>[Inventory]</color> GetItemTemplateByID: Tìm thấy template cho ID '{cleanId}'.");
+        }
+        return template;
+    }
+
+    public async Task LoadAllItemTemplates()
+    {
+        try
+        {
+            var response = await SupabaseManager.Instance.Client
+                .From<ItemTemplateModel>()
+                .Get();
+            
+            if (response.Models == null || !response.Models.Any())
+            {
+                Debug.LogWarning("<color=red>[Inventory]</color> LoadAllItemTemplates: Không có template nào được tải từ CSDL. Kiểm tra bảng 'item_templates' trên Supabase.");
+                templateCache.Clear(); // Đảm bảo cache trống nếu không có gì để tải
+                return;
+            }
+            
+            // Log raw IDs từ database trước khi xử lý
+            foreach (var model in response.Models)
+            {
+                Debug.Log($"<color=blue>[Inventory]</color> Raw DB Item ID: '{model.id}' (Length: {model.id.Length})");
+            }
+
+            templateCache = response.Models.ToDictionary(x => x.id.Trim(), x => x, System.StringComparer.OrdinalIgnoreCase);
+            Debug.Log($"<color=green>[Inventory]</color> Đã tải {templateCache.Count} template trang bị từ CSDL.");
+            foreach (var entry in templateCache)
+            {
+                Debug.Log($"<color=green>[Inventory]</color> Loaded Template ID: '{entry.Key}'");
+            }
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError("Lỗi khi tải template: " + e.Message);
+        }
     }
 
     // Lấy toàn bộ kho đồ của người chơi

@@ -77,7 +77,9 @@ public static class PetStatsCalculator
         System.Action<string> applyEquip = (itemId) =>
         {
             if (string.IsNullOrEmpty(itemId)) return;
-            ItemBaseSO item = InventoryManager.Instance.GetItemBaseByID(itemId);
+            
+            // Lấy dữ liệu thực từ CSDL đã nạp vào Cache
+            var item = InventoryManager.Instance.GetItemTemplateByID(itemId);
             if (item == null) return;
 
             flatHP += item.bonusHP;

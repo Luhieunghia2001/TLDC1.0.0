@@ -10,14 +10,15 @@ public class PetEquipmentSelectionItemUI : MonoBehaviour
     [SerializeField] private TextMeshProUGUI equippedByTxt; // Sẽ hiện "Không" hoặc Tên Pet đang dùng
     [SerializeField] private Button actionBtn;
 
-    public void Setup(ItemBaseSO itemBase, int quantity, string equippedPetName, System.Action onActionClicked)
+    public void Setup(ItemBaseSO itemBase, ItemTemplateModel itemTemplate, int quantity, string equippedPetName, System.Action onActionClicked)
     {
         if (itemBase != null)
         {
             if (iconImg != null) iconImg.sprite = itemBase.icon;
-            if (nameTxt != null) nameTxt.text = itemBase.itemName + (quantity > 1 ? $" (x{quantity})" : "");
+            string displayName = itemTemplate != null ? itemTemplate.name : itemBase.itemName;
+            if (nameTxt != null) nameTxt.text = displayName + (quantity > 1 ? $" (x{quantity})" : "");
             
-            SetTierImage(itemBase);
+            SetTierImage(itemBase, itemTemplate);
 
             if (equippedByTxt != null)
             {
@@ -39,16 +40,19 @@ public class PetEquipmentSelectionItemUI : MonoBehaviour
         }
     }
 
-    private void SetTierImage(ItemBaseSO itemBase)
+    private void SetTierImage(ItemBaseSO itemBase, ItemTemplateModel itemTemplate)
     {
         if (tierImg == null) return;
 
-        if (itemBase != null && itemBase.type == ItemType.Equipment && InventoryManager.Instance != null)
+        if (itemBase != null && InventoryManager.Instance != null)
         {
-            Sprite s = InventoryManager.Instance.GetTierSprite(itemBase.tier);
+            PetTier tierEnum = PetTier.D;
+            if (itemTemplate != null) System.Enum.TryParse(itemTemplate.tier, true, out tierEnum);
+            else tierEnum = itemBase.tier;
+
+            Sprite s = InventoryManager.Instance.GetTierSprite(tierEnum);
             if (s != null)
             {
-                tierImg.gameObject.SetActive(true);
                 tierImg.sprite = s;
             }
             else
